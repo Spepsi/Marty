@@ -18,6 +18,7 @@ catalog = config['DATA']['CATALOG']
 dump = config['DATA']['WIKI']
 df = pd.read_csv(catalog, sep=";", encoding="CP1250")
 df = df[df['FORM'] == "painting"]
+df = df.iloc[:1060]
 df = df[['TITLE', 'AUTHOR']]
 # Pour chaque tableau on récupère la page wiki associée
 dict_ = recur_dictify(df[['AUTHOR', 'TITLE']])
@@ -57,3 +58,12 @@ try:
         f_.write(json.dumps(dict_, sort_keys=True, indent=4))
 except:
     from pdb import set_trace; set_trace()
+
+
+class JSONLabels:
+    labels_location = Config()['DATA']['JSON']
+    def __init__(self):
+        pass
+    def load(self,idx):
+        with(open(str(idx)+'.json'), 'r') as f_:
+            return json.load(f_)
