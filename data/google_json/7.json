@@ -1,0 +1,305 @@
+{
+  "responses": [
+    {
+      "logoAnnotations": [
+        {
+          "description": "The Deer Park",
+          "score": 0.9407963,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 9,
+                "y": 13
+              },
+              {
+                "x": 377,
+                "y": 13
+              },
+              {
+                "x": 377,
+                "y": 254
+              },
+              {
+                "x": 9,
+                "y": 254
+              }
+            ]
+          }
+        },
+        {
+          "description": "A Forest Glade",
+          "score": 0.9377473,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 13,
+                "y": 5
+              },
+              {
+                "x": 377,
+                "y": 5
+              },
+              {
+                "x": 377,
+                "y": 251
+              },
+              {
+                "x": 13,
+                "y": 251
+              }
+            ]
+          }
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/05fblh",
+          "description": "habitat",
+          "score": 0.9757203
+        },
+        {
+          "mid": "/m/07j7r",
+          "description": "tree",
+          "score": 0.918596
+        },
+        {
+          "mid": "/m/0hnc1",
+          "description": "woodland",
+          "score": 0.90615356
+        },
+        {
+          "mid": "/m/02zr8",
+          "description": "forest",
+          "score": 0.90201104
+        },
+        {
+          "mid": "/m/02py09",
+          "description": "natural environment",
+          "score": 0.8939418
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 169,
+                "green": 159,
+                "blue": 122
+              },
+              "score": 0.17601012,
+              "pixelFraction": 0.06470814
+            },
+            {
+              "color": {
+                "red": 172,
+                "green": 159,
+                "blue": 103
+              },
+              "score": 0.15553758,
+              "pixelFraction": 0.04406682
+            },
+            {
+              "color": {
+                "red": 198,
+                "green": 188,
+                "blue": 152
+              },
+              "score": 0.12802394,
+              "pixelFraction": 0.027553763
+            },
+            {
+              "color": {
+                "red": 128,
+                "green": 119,
+                "blue": 85
+              },
+              "score": 0.09331482,
+              "pixelFraction": 0.10387865
+            },
+            {
+              "color": {
+                "red": 134,
+                "green": 120,
+                "blue": 69
+              },
+              "score": 0.088393934,
+              "pixelFraction": 0.05251536
+            },
+            {
+              "color": {
+                "red": 199,
+                "green": 186,
+                "blue": 127
+              },
+              "score": 0.08556047,
+              "pixelFraction": 0.011328725
+            },
+            {
+              "color": {
+                "red": 95,
+                "green": 85,
+                "blue": 53
+              },
+              "score": 0.07660777,
+              "pixelFraction": 0.19287634
+            },
+            {
+              "color": {
+                "red": 100,
+                "green": 86,
+                "blue": 39
+              },
+              "score": 0.048894208,
+              "pixelFraction": 0.05453149
+            },
+            {
+              "color": {
+                "red": 153,
+                "green": 155,
+                "blue": 153
+              },
+              "score": 0.034939025,
+              "pixelFraction": 0.025537634
+            },
+            {
+              "color": {
+                "red": 122,
+                "green": 125,
+                "blue": 120
+              },
+              "score": 0.02134416,
+              "pixelFraction": 0.026497696
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 271
+                },
+                {
+                  "y": 271
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/09kx5",
+            "score": 0.94782,
+            "description": "Deer"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.74126,
+            "description": "Painting"
+          },
+          {
+            "entityId": "/g/120ph51m",
+            "score": 0.47485,
+            "description": "painting"
+          },
+          {
+            "entityId": "/m/02zr8",
+            "score": 0.41952,
+            "description": "Forest"
+          },
+          {
+            "entityId": "/m/0jjw",
+            "score": 0.417,
+            "description": "Art"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://aufdurchreisenet.files.wordpress.com/2016/12/aagaard_carl_frederic_-_the_deer_park.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/0c/49/fd/0c49fd65770f2f6671c4096621a56279.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Aagaard%2C_Carl_Frederic_-_The_Deer_Park.jpg"
+          },
+          {
+            "url": "http://i.imgur.com/XQGrKe6.jpg"
+          },
+          {
+            "url": "https://aufdurchreisenet.files.wordpress.com/2016/12/aagaard_carl_frederic_-_the_deer_park.jpg?w=1080"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://s019.radikal.ru/i601/1602/cb/38478e57e0cd.jpg"
+          },
+          {
+            "url": "http://image96.360doc.com/DownloadImg/2016/04/1912/70079909_3"
+          },
+          {
+            "url": "http://image99.360doc.com/DownloadImg/2016/08/2817/78889537_3"
+          },
+          {
+            "url": "http://pds.exblog.jp/pds/1/201402/01/77/d0187477_145746.jpg"
+          },
+          {
+            "url": "http://4.bp.blogspot.com/-QQleohreINM/VV8772VE-jI/AAAAAAAABE0/UleNjzjBvSk/s1600/Aagaard%252C_Carl_Frederic_-_The_Deer_Park.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.art.com/gallery/id--a619/carl-frederic-aagaard-posters.htm"
+          },
+          {
+            "url": "http://www.allposters.com/-st/Carl-Frederic-Aagaard-Posters_c22075_.htm"
+          },
+          {
+            "url": "http://www.oilpaintingsgallery.com/gallery/oil-paintings/list-Key-Aagaard,%20Carl%20Frederic,%20Denmark%201833%20to%201895%20%20-Type-Artist.asp"
+          },
+          {
+            "url": "http://www.artbol.com/painting-artist/carl-frederic-aagaard"
+          },
+          {
+            "url": "https://www.reproduction-gallery.com/artist/carl-frederic-aagaard/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://68.media.tumblr.com/tumblr_meiwksxeNk1rcr5dwo1_500.jpg"
+          },
+          {
+            "url": "http://cache2.allpostersimages.com/p/LRG/93/9364/N4E8500Z/posters/carl-frederic-aagaard-the-deer-park.jpg"
+          },
+          {
+            "url": "http://www.podexchange.com/dsi/lowres/50/50_CFA3058_lowres.jpg"
+          },
+          {
+            "url": "https://68.media.tumblr.com/98270b272e1b81184af3fb9ab15f4cd4/tumblr_n8j2drCavM1qj3dyto1_500.jpg"
+          },
+          {
+            "url": "https://globalwholesaleart.com/images/paintings/large/LA2499AAG_l.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

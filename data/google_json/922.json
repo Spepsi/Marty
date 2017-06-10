@@ -1,0 +1,448 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0170gz",
+          "description": "nativity scene",
+          "score": 0.7988363
+        },
+        {
+          "mid": "/m/05fc9mj",
+          "description": "christmas decoration",
+          "score": 0.71158683
+        },
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.6882802
+        },
+        {
+          "mid": "/m/0djmp",
+          "description": "ancient history",
+          "score": 0.6537922
+        },
+        {
+          "mid": "/m/04rjz",
+          "description": "middle ages",
+          "score": 0.63767564
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "zh-Hant",
+          "description": "逅\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 233,
+                "y": 127
+              },
+              {
+                "x": 247,
+                "y": 127
+              },
+              {
+                "x": 247,
+                "y": 144
+              },
+              {
+                "x": 233,
+                "y": 144
+              }
+            ]
+          }
+        },
+        {
+          "description": "逅",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 233,
+                "y": 127
+              },
+              {
+                "x": 247,
+                "y": 127
+              },
+              {
+                "x": 247,
+                "y": 144
+              },
+              {
+                "x": 233,
+                "y": 144
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 242,
+                "green": 222,
+                "blue": 198
+              },
+              "score": 0.20588687,
+              "pixelFraction": 0.05061924
+            },
+            {
+              "color": {
+                "red": 184,
+                "green": 150,
+                "blue": 96
+              },
+              "score": 0.07799906,
+              "pixelFraction": 0.030673964
+            },
+            {
+              "color": {
+                "red": 219,
+                "green": 195,
+                "blue": 167
+              },
+              "score": 0.12956907,
+              "pixelFraction": 0.10361463
+            },
+            {
+              "color": {
+                "red": 145,
+                "green": 118,
+                "blue": 67
+              },
+              "score": 0.07728579,
+              "pixelFraction": 0.051627304
+            },
+            {
+              "color": {
+                "red": 156,
+                "green": 112,
+                "blue": 66
+              },
+              "score": 0.06871254,
+              "pixelFraction": 0.053715438
+            },
+            {
+              "color": {
+                "red": 179,
+                "green": 152,
+                "blue": 120
+              },
+              "score": 0.055583604,
+              "pixelFraction": 0.0985023
+            },
+            {
+              "color": {
+                "red": 191,
+                "green": 144,
+                "blue": 92
+              },
+              "score": 0.052051827,
+              "pixelFraction": 0.02455357
+            },
+            {
+              "color": {
+                "red": 222,
+                "green": 188,
+                "blue": 134
+              },
+              "score": 0.049163226,
+              "pixelFraction": 0.0140408985
+            },
+            {
+              "color": {
+                "red": 141,
+                "green": 114,
+                "blue": 83
+              },
+              "score": 0.04335271,
+              "pixelFraction": 0.12975231
+            },
+            {
+              "color": {
+                "red": 121,
+                "green": 77,
+                "blue": 38
+              },
+              "score": 0.03322226,
+              "pixelFraction": 0.039386522
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 359
+                },
+                {
+                  "y": 359
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "zh-Hant"
+                }
+              ]
+            },
+            "width": 400,
+            "height": 360,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "zh-Hant"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 233,
+                      "y": 127
+                    },
+                    {
+                      "x": 247,
+                      "y": 127
+                    },
+                    {
+                      "x": 247,
+                      "y": 144
+                    },
+                    {
+                      "x": 233,
+                      "y": 144
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "zh-Hant"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 233,
+                          "y": 127
+                        },
+                        {
+                          "x": 247,
+                          "y": 127
+                        },
+                        {
+                          "x": 247,
+                          "y": 144
+                        },
+                        {
+                          "x": 233,
+                          "y": 144
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "zh-Hant"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 233,
+                              "y": 127
+                            },
+                            {
+                              "x": 247,
+                              "y": 127
+                            },
+                            {
+                              "x": 247,
+                              "y": 144
+                            },
+                            {
+                              "x": 233,
+                              "y": 144
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "zh-Hant"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 233,
+                                  "y": 127
+                                },
+                                {
+                                  "x": 247,
+                                  "y": 127
+                                },
+                                {
+                                  "x": 247,
+                                  "y": 144
+                                },
+                                {
+                                  "x": 233,
+                                  "y": 144
+                                }
+                              ]
+                            },
+                            "text": "逅"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "逅\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0_qjz3d",
+            "score": 12.14272,
+            "description": "Oratory of Saints Cecilia and Valeriano, Bologna"
+          },
+          {
+            "entityId": "/m/0gvr6pn",
+            "score": 9.26976,
+            "description": "Basilica of San Giacomo Maggiore"
+          },
+          {
+            "entityId": "/g/119vq7kbd",
+            "score": 2.07336
+          },
+          {
+            "entityId": "/m/0280bwf",
+            "score": 0.61112,
+            "description": "Oratory"
+          },
+          {
+            "entityId": "/m/0c_fp",
+            "score": 0.40854,
+            "description": "Martyr"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://frankzumbach.files.wordpress.com/2013/02/scene05.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Amico_Aspertini,_Oratorio_di_Santa_Cecilia,_Martyrdom_of_Valerian_and_his_brother_Tiburtius.jpg"
+          },
+          {
+            "url": "http://upload.wikimedia.org/wikipedia/commons/6/69/Amico_Aspertini_-_Legend_of_Sts_Cecilia_and_Valerian,_Scene_5_-_WGA01024.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Amico_Aspertini%2C_Oratorio_di_Santa_Cecilia%2C_Martyrdom_of_Valerian_and_his_brother_Tiburtius.jpg/1024px-Amico_Aspertini%2C_Oratorio_di_Santa_Cecilia%2C_Martyrdom_of_Valerian_and_his_brother_Tiburtius.jpg"
+          },
+          {
+            "url": "http://image.99ys.com/2016/0127/20160127024232232.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://frankzumbach.files.wordpress.com/2013/02/scene05.jpg"
+          },
+          {
+            "url": "https://docs.ufpr.br/~coorhis/daniel/3k.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Amico_Aspertini,_Oratorio_di_Santa_Cecilia,_Martyrdom_of_Valerian_and_his_brother_Tiburtius.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/art/a/aspertin/scene05.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Amico_Aspertini%2C_Oratorio_di_Santa_Cecilia%2C_Martyrdom_of_Valerian_and_his_brother_Tiburtius.jpg/1024px-Amico_Aspertini%2C_Oratorio_di_Santa_Cecilia%2C_Martyrdom_of_Valerian_and_his_brother_Tiburtius.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Oratory_of_Saints_Cecilia_and_Valeriano,_Bologna"
+          },
+          {
+            "url": "http://www.bolognawelcome.com/en/home/discover/places/architecture-and-monuments/religious-places/oratory-of-santa-cecilia/"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/Santa_Cecilia_oratory,_Bologna"
+          },
+          {
+            "url": "https://www.triposo.com/poi/lp__412e0c37"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Amico_Aspertini,_Oratorio_di_Santa_Cecilia,_Martyrdom_of_Valerian_and_his_brother_Tiburtius.jpg"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Amico_Aspertini%2C_Oratorio_di_Santa_Cecilia%2C_Martyrdom_of_Valerian_and_his_brother_Tiburtius.jpg/220px-Amico_Aspertini%2C_Oratorio_di_Santa_Cecilia%2C_Martyrdom_of_Valerian_and_his_brother_Tiburtius.jpg"
+          },
+          {
+            "url": "https://lucamaggio.files.wordpress.com/2010/10/amico-aspertini-seppellimento-dei-santi-valeriano-e-tiburzio-oratorio-di-santa-cecilia-bologna.jpg?w=500"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/86/a1/4b/86a14ba0b46466109de1a1597ab9d3ac.jpg"
+          },
+          {
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/09/a1/eb/b3/oratorio-di-santa-cecilia.jpg"
+          },
+          {
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/09/a1/ec/f8/oratorio-di-santa-cecilia.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

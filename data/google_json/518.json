@@ -1,0 +1,490 @@
+{
+  "responses": [
+    {
+      "logoAnnotations": [
+        {
+          "description": "Last Judgment",
+          "score": 0.75225204,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 14,
+                "y": 60
+              },
+              {
+                "x": 390,
+                "y": 60
+              },
+              {
+                "x": 390,
+                "y": 313
+              },
+              {
+                "x": 14,
+                "y": 313
+              }
+            ]
+          }
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/0557q",
+          "description": "musical theatre",
+          "score": 0.5948006
+        },
+        {
+          "mid": "/m/05fc9mj",
+          "description": "christmas decoration",
+          "score": 0.53683496
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "sv",
+          "description": "Ge\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 383,
+                "y": 131
+              },
+              {
+                "x": 397,
+                "y": 131
+              },
+              {
+                "x": 397,
+                "y": 144
+              },
+              {
+                "x": 383,
+                "y": 144
+              }
+            ]
+          }
+        },
+        {
+          "description": "Ge",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 385,
+                "y": 131
+              },
+              {
+                "x": 398,
+                "y": 132
+              },
+              {
+                "x": 397,
+                "y": 144
+              },
+              {
+                "x": 384,
+                "y": 143
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 117,
+                "green": 74,
+                "blue": 53
+              },
+              "score": 0.2116096,
+              "pixelFraction": 0.13861386
+            },
+            {
+              "color": {
+                "red": 63,
+                "green": 52,
+                "blue": 51
+              },
+              "score": 0.08364856,
+              "pixelFraction": 0.06675184
+            },
+            {
+              "color": {
+                "red": 84,
+                "green": 45,
+                "blue": 28
+              },
+              "score": 0.10567834,
+              "pixelFraction": 0.1038007
+            },
+            {
+              "color": {
+                "red": 122,
+                "green": 74,
+                "blue": 40
+              },
+              "score": 0.10323541,
+              "pixelFraction": 0.05118173
+            },
+            {
+              "color": {
+                "red": 148,
+                "green": 103,
+                "blue": 79
+              },
+              "score": 0.102949195,
+              "pixelFraction": 0.06523475
+            },
+            {
+              "color": {
+                "red": 101,
+                "green": 81,
+                "blue": 61
+              },
+              "score": 0.067576416,
+              "pixelFraction": 0.04934526
+            },
+            {
+              "color": {
+                "red": 155,
+                "green": 105,
+                "blue": 67
+              },
+              "score": 0.059044246,
+              "pixelFraction": 0.03936442
+            },
+            {
+              "color": {
+                "red": 82,
+                "green": 72,
+                "blue": 67
+              },
+              "score": 0.05224097,
+              "pixelFraction": 0.030022357
+            },
+            {
+              "color": {
+                "red": 131,
+                "green": 59,
+                "blue": 47
+              },
+              "score": 0.033280265,
+              "pixelFraction": 0.00942191
+            },
+            {
+              "color": {
+                "red": 133,
+                "green": 109,
+                "blue": 83
+              },
+              "score": 0.03271433,
+              "pixelFraction": 0.03281699
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 326
+                },
+                {
+                  "y": 326
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "sv"
+                }
+              ]
+            },
+            "width": 400,
+            "height": 327,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "sv"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 398,
+                      "y": 132
+                    },
+                    {
+                      "x": 397,
+                      "y": 144
+                    },
+                    {
+                      "x": 384,
+                      "y": 143
+                    },
+                    {
+                      "x": 385,
+                      "y": 131
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "sv"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 383,
+                          "y": 131
+                        },
+                        {
+                          "x": 397,
+                          "y": 131
+                        },
+                        {
+                          "x": 397,
+                          "y": 144
+                        },
+                        {
+                          "x": 383,
+                          "y": 144
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "sv"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 385,
+                              "y": 131
+                            },
+                            {
+                              "x": 398,
+                              "y": 132
+                            },
+                            {
+                              "x": 397,
+                              "y": 144
+                            },
+                            {
+                              "x": 384,
+                              "y": 143
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "sv"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 385,
+                                  "y": 131
+                                },
+                                {
+                                  "x": 398,
+                                  "y": 132
+                                },
+                                {
+                                  "x": 398,
+                                  "y": 137
+                                },
+                                {
+                                  "x": 385,
+                                  "y": 136
+                                }
+                              ]
+                            },
+                            "text": "G"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "sv"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 385,
+                                  "y": 138
+                                },
+                                {
+                                  "x": 398,
+                                  "y": 139
+                                },
+                                {
+                                  "x": 398,
+                                  "y": 144
+                                },
+                                {
+                                  "x": 385,
+                                  "y": 143
+                                }
+                              ]
+                            },
+                            "text": "e"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "Ge\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0cnypm",
+            "score": 5.62736,
+            "description": "The Last Judgement"
+          },
+          {
+            "entityId": "/m/03cgvsw",
+            "score": 2.72196,
+            "description": "The Last Judgment"
+          },
+          {
+            "entityId": "/m/015hb2",
+            "score": 1.46894,
+            "description": "Last Judgment"
+          },
+          {
+            "entityId": "/m/03cmgry",
+            "score": 0.40548,
+            "description": "Judgement"
+          },
+          {
+            "entityId": "/m/092x18",
+            "score": 0.39682,
+            "description": "Trial"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://2.bp.blogspot.com/-3xC7tmhJ3Hk/UvUe36dBMLI/AAAAAAAAATU/A2cA33yRIRI/s1600/last+judgment+2.jpg"
+          },
+          {
+            "url": "http://1.bp.blogspot.com/-eFfyyTmG6qI/UmwUaG7TFnI/AAAAAAAAGJE/jcGUHLgknnE/s1600/juidfdsfdsafdsafaslico.jpg"
+          },
+          {
+            "url": "http://1.bp.blogspot.com/-C3jluJ4r_dk/ULLKSAyo4MI/AAAAAAAAHZI/1VcvLVHqI-o/s1600/juicio-final-fray-angelico.jpg"
+          },
+          {
+            "url": "https://lh3.googleusercontent.com/-GsUC5OkFQy0/U8P_l_vUMFI/AAAAAAAAAUY/9bL8kzaCXP8/s640/blogger-image--319071641.jpg"
+          },
+          {
+            "url": "http://hoocher.com/Fra_Angelico/Last_Judgment_(detail)_1432_35_Three.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://2.bp.blogspot.com/-FTMmOVuESpg/WGDeaMCtLOI/AAAAAAAABKU/rqRfuEqUPKoY0gbaY-esQF1SV-djRv2oACLcB/s1600/The%2BMain%2BDefendant%2Bcharacteristics%2BOf%2BJudgment%2Band%2Bworldview%2Bcharacteristics.jpg"
+          },
+          {
+            "url": "http://1.bp.blogspot.com/-URL6DvaaNO8/UgoXLI0b6hI/AAAAAAAAAZI/RdLjpAMZqcg/s1600/Lasbellashoras+Fray+Ange%25CC%2581lico+Juicio+final+2.jpg"
+          },
+          {
+            "url": "http://albertdrexel.20m.com/lastjudgment.jpg"
+          },
+          {
+            "url": "https://creerparaver.files.wordpress.com/2008/11/juicio-final-fray-angelico.jpg"
+          },
+          {
+            "url": "http://2.bp.blogspot.com/-3xC7tmhJ3Hk/UvUe36dBMLI/AAAAAAAAATU/A2cA33yRIRI/s1600/last+judgment+2.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.wga.hu/frames-e.html?/html/a/angelico/03/index.html"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Fra_Angelico_-_Last_Judgement_(detail)_-_WGA00471.jpg"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/504684701973917685/"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/482377810061470719/"
+          },
+          {
+            "url": "http://hoocher.com/Fra_Angelico/Fra_Angelico.htm"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://glasstire.com/wp-content/uploads/2012/12/lastjud429a5b18tu3-600x490.jpg?bdc2e0"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Fra_Angelico_009.jpg"
+          },
+          {
+            "url": "https://www.enterthebible.org/media/images/source/Fra_Angelico_009.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/dc/16/67/dc166706032c6e891dc2b9f12cb24fc4.jpg"
+          },
+          {
+            "url": "http://pt.wahooart.com/A55A04/w.nsf/O/BRUE-8EWG58/$File/FRA-ANGELICO-THE-LAST-JUDGMENT.JPG"
+          }
+        ]
+      }
+    }
+  ]
+}

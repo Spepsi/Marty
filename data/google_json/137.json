@@ -1,0 +1,445 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0dx1j",
+          "description": "town",
+          "score": 0.8966846
+        },
+        {
+          "mid": "/m/017m8l",
+          "description": "waterway",
+          "score": 0.6734194
+        },
+        {
+          "mid": "/m/034z7h",
+          "description": "cityscape",
+          "score": 0.59677714
+        },
+        {
+          "mid": "/m/01pvk",
+          "description": "canal",
+          "score": 0.57211787
+        },
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.52746457
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "en",
+          "description": "C\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 17,
+                "y": 109
+              },
+              {
+                "x": 23,
+                "y": 109
+              },
+              {
+                "x": 23,
+                "y": 117
+              },
+              {
+                "x": 17,
+                "y": 117
+              }
+            ]
+          }
+        },
+        {
+          "description": "C",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 18,
+                "y": 109
+              },
+              {
+                "x": 23,
+                "y": 109
+              },
+              {
+                "x": 22,
+                "y": 117
+              },
+              {
+                "x": 17,
+                "y": 117
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 164,
+                "green": 162,
+                "blue": 154
+              },
+              "score": 0.6186056,
+              "pixelFraction": 0.2073575
+            },
+            {
+              "color": {
+                "red": 112,
+                "green": 75,
+                "blue": 65
+              },
+              "score": 0.043022994,
+              "pixelFraction": 0.06396376
+            },
+            {
+              "color": {
+                "red": 76,
+                "green": 46,
+                "blue": 46
+              },
+              "score": 0.038398556,
+              "pixelFraction": 0.08760495
+            },
+            {
+              "color": {
+                "red": 177,
+                "green": 159,
+                "blue": 144
+              },
+              "score": 0.07838291,
+              "pixelFraction": 0.041758727
+            },
+            {
+              "color": {
+                "red": 186,
+                "green": 148,
+                "blue": 132
+              },
+              "score": 0.052859303,
+              "pixelFraction": 0.036124613
+            },
+            {
+              "color": {
+                "red": 148,
+                "green": 111,
+                "blue": 97
+              },
+              "score": 0.041730225,
+              "pixelFraction": 0.06142289
+            },
+            {
+              "color": {
+                "red": 79,
+                "green": 44,
+                "blue": 36
+              },
+              "score": 0.025516162,
+              "pixelFraction": 0.03557225
+            },
+            {
+              "color": {
+                "red": 101,
+                "green": 71,
+                "blue": 69
+              },
+              "score": 0.018136447,
+              "pixelFraction": 0.04540433
+            },
+            {
+              "color": {
+                "red": 205,
+                "green": 182,
+                "blue": 164
+              },
+              "score": 0.01613656,
+              "pixelFraction": 0.018890852
+            },
+            {
+              "color": {
+                "red": 185,
+                "green": 180,
+                "blue": 169
+              },
+              "score": 0.012604731,
+              "pixelFraction": 0.0059655323
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 233
+                },
+                {
+                  "y": 233
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "en"
+                }
+              ]
+            },
+            "width": 400,
+            "height": 234,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "en"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 18,
+                      "y": 109
+                    },
+                    {
+                      "x": 23,
+                      "y": 109
+                    },
+                    {
+                      "x": 22,
+                      "y": 117
+                    },
+                    {
+                      "x": 17,
+                      "y": 117
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "en"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 17,
+                          "y": 109
+                        },
+                        {
+                          "x": 23,
+                          "y": 109
+                        },
+                        {
+                          "x": 23,
+                          "y": 117
+                        },
+                        {
+                          "x": 17,
+                          "y": 117
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 18,
+                              "y": 109
+                            },
+                            {
+                              "x": 23,
+                              "y": 109
+                            },
+                            {
+                              "x": 22,
+                              "y": 117
+                            },
+                            {
+                              "x": 17,
+                              "y": 117
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 18,
+                                  "y": 109
+                                },
+                                {
+                                  "x": 23,
+                                  "y": 109
+                                },
+                                {
+                                  "x": 22,
+                                  "y": 117
+                                },
+                                {
+                                  "x": 17,
+                                  "y": 117
+                                }
+                              ]
+                            },
+                            "text": "C"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "C\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/g/120p4qm3",
+            "score": 23.03232,
+            "description": "San Giuseppe di Castello"
+          },
+          {
+            "entityId": "/g/119t9g7y4",
+            "score": 1.65144
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.824577,
+            "description": "Painting"
+          },
+          {
+            "entityId": "/g/11cs9mf1fq",
+            "score": 0.68456,
+            "description": "San Giuseppe di Castello"
+          },
+          {
+            "entityId": "/m/027z1tb",
+            "score": 0.594096,
+            "description": "Castello, Venice"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://www.imagiva.com/albotto-francesco/san-giuseppe-di-castello.jpg"
+          },
+          {
+            "url": "http://www.best-art-online.com/product_thumb.php?img=images/artist/a/a00163.jpg&w=195&h=114"
+          },
+          {
+            "url": "http://www.baroque-in-art.org/36251/San-Giuseppe-Di-Castello-1745-small.jpg"
+          },
+          {
+            "url": "http://www.handgemalt24.de/media/images/product/thumb/Blick-auf-San-Giuseppe-di-Castello-von-Francesco-Albotto-30507.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://3.bp.blogspot.com/-_2-AuPsL9fQ/UZO_ifd-lQI/AAAAAAAABHM/_ZtE2KmqelA/s1600/zfcdfg.jpg"
+          },
+          {
+            "url": "https://oliaklodvenitiens.files.wordpress.com/2014/12/albotto-san-guiseppe-de-castello.jpg"
+          },
+          {
+            "url": "http://stene.ru/wp-content/uploads/2015/05/franchesko-albotto-San-Giuseppe-di-Castello.jpg"
+          },
+          {
+            "url": "http://smallbay.ru/artitaly/images/albotto01.jpg"
+          },
+          {
+            "url": "http://www.elite-paintings.com/w/10/AbyC/Italy/ALBOTTO_Francesco_San_Giuseppe_Di_Castello_artist_painting_reproduction_handmade_oil_canvas_or_print_art_deco.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Francesco_Albotto_-_San_Giuseppe_di_Castello_-_WGA00134.jpg"
+          },
+          {
+            "url": "https://www.passionforpaintings.com/en/art-gallery/francesco-albotto-painter/san-giuseppe-di-castello-oil-painting-reproduction"
+          },
+          {
+            "url": "http://www.baroque-in-art.org/artist-page-Francesco+Albotto.html"
+          },
+          {
+            "url": "http://en.wahooart.com/@@/8XZ8SB-Francesco-Albotto-San-Giuseppe-di-Castello"
+          },
+          {
+            "url": "http://www.religious-art.org/the-collection-10-96-3-0.html"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://it.wahooart.com/Art.nsf/O/9DGTFS/$File/Francesco+Albotto-San+Giuseppe+Di+Castello-S.JPG"
+          },
+          {
+            "url": "http://www.venise-voyage.org/venise/tableaux-peintres-venise/images/albotto_campo_santi_giovanni_e_paolo_venezia.jpg"
+          },
+          {
+            "url": "http://www.artvalue.com/image.aspx?PHOTO_ID=2889196"
+          },
+          {
+            "url": "http://media.gettyimages.com/photos/immaginary-view-with-village-on-a-lagoon-by-francesco-albotto-1750-picture-id461643271?k=6&m=461643271&s=594x594&w=0&h=hrOt_EoFQovlVs5JZEPUJlA47pjAofqhd6nhRKH_qrc="
+          },
+          {
+            "url": "http://www.artericerca.com/artisti_italiani_settecento/albotto%20francesco/1.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

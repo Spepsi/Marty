@@ -1,0 +1,660 @@
+{
+  "responses": [
+    {
+      "faceAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 77,
+                "y": 51
+              },
+              {
+                "x": 242,
+                "y": 51
+              },
+              {
+                "x": 242,
+                "y": 244
+              },
+              {
+                "x": 77,
+                "y": 244
+              }
+            ]
+          },
+          "fdBoundingPoly": {
+            "vertices": [
+              {
+                "x": 72,
+                "y": 108
+              },
+              {
+                "x": 198,
+                "y": 108
+              },
+              {
+                "x": 198,
+                "y": 234
+              },
+              {
+                "x": 72,
+                "y": 234
+              }
+            ]
+          },
+          "landmarks": [
+            {
+              "type": "LEFT_EYE",
+              "position": {
+                "x": 105.64804,
+                "y": 144.6803,
+                "z": 0.0014696474
+              }
+            },
+            {
+              "type": "RIGHT_EYE",
+              "position": {
+                "x": 124.90409,
+                "y": 150.3972,
+                "z": -45.717274
+              }
+            },
+            {
+              "type": "LEFT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 102.00102,
+                "y": 130.3461,
+                "z": 14.969067
+              }
+            },
+            {
+              "type": "RIGHT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 100.125984,
+                "y": 136.25427,
+                "z": -17.333235
+              }
+            },
+            {
+              "type": "LEFT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 109.49206,
+                "y": 139.03166,
+                "z": -39.572754
+              }
+            },
+            {
+              "type": "RIGHT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 133.98471,
+                "y": 140.22038,
+                "z": -61.42895
+              }
+            },
+            {
+              "type": "MIDPOINT_BETWEEN_EYES",
+              "position": {
+                "x": 105.37428,
+                "y": 147.95499,
+                "z": -26.850157
+              }
+            },
+            {
+              "type": "NOSE_TIP",
+              "position": {
+                "x": 92.52054,
+                "y": 180.28615,
+                "z": -27.197218
+              }
+            },
+            {
+              "type": "UPPER_LIP",
+              "position": {
+                "x": 108.39837,
+                "y": 194.18915,
+                "z": -19.600145
+              }
+            },
+            {
+              "type": "LOWER_LIP",
+              "position": {
+                "x": 113.936775,
+                "y": 210.56122,
+                "z": -15.175095
+              }
+            },
+            {
+              "type": "MOUTH_LEFT",
+              "position": {
+                "x": 114.13965,
+                "y": 196.59973,
+                "z": 4.529664
+              }
+            },
+            {
+              "type": "MOUTH_RIGHT",
+              "position": {
+                "x": 129.14772,
+                "y": 201.01443,
+                "z": -31.451815
+              }
+            },
+            {
+              "type": "MOUTH_CENTER",
+              "position": {
+                "x": 112.886154,
+                "y": 201.4559,
+                "z": -16.795282
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_RIGHT",
+              "position": {
+                "x": 119.22101,
+                "y": 180.33813,
+                "z": -32.084965
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_LEFT",
+              "position": {
+                "x": 108.381775,
+                "y": 177.22873,
+                "z": -6.889799
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_CENTER",
+              "position": {
+                "x": 106.67849,
+                "y": 184.31683,
+                "z": -21.501053
+              }
+            },
+            {
+              "type": "LEFT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 102.14506,
+                "y": 141.89633,
+                "z": -1.7466265
+              }
+            },
+            {
+              "type": "LEFT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 109.74487,
+                "y": 146.17764,
+                "z": -8.959303
+              }
+            },
+            {
+              "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 105.71951,
+                "y": 148.00272,
+                "z": 0.5015781
+              }
+            },
+            {
+              "type": "LEFT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 106.09024,
+                "y": 142.80376,
+                "z": 10.853494
+              }
+            },
+            {
+              "type": "LEFT_EYE_PUPIL",
+              "position": {
+                "x": 104.22362,
+                "y": 144.77704,
+                "z": 0.34209833
+              }
+            },
+            {
+              "type": "RIGHT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 121.32056,
+                "y": 147.82748,
+                "z": -47.469776
+              }
+            },
+            {
+              "type": "RIGHT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 132.86395,
+                "y": 151.10158,
+                "z": -53.073845
+              }
+            },
+            {
+              "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 125.67419,
+                "y": 154.02658,
+                "z": -45.277927
+              }
+            },
+            {
+              "type": "RIGHT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 121.788284,
+                "y": 149.90695,
+                "z": -36.461952
+              }
+            },
+            {
+              "type": "RIGHT_EYE_PUPIL",
+              "position": {
+                "x": 123.86079,
+                "y": 150.89307,
+                "z": -46.601288
+              }
+            },
+            {
+              "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 97.216194,
+                "y": 127.938416,
+                "z": -3.288583
+              }
+            },
+            {
+              "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 118.00538,
+                "y": 134.37868,
+                "z": -52.912636
+              }
+            },
+            {
+              "type": "LEFT_EAR_TRAGION",
+              "position": {
+                "x": 152.88788,
+                "y": 153.69617,
+                "z": 55.67277
+              }
+            },
+            {
+              "type": "RIGHT_EAR_TRAGION",
+              "position": {
+                "x": 196.37236,
+                "y": 167.14493,
+                "z": -48.190556
+              }
+            },
+            {
+              "type": "FOREHEAD_GLABELLA",
+              "position": {
+                "x": 102.96678,
+                "y": 137.42883,
+                "z": -29.23008
+              }
+            },
+            {
+              "type": "CHIN_GNATHION",
+              "position": {
+                "x": 123.07868,
+                "y": 231.16644,
+                "z": -8.666474
+              }
+            },
+            {
+              "type": "CHIN_LEFT_GONION",
+              "position": {
+                "x": 140.20839,
+                "y": 189.2692,
+                "z": 49.007427
+              }
+            },
+            {
+              "type": "CHIN_RIGHT_GONION",
+              "position": {
+                "x": 179.51591,
+                "y": 201.45135,
+                "z": -44.82238
+              }
+            }
+          ],
+          "rollAngle": -7.116241,
+          "panAngle": -68.52572,
+          "tiltAngle": -10.229476,
+          "detectionConfidence": 0.5134473,
+          "landmarkingConfidence": 0.123868376,
+          "joyLikelihood": "UNLIKELY",
+          "sorrowLikelihood": "VERY_UNLIKELY",
+          "angerLikelihood": "VERY_UNLIKELY",
+          "surpriseLikelihood": "VERY_UNLIKELY",
+          "underExposedLikelihood": "VERY_UNLIKELY",
+          "blurredLikelihood": "VERY_UNLIKELY",
+          "headwearLikelihood": "VERY_LIKELY"
+        }
+      ],
+      "logoAnnotations": [
+        {
+          "description": "Autumn",
+          "score": 0.9230634,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 26,
+                "y": 21
+              },
+              {
+                "x": 314,
+                "y": 21
+              },
+              {
+                "x": 314,
+                "y": 385
+              },
+              {
+                "x": 26,
+                "y": 385
+              }
+            ]
+          }
+        },
+        {
+          "mid": "/m/0bx9g4k",
+          "description": "Autumn",
+          "score": 0.889583,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 20,
+                "y": 30
+              },
+              {
+                "x": 314,
+                "y": 30
+              },
+              {
+                "x": 314,
+                "y": 381
+              },
+              {
+                "x": 20,
+                "y": 381
+              }
+            ]
+          }
+        },
+        {
+          "description": "Bière De Vigne - Micro-Brasserie Breughel",
+          "score": 0.22454436,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 141,
+                "y": 60
+              },
+              {
+                "x": 229,
+                "y": 60
+              },
+              {
+                "x": 229,
+                "y": 243
+              },
+              {
+                "x": 141,
+                "y": 243
+              }
+            ]
+          }
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/05fc9mj",
+          "description": "christmas decoration",
+          "score": 0.7584877
+        },
+        {
+          "mid": "/m/0170gz",
+          "description": "nativity scene",
+          "score": 0.73884904
+        },
+        {
+          "mid": "/m/04zhd",
+          "description": "mythology",
+          "score": 0.59424406
+        },
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.5631598
+        },
+        {
+          "mid": "/m/02h7lkt",
+          "description": "fictional character",
+          "score": 0.5020272
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 19,
+                "green": 18,
+                "blue": 18
+              },
+              "score": 0.3356764,
+              "pixelFraction": 0.40066686
+            },
+            {
+              "color": {
+                "red": 96,
+                "green": 80,
+                "blue": 57
+              },
+              "score": 0.08435697,
+              "pixelFraction": 0.062577546
+            },
+            {
+              "color": {
+                "red": 141,
+                "green": 116,
+                "blue": 65
+              },
+              "score": 0.045880213,
+              "pixelFraction": 0.024658808
+            },
+            {
+              "color": {
+                "red": 52,
+                "green": 47,
+                "blue": 42
+              },
+              "score": 0.09712423,
+              "pixelFraction": 0.095145784
+            },
+            {
+              "color": {
+                "red": 62,
+                "green": 51,
+                "blue": 32
+              },
+              "score": 0.078286625,
+              "pixelFraction": 0.05110112
+            },
+            {
+              "color": {
+                "red": 76,
+                "green": 45,
+                "blue": 30
+              },
+              "score": 0.053563934,
+              "pixelFraction": 0.047689207
+            },
+            {
+              "color": {
+                "red": 134,
+                "green": 113,
+                "blue": 86
+              },
+              "score": 0.037024103,
+              "pixelFraction": 0.026674937
+            },
+            {
+              "color": {
+                "red": 105,
+                "green": 73,
+                "blue": 53
+              },
+              "score": 0.034988876,
+              "pixelFraction": 0.06094913
+            },
+            {
+              "color": {
+                "red": 177,
+                "green": 148,
+                "blue": 90
+              },
+              "score": 0.028173778,
+              "pixelFraction": 0.015973946
+            },
+            {
+              "color": {
+                "red": 38,
+                "green": 28,
+                "blue": 13
+              },
+              "score": 0.02506899,
+              "pixelFraction": 0.015198511
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 334
+                },
+                {
+                  "x": 334,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 1,
+            "importanceFraction": 3.6399999
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/030b1q",
+            "score": 14.500199,
+            "description": "Giuseppe Arcimboldo"
+          },
+          {
+            "entityId": "/m/04gdr",
+            "score": 2.92512,
+            "description": "The Louvre"
+          },
+          {
+            "entityId": "/m/0134l",
+            "score": 0.72793,
+            "description": "Autumn"
+          },
+          {
+            "entityId": "/m/02xwb",
+            "score": 0.65616,
+            "description": "Fruit"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.49630988,
+            "description": "Painting"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://paintingdb.com/art/xl/4/3598.jpg"
+          },
+          {
+            "url": "http://i.imgur.com/hL3hIvG.jpg"
+          },
+          {
+            "url": "https://cuisineetjardinblog.files.wordpress.com/2015/09/giuseppe_arcimboldo_-_autumn_-_wga00812.jpg"
+          },
+          {
+            "url": "https://phototour.pro/content/gallery/photo_195.jpg"
+          },
+          {
+            "url": "http://design-haven.com/wp-content/uploads/2012/10/Giuseppe-Arcimboldo-Autumn.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://i0.wp.com/www.cocinayletras.com/wp-content/uploads/2014/03/otoc3b1o-arcimboldo41.jpg"
+          },
+          {
+            "url": "http://i.imgur.com/hL3hIvG.jpg"
+          },
+          {
+            "url": "https://cuisineetjardinblog.files.wordpress.com/2015/09/giuseppe_arcimboldo_-_autumn_-_wga00812.jpg"
+          },
+          {
+            "url": "https://phototour.pro/content/gallery/photo_195.jpg"
+          },
+          {
+            "url": "http://design-haven.com/wp-content/uploads/2012/10/Giuseppe-Arcimboldo-Autumn.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Giuseppe_Arcimboldo_-_Autumn,_1573.jpg"
+          },
+          {
+            "url": "http://www.tuttartpitturasculturapoesiamusica.com/2011/02/giuseppe-arcimboldo.html"
+          },
+          {
+            "url": "http://theredlist.com/wiki-2-351-861-414-398-427-view-mannerism-profile-arcimboldo-giuseppe.html"
+          },
+          {
+            "url": "http://www.kuriositas.com/2010/12/astonishing-art-of-arcimboldo.html"
+          },
+          {
+            "url": "https://www.pinterest.com/ceciliasmanio/giuseppe-arcimboldo/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://blogeared.files.wordpress.com/2008/01/arcimboldo.jpg"
+          },
+          {
+            "url": "https://www.art-prints-on-demand.com/kunst/giuseppe_arcimboldo/der-herbst.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/8c/74/ed/8c74edbe9142b75ce4c818e74d25aa66.jpg"
+          },
+          {
+            "url": "https://www.toperfect.com/pic/Oil%20Painting%20Masterpieces%20on%20Canvas/Giuseppe%20Arcimboldo%20Italian%201527-1593/8-summer-3-Giuseppe-Arcimboldo.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Giuseppe_Arcimboldo_-_Spring_-_WGA0810.jpg/403px-Giuseppe_Arcimboldo_-_Spring_-_WGA0810.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

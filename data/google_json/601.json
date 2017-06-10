@@ -1,0 +1,522 @@
+{
+  "responses": [
+    {
+      "logoAnnotations": [
+        {
+          "description": "Adoration of the Magi",
+          "score": 0.9568073,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 8,
+                "y": 8
+              },
+              {
+                "x": 383,
+                "y": 8
+              },
+              {
+                "x": 383,
+                "y": 215
+              },
+              {
+                "x": 8,
+                "y": 215
+              }
+            ]
+          }
+        },
+        {
+          "description": "Adoration of the Magi",
+          "score": 0.9300133,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 42,
+                "y": 26
+              },
+              {
+                "x": 373,
+                "y": 26
+              },
+              {
+                "x": 373,
+                "y": 202
+              },
+              {
+                "x": 42,
+                "y": 202
+              }
+            ]
+          }
+        },
+        {
+          "description": "Adoration of the Magi",
+          "score": 0.91441685,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 46,
+                "y": 14
+              },
+              {
+                "x": 368,
+                "y": 14
+              },
+              {
+                "x": 368,
+                "y": 187
+              },
+              {
+                "x": 46,
+                "y": 187
+              }
+            ]
+          }
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.6641401
+        },
+        {
+          "mid": "/m/015r61",
+          "description": "modern art",
+          "score": 0.6403324
+        },
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.5719261
+        },
+        {
+          "mid": "/m/0djmp",
+          "description": "ancient history",
+          "score": 0.56549114
+        },
+        {
+          "mid": "/m/04rd7",
+          "description": "mural",
+          "score": 0.5540457
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "en",
+          "description": "a\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 192,
+                "y": 188
+              },
+              {
+                "x": 204,
+                "y": 188
+              },
+              {
+                "x": 204,
+                "y": 207
+              },
+              {
+                "x": 192,
+                "y": 207
+              }
+            ]
+          }
+        },
+        {
+          "description": "a",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 192,
+                "y": 208
+              },
+              {
+                "x": 193,
+                "y": 189
+              },
+              {
+                "x": 204,
+                "y": 189
+              },
+              {
+                "x": 203,
+                "y": 208
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 173,
+                "green": 153,
+                "blue": 120
+              },
+              "score": 0.1700795,
+              "pixelFraction": 0.102504246
+            },
+            {
+              "color": {
+                "red": 247,
+                "green": 232,
+                "blue": 201
+              },
+              "score": 0.11873133,
+              "pixelFraction": 0.10229202
+            },
+            {
+              "color": {
+                "red": 159,
+                "green": 112,
+                "blue": 70
+              },
+              "score": 0.03907362,
+              "pixelFraction": 0.0067911716
+            },
+            {
+              "color": {
+                "red": 26,
+                "green": 20,
+                "blue": 20
+              },
+              "score": 0.009942126,
+              "pixelFraction": 0.014431239
+            },
+            {
+              "color": {
+                "red": 137,
+                "green": 117,
+                "blue": 89
+              },
+              "score": 0.13669679,
+              "pixelFraction": 0.104732595
+            },
+            {
+              "color": {
+                "red": 101,
+                "green": 81,
+                "blue": 56
+              },
+              "score": 0.0900218,
+              "pixelFraction": 0.09040747
+            },
+            {
+              "color": {
+                "red": 182,
+                "green": 153,
+                "blue": 106
+              },
+              "score": 0.06622803,
+              "pixelFraction": 0.018887946
+            },
+            {
+              "color": {
+                "red": 217,
+                "green": 196,
+                "blue": 163
+              },
+              "score": 0.055661213,
+              "pixelFraction": 0.11162988
+            },
+            {
+              "color": {
+                "red": 147,
+                "green": 118,
+                "blue": 72
+              },
+              "score": 0.0347259,
+              "pixelFraction": 0.010292869
+            },
+            {
+              "color": {
+                "red": 71,
+                "green": 52,
+                "blue": 30
+              },
+              "score": 0.033333693,
+              "pixelFraction": 0.0387309
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 244
+                },
+                {
+                  "y": 244
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "en"
+                }
+              ]
+            },
+            "width": 400,
+            "height": 245,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "en"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 192,
+                      "y": 208
+                    },
+                    {
+                      "x": 193,
+                      "y": 189
+                    },
+                    {
+                      "x": 204,
+                      "y": 189
+                    },
+                    {
+                      "x": 203,
+                      "y": 208
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "en"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 192,
+                          "y": 188
+                        },
+                        {
+                          "x": 204,
+                          "y": 188
+                        },
+                        {
+                          "x": 204,
+                          "y": 207
+                        },
+                        {
+                          "x": 192,
+                          "y": 207
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 192,
+                              "y": 208
+                            },
+                            {
+                              "x": 193,
+                              "y": 189
+                            },
+                            {
+                              "x": 204,
+                              "y": 189
+                            },
+                            {
+                              "x": 203,
+                              "y": 208
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 192,
+                                  "y": 208
+                                },
+                                {
+                                  "x": 193,
+                                  "y": 189
+                                },
+                                {
+                                  "x": 204,
+                                  "y": 189
+                                },
+                                {
+                                  "x": 203,
+                                  "y": 208
+                                }
+                              ]
+                            },
+                            "text": "a"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "a\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0272rmj",
+            "score": 11.20864,
+            "description": "San Marco, Florence"
+          },
+          {
+            "entityId": "/g/12100_zb",
+            "score": 2.97192,
+            "description": "Museo Nazionale di San Marco"
+          },
+          {
+            "entityId": "/m/02rshds",
+            "score": 1.48524,
+            "description": "Magi Chapel"
+          },
+          {
+            "entityId": "/m/060bxw",
+            "score": 1.24392,
+            "description": "Adoration of the Magi"
+          },
+          {
+            "entityId": "/g/119thd4hg",
+            "score": 0.97584
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://cfile239.uf.daum.net/image/210B453B5171D9EB249A01"
+          },
+          {
+            "url": "https://classconnection.s3.amazonaws.com/772/flashcards/260772/png/screen_shot_2012-12-11_at_44643_pm1355262421272.png"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Angelico%2C_affresco_s._marco%2C_adorazione_dei_magi_cella_39.jpg/640px-Angelico%2C_affresco_s._marco%2C_adorazione_dei_magi_cella_39.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Fra_Angelico_-_Adoration_of_the_Magi_and_Man_of_Sorrows_%28Cell_39%29_-_WGA00553.jpg/640px-Fra_Angelico_-_Adoration_of_the_Magi_and_Man_of_Sorrows_%28Cell_39%29_-_WGA00553.jpg"
+          },
+          {
+            "url": "https://i.mycdn.me/image?id=851054406282&t=0&plc=WEB&tkn=*v0fRBaemh-Kn_wO5USBmxkBHOA4"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://pericoloso.co.uk/florence2010/big/151.JPG"
+          },
+          {
+            "url": "http://www.bernard-stoloff.fr/wp-content/uploads/2015/01/florence-fra-ang-web.jpg"
+          },
+          {
+            "url": "http://mediablogs.arautos.org/terciariosbogota/files/2012/09/DSC02430.jpg"
+          },
+          {
+            "url": "http://www.alidifirenze.fr/wp-content/uploads/2015/04/Couvent-San-Marco-Alidifirenze3.jpg"
+          },
+          {
+            "url": "http://www.rts.ch/2013/09/13/14/49/5209231.image"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://lovefromtuscany.com/where-to-go/florence/san-marco-museum/"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/482237072571435943/"
+          },
+          {
+            "url": "https://www.ticketsflorence.com/en/museums-tickets-florence-uffizi-accademia/san-marco-museum-florence"
+          },
+          {
+            "url": "https://www.wikiart.org/en/fra-angelico/noli-me-tangere-1442"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Adoration_of_the_Kings_by_Angelico_(San_Marco_cell_39)_0.jpg"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://ligetmuhely.com/wp-content/uploads/2017/02/fraangelico.jpg"
+          },
+          {
+            "url": "http://1.bp.blogspot.com/_sD9yQTE5QZQ/RdV1Ta9k9tI/AAAAAAAAAik/rCvrBlruzN8/s400/Magos+Fra+angelico.jpg"
+          },
+          {
+            "url": "http://www.paradoxplace.com/Perspectives/Italian%20Images/images/Firenze/Angelico%20&%20San%20Marco/2007/800/MagiCell39-Nov07-D4621sAR800.jpg"
+          },
+          {
+            "url": "http://www.plakaty-i-reprodukcje.pl/media/images/popup/fra-angelico-freskenzyklus-i-00137.jpg"
+          },
+          {
+            "url": "https://londondiaryblog.files.wordpress.com/2017/01/16-11-2-convent-of-st-marco-lr1.jpg?w=723&h=1085"
+          }
+        ]
+      }
+    }
+  ]
+}

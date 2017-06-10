@@ -1,0 +1,537 @@
+{
+  "responses": [
+    {
+      "logoAnnotations": [
+        {
+          "description": "Resurrection of Christ",
+          "score": 0.9393383,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 16,
+                "y": 37
+              },
+              {
+                "x": 199,
+                "y": 37
+              },
+              {
+                "x": 199,
+                "y": 392
+              },
+              {
+                "x": 16,
+                "y": 392
+              }
+            ]
+          }
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.760702
+        },
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.6595327
+        },
+        {
+          "mid": "/m/04zhd",
+          "description": "mythology",
+          "score": 0.60365546
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "en",
+          "description": "IS18\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 162
+              },
+              {
+                "x": 205
+              },
+              {
+                "x": 205,
+                "y": 16
+              },
+              {
+                "x": 162,
+                "y": 16
+              }
+            ]
+          }
+        },
+        {
+          "description": "IS18",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 162
+              },
+              {
+                "x": 205
+              },
+              {
+                "x": 205,
+                "y": 16
+              },
+              {
+                "x": 162,
+                "y": 16
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 147,
+                "green": 58,
+                "blue": 33
+              },
+              "score": 0.1341754,
+              "pixelFraction": 0.018238213
+            },
+            {
+              "color": {
+                "red": 208,
+                "green": 143,
+                "blue": 93
+              },
+              "score": 0.11013684,
+              "pixelFraction": 0.012282878
+            },
+            {
+              "color": {
+                "red": 241,
+                "green": 200,
+                "blue": 113
+              },
+              "score": 0.050066255,
+              "pixelFraction": 0.0029776676
+            },
+            {
+              "color": {
+                "red": 31,
+                "green": 25,
+                "blue": 18
+              },
+              "score": 0.0043786694,
+              "pixelFraction": 0.22543424
+            },
+            {
+              "color": {
+                "red": 184,
+                "green": 98,
+                "blue": 57
+              },
+              "score": 0.0925399,
+              "pixelFraction": 0.012158809
+            },
+            {
+              "color": {
+                "red": 241,
+                "green": 181,
+                "blue": 127
+              },
+              "score": 0.08144431,
+              "pixelFraction": 0.0058312654
+            },
+            {
+              "color": {
+                "red": 218,
+                "green": 128,
+                "blue": 85
+              },
+              "score": 0.054469958,
+              "pixelFraction": 0.003349876
+            },
+            {
+              "color": {
+                "red": 173,
+                "green": 110,
+                "blue": 64
+              },
+              "score": 0.048500422,
+              "pixelFraction": 0.01923077
+            },
+            {
+              "color": {
+                "red": 212,
+                "green": 145,
+                "blue": 78
+              },
+              "score": 0.045033213,
+              "pixelFraction": 0.0022332505
+            },
+            {
+              "color": {
+                "red": 192,
+                "green": 103,
+                "blue": 48
+              },
+              "score": 0.043667585,
+              "pixelFraction": 0.0023573202
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 208
+                },
+                {
+                  "x": 208,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "en"
+                }
+              ]
+            },
+            "width": 209,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "en"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 162
+                    },
+                    {
+                      "x": 205
+                    },
+                    {
+                      "x": 205,
+                      "y": 16
+                    },
+                    {
+                      "x": 162,
+                      "y": 16
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "en"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 162
+                        },
+                        {
+                          "x": 205
+                        },
+                        {
+                          "x": 205,
+                          "y": 16
+                        },
+                        {
+                          "x": 162,
+                          "y": 16
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 162
+                            },
+                            {
+                              "x": 205
+                            },
+                            {
+                              "x": 205,
+                              "y": 16
+                            },
+                            {
+                              "x": 162,
+                              "y": 16
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 162
+                                },
+                                {
+                                  "x": 172
+                                },
+                                {
+                                  "x": 172,
+                                  "y": 16
+                                },
+                                {
+                                  "x": 162,
+                                  "y": 16
+                                }
+                              ]
+                            },
+                            "text": "I"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 173
+                                },
+                                {
+                                  "x": 183
+                                },
+                                {
+                                  "x": 183,
+                                  "y": 16
+                                },
+                                {
+                                  "x": 173,
+                                  "y": 16
+                                }
+                              ]
+                            },
+                            "text": "S"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 184
+                                },
+                                {
+                                  "x": 194
+                                },
+                                {
+                                  "x": 194,
+                                  "y": 16
+                                },
+                                {
+                                  "x": 184,
+                                  "y": 16
+                                }
+                              ]
+                            },
+                            "text": "1"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 195
+                                },
+                                {
+                                  "x": 205
+                                },
+                                {
+                                  "x": 205,
+                                  "y": 16
+                                },
+                                {
+                                  "x": 195,
+                                  "y": 16
+                                }
+                              ]
+                            },
+                            "text": "8"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "IS18\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/03yy70",
+            "score": 1.29092,
+            "description": "Kunsthistorisches Museum"
+          },
+          {
+            "entityId": "/m/02vl3bh",
+            "score": 1.27284,
+            "description": "The Resurrection"
+          },
+          {
+            "entityId": "/m/0crhsqw",
+            "score": 0.72839,
+            "description": "Resurrection of Jesus"
+          },
+          {
+            "entityId": "/m/06lcm",
+            "score": 0.71789,
+            "description": "Resurrection"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.5391121,
+            "description": "Painting"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://img4.uploadhouse.com/fileuploads/15761/157610040c86f658525f433f9a95f59c84f9b989.jpg"
+          },
+          {
+            "url": "http://www.1800monuments.com/6/Resurrection_Etching_12.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/fa/6f/2c/fa6f2c2951e9bd2faf52b645cfa5f2a9.jpg"
+          },
+          {
+            "url": "http://k30.kn3.net/taringa/E/8/B/5/C/1/cardagra/B5F.jpg"
+          },
+          {
+            "url": "https://www.awesomestories.com/images/user/f2396e598b.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://upload.wikimedia.org/wikipedia/commons/4/4f/Albrecht_Altdorfer_-_The_Resurrection_of_Christ_-_Google_Art_Project.jpg"
+          },
+          {
+            "url": "http://press.khm.at/fileadmin/content/KHM/Presse/2015/Jahresvorschau_2015/GG_6796_CD.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/ae/89/18/ae8918328b7b942bac1220d0b2de3117.jpg"
+          },
+          {
+            "url": "http://img4.uploadhouse.com/fileuploads/15761/157610040c86f658525f433f9a95f59c84f9b989.jpg"
+          },
+          {
+            "url": "http://www.handgemalt24.de/media/images/product/popup_eng/Resurrection-of-Christ-Albrecht-Altdorfer-18849.jpg?xaf26a=11b849ddf1427dfb5708e0f699ca0d2d"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Albrecht_Altdorfer"
+          },
+          {
+            "url": "http://www.arthistoryarchive.com/arthistory/christian/Albrecht-Altdorfer.html"
+          },
+          {
+            "url": "https://www.awesomestories.com/asset/view/The-Resurrection-of-Christ-Albrecht-Altdorfer"
+          },
+          {
+            "url": "https://www.google.com/culturalinstitute/beta/entity/m0zjp"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Albrecht_Altdorfer_029.jpg"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Albrecht_Altdorfer_-_The_Resurrection_of_Christ_-_WGA00226.jpg/251px-Albrecht_Altdorfer_-_The_Resurrection_of_Christ_-_WGA00226.jpg"
+          },
+          {
+            "url": "http://www.linesandcolors.com/images/2007-04/altdorfer_450.jpg"
+          },
+          {
+            "url": "http://www.malerei-meisterwerke.de/images/albrecht-altdorfer-floriansfolge-szenen-zur-legende-des-hl.-florian-szene-gefangennahme-des-hl.-florian-detail-00052.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/0a/a9/1f/0aa91fd12e2c998e1e71343599e852b6.jpg"
+          },
+          {
+            "url": "http://media.gettyimages.com/illustrations/holy-night-15201525-by-albrecht-altdorfer-illustration-id153048877?s=170667a"
+          }
+        ]
+      }
+    }
+  ]
+}

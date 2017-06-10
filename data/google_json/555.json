@@ -1,0 +1,266 @@
+{
+  "responses": [
+    {
+      "logoAnnotations": [
+        {
+          "description": "The Story of St. Nicholas",
+          "score": 0.9366385,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 12,
+                "y": 19
+              },
+              {
+                "x": 382,
+                "y": 19
+              },
+              {
+                "x": 382,
+                "y": 379
+              },
+              {
+                "x": 12,
+                "y": 379
+              }
+            ]
+          }
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.8797308
+        },
+        {
+          "mid": "/m/04rjz",
+          "description": "middle ages",
+          "score": 0.5548235
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 135,
+                "green": 117,
+                "blue": 89
+              },
+              "score": 0.20925122,
+              "pixelFraction": 0.089976005
+            },
+            {
+              "color": {
+                "red": 157,
+                "green": 110,
+                "blue": 66
+              },
+              "score": 0.07010485,
+              "pixelFraction": 0.025193281
+            },
+            {
+              "color": {
+                "red": 223,
+                "green": 225,
+                "blue": 221
+              },
+              "score": 0.03465161,
+              "pixelFraction": 0.037056785
+            },
+            {
+              "color": {
+                "red": 99,
+                "green": 83,
+                "blue": 57
+              },
+              "score": 0.07220769,
+              "pixelFraction": 0.05951746
+            },
+            {
+              "color": {
+                "red": 115,
+                "green": 75,
+                "blue": 53
+              },
+              "score": 0.05928626,
+              "pixelFraction": 0.030991735
+            },
+            {
+              "color": {
+                "red": 149,
+                "green": 108,
+                "blue": 84
+              },
+              "score": 0.057929184,
+              "pixelFraction": 0.028725673
+            },
+            {
+              "color": {
+                "red": 169,
+                "green": 152,
+                "blue": 121
+              },
+              "score": 0.055028863,
+              "pixelFraction": 0.07424687
+            },
+            {
+              "color": {
+                "red": 62,
+                "green": 51,
+                "blue": 29
+              },
+              "score": 0.051250007,
+              "pixelFraction": 0.04692082
+            },
+            {
+              "color": {
+                "red": 206,
+                "green": 192,
+                "blue": 162
+              },
+              "score": 0.045324847,
+              "pixelFraction": 0.041322313
+            },
+            {
+              "color": {
+                "red": 196,
+                "green": 142,
+                "blue": 95
+              },
+              "score": 0.041325163,
+              "pixelFraction": 0.020261263
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 388
+                },
+                {
+                  "y": 388
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/02vxg9d",
+            "score": 14.42112,
+            "description": "Galleria Nazionale dell'Umbria"
+          },
+          {
+            "entityId": "/m/0dw4gv",
+            "score": 1.50796,
+            "description": "Basilica di San Nicola"
+          },
+          {
+            "entityId": "/m/0glpfxr",
+            "score": 1.30116,
+            "description": "Perugia Altarpiece"
+          },
+          {
+            "entityId": "/g/11c3tf_xd8",
+            "score": 0.74664,
+            "description": "The Story of St. Nicholas: The Liberation of Three Innocents"
+          },
+          {
+            "entityId": "/m/0719f",
+            "score": 0.40965,
+            "description": "Saint"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://4.bp.blogspot.com/-TQ0wr7c_edk/TuKICjL000I/AAAAAAAAFGw/6CqUrn3e0YY/s1600/the+libertation+of+three+innocent+perugia+fra+angelico.jpg"
+          },
+          {
+            "url": "http://cdn.playbuzz.com/cdn/0252c869-1849-4c0e-804c-82035517d163/e6032733-1618-4caa-8e23-649e9d517849.jpg"
+          },
+          {
+            "url": "https://static1.squarespace.com/static/53f353f4e4b0dbe1ff73ced2/54950654e4b0ba0bff5718e7/54950658e4b0bc65ffa3f77b/1419052633775/15+St+Nicholas+saving+three+innocent+Knights+from+Beheading+3.jpg"
+          },
+          {
+            "url": "http://prolviv.com/wp-content/uploads/2016/12/15StNicholassavingthreeinnocentKnightsfromBeheading31.jpg?x20773"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Fra_Angelico_-_The_Story_of_St_Nicholas_-_The_Liberation_of_Three_Innocents_-_WGA00507.jpg/790px-Fra_Angelico_-_The_Story_of_St_Nicholas_-_The_Liberation_of_Three_Innocents_-_WGA00507.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://art.c-rover.com/ang/pict/angelico0870.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Angelico%2C_san_nicola_salva_tre_condannati_a_morte%2C_polittico_di_Perugia.jpg"
+          },
+          {
+            "url": "http://c-rover.narod.ru/ang/pict/angelico0870.jpg"
+          },
+          {
+            "url": "http://1.bp.blogspot.com/-I0tJCrRftMY/TuKFvbdC77I/AAAAAAAAFGg/ag4MkMo7OBY/s1600/perugia+triptych++st.nicolas+frees+the+innocent+1437.jpg"
+          },
+          {
+            "url": "http://4.bp.blogspot.com/-TQ0wr7c_edk/TuKICjL000I/AAAAAAAAFGw/6CqUrn3e0YY/s1600/the+libertation+of+three+innocent+perugia+fra+angelico.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.italyheritage.com/traditions/december/saint-nicholas-santaclaus.htm"
+          },
+          {
+            "url": "https://www.franciscanmedia.org/saint-nicholas-fact-or-fiction/"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Fra_Angelico_-_The_Story_of_St_Nicholas_-_WGA00506.jpg"
+          },
+          {
+            "url": "http://www.stnicholascenter.org/pages/books-general/"
+          },
+          {
+            "url": "https://www.wikiart.org/en/fra-angelico/the-story-of-st-nicholas-the-liberation-of-three-innocents-1448"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/3f/5e/ce/3f5ece7a0f4db5f2a0f6a73effcb45ab.jpg"
+          },
+          {
+            "url": "http://l7.alamy.com/zooms/a9d38a8607bd4349bb3723664985eed2/the-story-of-st-nicholas-fresco-by-fra-angelico-c1400-55-italian-painter-hhg80t.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/47/68/43/4768433d09a3123d8ddfc5f7182e54a7.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/6c/34/22/6c34224b2ab7e593ed6085d3053d2bb9.jpg"
+          },
+          {
+            "url": "http://img.wikioo.org/ADC/Art-ImgScreen-3.nsf/O/A-8YE38N/$FILE/Fra_angelico-the_story_of_st_nicholas_perugia_altarpiece_.Jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

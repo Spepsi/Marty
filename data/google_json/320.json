@@ -1,0 +1,649 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0f85g",
+          "description": "basilica",
+          "score": 0.73428446
+        },
+        {
+          "mid": "/m/0hyb2",
+          "description": "altar",
+          "score": 0.7203713
+        },
+        {
+          "mid": "/m/02nvjx",
+          "description": "place of worship",
+          "score": 0.616281
+        },
+        {
+          "mid": "/m/0173tc",
+          "description": "chapel",
+          "score": 0.55680305
+        },
+        {
+          "mid": "/m/0djmp",
+          "description": "ancient history",
+          "score": 0.5369896
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "ja",
+          "description": "ADA\n更\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 28,
+                "y": 73
+              },
+              {
+                "x": 250,
+                "y": 73
+              },
+              {
+                "x": 250,
+                "y": 189
+              },
+              {
+                "x": 28,
+                "y": 189
+              }
+            ]
+          }
+        },
+        {
+          "description": "ADA",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 28,
+                "y": 73
+              },
+              {
+                "x": 78,
+                "y": 73
+              },
+              {
+                "x": 78,
+                "y": 91
+              },
+              {
+                "x": 28,
+                "y": 91
+              }
+            ]
+          }
+        },
+        {
+          "description": "更",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 225,
+                "y": 189
+              },
+              {
+                "x": 224,
+                "y": 159
+              },
+              {
+                "x": 249,
+                "y": 158
+              },
+              {
+                "x": 250,
+                "y": 188
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 43,
+                "green": 21,
+                "blue": 21
+              },
+              "score": 0.1946963,
+              "pixelFraction": 0.070458405
+            },
+            {
+              "color": {
+                "red": 151,
+                "green": 110,
+                "blue": 86
+              },
+              "score": 0.10915248,
+              "pixelFraction": 0.07164686
+            },
+            {
+              "color": {
+                "red": 33,
+                "green": 21,
+                "blue": 19
+              },
+              "score": 0.103302,
+              "pixelFraction": 0.16349745
+            },
+            {
+              "color": {
+                "red": 49,
+                "green": 23,
+                "blue": 13
+              },
+              "score": 0.08783259,
+              "pixelFraction": 0.036162987
+            },
+            {
+              "color": {
+                "red": 71,
+                "green": 41,
+                "blue": 27
+              },
+              "score": 0.069850884,
+              "pixelFraction": 0.04541596
+            },
+            {
+              "color": {
+                "red": 115,
+                "green": 78,
+                "blue": 59
+              },
+              "score": 0.056168273,
+              "pixelFraction": 0.06426146
+            },
+            {
+              "color": {
+                "red": 60,
+                "green": 38,
+                "blue": 37
+              },
+              "score": 0.050303936,
+              "pixelFraction": 0.018505942
+            },
+            {
+              "color": {
+                "red": 183,
+                "green": 143,
+                "blue": 117
+              },
+              "score": 0.047073644,
+              "pixelFraction": 0.03353141
+            },
+            {
+              "color": {
+                "red": 58,
+                "green": 43,
+                "blue": 39
+              },
+              "score": 0.04505907,
+              "pixelFraction": 0.046349745
+            },
+            {
+              "color": {
+                "red": 137,
+                "green": 115,
+                "blue": 93
+              },
+              "score": 0.03135205,
+              "pixelFraction": 0.060271647
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 306
+                },
+                {
+                  "y": 306
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "ja"
+                }
+              ]
+            },
+            "width": 400,
+            "height": 307,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "en"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 28,
+                      "y": 73
+                    },
+                    {
+                      "x": 78,
+                      "y": 73
+                    },
+                    {
+                      "x": 78,
+                      "y": 91
+                    },
+                    {
+                      "x": 28,
+                      "y": 91
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "en"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 28,
+                          "y": 73
+                        },
+                        {
+                          "x": 78,
+                          "y": 73
+                        },
+                        {
+                          "x": 78,
+                          "y": 91
+                        },
+                        {
+                          "x": 28,
+                          "y": 91
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 28,
+                              "y": 73
+                            },
+                            {
+                              "x": 78,
+                              "y": 73
+                            },
+                            {
+                              "x": 78,
+                              "y": 91
+                            },
+                            {
+                              "x": 28,
+                              "y": 91
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "ja"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 28,
+                                  "y": 73
+                                },
+                                {
+                                  "x": 45,
+                                  "y": 73
+                                },
+                                {
+                                  "x": 45,
+                                  "y": 91
+                                },
+                                {
+                                  "x": 28,
+                                  "y": 91
+                                }
+                              ]
+                            },
+                            "text": "A"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "ja"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 48,
+                                  "y": 75
+                                },
+                                {
+                                  "x": 62,
+                                  "y": 75
+                                },
+                                {
+                                  "x": 62,
+                                  "y": 91
+                                },
+                                {
+                                  "x": 48,
+                                  "y": 91
+                                }
+                              ]
+                            },
+                            "text": "D"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "ja"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 64,
+                                  "y": 75
+                                },
+                                {
+                                  "x": 78,
+                                  "y": 75
+                                },
+                                {
+                                  "x": 78,
+                                  "y": 91
+                                },
+                                {
+                                  "x": 64,
+                                  "y": 91
+                                }
+                              ]
+                            },
+                            "text": "A"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              },
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "ja"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 224,
+                      "y": 159
+                    },
+                    {
+                      "x": 249,
+                      "y": 158
+                    },
+                    {
+                      "x": 250,
+                      "y": 188
+                    },
+                    {
+                      "x": 225,
+                      "y": 189
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "ja"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 224,
+                          "y": 158
+                        },
+                        {
+                          "x": 250,
+                          "y": 158
+                        },
+                        {
+                          "x": 250,
+                          "y": 189
+                        },
+                        {
+                          "x": 224,
+                          "y": 189
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "ja"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 225,
+                              "y": 189
+                            },
+                            {
+                              "x": 224,
+                              "y": 159
+                            },
+                            {
+                              "x": 249,
+                              "y": 158
+                            },
+                            {
+                              "x": 250,
+                              "y": 188
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "ja"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 225,
+                                  "y": 189
+                                },
+                                {
+                                  "x": 224,
+                                  "y": 159
+                                },
+                                {
+                                  "x": 249,
+                                  "y": 158
+                                },
+                                {
+                                  "x": 250,
+                                  "y": 188
+                                }
+                              ]
+                            },
+                            "text": "更"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "ADA\n更\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/01fsd9",
+            "score": 7.9416,
+            "description": "Santa Maria Novella"
+          },
+          {
+            "entityId": "/g/1210xp_x",
+            "score": 0.83612
+          },
+          {
+            "entityId": "/m/04rjz",
+            "score": 0.78756,
+            "description": "Middle Ages"
+          },
+          {
+            "entityId": "/m/02_3k",
+            "score": 0.49635,
+            "description": "Fresco"
+          },
+          {
+            "entityId": "/m/02g_4",
+            "score": 0.38825,
+            "description": "Dominican Order"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://m.blog.hu/wu/wunderkammer/image/andrea-da-firenze_moses.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/detail_s/a/andrea/firenze/spanish/3west2.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://textessurlesartsplastiques2.files.wordpress.com/2012/07/chap-des-esp-triomphe-de-st-thomas.jpg"
+          },
+          {
+            "url": "http://upload.wikimedia.org/wikipedia/commons/0/08/Andrea_di_Bonaiuto._Santa_Maria_Novella_1366-7_fresco_0016.jpg"
+          },
+          {
+            "url": "https://userscontent2.emaze.com/images/59d39e56-c1fd-4246-bd44-afcf10e32c61/6a3dd472-cfdb-425e-954c-e767e2ce5571.jpg"
+          },
+          {
+            "url": "http://4.bp.blogspot.com/-1S7SGMdWOpA/UuBplbX5SJI/AAAAAAAASRk/JpYE3Pdd_iA/s1600/Andrea_di_Bonaiuto-14th+century_Santa_Maria_Novella_1366-7_fresco.jpg"
+          },
+          {
+            "url": "http://cdn.quotesgram.com/img/91/85/2045416663-St_Thomas_Aquinas.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://www.pinterest.com/pin/326229566738686043/"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/326229566742945274/"
+          },
+          {
+            "url": "https://en.wikipedia.org/wiki/Thomas_Aquinas"
+          },
+          {
+            "url": "https://www.flickr.com/photos/hen-magonza/14479830285"
+          },
+          {
+            "url": "https://www.amazon.com/Ancient-Medieval-Literature/b?ie=UTF8&node=5391236011"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://www.cosmologia-arcaica.com/revue/didat/img/tron.gif"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/ca/d4/1e/cad41edf60a881d151cb93b29df46275.jpg"
+          },
+          {
+            "url": "https://tanogabo.com/wp-content/uploads/2014/01/Filippino-Lippi-Trionfo-di-San-Tommaso-dAquino-sopra-gli-eretici.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/82/0a/ee/820aee949bfc11c845006bd2edb73f4a.jpg"
+          },
+          {
+            "url": "http://www.settemuse.it/pittori_opere_D/da_firenze_andrea/da_firenze_andrea_514_triumph_of_st_thomas_and_allegory_o.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

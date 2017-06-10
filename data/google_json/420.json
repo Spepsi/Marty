@@ -1,0 +1,303 @@
+{
+  "responses": [
+    {
+      "logoAnnotations": [
+        {
+          "description": "The Last Supper",
+          "score": 0.8636465,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 49,
+                "y": 13
+              },
+              {
+                "x": 327,
+                "y": 13
+              },
+              {
+                "x": 327,
+                "y": 228
+              },
+              {
+                "x": 49,
+                "y": 228
+              }
+            ]
+          }
+        },
+        {
+          "description": "The Last Supper (detail)",
+          "score": 0.83681786,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 65,
+                "y": 63
+              },
+              {
+                "x": 338,
+                "y": 63
+              },
+              {
+                "x": 338,
+                "y": 227
+              },
+              {
+                "x": 65,
+                "y": 227
+              }
+            ]
+          }
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/0cgh4",
+          "description": "building",
+          "score": 0.8128076
+        },
+        {
+          "mid": "/m/0173tc",
+          "description": "chapel",
+          "score": 0.68817765
+        },
+        {
+          "mid": "/m/0f85g",
+          "description": "basilica",
+          "score": 0.66197264
+        },
+        {
+          "mid": "/m/01sqnx",
+          "description": "byzantine architecture",
+          "score": 0.629132
+        },
+        {
+          "mid": "/m/0dpvm",
+          "description": "arch",
+          "score": 0.60133624
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 139,
+                "green": 120,
+                "blue": 92
+              },
+              "score": 0.26933336,
+              "pixelFraction": 0.20365025
+            },
+            {
+              "color": {
+                "red": 109,
+                "green": 73,
+                "blue": 55
+              },
+              "score": 0.11218751,
+              "pixelFraction": 0.04278438
+            },
+            {
+              "color": {
+                "red": 172,
+                "green": 151,
+                "blue": 124
+              },
+              "score": 0.0801567,
+              "pixelFraction": 0.18242784
+            },
+            {
+              "color": {
+                "red": 208,
+                "green": 190,
+                "blue": 161
+              },
+              "score": 0.07426876,
+              "pixelFraction": 0.09482173
+            },
+            {
+              "color": {
+                "red": 101,
+                "green": 82,
+                "blue": 60
+              },
+              "score": 0.062045638,
+              "pixelFraction": 0.07860781
+            },
+            {
+              "color": {
+                "red": 83,
+                "green": 51,
+                "blue": 35
+              },
+              "score": 0.052032664,
+              "pixelFraction": 0.022156198
+            },
+            {
+              "color": {
+                "red": 147,
+                "green": 108,
+                "blue": 83
+              },
+              "score": 0.05191394,
+              "pixelFraction": 0.024193548
+            },
+            {
+              "color": {
+                "red": 158,
+                "green": 107,
+                "blue": 67
+              },
+              "score": 0.04571952,
+              "pixelFraction": 0.010780985
+            },
+            {
+              "color": {
+                "red": 124,
+                "green": 75,
+                "blue": 38
+              },
+              "score": 0.033743374,
+              "pixelFraction": 0.010526316
+            },
+            {
+              "color": {
+                "red": 191,
+                "green": 139,
+                "blue": 95
+              },
+              "score": 0.02910021,
+              "pixelFraction": 0.0070458404
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 304
+                },
+                {
+                  "y": 304
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0fq44s",
+            "score": 13.00384,
+            "description": "San Salvi"
+          },
+          {
+            "entityId": "/g/1232jnd0",
+            "score": 11.25376,
+            "description": "Cenacolo di Andrea del Sarto"
+          },
+          {
+            "entityId": "/m/0jnz3",
+            "score": 5.8084,
+            "description": "The Last Supper"
+          },
+          {
+            "entityId": "/g/1th4_11j",
+            "score": 1.25064
+          },
+          {
+            "entityId": "/g/1tk204_w",
+            "score": 1.23652
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://corrierespettacolo.it/wp-content/uploads/Cenacolo-di-San-Salvi-_-affresco-di-Andrea-del-Sarto.jpg"
+          },
+          {
+            "url": "https://donhamlindotcom.files.wordpress.com/2016/02/the-last-supper-del-sarto.jpg"
+          },
+          {
+            "url": "https://i1.wp.com/www.wga.hu/art/a/andrea/sarto/2/lastsu.jpg"
+          },
+          {
+            "url": "http://www.enavance.org/wp-content/uploads/2014/04/Andrea_del_Sarto_-_The_Last_Supper.jpg"
+          },
+          {
+            "url": "http://4.bp.blogspot.com/-hv52gYRVYS0/VQWgz0YPW3I/AAAAAAAAEWI/taVNAnE1p1A/s1600/Andrea_del_Sarto.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://soloalsecondogrado.files.wordpress.com/2016/08/cenacolo-di-andrea-del-sarto-nel-museo-ex-refettorio-presso-la-chiesa-di-san-michele-a-san-salvi-firenze-a.jpg"
+          },
+          {
+            "url": "https://soloalsecondogrado.files.wordpress.com/2016/08/sam_2694.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Andrea_del_Sarto%2C_The_Last_Supper%2C_Convent_San_Salvi%2C_Florence_-_panoramio.jpg"
+          },
+          {
+            "url": "http://www.virgiliosieni.it/wp-content/uploads/2017/04/unnamed.jpg"
+          },
+          {
+            "url": "http://corrierespettacolo.it/wp-content/uploads/Cenacolo-di-San-Salvi-_-affresco-di-Andrea-del-Sarto.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.wga.hu/html_m/a/andrea/sarto/2/lastsu.html"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/Category:Last_Supper_by_Andrea_del_Sarto"
+          },
+          {
+            "url": "http://www.travelingintuscany.com/art/andreadelsarto.htm"
+          },
+          {
+            "url": "https://www.conceptualfinearts.com/cfa/2015/11/20/andrea-del-sarto-prised-at-the-frick-collection-but-his-masterpiece-is-yet-to-be-discovered-claimed-antonio-natali/"
+          },
+          {
+            "url": "http://www.turismo.intoscana.it/site/en/highlights/Florence-Andrea-del-Sarto-Last-Supper-Cenacolo/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/c3/a4/82/c3a482045cbb05028fe2d715f61366f0.jpg"
+          },
+          {
+            "url": "http://picture.yatego.com/images/4cdc1c666d0e95.3/41_00326233-kqh/andrea-del-sarto-abendmahl-55-x-38-kunstreprodu---.jpg"
+          },
+          {
+            "url": "http://www.atlantedellarteitaliana.it/immagine/00009/5279OP30AU9127.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Andrea_del_sarto%2C_utlima_cena_di_san_salvi%2C_01.JPG/525px-Andrea_del_sarto%2C_utlima_cena_di_san_salvi%2C_01.JPG"
+          },
+          {
+            "url": "http://www.florencia.es/immagini/Resize/HL_390/UltimaCena_AndreaDelSarto.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,479 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05fblh",
+          "description": "habitat",
+          "score": 0.96739703
+        },
+        {
+          "mid": "/m/07j7r",
+          "description": "tree",
+          "score": 0.8912088
+        },
+        {
+          "mid": "/m/07pw27b",
+          "description": "atmospheric phenomenon",
+          "score": 0.88289654
+        },
+        {
+          "mid": "/m/086mh",
+          "description": "winter",
+          "score": 0.8719117
+        },
+        {
+          "mid": "/m/023bbt",
+          "description": "wilderness",
+          "score": 0.8628085
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "en",
+          "description": "at\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 267,
+                "y": 111
+              },
+              {
+                "x": 276,
+                "y": 111
+              },
+              {
+                "x": 276,
+                "y": 118
+              },
+              {
+                "x": 267,
+                "y": 118
+              }
+            ]
+          }
+        },
+        {
+          "description": "at",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 267,
+                "y": 118
+              },
+              {
+                "x": 267,
+                "y": 111
+              },
+              {
+                "x": 276,
+                "y": 111
+              },
+              {
+                "x": 276,
+                "y": 118
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 218,
+                "green": 194,
+                "blue": 166
+              },
+              "score": 0.22632708,
+              "pixelFraction": 0.058716927
+            },
+            {
+              "color": {
+                "red": 172,
+                "green": 153,
+                "blue": 129
+              },
+              "score": 0.20240204,
+              "pixelFraction": 0.08735049
+            },
+            {
+              "color": {
+                "red": 243,
+                "green": 218,
+                "blue": 183
+              },
+              "score": 0.130227,
+              "pixelFraction": 0.013501269
+            },
+            {
+              "color": {
+                "red": 138,
+                "green": 119,
+                "blue": 96
+              },
+              "score": 0.12756859,
+              "pixelFraction": 0.093602754
+            },
+            {
+              "color": {
+                "red": 101,
+                "green": 83,
+                "blue": 64
+              },
+              "score": 0.05486243,
+              "pixelFraction": 0.06605654
+            },
+            {
+              "color": {
+                "red": 205,
+                "green": 196,
+                "blue": 187
+              },
+              "score": 0.046605386,
+              "pixelFraction": 0.05318956
+            },
+            {
+              "color": {
+                "red": 234,
+                "green": 224,
+                "blue": 215
+              },
+              "score": 0.030470077,
+              "pixelFraction": 0.02102211
+            },
+            {
+              "color": {
+                "red": 160,
+                "green": 154,
+                "blue": 148
+              },
+              "score": 0.02930937,
+              "pixelFraction": 0.05663284
+            },
+            {
+              "color": {
+                "red": 125,
+                "green": 118,
+                "blue": 111
+              },
+              "score": 0.024192456,
+              "pixelFraction": 0.08254802
+            },
+            {
+              "color": {
+                "red": 92,
+                "green": 82,
+                "blue": 75
+              },
+              "score": 0.022326382,
+              "pixelFraction": 0.06814063
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 287
+                },
+                {
+                  "y": 287
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "en"
+                }
+              ]
+            },
+            "width": 400,
+            "height": 288,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "en"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 267,
+                      "y": 111
+                    },
+                    {
+                      "x": 276,
+                      "y": 111
+                    },
+                    {
+                      "x": 276,
+                      "y": 118
+                    },
+                    {
+                      "x": 267,
+                      "y": 118
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "en"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 267,
+                          "y": 111
+                        },
+                        {
+                          "x": 276,
+                          "y": 111
+                        },
+                        {
+                          "x": 276,
+                          "y": 118
+                        },
+                        {
+                          "x": 267,
+                          "y": 118
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 267,
+                              "y": 118
+                            },
+                            {
+                              "x": 267,
+                              "y": 111
+                            },
+                            {
+                              "x": 276,
+                              "y": 111
+                            },
+                            {
+                              "x": 276,
+                              "y": 118
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 267,
+                                  "y": 118
+                                },
+                                {
+                                  "x": 267,
+                                  "y": 111
+                                },
+                                {
+                                  "x": 272,
+                                  "y": 111
+                                },
+                                {
+                                  "x": 272,
+                                  "y": 118
+                                }
+                              ]
+                            },
+                            "text": "a"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 273,
+                                  "y": 117
+                                },
+                                {
+                                  "x": 273,
+                                  "y": 111
+                                },
+                                {
+                                  "x": 276,
+                                  "y": 111
+                                },
+                                {
+                                  "x": 276,
+                                  "y": 117
+                                }
+                              ]
+                            },
+                            "text": "t"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "at\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/02rw_p_",
+            "score": 1.33956,
+            "description": "Landscape with the Flight into Egypt"
+          },
+          {
+            "entityId": "/m/042yqj",
+            "score": 0.6876,
+            "description": "Sonian Forest"
+          },
+          {
+            "entityId": "/g/1213hqpg",
+            "score": 0.6105,
+            "description": "Winter Landscape"
+          },
+          {
+            "entityId": "/m/025s3q0",
+            "score": 0.60262936,
+            "description": "Landscape"
+          },
+          {
+            "entityId": "/m/086mh",
+            "score": 0.56139606,
+            "description": "Winter"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://upload.wikimedia.org/wikipedia/commons/3/35/Denis_van_Alsloot_-_Winter_Landscape_in_the_F%C3%B4ret_de_Soignes%2C_with_the_Flight_Into_Egypt_-_WGA00197.jpg"
+          },
+          {
+            "url": "http://2.bp.blogspot.com/_FFWX-9lIIgY/TC3xqoJhRcI/AAAAAAAAAH4/YASxIryoJDc/s1600/winterla.jpg"
+          },
+          {
+            "url": "http://4.bp.blogspot.com/-Mu80ZFaLb1Q/UfpZ1g_xDTI/AAAAAAAAI1M/mbvB239O2Kw/s1600/Denis+van+Alsloot--Winter+Landscape+in+the+F%C3%B4ret+de+Soignes,+with+The+Flight+into+Egypt.1616.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/art/a/alsloot/winterla.jpg"
+          },
+          {
+            "url": "http://fr.wahooart.com/Art.nsf/O/8XZ8UA/$File/Denis-Van-Alsloot-Winter-Landscape-in-the-Foret-de-Soignes-with-the-Flight-Into-Egypt.JPG"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://upload.wikimedia.org/wikipedia/commons/3/35/Denis_van_Alsloot_-_Winter_Landscape_in_the_F%C3%B4ret_de_Soignes%2C_with_the_Flight_Into_Egypt_-_WGA00197.jpg"
+          },
+          {
+            "url": "http://2.bp.blogspot.com/_FFWX-9lIIgY/TC3xqoJhRcI/AAAAAAAAAH4/YASxIryoJDc/s1600/winterla.jpg"
+          },
+          {
+            "url": "http://4.bp.blogspot.com/-Mu80ZFaLb1Q/UfpZ1g_xDTI/AAAAAAAAI1M/mbvB239O2Kw/s1600/Denis+van+Alsloot--Winter+Landscape+in+the+F%C3%B4ret+de+Soignes,+with+The+Flight+into+Egypt.1616.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/art/a/alsloot/winterla.jpg"
+          },
+          {
+            "url": "http://3.bp.blogspot.com/-3tjxDeQlFdo/VTIjDV2-XvI/AAAAAAAAcbo/FN-AlwLHjHA/s1600/3%2BDenis_van_Alsloot_-_Winter_Landscape_in_the_F%C3%B4ret_de_Soignes%2C_with_the_Flight_Into_Egypt_-_WGA00197.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/Category:Denis_van_Alsloot"
+          },
+          {
+            "url": "http://www.invaluable.com/artist/alsloot-denis-van-gdj9xun2h4"
+          },
+          {
+            "url": "http://www.artnet.com/artists/denis-van-alsloot/past-auction-results/4"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/27584616446323631/"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Denis_van_Alsloot_-_Winter_Landscape_in_the_F%C3%B4ret_de_Soignes,_with_the_Flight_Into_Egypt_-_WGA00197.jpg"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Denis_van_Alsloot_-_Winter_Landscape_in_the_F%C3%B4ret_de_Soignes%2C_with_the_Flight_Into_Egypt_-_WGA00197.jpg/320px-Denis_van_Alsloot_-_Winter_Landscape_in_the_F%C3%B4ret_de_Soignes%2C_with_the_Flight_Into_Egypt_-_WGA00197.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/9e/f4/4a/9ef44af1a004ba9f8ce31267f69173a2.jpg"
+          },
+          {
+            "url": "http://img0.liveinternet.ru/images/attach/c/1//61/98/61098768_1278155435_Winter_Landscape_by_Denis_van_Alsloot_1610.jpg"
+          },
+          {
+            "url": "http://images.arcadja.com/alsloot_van_denis-paysage_d_hiver_avec_des_patineurs~OM12d300~10464_20121125_20364_240.jpg"
+          },
+          {
+            "url": "https://img-fotki.yandex.ru/get/15497/234433779.274/0_1014e2_b7d771b1_XXXL.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

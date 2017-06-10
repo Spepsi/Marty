@@ -1,0 +1,440 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0n68_",
+          "description": "structure",
+          "score": 0.8570578
+        },
+        {
+          "mid": "/m/02wtjj",
+          "description": "stone carving",
+          "score": 0.80909574
+        },
+        {
+          "mid": "/m/0f85g",
+          "description": "basilica",
+          "score": 0.75664616
+        },
+        {
+          "mid": "/m/0cfs8",
+          "description": "cathedral",
+          "score": 0.69424593
+        },
+        {
+          "mid": "/m/02nvjx",
+          "description": "place of worship",
+          "score": 0.5934351
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "en",
+          "description": "a\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 167,
+                "y": 383
+              },
+              {
+                "x": 173,
+                "y": 383
+              },
+              {
+                "x": 173,
+                "y": 391
+              },
+              {
+                "x": 167,
+                "y": 391
+              }
+            ]
+          }
+        },
+        {
+          "description": "a",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 168,
+                "y": 383
+              },
+              {
+                "x": 174,
+                "y": 383
+              },
+              {
+                "x": 174,
+                "y": 391
+              },
+              {
+                "x": 168,
+                "y": 391
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 172,
+                "green": 153,
+                "blue": 124
+              },
+              "score": 0.3067391,
+              "pixelFraction": 0.0422043
+            },
+            {
+              "color": {
+                "red": 127,
+                "green": 120,
+                "blue": 109
+              },
+              "score": 0.16735831,
+              "pixelFraction": 0.2077957
+            },
+            {
+              "color": {
+                "red": 128,
+                "green": 119,
+                "blue": 101
+              },
+              "score": 0.15142658,
+              "pixelFraction": 0.10107527
+            },
+            {
+              "color": {
+                "red": 160,
+                "green": 153,
+                "blue": 142
+              },
+              "score": 0.14017943,
+              "pixelFraction": 0.100672044
+            },
+            {
+              "color": {
+                "red": 96,
+                "green": 89,
+                "blue": 72
+              },
+              "score": 0.08008834,
+              "pixelFraction": 0.074059136
+            },
+            {
+              "color": {
+                "red": 93,
+                "green": 87,
+                "blue": 77
+              },
+              "score": 0.06952231,
+              "pixelFraction": 0.18991935
+            },
+            {
+              "color": {
+                "red": 201,
+                "green": 180,
+                "blue": 147
+              },
+              "score": 0.035983525,
+              "pixelFraction": 0.0022849462
+            },
+            {
+              "color": {
+                "red": 61,
+                "green": 55,
+                "blue": 45
+              },
+              "score": 0.018540626,
+              "pixelFraction": 0.13346775
+            },
+            {
+              "color": {
+                "red": 61,
+                "green": 55,
+                "blue": 40
+              },
+              "score": 0.015006345,
+              "pixelFraction": 0.022580646
+            },
+            {
+              "color": {
+                "red": 188,
+                "green": 180,
+                "blue": 171
+              },
+              "score": 0.014377923,
+              "pixelFraction": 0.019489247
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 191
+                },
+                {
+                  "x": 191,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "en"
+                }
+              ]
+            },
+            "width": 192,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "en"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 174,
+                      "y": 383
+                    },
+                    {
+                      "x": 174,
+                      "y": 391
+                    },
+                    {
+                      "x": 168,
+                      "y": 391
+                    },
+                    {
+                      "x": 168,
+                      "y": 383
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "en"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 167,
+                          "y": 383
+                        },
+                        {
+                          "x": 173,
+                          "y": 383
+                        },
+                        {
+                          "x": 173,
+                          "y": 391
+                        },
+                        {
+                          "x": 167,
+                          "y": 391
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 168,
+                              "y": 383
+                            },
+                            {
+                              "x": 174,
+                              "y": 383
+                            },
+                            {
+                              "x": 174,
+                              "y": 391
+                            },
+                            {
+                              "x": 168,
+                              "y": 391
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 168,
+                                  "y": 383
+                                },
+                                {
+                                  "x": 174,
+                                  "y": 383
+                                },
+                                {
+                                  "x": 174,
+                                  "y": 391
+                                },
+                                {
+                                  "x": 168,
+                                  "y": 391
+                                }
+                              ]
+                            },
+                            "text": "a"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "a\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0jjw",
+            "score": 0.70257,
+            "description": "Art"
+          },
+          {
+            "entityId": "/m/0194x",
+            "score": 0.70137,
+            "description": "Baroque"
+          },
+          {
+            "entityId": "/m/02_3k",
+            "score": 0.70102,
+            "description": "Fresco"
+          },
+          {
+            "entityId": "/m/026fkp9",
+            "score": 0.70042,
+            "description": "Web Gallery of Art"
+          },
+          {
+            "entityId": "/m/0f85g",
+            "score": 0.6100715,
+            "description": "Basilica"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://www.wga.hu/preview/b/baciccio/ap_fran.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/preview_s/b/baciccio/ap_fran.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://68.media.tumblr.com/06f7aedb32ba4661df9b83003b64dab0/tumblr_nzcvdxCDvx1tb40lbo1_500.jpg"
+          },
+          {
+            "url": "http://www.copypaste.am/wp-content/uploads/2016/02/bKMC2b-CF-U-358.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/ac/99/a0/ac99a0d7144735e894c33aac401e421f.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/art/b/baciccio/ap_fran.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/preview/b/baciccio/ap_fran.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.wga.hu/frames-e.html?/html/b/baciccio/index.html"
+          },
+          {
+            "url": "http://www.wga.hu/html_m/b/baciccio/"
+          },
+          {
+            "url": "https://www.tumblr.com/tagged/heaven%27s-art"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/567735096762743822/"
+          },
+          {
+            "url": "https://www.tumblr.com/tagged/gold-ceiling"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://us.123rf.com/450wm/rkris/rkris1402/rkris140200002/25983217-baroque-style-lion-door-knob.jpg?ver=6"
+          },
+          {
+            "url": "http://ce.victoria.ac.nz/Content/Img/Baroque%20Rome%20-%20Barberini%20Arms.jpg"
+          },
+          {
+            "url": "http://media.gettyimages.com/photos/ultra-baroque-architecture-picture-id571872799?s=170667a"
+          },
+          {
+            "url": "https://thumbs.dreamstime.com/x/baroque-coloured-marble-decoration-detail-sicilian-church-architecture-colored-sculpture-column-angels-mythological-70119814.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Baroque_statues_in_San_Giovanni_in_Laterano_01.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

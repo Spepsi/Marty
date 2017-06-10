@@ -1,0 +1,439 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.71084404
+        },
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.6561727
+        },
+        {
+          "mid": "/m/0djmp",
+          "description": "ancient history",
+          "score": 0.53945357
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "zh",
+          "description": "矿\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 192,
+                "y": 351
+              },
+              {
+                "x": 209,
+                "y": 351
+              },
+              {
+                "x": 209,
+                "y": 364
+              },
+              {
+                "x": 192,
+                "y": 364
+              }
+            ]
+          }
+        },
+        {
+          "description": "矿",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 193,
+                "y": 352
+              },
+              {
+                "x": 209,
+                "y": 351
+              },
+              {
+                "x": 210,
+                "y": 363
+              },
+              {
+                "x": 194,
+                "y": 364
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 194,
+                "green": 158,
+                "blue": 96
+              },
+              "score": 0.26349956,
+              "pixelFraction": 0.12512733
+            },
+            {
+              "color": {
+                "red": 117,
+                "green": 75,
+                "blue": 55
+              },
+              "score": 0.08590402,
+              "pixelFraction": 0.123089984
+            },
+            {
+              "color": {
+                "red": 186,
+                "green": 73,
+                "blue": 57
+              },
+              "score": 0.0064517637,
+              "pixelFraction": 0.00084889645
+            },
+            {
+              "color": {
+                "red": 193,
+                "green": 149,
+                "blue": 95
+              },
+              "score": 0.1014167,
+              "pixelFraction": 0.053056028
+            },
+            {
+              "color": {
+                "red": 212,
+                "green": 176,
+                "blue": 111
+              },
+              "score": 0.09269158,
+              "pixelFraction": 0.05882852
+            },
+            {
+              "color": {
+                "red": 147,
+                "green": 106,
+                "blue": 81
+              },
+              "score": 0.054957945,
+              "pixelFraction": 0.051188454
+            },
+            {
+              "color": {
+                "red": 150,
+                "green": 108,
+                "blue": 68
+              },
+              "score": 0.052907776,
+              "pixelFraction": 0.03862479
+            },
+            {
+              "color": {
+                "red": 81,
+                "green": 43,
+                "blue": 28
+              },
+              "score": 0.045552567,
+              "pixelFraction": 0.12224109
+            },
+            {
+              "color": {
+                "red": 120,
+                "green": 79,
+                "blue": 42
+              },
+              "score": 0.029630043,
+              "pixelFraction": 0.026910016
+            },
+            {
+              "color": {
+                "red": 138,
+                "green": 114,
+                "blue": 89
+              },
+              "score": 0.026443588,
+              "pixelFraction": 0.037691
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 306
+                },
+                {
+                  "x": 306,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "zh-Hans"
+                }
+              ]
+            },
+            "width": 307,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "zh-Hans"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 209,
+                      "y": 351
+                    },
+                    {
+                      "x": 210,
+                      "y": 363
+                    },
+                    {
+                      "x": 194,
+                      "y": 364
+                    },
+                    {
+                      "x": 193,
+                      "y": 352
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "zh-Hans"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 192,
+                          "y": 351
+                        },
+                        {
+                          "x": 209,
+                          "y": 351
+                        },
+                        {
+                          "x": 209,
+                          "y": 364
+                        },
+                        {
+                          "x": 192,
+                          "y": 364
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "zh-Hans"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 193,
+                              "y": 352
+                            },
+                            {
+                              "x": 209,
+                              "y": 351
+                            },
+                            {
+                              "x": 210,
+                              "y": 363
+                            },
+                            {
+                              "x": 194,
+                              "y": 364
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "zh-Hans"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 193,
+                                  "y": 352
+                                },
+                                {
+                                  "x": 209,
+                                  "y": 351
+                                },
+                                {
+                                  "x": 210,
+                                  "y": 363
+                                },
+                                {
+                                  "x": 194,
+                                  "y": 364
+                                }
+                              ]
+                            },
+                            "text": "矿"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "矿\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/05f85by",
+            "score": 1.77608,
+            "description": "Christ Crucified"
+          },
+          {
+            "entityId": "/m/063_g3_",
+            "score": 1.40464,
+            "description": "Crucifixion of Jesus"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.98132074,
+            "description": "Painting"
+          },
+          {
+            "entityId": "/g/11b6wm7jl_",
+            "score": 0.75284,
+            "description": "Christ on the Cross"
+          },
+          {
+            "entityId": "/m/09hm0",
+            "score": 0.70079,
+            "description": "Crucifixion"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://www.youhuaaa.com/UploadFiles/images/Painting_Pic_Big/13/6397.jpg"
+          },
+          {
+            "url": "http://blogimg.hani.co.kr/editor/uploads/2016/08/13/108539_20294.jpg_M692.jpg"
+          },
+          {
+            "url": "https://www.arab-painting.com/pic/Oil%20Painting%20Masterpieces%20on%20Canvas/Alsloot%20Denys%20van_Belgium_1570-1626/0-Christ-On-The-Cross-1520-Flemish-Denis-van-Alsloot.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/40/00/1a/40001a6a8f7fb50ccc9edd0f8ca4ebfc.jpg"
+          },
+          {
+            "url": "http://image96.360doc.com/DownloadImg/2016/04/1905/70059824_17"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/be/1e/73/be1e731a746fac1ff2432c791d463600.jpg"
+          },
+          {
+            "url": "https://miglieruolo.files.wordpress.com/2013/06/altdorfer-albrecht-1480-1538altdorfer4.jpg"
+          },
+          {
+            "url": "http://www.youhuaaa.com/UploadFiles/images/Painting_Pic_Big/13/6397.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/be/1e/73/be1e731a746fac1ff2432c791d463600.jpg"
+          },
+          {
+            "url": "http://slideplayer.it/2310463/8/images/14/ALBRECH+ALTDORFER.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://www.pinterest.com/explore/christ-on-the-cross/"
+          },
+          {
+            "url": "https://in.pinterest.com/explore/christ-on-the-cross/"
+          },
+          {
+            "url": "https://www.ibiblio.org/wm/paint/auth/altdorfer/christ-cross/"
+          },
+          {
+            "url": "http://www.outpost-art.org/christ-on-the-cross-p-715.html"
+          },
+          {
+            "url": "http://www.canvaz.com/gallery/14737.htm"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Albrecht_Altdorfer_Christ_on_the_Cross.jpg/369px-Albrecht_Altdorfer_Christ_on_the_Cross.jpg"
+          },
+          {
+            "url": "https://www.ibiblio.org/wm/paint/auth/altdorfer/christ-cross/christ-cross-det1.jpg"
+          },
+          {
+            "url": "http://3.bp.blogspot.com/-bie0nk2PPUM/T2YDO-bvHRI/AAAAAAAABtU/UwoyCyrLm5g/s1600/RaisingOfTheCross%2Bby%2BBREU%2BJorg%2Bthe%2BElder.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/45/a9/1b/45a91b5d4124773faa41c062700cf5c6.jpg"
+          },
+          {
+            "url": "http://afaithfulpath.files.wordpress.com/2012/05/hans_multscher_-_christ_carrying_the_cross_-_wga16327.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

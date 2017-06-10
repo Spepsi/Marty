@@ -1,0 +1,443 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0cgh4",
+          "description": "building",
+          "score": 0.82514614
+        },
+        {
+          "mid": "/m/02pvbb",
+          "description": "mansion",
+          "score": 0.7278026
+        },
+        {
+          "mid": "/m/038t8_",
+          "description": "estate",
+          "score": 0.6710736
+        },
+        {
+          "mid": "/m/05zp8",
+          "description": "palace",
+          "score": 0.563099
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "zh",
+          "description": "旌\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 280,
+                "y": 219
+              },
+              {
+                "x": 286,
+                "y": 219
+              },
+              {
+                "x": 286,
+                "y": 227
+              },
+              {
+                "x": 280,
+                "y": 227
+              }
+            ]
+          }
+        },
+        {
+          "description": "旌",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 280,
+                "y": 219
+              },
+              {
+                "x": 286,
+                "y": 219
+              },
+              {
+                "x": 286,
+                "y": 227
+              },
+              {
+                "x": 280,
+                "y": 227
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 134,
+                "green": 117,
+                "blue": 97
+              },
+              "score": 0.2244837,
+              "pixelFraction": 0.06761786
+            },
+            {
+              "color": {
+                "red": 96,
+                "green": 80,
+                "blue": 62
+              },
+              "score": 0.1743152,
+              "pixelFraction": 0.16101462
+            },
+            {
+              "color": {
+                "red": 167,
+                "green": 149,
+                "blue": 128
+              },
+              "score": 0.15581623,
+              "pixelFraction": 0.035773367
+            },
+            {
+              "color": {
+                "red": 69,
+                "green": 54,
+                "blue": 36
+              },
+              "score": 0.08172786,
+              "pixelFraction": 0.11035291
+            },
+            {
+              "color": {
+                "red": 126,
+                "green": 118,
+                "blue": 111
+              },
+              "score": 0.06338565,
+              "pixelFraction": 0.15432864
+            },
+            {
+              "color": {
+                "red": 157,
+                "green": 152,
+                "blue": 148
+              },
+              "score": 0.062294856,
+              "pixelFraction": 0.07588916
+            },
+            {
+              "color": {
+                "red": 142,
+                "green": 159,
+                "blue": 182
+              },
+              "score": 0.05773569,
+              "pixelFraction": 0.037496552
+            },
+            {
+              "color": {
+                "red": 210,
+                "green": 191,
+                "blue": 169
+              },
+              "score": 0.048614804,
+              "pixelFraction": 0.007444169
+            },
+            {
+              "color": {
+                "red": 94,
+                "green": 86,
+                "blue": 78
+              },
+              "score": 0.04472987,
+              "pixelFraction": 0.13709678
+            },
+            {
+              "color": {
+                "red": 201,
+                "green": 194,
+                "blue": 188
+              },
+              "score": 0.030943353,
+              "pixelFraction": 0.017852219
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 375
+                },
+                {
+                  "y": 375
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "zh-Hans"
+                }
+              ]
+            },
+            "width": 400,
+            "height": 376,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "zh-Hans"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 280,
+                      "y": 219
+                    },
+                    {
+                      "x": 286,
+                      "y": 219
+                    },
+                    {
+                      "x": 286,
+                      "y": 227
+                    },
+                    {
+                      "x": 280,
+                      "y": 227
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "zh-Hans"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 280,
+                          "y": 219
+                        },
+                        {
+                          "x": 286,
+                          "y": 219
+                        },
+                        {
+                          "x": 286,
+                          "y": 227
+                        },
+                        {
+                          "x": 280,
+                          "y": 227
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "zh-Hans"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 280,
+                              "y": 219
+                            },
+                            {
+                              "x": 286,
+                              "y": 219
+                            },
+                            {
+                              "x": 286,
+                              "y": 227
+                            },
+                            {
+                              "x": 280,
+                              "y": 227
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "zh-Hans"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 280,
+                                  "y": 219
+                                },
+                                {
+                                  "x": 286,
+                                  "y": 219
+                                },
+                                {
+                                  "x": 286,
+                                  "y": 227
+                                },
+                                {
+                                  "x": 280,
+                                  "y": 227
+                                }
+                              ]
+                            },
+                            "text": "旌"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "旌\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/026llym",
+            "score": 24.55744,
+            "description": "Palazzo Altieri"
+          },
+          {
+            "entityId": "/g/11bw1gq4xx",
+            "score": 22.79936,
+            "description": "Giustiniani Odescalchi Palace"
+          },
+          {
+            "entityId": "/g/120j3mp3",
+            "score": 11.05664,
+            "description": "Odescalchi Palace"
+          },
+          {
+            "entityId": "/g/11cnc9mwpn",
+            "score": 3.07912,
+            "description": "Palazzo Altieri"
+          },
+          {
+            "entityId": "/g/119vg8z3z",
+            "score": 2.37632
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://www.arteovunque.info/wp-content/uploads/2015/06/bassano-romano-palazzo-odescalchi-1.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/art/a/albani/2/phaeton1.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/ab/96/31/ab9631b970bb0cdf0b6d811373c9e53e.jpg"
+          },
+          {
+            "url": "http://www.polomusealelazio.beniculturali.it/getImage.php?id=804&w=800&h=600&f=0&.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/ab/96/31/ab9631b970bb0cdf0b6d811373c9e53e.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://www.arteovunque.info/wp-content/uploads/2015/06/bassano-romano-palazzo-odescalchi-1.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/art/a/albani/2/phaeton1.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/95/01/14/950114501bd3080ff96ca2fd3d2d0896.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/1f/10/4d/1f104dee6a3c00febe1be9ed70fa01d3.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/95/01/14/950114501bd3080ff96ca2fd3d2d0896.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://www.pinterest.com/pin/407786941234595368/"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/498281146244715436/"
+          },
+          {
+            "url": "https://www.pinterest.se/adiazsanz/frescos/"
+          },
+          {
+            "url": "http://feiea.eu/?page_id=1089"
+          },
+          {
+            "url": "http://feiea.eu/feiea/wp/?page_id=1089"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://www.wga.hu/art/a/albani/2/phaeton1.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/95/01/14/950114501bd3080ff96ca2fd3d2d0896.jpg"
+          },
+          {
+            "url": "http://www.canino.info/inserti/tuscia/luoghi/palazzo_bassano/galleria1.jpg"
+          },
+          {
+            "url": "http://www.polomusealelazio.beniculturali.it/getImage.php?id=796&w=800&h=600&f=0&.jpg"
+          },
+          {
+            "url": "https://fabrizioardito.it/wp-content/uploads/2015/06/Bassano-Palazzo-Giustiniani-Odescalchi-teatro.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

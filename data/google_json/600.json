@@ -1,0 +1,281 @@
+{
+  "responses": [
+    {
+      "logoAnnotations": [
+        {
+          "description": "Crucifixion with the Virgin and Sts. Cosmas, John the Evangelist and Peter Martyr",
+          "score": 0.9383867,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 3,
+                "y": 12
+              },
+              {
+                "x": 292,
+                "y": 12
+              },
+              {
+                "x": 292,
+                "y": 391
+              },
+              {
+                "x": 3,
+                "y": 391
+              }
+            ]
+          }
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/022hy",
+          "description": "crucifix",
+          "score": 0.7107549
+        },
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.68029475
+        },
+        {
+          "mid": "/m/0hyb2",
+          "description": "altar",
+          "score": 0.6215017
+        },
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.59464526
+        },
+        {
+          "mid": "/m/0djmp",
+          "description": "ancient history",
+          "score": 0.57728875
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 53,
+                "green": 87,
+                "blue": 108
+              },
+              "score": 0.2171739,
+              "pixelFraction": 0.06334005
+            },
+            {
+              "color": {
+                "red": 172,
+                "green": 153,
+                "blue": 124
+              },
+              "score": 0.04308273,
+              "pixelFraction": 0.10727487
+            },
+            {
+              "color": {
+                "red": 163,
+                "green": 117,
+                "blue": 76
+              },
+              "score": 0.011431678,
+              "pixelFraction": 0.004032258
+            },
+            {
+              "color": {
+                "red": 92,
+                "green": 123,
+                "blue": 141
+              },
+              "score": 0.15212345,
+              "pixelFraction": 0.03578629
+            },
+            {
+              "color": {
+                "red": 27,
+                "green": 61,
+                "blue": 83
+              },
+              "score": 0.096012235,
+              "pixelFraction": 0.049395163
+            },
+            {
+              "color": {
+                "red": 104,
+                "green": 123,
+                "blue": 126
+              },
+              "score": 0.08581178,
+              "pixelFraction": 0.102738574
+            },
+            {
+              "color": {
+                "red": 114,
+                "green": 151,
+                "blue": 174
+              },
+              "score": 0.049038026,
+              "pixelFraction": 0.0077284947
+            },
+            {
+              "color": {
+                "red": 105,
+                "green": 133,
+                "blue": 132
+              },
+              "score": 0.03803005,
+              "pixelFraction": 0.019657258
+            },
+            {
+              "color": {
+                "red": 210,
+                "green": 191,
+                "blue": 159
+              },
+              "score": 0.037876934,
+              "pixelFraction": 0.13079637
+            },
+            {
+              "color": {
+                "red": 134,
+                "green": 150,
+                "blue": 148
+              },
+              "score": 0.03588037,
+              "pixelFraction": 0.06644826
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 308
+                },
+                {
+                  "x": 308,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.29999998,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0272rmj",
+            "score": 17.99232,
+            "description": "San Marco, Florence"
+          },
+          {
+            "entityId": "/m/063_g3_",
+            "score": 0.75134,
+            "description": "Crucifixion of Jesus"
+          },
+          {
+            "entityId": "/g/121rjl3c",
+            "score": 0.74922,
+            "description": "Crucifixion and Saints"
+          },
+          {
+            "entityId": "/m/09hm0",
+            "score": 0.74237,
+            "description": "Crucifixion"
+          },
+          {
+            "entityId": "/g/11c3tg9mym",
+            "score": 0.6028,
+            "description": "Crucifixion with the Virgin and Sts. Cosmas, John the Evangelist and Peter Martyr"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://www.catholicculture.org/userfiles/images/FraAngelicocrucifixion.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/44/08/05/44080565068bc9d9564fabdb93c7ca05.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/74/f0/bc/74f0bc47c0f905513a0a972f3895b192.jpg"
+          },
+          {
+            "url": "http://www.kazimierz-przyjacieleoblubienca.bialystok.pl/images/pictures/duchowosc/przed_wielkanoca/m-38_cruci.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/56/db/b2/56dbb2d50ce348b5a1a4166cfb9eec62.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://www.ccwatershed.org/media/photologue/photos/084-Campion-Hymnal.png"
+          },
+          {
+            "url": "http://www.ccwatershed.org/media/photologue/photos/7222_PREVIEW_TE_IGITUR.png"
+          },
+          {
+            "url": "http://4.bp.blogspot.com/-rE0__u3Q0Kw/UVDg8I059wI/AAAAAAAACxE/OC0p9Ubqa1Y/s1600/crucifixion-with-the-virgin-and-sts-cosmas-john-the-evangelist-and-peter-martyr-1442.jpeg"
+          },
+          {
+            "url": "http://pds27.egloos.com/pds/201601/06/44/f0286144_568bef83ef781.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/art/a/angelico/09/cells/38_cruci.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.wga.hu/html_m/a/angelico/09/cells/38_cruci.html"
+          },
+          {
+            "url": "http://www.wga.hu/frames-e.html?/html/a/angelico/09/cells/index.html"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Fra_Angelico_-_Crucifixion_with_the_Virgin_and_Sts_Cosmas,_John_the_Evangelist_and_Peter_Martyr_(Cell_38)_-_WGA00552.jpg"
+          },
+          {
+            "url": "http://www.ebay.com/itm/Crucifixion-With-Virgin-Sts-Cosmas-John-Evangelist-Peter-Martyr-Fra-Angelico-/282283237569"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/299982025156058434/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Fra_Angelico_-_Crucifixion_with_the_Virgin_and_Sts_Cosmas%2C_John_the_Evangelist_and_Peter_Martyr_%28Cell_38%29_-_WGA00552.jpg/186px-Fra_Angelico_-_Crucifixion_with_the_Virgin_and_Sts_Cosmas%2C_John_the_Evangelist_and_Peter_Martyr_%28Cell_38%29_-_WGA00552.jpg"
+          },
+          {
+            "url": "https://classconnection.s3.amazonaws.com/546/flashcards/61546/jpg/321318192509558.jpg"
+          },
+          {
+            "url": "http://www.repro-tableaux.com/kunst/fra_angelico/crucifixion_bat43886_hi.jpg"
+          },
+          {
+            "url": "https://www.repro-tableaux.com/kunst/fra_angelico/crucifixion_bat43885_hi.jpg"
+          },
+          {
+            "url": "http://reproarte.com/images/stories/virtuemart/product/angelico_fra/0211-0090_kreuzigung_mit_dem_lanzenstich.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

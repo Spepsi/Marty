@@ -1,0 +1,594 @@
+{
+  "responses": [
+    {
+      "faceAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 128,
+                "y": 57
+              },
+              {
+                "x": 190,
+                "y": 57
+              },
+              {
+                "x": 190,
+                "y": 128
+              },
+              {
+                "x": 128,
+                "y": 128
+              }
+            ]
+          },
+          "fdBoundingPoly": {
+            "vertices": [
+              {
+                "x": 134,
+                "y": 75
+              },
+              {
+                "x": 184,
+                "y": 75
+              },
+              {
+                "x": 184,
+                "y": 125
+              },
+              {
+                "x": 134,
+                "y": 125
+              }
+            ]
+          },
+          "landmarks": [
+            {
+              "type": "LEFT_EYE",
+              "position": {
+                "x": 149.53905,
+                "y": 91.70985,
+                "z": 4.891205e-05
+              }
+            },
+            {
+              "type": "RIGHT_EYE",
+              "position": {
+                "x": 168.32262,
+                "y": 91.49119,
+                "z": -0.82219034
+              }
+            },
+            {
+              "type": "LEFT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 143.36325,
+                "y": 87.28759,
+                "z": 1.3704212
+              }
+            },
+            {
+              "type": "RIGHT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 154.13387,
+                "y": 87.9928,
+                "z": -4.4002447
+              }
+            },
+            {
+              "type": "LEFT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 163.14473,
+                "y": 87.97655,
+                "z": -4.79472
+              }
+            },
+            {
+              "type": "RIGHT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 174.37057,
+                "y": 87.34953,
+                "z": 0.04085707
+              }
+            },
+            {
+              "type": "MIDPOINT_BETWEEN_EYES",
+              "position": {
+                "x": 158.58257,
+                "y": 91.49048,
+                "z": -4.3721814
+              }
+            },
+            {
+              "type": "NOSE_TIP",
+              "position": {
+                "x": 158.6558,
+                "y": 103.75148,
+                "z": -8.250664
+              }
+            },
+            {
+              "type": "UPPER_LIP",
+              "position": {
+                "x": 158.53836,
+                "y": 109.965,
+                "z": -2.913576
+              }
+            },
+            {
+              "type": "LOWER_LIP",
+              "position": {
+                "x": 158.74197,
+                "y": 114.40876,
+                "z": -0.9466763
+              }
+            },
+            {
+              "type": "MOUTH_LEFT",
+              "position": {
+                "x": 151.83542,
+                "y": 111.07463,
+                "z": 2.597881
+              }
+            },
+            {
+              "type": "MOUTH_RIGHT",
+              "position": {
+                "x": 166.01085,
+                "y": 111.3149,
+                "z": 1.9827472
+              }
+            },
+            {
+              "type": "MOUTH_CENTER",
+              "position": {
+                "x": 158.69965,
+                "y": 111.96788,
+                "z": -1.2135001
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_RIGHT",
+              "position": {
+                "x": 164.12816,
+                "y": 103.81542,
+                "z": -1.0981125
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_LEFT",
+              "position": {
+                "x": 153.8324,
+                "y": 104.07236,
+                "z": -0.72895443
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_CENTER",
+              "position": {
+                "x": 158.63258,
+                "y": 106.04025,
+                "z": -3.553893
+              }
+            },
+            {
+              "type": "LEFT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 149.44693,
+                "y": 90.76499,
+                "z": -1.3987153
+              }
+            },
+            {
+              "type": "LEFT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 152.76572,
+                "y": 92.11624,
+                "z": -0.009294184
+              }
+            },
+            {
+              "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 149.22047,
+                "y": 93.01756,
+                "z": 0.04699076
+              }
+            },
+            {
+              "type": "LEFT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 145.92065,
+                "y": 91.67076,
+                "z": 1.8675348
+              }
+            },
+            {
+              "type": "LEFT_EYE_PUPIL",
+              "position": {
+                "x": 149.193,
+                "y": 91.9314,
+                "z": -0.41338256
+              }
+            },
+            {
+              "type": "RIGHT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 168.0468,
+                "y": 90.79288,
+                "z": -2.1957223
+              }
+            },
+            {
+              "type": "RIGHT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 171.87521,
+                "y": 91.71542,
+                "z": 0.7620807
+              }
+            },
+            {
+              "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 168.45879,
+                "y": 92.83613,
+                "z": -0.77186286
+              }
+            },
+            {
+              "type": "RIGHT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 164.28427,
+                "y": 92.074745,
+                "z": -0.5265057
+              }
+            },
+            {
+              "type": "RIGHT_EYE_PUPIL",
+              "position": {
+                "x": 168.274,
+                "y": 91.963875,
+                "z": -1.2592803
+              }
+            },
+            {
+              "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 148.60658,
+                "y": 85.55728,
+                "z": -3.0422125
+              }
+            },
+            {
+              "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 168.7651,
+                "y": 85.59181,
+                "z": -3.9067101
+              }
+            },
+            {
+              "type": "LEFT_EAR_TRAGION",
+              "position": {
+                "x": 138.71535,
+                "y": 97.71786,
+                "z": 24.509216
+              }
+            },
+            {
+              "type": "RIGHT_EAR_TRAGION",
+              "position": {
+                "x": 180.9312,
+                "y": 97.914055,
+                "z": 22.714998
+              }
+            },
+            {
+              "type": "FOREHEAD_GLABELLA",
+              "position": {
+                "x": 158.60118,
+                "y": 87.85283,
+                "z": -5.3199177
+              }
+            },
+            {
+              "type": "CHIN_GNATHION",
+              "position": {
+                "x": 158.88808,
+                "y": 123.39609,
+                "z": 3.0086205
+              }
+            },
+            {
+              "type": "CHIN_LEFT_GONION",
+              "position": {
+                "x": 140.47691,
+                "y": 110.594315,
+                "z": 18.577133
+              }
+            },
+            {
+              "type": "CHIN_RIGHT_GONION",
+              "position": {
+                "x": 178.6195,
+                "y": 110.675964,
+                "z": 16.938673
+              }
+            }
+          ],
+          "rollAngle": -0.24673554,
+          "panAngle": -2.4842582,
+          "tiltAngle": -7.9376063,
+          "detectionConfidence": 0.77665675,
+          "landmarkingConfidence": 0.58217627,
+          "joyLikelihood": "VERY_UNLIKELY",
+          "sorrowLikelihood": "VERY_UNLIKELY",
+          "angerLikelihood": "VERY_UNLIKELY",
+          "surpriseLikelihood": "VERY_UNLIKELY",
+          "underExposedLikelihood": "VERY_UNLIKELY",
+          "blurredLikelihood": "VERY_UNLIKELY",
+          "headwearLikelihood": "POSSIBLE"
+        }
+      ],
+      "logoAnnotations": [
+        {
+          "description": "Old Woman in an Armchair",
+          "score": 0.7363348,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 45,
+                "y": 58
+              },
+              {
+                "x": 272,
+                "y": 58
+              },
+              {
+                "x": 272,
+                "y": 289
+              },
+              {
+                "x": 45,
+                "y": 289
+              }
+            ]
+          }
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/01dv4h",
+          "description": "portrait",
+          "score": 0.60086226
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 26,
+                "green": 20,
+                "blue": 19
+              },
+              "score": 0.6578646,
+              "pixelFraction": 0.75865257
+            },
+            {
+              "color": {
+                "red": 208,
+                "green": 189,
+                "blue": 172
+              },
+              "score": 0.023889435,
+              "pixelFraction": 0.015709005
+            },
+            {
+              "color": {
+                "red": 54,
+                "green": 40,
+                "blue": 34
+              },
+              "score": 0.16251968,
+              "pixelFraction": 0.112315185
+            },
+            {
+              "color": {
+                "red": 63,
+                "green": 48,
+                "blue": 35
+              },
+              "score": 0.05035542,
+              "pixelFraction": 0.029569892
+            },
+            {
+              "color": {
+                "red": 172,
+                "green": 154,
+                "blue": 136
+              },
+              "score": 0.022670599,
+              "pixelFraction": 0.015036962
+            },
+            {
+              "color": {
+                "red": 100,
+                "green": 81,
+                "blue": 65
+              },
+              "score": 0.014336855,
+              "pixelFraction": 0.009156586
+            },
+            {
+              "color": {
+                "red": 43,
+                "green": 28,
+                "blue": 17
+              },
+              "score": 0.013992604,
+              "pixelFraction": 0.0077284947
+            },
+            {
+              "color": {
+                "red": 135,
+                "green": 116,
+                "blue": 99
+              },
+              "score": 0.012107946,
+              "pixelFraction": 0.008148521
+            },
+            {
+              "color": {
+                "red": 72,
+                "green": 45,
+                "blue": 26
+              },
+              "score": 0.0070582516,
+              "pixelFraction": 0.004032258
+            },
+            {
+              "color": {
+                "red": 43,
+                "green": 21,
+                "blue": 18
+              },
+              "score": 0.007027576,
+              "pixelFraction": 0.0036122312
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {
+                  "x": 26
+                },
+                {
+                  "x": 287
+                },
+                {
+                  "x": 287,
+                  "y": 323
+                },
+                {
+                  "x": 26,
+                  "y": 323
+                }
+              ]
+            },
+            "confidence": 1,
+            "importanceFraction": 1.48
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/09c7b",
+            "score": 3.0556,
+            "description": "Metropolitan Museum of Art"
+          },
+          {
+            "entityId": "/m/0bbtmwx",
+            "score": 1.55144,
+            "description": "Portrait of a Lady"
+          },
+          {
+            "entityId": "/m/0261pvk",
+            "score": 1.3396,
+            "description": "Jacob Adriaensz Backer"
+          },
+          {
+            "entityId": "/m/01dv4h",
+            "score": 0.86596006,
+            "description": "Portrait"
+          },
+          {
+            "entityId": "/g/11ckvdqt0f",
+            "score": 0.7988,
+            "description": "Old Woman in an Armchair"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://www.outpost-art.org/images/Backer%20Jacob%20Adriaensz/Portrait%20of%20a%20Woman.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/3d/37/88/3d37887a4c799d077f031aef49cb4a84.jpg"
+          },
+          {
+            "url": "http://img0.liveinternet.ru/images/attach/c/5/87/94/87094070_4000579_port_wom.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/3d/37/88/3d37887a4c799d077f031aef49cb4a84.jpg"
+          },
+          {
+            "url": "http://it.wahooart.com/Art.nsf/O/9CWG3D/$File/Jacob+Adriaensz+Backer-Portrait+Of+A+Woman-S.JPG"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://images.metmuseum.org/CRDImages/ep/original/DP146473.jpg"
+          },
+          {
+            "url": "http://img01.taopic.com/160914/240380-16091412014316.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/3d/37/88/3d37887a4c799d077f031aef49cb4a84.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/61/34/a2/6134a27fc349c52f276f68700854c0c9.jpg"
+          },
+          {
+            "url": "http://img0.liveinternet.ru/images/attach/c/5/87/94/87094070_4000579_port_wom.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.wga.hu/html_m/b/backer/port_wom.html"
+          },
+          {
+            "url": "http://www.senova.de/index.php/custom/26685/"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/268456827762829562/"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/524387950343659729/"
+          },
+          {
+            "url": "https://www.poets.org/poetsorg/teach-poem"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/e6/29/aa/e629aac7d5c876c5cb0c7ef7e9ca0358.jpg"
+          },
+          {
+            "url": "https://www.pubhist.com/works/21/large/cornelis_de_vos_woman_armchair.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/21/f2/b2/21f2b2b66c19c4d6349e82e8a50c3f34.jpg"
+          },
+          {
+            "url": "https://dl82qlevzt17e.cloudfront.net/uploads/images2/_lightBox/Liebermann_Woman_in_an_armchair.png"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/13/f9/f2/13f9f25cac604702233e7363822f2885.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

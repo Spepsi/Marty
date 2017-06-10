@@ -1,0 +1,462 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01g317",
+          "description": "person",
+          "score": 0.8987269
+        },
+        {
+          "mid": "/m/0hyb2",
+          "description": "altar",
+          "score": 0.81240666
+        },
+        {
+          "mid": "/m/0db79",
+          "description": "clergy",
+          "score": 0.709192
+        },
+        {
+          "mid": "/m/01b7b",
+          "description": "bishop",
+          "score": 0.6360076
+        },
+        {
+          "mid": "/m/0mf2",
+          "description": "abbot",
+          "score": 0.6280766
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "en",
+          "description": "Ar\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 197,
+                "y": 64
+              },
+              {
+                "x": 223,
+                "y": 64
+              },
+              {
+                "x": 223,
+                "y": 73
+              },
+              {
+                "x": 197,
+                "y": 73
+              }
+            ]
+          }
+        },
+        {
+          "description": "Ar",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 197,
+                "y": 66
+              },
+              {
+                "x": 223,
+                "y": 65
+              },
+              {
+                "x": 223,
+                "y": 73
+              },
+              {
+                "x": 197,
+                "y": 74
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 54,
+                "green": 47,
+                "blue": 84
+              },
+              "score": 0.10696141,
+              "pixelFraction": 0.028618326
+            },
+            {
+              "color": {
+                "red": 118,
+                "green": 114,
+                "blue": 155
+              },
+              "score": 0.080846295,
+              "pixelFraction": 0.012988866
+            },
+            {
+              "color": {
+                "red": 159,
+                "green": 111,
+                "blue": 65
+              },
+              "score": 0.047479644,
+              "pixelFraction": 0.022694834
+            },
+            {
+              "color": {
+                "red": 100,
+                "green": 29,
+                "blue": 32
+              },
+              "score": 0.038564894,
+              "pixelFraction": 0.05545247
+            },
+            {
+              "color": {
+                "red": 49,
+                "green": 45,
+                "blue": 92
+              },
+              "score": 0.09299809,
+              "pixelFraction": 0.014487582
+            },
+            {
+              "color": {
+                "red": 85,
+                "green": 78,
+                "blue": 117
+              },
+              "score": 0.078884505,
+              "pixelFraction": 0.013559806
+            },
+            {
+              "color": {
+                "red": 79,
+                "green": 76,
+                "blue": 126
+              },
+              "score": 0.055328276,
+              "pixelFraction": 0.006494433
+            },
+            {
+              "color": {
+                "red": 156,
+                "green": 109,
+                "blue": 92
+              },
+              "score": 0.044941153,
+              "pixelFraction": 0.043034542
+            },
+            {
+              "color": {
+                "red": 31,
+                "green": 24,
+                "blue": 60
+              },
+              "score": 0.04283987,
+              "pixelFraction": 0.018840993
+            },
+            {
+              "color": {
+                "red": 118,
+                "green": 74,
+                "blue": 58
+              },
+              "score": 0.028826203,
+              "pixelFraction": 0.08000285
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 364
+                },
+                {
+                  "x": 364,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "en"
+                }
+              ]
+            },
+            "width": 365,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "en"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 197,
+                      "y": 74
+                    },
+                    {
+                      "x": 197,
+                      "y": 66
+                    },
+                    {
+                      "x": 223,
+                      "y": 65
+                    },
+                    {
+                      "x": 223,
+                      "y": 73
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "en"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 197,
+                          "y": 64
+                        },
+                        {
+                          "x": 223,
+                          "y": 64
+                        },
+                        {
+                          "x": 223,
+                          "y": 73
+                        },
+                        {
+                          "x": 197,
+                          "y": 73
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 197,
+                              "y": 66
+                            },
+                            {
+                              "x": 223,
+                              "y": 65
+                            },
+                            {
+                              "x": 223,
+                              "y": 73
+                            },
+                            {
+                              "x": 197,
+                              "y": 74
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 197,
+                                  "y": 66
+                                },
+                                {
+                                  "x": 210,
+                                  "y": 65
+                                },
+                                {
+                                  "x": 210,
+                                  "y": 73
+                                },
+                                {
+                                  "x": 197,
+                                  "y": 74
+                                }
+                              ]
+                            },
+                            "text": "A"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 211,
+                                  "y": 65
+                                },
+                                {
+                                  "x": 223,
+                                  "y": 64
+                                },
+                                {
+                                  "x": 223,
+                                  "y": 72
+                                },
+                                {
+                                  "x": 211,
+                                  "y": 73
+                                }
+                              ]
+                            },
+                            "text": "r"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "Ar\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0272rmj",
+            "score": 6.25776,
+            "description": "San Marco, Florence"
+          },
+          {
+            "entityId": "/g/121_4fy6",
+            "score": 1.42412,
+            "description": "Annalena Altarpiece"
+          },
+          {
+            "entityId": "/m/05zpzj5",
+            "score": 1.33764,
+            "description": "San Marco Altarpiece"
+          },
+          {
+            "entityId": "/m/05fmm4",
+            "score": 1.05714,
+            "description": "Sacra conversazione"
+          },
+          {
+            "entityId": "/m/06cvx",
+            "score": 0.7662,
+            "description": "Renaissance"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://www.oceansbridge.com/paintings/german/Fra_Angelico_094_OBNP2009-Y00394.jpg"
+          },
+          {
+            "url": "https://i.ytimg.com/vi/nnsRvQFBl-c/maxresdefault.jpg"
+          },
+          {
+            "url": "https://pbs.twimg.com/media/DA-O41gXkAAqcju.jpg"
+          },
+          {
+            "url": "https://classconnection.s3.amazonaws.com/59/flashcards/730059/png/untitled1318825765958.png"
+          },
+          {
+            "url": "https://s3.amazonaws.com/classconnection/712/flashcards/2429712/jpg/50annale-14B7107FD76777A2243.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.wga.hu/html_m/a/angelico/12/50annale.html"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Fra_Angelico_-_Annalena_Altarpiece_(without_predella)_-_WGA00634.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Fra_Angelico_-_Annalena_Altarpiece_-_WGA00635.jpg"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/779052435510535307/"
+          },
+          {
+            "url": "http://en.wahooart.com/@@/8XZ92B-Fra-Angelico-Annalena-Altarpiece-(detail)"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://www.wga.hu/art/a/angelico/12/50annale.jpg"
+          },
+          {
+            "url": "http://www.lessingimages.com/w1/400701/40070110.jpg"
+          },
+          {
+            "url": "http://aparences.net/wp-content/uploads/retable_bosco.jpg"
+          },
+          {
+            "url": "http://uploads2.wikiart.org/images/fra-angelico/annalena-altarpiece.jpg!xlMedium.jpg"
+          },
+          {
+            "url": "http://www.artielettere.it/wp-content/uploads/2017/01/Annalena.jpeg"
+          }
+        ]
+      }
+    }
+  ]
+}

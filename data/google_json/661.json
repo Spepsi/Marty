@@ -1,0 +1,470 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.8724418
+        },
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.6734058
+        },
+        {
+          "mid": "/m/015r61",
+          "description": "modern art",
+          "score": 0.5831332
+        },
+        {
+          "mid": "/m/067408",
+          "description": "album cover",
+          "score": 0.57835066
+        },
+        {
+          "mid": "/m/0lym8",
+          "description": "tapestry",
+          "score": 0.5564335
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "en",
+          "description": "on\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 89,
+                "y": 386
+              },
+              {
+                "x": 110,
+                "y": 386
+              },
+              {
+                "x": 110,
+                "y": 399
+              },
+              {
+                "x": 89,
+                "y": 399
+              }
+            ]
+          }
+        },
+        {
+          "description": "on",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 91,
+                "y": 387
+              },
+              {
+                "x": 110,
+                "y": 396
+              },
+              {
+                "x": 108,
+                "y": 400
+              },
+              {
+                "x": 89,
+                "y": 391
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 190,
+                "green": 71,
+                "blue": 44
+              },
+              "score": 0.26307222,
+              "pixelFraction": 0.033717357
+            },
+            {
+              "color": {
+                "red": 87,
+                "green": 45,
+                "blue": 28
+              },
+              "score": 0.017386053,
+              "pixelFraction": 0.108371735
+            },
+            {
+              "color": {
+                "red": 231,
+                "green": 190,
+                "blue": 125
+              },
+              "score": 0.0137210265,
+              "pixelFraction": 0.009754225
+            },
+            {
+              "color": {
+                "red": 213,
+                "green": 141,
+                "blue": 66
+              },
+              "score": 0.013181591,
+              "pixelFraction": 0.029262673
+            },
+            {
+              "color": {
+                "red": 197,
+                "green": 70,
+                "blue": 39
+              },
+              "score": 0.2601887,
+              "pixelFraction": 0.03855607
+            },
+            {
+              "color": {
+                "red": 180,
+                "green": 84,
+                "blue": 49
+              },
+              "score": 0.1370535,
+              "pixelFraction": 0.051152073
+            },
+            {
+              "color": {
+                "red": 162,
+                "green": 105,
+                "blue": 58
+              },
+              "score": 0.07025142,
+              "pixelFraction": 0.24485408
+            },
+            {
+              "color": {
+                "red": 59,
+                "green": 43,
+                "blue": 37
+              },
+              "score": 0.00059754145,
+              "pixelFraction": 0.07695852
+            },
+            {
+              "color": {
+                "red": 152,
+                "green": 65,
+                "blue": 37
+              },
+              "score": 0.055533227,
+              "pixelFraction": 0.02734255
+            },
+            {
+              "color": {
+                "red": 183,
+                "green": 90,
+                "blue": 37
+              },
+              "score": 0.027980365,
+              "pixelFraction": 0.01344086
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 337
+                },
+                {
+                  "x": 337,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "en"
+                }
+              ]
+            },
+            "width": 338,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "en"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 89,
+                      "y": 391
+                    },
+                    {
+                      "x": 91,
+                      "y": 387
+                    },
+                    {
+                      "x": 110,
+                      "y": 396
+                    },
+                    {
+                      "x": 108,
+                      "y": 400
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "en"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 89,
+                          "y": 386
+                        },
+                        {
+                          "x": 110,
+                          "y": 386
+                        },
+                        {
+                          "x": 110,
+                          "y": 399
+                        },
+                        {
+                          "x": 89,
+                          "y": 399
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 91,
+                              "y": 387
+                            },
+                            {
+                              "x": 110,
+                              "y": 396
+                            },
+                            {
+                              "x": 108,
+                              "y": 400
+                            },
+                            {
+                              "x": 89,
+                              "y": 391
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 90,
+                                  "y": 388
+                                },
+                                {
+                                  "x": 96,
+                                  "y": 391
+                                },
+                                {
+                                  "x": 93,
+                                  "y": 398
+                                },
+                                {
+                                  "x": 87,
+                                  "y": 395
+                                }
+                              ]
+                            },
+                            "text": "o"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 97,
+                                  "y": 390
+                                },
+                                {
+                                  "x": 110,
+                                  "y": 396
+                                },
+                                {
+                                  "x": 108,
+                                  "y": 400
+                                },
+                                {
+                                  "x": 95,
+                                  "y": 394
+                                }
+                              ]
+                            },
+                            "text": "n"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "on\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/g/11c3tgbqg3",
+            "score": 0.70328,
+            "description": "St. Peter Martyr Altarpiece"
+          },
+          {
+            "entityId": "/m/0c_fp",
+            "score": 0.70131,
+            "description": "Martyr"
+          },
+          {
+            "entityId": "/g/122h5fzh",
+            "score": 0.50356,
+            "description": "St. Peter Martyr Asking for Silence"
+          },
+          {
+            "entityId": "/m/0719f",
+            "score": 0.40033,
+            "description": "Saint"
+          },
+          {
+            "entityId": "/m/079468",
+            "score": 0.30528,
+            "description": "Reredos"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/99/a2/81/99a2815effde33dcfcde9eae016f9433.jpg"
+          },
+          {
+            "url": "http://galeria.encuentra.com/?g2_view=core.DownloadItem&g2_itemId=36818&g2_serialNumber=2"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://reader15.docslide.net/store15/html5/462015/55cf9dc1550346d033af0ac4/bg3b.png"
+          },
+          {
+            "url": "http://reader01.docslide.net/store01/html5/042015/5452340daf795904308b4be9/bg4d.png"
+          },
+          {
+            "url": "http://artchallenge.me/painters/87/39.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Fra_Angelico_-_St_Peter_Martyr_Altarpiece_%28detail%29_-_WGA00616.jpg"
+          },
+          {
+            "url": "https://oneintheirhearts.files.wordpress.com/2016/04/st-peter-martyr-altarpiece-detail-by-fra-angelico-credo-in-unum-deum-i-believe-in-one-gode280a6.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Fra_Angelico_-_St_Peter_Martyr_Altarpiece_(detail)_-_WGA00616.jpg"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/108790147220208476/"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Angelico,_pala_di_san_pier_maggiore,_1425_ca..jpg"
+          },
+          {
+            "url": "http://en.wahooart.com/@@/8XY2U6-Fra-Angelico-St-Peter-Martyr"
+          },
+          {
+            "url": "https://oneintheirhearts.wordpress.com/2017/04/30/st-peter-the-martyr-mass-propers-2/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://68.media.tumblr.com/1b7c7ed9163afe7c1ff65ca74e1af773/tumblr_mz87p7TRDM1r1j7jvo1_500.jpg"
+          },
+          {
+            "url": "http://static.flickr.com/25/61337448_c223ccca30.jpg?v=0"
+          },
+          {
+            "url": "http://artsdot.com/Art.nsf/O/8XY2U6/$File/Fra-Angelico-St-Peter-Martyr-2-.JPG"
+          },
+          {
+            "url": "http://exurbe.com/wp-content/uploads/2011/08/LorenzoDetail.jpg"
+          },
+          {
+            "url": "http://en.wahooart.com/Art.nsf/O/8XY2U6/$File/Fra-Angelico-St-Peter-Martyr-2--S.JPG"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,509 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.8985085
+        },
+        {
+          "mid": "/m/02ym4x",
+          "description": "impressionist",
+          "score": 0.7608649
+        },
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.6945328
+        },
+        {
+          "mid": "/m/0djmp",
+          "description": "ancient history",
+          "score": 0.67373097
+        },
+        {
+          "mid": "/m/0lym8",
+          "description": "tapestry",
+          "score": 0.67229855
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "en",
+          "description": "ere\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 204,
+                "y": 156
+              },
+              {
+                "x": 227,
+                "y": 156
+              },
+              {
+                "x": 227,
+                "y": 173
+              },
+              {
+                "x": 204,
+                "y": 173
+              }
+            ]
+          }
+        },
+        {
+          "description": "ere",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 204,
+                "y": 156
+              },
+              {
+                "x": 227,
+                "y": 156
+              },
+              {
+                "x": 227,
+                "y": 173
+              },
+              {
+                "x": 204,
+                "y": 173
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 154,
+                "green": 149,
+                "blue": 124
+              },
+              "score": 0.34547272,
+              "pixelFraction": 0.051542778
+            },
+            {
+              "color": {
+                "red": 131,
+                "green": 117,
+                "blue": 90
+              },
+              "score": 0.2122597,
+              "pixelFraction": 0.120441794
+            },
+            {
+              "color": {
+                "red": 100,
+                "green": 83,
+                "blue": 56
+              },
+              "score": 0.14593244,
+              "pixelFraction": 0.2213359
+            },
+            {
+              "color": {
+                "red": 112,
+                "green": 73,
+                "blue": 48
+              },
+              "score": 0.053567182,
+              "pixelFraction": 0.040147264
+            },
+            {
+              "color": {
+                "red": 151,
+                "green": 153,
+                "blue": 139
+              },
+              "score": 0.052190077,
+              "pixelFraction": 0.026384993
+            },
+            {
+              "color": {
+                "red": 68,
+                "green": 52,
+                "blue": 31
+              },
+              "score": 0.051052913,
+              "pixelFraction": 0.18539621
+            },
+            {
+              "color": {
+                "red": 142,
+                "green": 116,
+                "blue": 70
+              },
+              "score": 0.019686425,
+              "pixelFraction": 0.02331697
+            },
+            {
+              "color": {
+                "red": 85,
+                "green": 49,
+                "blue": 25
+              },
+              "score": 0.019226171,
+              "pixelFraction": 0.043215286
+            },
+            {
+              "color": {
+                "red": 169,
+                "green": 143,
+                "blue": 93
+              },
+              "score": 0.019019265,
+              "pixelFraction": 0.004821178
+            },
+            {
+              "color": {
+                "red": 148,
+                "green": 112,
+                "blue": 86
+              },
+              "score": 0.012550387,
+              "pixelFraction": 0.0063113603
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 296
+                },
+                {
+                  "y": 296
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "en"
+                }
+              ]
+            },
+            "width": 400,
+            "height": 297,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "en"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 204,
+                      "y": 156
+                    },
+                    {
+                      "x": 227,
+                      "y": 156
+                    },
+                    {
+                      "x": 227,
+                      "y": 173
+                    },
+                    {
+                      "x": 204,
+                      "y": 173
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "en"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 204,
+                          "y": 156
+                        },
+                        {
+                          "x": 227,
+                          "y": 156
+                        },
+                        {
+                          "x": 227,
+                          "y": 173
+                        },
+                        {
+                          "x": 204,
+                          "y": 173
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 204,
+                              "y": 156
+                            },
+                            {
+                              "x": 227,
+                              "y": 156
+                            },
+                            {
+                              "x": 227,
+                              "y": 173
+                            },
+                            {
+                              "x": 204,
+                              "y": 173
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 204,
+                                  "y": 156
+                                },
+                                {
+                                  "x": 212,
+                                  "y": 156
+                                },
+                                {
+                                  "x": 212,
+                                  "y": 173
+                                },
+                                {
+                                  "x": 204,
+                                  "y": 173
+                                }
+                              ]
+                            },
+                            "text": "e"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 213,
+                                  "y": 159
+                                },
+                                {
+                                  "x": 219,
+                                  "y": 159
+                                },
+                                {
+                                  "x": 219,
+                                  "y": 171
+                                },
+                                {
+                                  "x": 213,
+                                  "y": 171
+                                }
+                              ]
+                            },
+                            "text": "r"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 220,
+                                  "y": 159
+                                },
+                                {
+                                  "x": 227,
+                                  "y": 159
+                                },
+                                {
+                                  "x": 227,
+                                  "y": 171
+                                },
+                                {
+                                  "x": 220,
+                                  "y": 171
+                                }
+                              ]
+                            },
+                            "text": "e"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "ere\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/06c62",
+            "score": 0.78148,
+            "description": "Rome"
+          },
+          {
+            "entityId": "/m/0hknf",
+            "score": 0.76908,
+            "description": "Genoa"
+          },
+          {
+            "entityId": "/m/05p7gll",
+            "score": 0.66998,
+            "description": "The Continence of Scipio"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.5722963,
+            "description": "Painting"
+          },
+          {
+            "entityId": "/g/1218fj4d",
+            "score": 0.5705,
+            "description": "Continence of Scipio"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://www.artita.ru/dat/b/baciccio/6.jpg"
+          },
+          {
+            "url": "https://blog-001.west.edge.storage-yahoo.jp/res/blog-1f-9f/mitosya/folder/813919/51/24325151/img_4?1242266799"
+          },
+          {
+            "url": "http://it.wahooart.com/Art.nsf/O/8Y32AZ/$File/Baciccio-The-Continence-of-Scipio-2-.JPG"
+          },
+          {
+            "url": "http://upload.wikimedia.org/wikipedia/commons/2/29/Continence_of_Scipio_by_Baciccio.png"
+          },
+          {
+            "url": "http://www.wga.hu/art/b/baciccio/continen.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://i.ytimg.com/vi/hJG9yLL1-L0/maxresdefault.jpg"
+          },
+          {
+            "url": "http://www.artita.ru/dat/b/baciccio/6.jpg"
+          },
+          {
+            "url": "http://www.settemuse.it/pittori_opere_B/baciccio/baciccio_506_the_continence_of_scipio.jpg"
+          },
+          {
+            "url": "https://blog-001.west.edge.storage-yahoo.jp/res/blog-1f-9f/mitosya/folder/813919/51/24325151/img_4?1242266799"
+          },
+          {
+            "url": "http://it.wahooart.com/Art.nsf/O/8Y32AZ/$File/Baciccio-The-Continence-of-Scipio-2-.JPG"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/Category:Baciccio"
+          },
+          {
+            "url": "http://www.wga.hu/frames-e.html?/html/b/baciccio/index.html"
+          },
+          {
+            "url": "http://www.the-athenaeum.org/art/list.php?m=a&s=tu&aid=9049"
+          },
+          {
+            "url": "http://www.invaluable.com/artist/baciccio-lbbcrpv88d"
+          },
+          {
+            "url": "http://www.artnet.com/artists/giovanni-battista-gaulli/past-auction-results/4"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://en.wahooart.com/Art.nsf/O/8Y32AZ/$File/Baciccio-The-Continence-of-Scipio-2-.JPG"
+          },
+          {
+            "url": "http://images.arcadja.com/giovanni_battista_gaulli_il_bacciccio-la_sainte_trinit%C3%A9~OM4f3300~10529_20091218_13550_226.jpg"
+          },
+          {
+            "url": "http://l7.alamy.com/zooms/8ea810a51f23413d81d84cf7c7989762/rinaldo-and-armida-by-giovanni-battista-gaulli-called-baciccio-c-1680-j9b3g1.jpg"
+          },
+          {
+            "url": "https://avatars.mds.yandex.net/get-pdb/70729/5ff1d307-957a-4efd-9c5e-bab7c1a9235e/s800"
+          },
+          {
+            "url": "http://pt.wahooart.com/Art.nsf/O/8Y32B4/$File/Giovanni-Battista-Gaulli-Baciccio-The-Vision-of-St-Francis-Xavier-2--S.JPG"
+          }
+        ]
+      }
+    }
+  ]
+}

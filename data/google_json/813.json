@@ -1,0 +1,579 @@
+{
+  "responses": [
+    {
+      "faceAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 92,
+                "y": 82
+              },
+              {
+                "x": 165,
+                "y": 82
+              },
+              {
+                "x": 165,
+                "y": 166
+              },
+              {
+                "x": 92,
+                "y": 166
+              }
+            ]
+          },
+          "fdBoundingPoly": {
+            "vertices": [
+              {
+                "x": 99,
+                "y": 107
+              },
+              {
+                "x": 152,
+                "y": 107
+              },
+              {
+                "x": 152,
+                "y": 161
+              },
+              {
+                "x": 99,
+                "y": 161
+              }
+            ]
+          },
+          "landmarks": [
+            {
+              "type": "LEFT_EYE",
+              "position": {
+                "x": 106.70793,
+                "y": 129.72513,
+                "z": 4.533423e-05
+              }
+            },
+            {
+              "type": "RIGHT_EYE",
+              "position": {
+                "x": 123.627266,
+                "y": 122.24425,
+                "z": -13.012674
+              }
+            },
+            {
+              "type": "LEFT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 99.71772,
+                "y": 126.33442,
+                "z": 5.618638
+              }
+            },
+            {
+              "type": "RIGHT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 106.6579,
+                "y": 124.692696,
+                "z": -7.1403027
+              }
+            },
+            {
+              "type": "LEFT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 115.142555,
+                "y": 122.6229,
+                "z": -13.253614
+              }
+            },
+            {
+              "type": "RIGHT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 128.59462,
+                "y": 116.64622,
+                "z": -15.706716
+              }
+            },
+            {
+              "type": "MIDPOINT_BETWEEN_EYES",
+              "position": {
+                "x": 112.48344,
+                "y": 127.08639,
+                "z": -10.099951
+              }
+            },
+            {
+              "type": "NOSE_TIP",
+              "position": {
+                "x": 114.49853,
+                "y": 142.8408,
+                "z": -14.264806
+              }
+            },
+            {
+              "type": "UPPER_LIP",
+              "position": {
+                "x": 120.065765,
+                "y": 147.35065,
+                "z": -9.202236
+              }
+            },
+            {
+              "type": "LOWER_LIP",
+              "position": {
+                "x": 122.76745,
+                "y": 152.31778,
+                "z": -7.4609714
+              }
+            },
+            {
+              "type": "MOUTH_LEFT",
+              "position": {
+                "x": 117.03086,
+                "y": 150.77223,
+                "z": 0.878838
+              }
+            },
+            {
+              "type": "MOUTH_RIGHT",
+              "position": {
+                "x": 130.00323,
+                "y": 146.22154,
+                "z": -9.144775
+              }
+            },
+            {
+              "type": "MOUTH_CENTER",
+              "position": {
+                "x": 121.52502,
+                "y": 149.47728,
+                "z": -7.6409144
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_RIGHT",
+              "position": {
+                "x": 123.026024,
+                "y": 140.1811,
+                "z": -10.463389
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_LEFT",
+              "position": {
+                "x": 114.049774,
+                "y": 142.4406,
+                "z": -3.5228605
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_CENTER",
+              "position": {
+                "x": 117.80541,
+                "y": 144.8147,
+                "z": -9.7075
+              }
+            },
+            {
+              "type": "LEFT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 105.08558,
+                "y": 128.80136,
+                "z": -1.1903946
+              }
+            },
+            {
+              "type": "LEFT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 109.872375,
+                "y": 128.77446,
+                "z": -2.292518
+              }
+            },
+            {
+              "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 106.96323,
+                "y": 131.13693,
+                "z": 0.1199657
+              }
+            },
+            {
+              "type": "LEFT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 104.045685,
+                "y": 130.41817,
+                "z": 4.3586764
+              }
+            },
+            {
+              "type": "LEFT_EYE_PUPIL",
+              "position": {
+                "x": 105.85959,
+                "y": 130.0811,
+                "z": -0.05998002
+              }
+            },
+            {
+              "type": "RIGHT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 122.32634,
+                "y": 123.0483,
+                "z": -13.959069
+              }
+            },
+            {
+              "type": "RIGHT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 128.13521,
+                "y": 122.382,
+                "z": -13.488633
+              }
+            },
+            {
+              "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 124.09843,
+                "y": 125.14267,
+                "z": -12.646913
+              }
+            },
+            {
+              "type": "RIGHT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 120.18779,
+                "y": 125.07622,
+                "z": -9.974176
+              }
+            },
+            {
+              "type": "RIGHT_EYE_PUPIL",
+              "position": {
+                "x": 123.52154,
+                "y": 124.200165,
+                "z": -13.200163
+              }
+            },
+            {
+              "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 101.36633,
+                "y": 123.49459,
+                "z": -2.1499956
+              }
+            },
+            {
+              "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 120.06803,
+                "y": 117.29344,
+                "z": -16.008196
+              }
+            },
+            {
+              "type": "LEFT_EAR_TRAGION",
+              "position": {
+                "x": 113.45242,
+                "y": 135.82654,
+                "z": 31.493969
+              }
+            },
+            {
+              "type": "RIGHT_EAR_TRAGION",
+              "position": {
+                "x": 152.59274,
+                "y": 122.772125,
+                "z": 2.5301006
+              }
+            },
+            {
+              "type": "FOREHEAD_GLABELLA",
+              "position": {
+                "x": 110.31841,
+                "y": 123.32996,
+                "z": -10.9334545
+              }
+            },
+            {
+              "type": "CHIN_GNATHION",
+              "position": {
+                "x": 128.53929,
+                "y": 162.27773,
+                "z": -3.8112884
+              }
+            },
+            {
+              "type": "CHIN_LEFT_GONION",
+              "position": {
+                "x": 116.074875,
+                "y": 150.9643,
+                "z": 24.005503
+              }
+            },
+            {
+              "type": "CHIN_RIGHT_GONION",
+              "position": {
+                "x": 151.41876,
+                "y": 139.44211,
+                "z": -2.1348908
+              }
+            }
+          ],
+          "rollAngle": -22.031225,
+          "panAngle": -35.275856,
+          "tiltAngle": -5.1331944,
+          "detectionConfidence": 0.71494305,
+          "landmarkingConfidence": 0.5375682,
+          "joyLikelihood": "VERY_UNLIKELY",
+          "sorrowLikelihood": "VERY_UNLIKELY",
+          "angerLikelihood": "VERY_UNLIKELY",
+          "surpriseLikelihood": "VERY_UNLIKELY",
+          "underExposedLikelihood": "VERY_UNLIKELY",
+          "blurredLikelihood": "VERY_UNLIKELY",
+          "headwearLikelihood": "VERY_UNLIKELY"
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/01g317",
+          "description": "person",
+          "score": 0.9416055
+        },
+        {
+          "mid": "/m/027cqyf",
+          "description": "priesthood",
+          "score": 0.753347
+        },
+        {
+          "mid": "/m/0jts3",
+          "description": "presbyter",
+          "score": 0.7505
+        },
+        {
+          "mid": "/m/0mf2",
+          "description": "abbot",
+          "score": 0.6280766
+        },
+        {
+          "mid": "/m/0db79",
+          "description": "clergy",
+          "score": 0.6006985
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 77,
+                "green": 39,
+                "blue": 24
+              },
+              "score": 0.24186195,
+              "pixelFraction": 0.053342402
+            },
+            {
+              "color": {
+                "red": 62,
+                "green": 53,
+                "blue": 53
+              },
+              "score": 0.1216579,
+              "pixelFraction": 0.034589972
+            },
+            {
+              "color": {
+                "red": 179,
+                "green": 153,
+                "blue": 123
+              },
+              "score": 0.00897348,
+              "pixelFraction": 0.0022347455
+            },
+            {
+              "color": {
+                "red": 53,
+                "green": 17,
+                "blue": 6
+              },
+              "score": 0.12654361,
+              "pixelFraction": 0.016323358
+            },
+            {
+              "color": {
+                "red": 22,
+                "green": 12,
+                "blue": 13
+              },
+              "score": 0.11049511,
+              "pixelFraction": 0.03186941
+            },
+            {
+              "color": {
+                "red": 37,
+                "green": 12,
+                "blue": 10
+              },
+              "score": 0.081428334,
+              "pixelFraction": 0.01195103
+            },
+            {
+              "color": {
+                "red": 108,
+                "green": 70,
+                "blue": 54
+              },
+              "score": 0.068078235,
+              "pixelFraction": 0.053439565
+            },
+            {
+              "color": {
+                "red": 90,
+                "green": 41,
+                "blue": 10
+              },
+              "score": 0.040774934,
+              "pixelFraction": 0.011853867
+            },
+            {
+              "color": {
+                "red": 80,
+                "green": 70,
+                "blue": 71
+              },
+              "score": 0.039201483,
+              "pixelFraction": 0.0126311695
+            },
+            {
+              "color": {
+                "red": 71,
+                "green": 44,
+                "blue": 45
+              },
+              "score": 0.030653758,
+              "pixelFraction": 0.005052468
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 267
+                },
+                {
+                  "x": 267,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 1,
+            "importanceFraction": 0.83
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/017199",
+            "score": 1.67714,
+            "description": "James, son of Zebedee"
+          },
+          {
+            "entityId": "/m/06wr9",
+            "score": 1.00492,
+            "description": "Santiago de Compostela"
+          },
+          {
+            "entityId": "/m/09ns1f",
+            "score": 0.73066,
+            "description": "Apostles"
+          },
+          {
+            "entityId": "/m/0719f",
+            "score": 0.38537,
+            "description": "Saint"
+          },
+          {
+            "entityId": "/m/0687y",
+            "score": 0.33123,
+            "description": "Prayer"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://2.bp.blogspot.com/-PGKaW8EfkU4/UBAsxjz9njI/AAAAAAAAHOs/cgc4A8UGpVQ/s1600/apostle-james-the-greater-antonio-veneziano.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/1a/88/27/1a882705f3a13f68aa4eafbb765a111c.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/detail_s/a/antonio/venezian/apostle.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://3.bp.blogspot.com/-mIzDwdGWBss/VMqbeNUVPKI/AAAAAAAAMq4/q5bmfYThytY/s1600/Oracion%2Ba%2BSan%2BMateo%2Bpara%2Bvender%2Bun%2Bnegocio.jpg"
+          },
+          {
+            "url": "http://i84.photobucket.com/albums/k27/jakyl32/365%20Rosaries-%20JULY/725james22.jpg"
+          },
+          {
+            "url": "https://i1.wp.com/indemejarecristi.files.wordpress.com/2014/03/stav09.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Antonio_Veneziano_-_Apostle_James_the_Greater_-_WGA0777.jpg"
+          },
+          {
+            "url": "https://christbearers.files.wordpress.com/2012/07/apostle-james-the-greater-antonio-veneziano.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.wga.hu/html_m/a/antonio/venezian/apostle.html"
+          },
+          {
+            "url": "https://www.pinterest.com/explore/st-james-the-greater/"
+          },
+          {
+            "url": "https://www.pinterest.com/catholic4all/apostle-~-st-james-the-greater/"
+          },
+          {
+            "url": "http://365rosaries.blogspot.com/2011/07/july-25-saint-james-greater-son-of.html"
+          },
+          {
+            "url": "http://www.prayerstooursaints.com/saint-james-the-greater-prayer.htm"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://www.oceansbridge.com/paintings/collections/berlin-masterworks/small/ANTONIO%20VENEZIANO-XX-The%20Apostle%20James%20the%20Greater.jpg"
+          },
+          {
+            "url": "http://catholicsaints.info/wp-content/gallery/saint-james-the-greater/saint-james-the-greater-10.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/2b/59/56/2b5956d0a014fd59a30eaab0832f18e5.jpg"
+          },
+          {
+            "url": "http://media.evangelizo.org/images/artists/t/Tura_Cosme/large/TURA_Cosme_St_James_The_Great.jpg"
+          },
+          {
+            "url": "http://www.lib-art.com/imgpaintingthumb/9/9/t50099-st-james-the-greater-andrea-di-vanni-d-andrea.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

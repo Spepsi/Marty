@@ -1,0 +1,305 @@
+{
+  "responses": [
+    {
+      "logoAnnotations": [
+        {
+          "description": "Landscape with a Footbridge",
+          "score": 0.8105128,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 41,
+                "y": 43
+              },
+              {
+                "x": 321,
+                "y": 43
+              },
+              {
+                "x": 321,
+                "y": 383
+              },
+              {
+                "x": 41,
+                "y": 383
+              }
+            ]
+          }
+        },
+        {
+          "description": "Landscape with a Footbridge",
+          "score": 0.6310891,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 68,
+                "y": 183
+              },
+              {
+                "x": 323,
+                "y": 183
+              },
+              {
+                "x": 323,
+                "y": 363
+              },
+              {
+                "x": 68,
+                "y": 363
+              }
+            ]
+          }
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.9359681
+        },
+        {
+          "mid": "/m/07j7r",
+          "description": "tree",
+          "score": 0.86101824
+        },
+        {
+          "mid": "/m/02ym4x",
+          "description": "impressionist",
+          "score": 0.7787113
+        },
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.66824186
+        },
+        {
+          "mid": "/m/0djmp",
+          "description": "ancient history",
+          "score": 0.542719
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 115,
+                "green": 114,
+                "blue": 111
+              },
+              "score": 0.17910232,
+              "pixelFraction": 0.10977138
+            },
+            {
+              "color": {
+                "red": 170,
+                "green": 155,
+                "blue": 134
+              },
+              "score": 0.12557794,
+              "pixelFraction": 0.010648293
+            },
+            {
+              "color": {
+                "red": 75,
+                "green": 48,
+                "blue": 36
+              },
+              "score": 0.076159306,
+              "pixelFraction": 0.2329314
+            },
+            {
+              "color": {
+                "red": 93,
+                "green": 89,
+                "blue": 87
+              },
+              "score": 0.12117536,
+              "pixelFraction": 0.09011901
+            },
+            {
+              "color": {
+                "red": 200,
+                "green": 188,
+                "blue": 169
+              },
+              "score": 0.095404275,
+              "pixelFraction": 0.006107109
+            },
+            {
+              "color": {
+                "red": 131,
+                "green": 116,
+                "blue": 98
+              },
+              "score": 0.08890208,
+              "pixelFraction": 0.045568433
+            },
+            {
+              "color": {
+                "red": 99,
+                "green": 80,
+                "blue": 61
+              },
+              "score": 0.06713854,
+              "pixelFraction": 0.09591293
+            },
+            {
+              "color": {
+                "red": 158,
+                "green": 155,
+                "blue": 150
+              },
+              "score": 0.0644198,
+              "pixelFraction": 0.005167554
+            },
+            {
+              "color": {
+                "red": 69,
+                "green": 49,
+                "blue": 36
+              },
+              "score": 0.05804536,
+              "pixelFraction": 0.097713746
+            },
+            {
+              "color": {
+                "red": 202,
+                "green": 190,
+                "blue": 179
+              },
+              "score": 0.03713073,
+              "pixelFraction": 0.002583777
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 331
+                },
+                {
+                  "x": 331,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0p88j",
+            "score": 1.16832,
+            "description": "National Gallery, London"
+          },
+          {
+            "entityId": "/g/121lmrtc",
+            "score": 1.0218,
+            "description": "Landscape with a Footbridge"
+          },
+          {
+            "entityId": "/m/025s3q0",
+            "score": 0.71788,
+            "description": "Landscape"
+          },
+          {
+            "entityId": "/m/06cvx",
+            "score": 0.61916,
+            "description": "Renaissance"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.61633706,
+            "description": "Painting"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://www.elite-paintings.com/w/10/AbyC/Belgium/ALSLOOT_Denis_van_Landscape_With_Path_artist_painting_reproduction_handmade_oil_canvas_or_print_art_deco.jpg"
+          },
+          {
+            "url": "http://www.leosart.narod.ru/images/ger/Altdorfer/018.jpg"
+          },
+          {
+            "url": "http://cfile25.uf.tistory.com/image/2737B74455BA98F5111B61"
+          },
+          {
+            "url": "https://alexstamps.files.wordpress.com/2011/09/landscape-footbridge.jpg"
+          },
+          {
+            "url": "http://postfiles15.naver.net/20101122_238/cacamus_1290386725283yNClw_JPEG/1518001.jpg?type=w2"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://upload.wikimedia.org/wikipedia/commons/f/f3/Albrecht_Altdorfer_-_Landschaft_mit_einem_Steg.jpg"
+          },
+          {
+            "url": "http://nevsepic.com.ua/uploads/posts/2012-04/1334953878-4008833-altdorfer-albrecht---1---landscape-with-path-www.nevsepic.com.ua.jpg"
+          },
+          {
+            "url": "http://www.zeno.org/Kunstwerke.images/I/17K0049a.jpg"
+          },
+          {
+            "url": "http://uploads7.wikiart.org/images/albrecht-altdorfer/landscape-with-a-footbridge.jpg"
+          },
+          {
+            "url": "http://image.hnol.net/c/2016-12/06/17/201612061755424751-513051.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://en.wikipedia.org/wiki/List_of_landscapes_by_Albrecht_Altdorfer"
+          },
+          {
+            "url": "https://www.wikiart.org/en/albrecht-altdorfer/landscape-with-a-footbridge"
+          },
+          {
+            "url": "https://www.ibiblio.org/wm/paint/auth/altdorfer/landscape-footbridge/"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Albrecht_Altdorfer_-_Landschaft_mit_einem_Steg.jpg"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/306104105892499859/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/b0/f3/cc/b0f3cc687c32a9c03b8846384f0134cc.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/74/56/c1/7456c1b7f356651a74c2ba78118983cb.jpg"
+          },
+          {
+            "url": "https://render.fineartamerica.com/images/rendered/medium/greeting-card/images-medium-5/landscape-with-a-footbridge-albrecht-altdorfer.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Albrecht_Altdorfer_-_Landscape_with_a_Church_%28Museum_Boijmans_Van_Beuningen%29.jpg/250px-Albrecht_Altdorfer_-_Landscape_with_a_Church_%28Museum_Boijmans_Van_Beuningen%29.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Albrecht_Altdorfer_-_Landscape_at_Sunset_%28Erlangen%29.jpg/250px-Albrecht_Altdorfer_-_Landscape_at_Sunset_%28Erlangen%29.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

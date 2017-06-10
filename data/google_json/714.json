@@ -1,0 +1,461 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0hyb2",
+          "description": "altar",
+          "score": 0.71092445
+        },
+        {
+          "mid": "/m/06z37_",
+          "description": "picture frame",
+          "score": 0.57474476
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "en",
+          "description": "wa\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 131,
+                "y": 225
+              },
+              {
+                "x": 139,
+                "y": 225
+              },
+              {
+                "x": 139,
+                "y": 237
+              },
+              {
+                "x": 131,
+                "y": 237
+              }
+            ]
+          }
+        },
+        {
+          "description": "wa",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 132,
+                "y": 238
+              },
+              {
+                "x": 131,
+                "y": 227
+              },
+              {
+                "x": 138,
+                "y": 226
+              },
+              {
+                "x": 139,
+                "y": 237
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 13,
+                "green": 7,
+                "blue": 7
+              },
+              "score": 0.33191052,
+              "pixelFraction": 0.2662784
+            },
+            {
+              "color": {
+                "red": 48,
+                "green": 46,
+                "blue": 46
+              },
+              "score": 0.088043146,
+              "pixelFraction": 0.044653524
+            },
+            {
+              "color": {
+                "red": 203,
+                "green": 153,
+                "blue": 79
+              },
+              "score": 0.00068491243,
+              "pixelFraction": 0.0034348865
+            },
+            {
+              "color": {
+                "red": 66,
+                "green": 50,
+                "blue": 31
+              },
+              "score": 0.06318369,
+              "pixelFraction": 0.022102747
+            },
+            {
+              "color": {
+                "red": 98,
+                "green": 80,
+                "blue": 60
+              },
+              "score": 0.061466336,
+              "pixelFraction": 0.029719235
+            },
+            {
+              "color": {
+                "red": 76,
+                "green": 44,
+                "blue": 29
+              },
+              "score": 0.052121323,
+              "pixelFraction": 0.026732378
+            },
+            {
+              "color": {
+                "red": 137,
+                "green": 115,
+                "blue": 92
+              },
+              "score": 0.047045045,
+              "pixelFraction": 0.031063322
+            },
+            {
+              "color": {
+                "red": 38,
+                "green": 12,
+                "blue": 13
+              },
+              "score": 0.035518937,
+              "pixelFraction": 0.010752688
+            },
+            {
+              "color": {
+                "red": 103,
+                "green": 72,
+                "blue": 55
+              },
+              "score": 0.034268476,
+              "pixelFraction": 0.04749104
+            },
+            {
+              "color": {
+                "red": 173,
+                "green": 151,
+                "blue": 124
+              },
+              "score": 0.033190776,
+              "pixelFraction": 0.025089607
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 174
+                },
+                {
+                  "x": 174,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "en"
+                }
+              ]
+            },
+            "width": 175,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "en"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 132,
+                      "y": 238
+                    },
+                    {
+                      "x": 131,
+                      "y": 227
+                    },
+                    {
+                      "x": 138,
+                      "y": 226
+                    },
+                    {
+                      "x": 139,
+                      "y": 237
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "en"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 131,
+                          "y": 225
+                        },
+                        {
+                          "x": 139,
+                          "y": 225
+                        },
+                        {
+                          "x": 139,
+                          "y": 237
+                        },
+                        {
+                          "x": 131,
+                          "y": 237
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 132,
+                              "y": 238
+                            },
+                            {
+                              "x": 131,
+                              "y": 227
+                            },
+                            {
+                              "x": 138,
+                              "y": 226
+                            },
+                            {
+                              "x": 139,
+                              "y": 237
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 132,
+                                  "y": 238
+                                },
+                                {
+                                  "x": 131,
+                                  "y": 232
+                                },
+                                {
+                                  "x": 137,
+                                  "y": 231
+                                },
+                                {
+                                  "x": 138,
+                                  "y": 237
+                                }
+                              ]
+                            },
+                            "text": "w"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 131,
+                                  "y": 230
+                                },
+                                {
+                                  "x": 131,
+                                  "y": 227
+                                },
+                                {
+                                  "x": 138,
+                                  "y": 226
+                                },
+                                {
+                                  "x": 138,
+                                  "y": 229
+                                }
+                              ]
+                            },
+                            "text": "a"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "wa\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/05f85by",
+            "score": 1.07412,
+            "description": "Christ Crucified"
+          },
+          {
+            "entityId": "/g/1229d5z5",
+            "score": 0.85466,
+            "description": "Crucified Christ with the Virgin, St John the Evangelist and Cardinal Juan de Torquemada"
+          },
+          {
+            "entityId": "/m/063_g3_",
+            "score": 0.77998,
+            "description": "Crucifixion of Jesus"
+          },
+          {
+            "entityId": "/m/09hm0",
+            "score": 0.65139,
+            "description": "Crucifixion"
+          },
+          {
+            "entityId": "/m/07mtr",
+            "score": 0.38251,
+            "description": "Tempera"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://www.lecoindelenigme.com/MM-veuve_archivos/image011.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/54/b5/ae/54b5ae0c67786a90bf7b08efdf12d134.jpg"
+          },
+          {
+            "url": "http://it.wahooart.com/Art.nsf/O/8XZ932/$File/Fra-Angelico-Crucified-Christ-with-the-Virgin-St-John-the-Evangelist-and-Cardinal-Juan-de-Torquemada.JPG"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/20/f4/a0/20f4a0416f9212360e401fdea996d588.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://lh4.googleusercontent.com/proxy/bKyCB1xKJEWpxijGegKgnEdA8MukcFzInV9lD5KoGznKN2aaIlnBhBrWIn6WvtFQT4nu9bnFkFiEhpxoITQOGO2IZVo=w1200-h630-p-k-no-nu"
+          },
+          {
+            "url": "http://m3.naszdziennik.pl/z/450,253,ac45125ae1bf1f0d0f5e1a286447c162d69ee89a.jpg"
+          },
+          {
+            "url": "https://rlv.zcache.ca/fra_angelico_crucified_christ_with_the_virgin_square_sticker-ra038a0e01aba4a6baa29470ee746023a_v9wf3_8byvr_324.jpg"
+          },
+          {
+            "url": "https://8406c24de5442685c57b-57fa5852527c9e8686bcd34c9fdc4763.ssl.cf5.rackcdn.com/09cruci1-250x419.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/54/06/b2/5406b25418a7305038f0e026056e542d.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://www.pinterest.com/pin/466122630163779993/"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/560064903646286538/"
+          },
+          {
+            "url": "http://www.wga.hu/frames-e.html?/html/a/angelico/13/index.html"
+          },
+          {
+            "url": "https://www.wikiart.org/en/fra-angelico/crucified-christ-with-the-virgin-st-john-the-evangelist-and-cardinal-juan-de-torquemada-1442"
+          },
+          {
+            "url": "https://www.wikiart.org/en/filippo-brunelleschi/crucifixion"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://urpaint.com/images/Fra-Angelico/thumb/Crucified-Christ-with-the-Virgin--St.-John-the-Evangelist-and-Cardinal-Juan-de-Torquemada_Fra-Angelico_Early-Renaissance_religious-painting.jpg"
+          },
+          {
+            "url": "http://www.lib-art.com/imgpaintingthumb/5/9/t18995-crucifixion-fra-angelico.jpg"
+          },
+          {
+            "url": "http://www.jdiezarnal.com/pintura/fraangelicocristocrucificado01.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/9a/31/75/9a31758c9d69012eacdd9240e108da14.jpg"
+          },
+          {
+            "url": "http://huuan.blog.lemonde.fr/files/cellule_8_le_christ_ressuscit_et_les_mar.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

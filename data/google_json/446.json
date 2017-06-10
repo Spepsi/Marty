@@ -1,0 +1,484 @@
+{
+  "responses": [
+    {
+      "logoAnnotations": [
+        {
+          "description": "Sts Michael and John Gualbert",
+          "score": 0.9459808,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 8,
+                "y": 15
+              },
+              {
+                "x": 178,
+                "y": 15
+              },
+              {
+                "x": 178,
+                "y": 395
+              },
+              {
+                "x": 8,
+                "y": 395
+              }
+            ]
+          }
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.72147286
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "af",
+          "description": "eK\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 98,
+                "y": 189
+              },
+              {
+                "x": 120,
+                "y": 189
+              },
+              {
+                "x": 120,
+                "y": 202
+              },
+              {
+                "x": 98,
+                "y": 202
+              }
+            ]
+          }
+        },
+        {
+          "description": "eK",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 98,
+                "y": 202
+              },
+              {
+                "x": 99,
+                "y": 190
+              },
+              {
+                "x": 120,
+                "y": 191
+              },
+              {
+                "x": 119,
+                "y": 203
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 184,
+                "green": 92,
+                "blue": 31
+              },
+              "score": 0.09632193,
+              "pixelFraction": 0.009762309
+            },
+            {
+              "color": {
+                "red": 81,
+                "green": 43,
+                "blue": 28
+              },
+              "score": 0.09007566,
+              "pixelFraction": 0.08970006
+            },
+            {
+              "color": {
+                "red": 143,
+                "green": 60,
+                "blue": 32
+              },
+              "score": 0.07740122,
+              "pixelFraction": 0.022778722
+            },
+            {
+              "color": {
+                "red": 163,
+                "green": 105,
+                "blue": 64
+              },
+              "score": 0.061842017,
+              "pixelFraction": 0.026174307
+            },
+            {
+              "color": {
+                "red": 243,
+                "green": 171,
+                "blue": 94
+              },
+              "score": 0.028517809,
+              "pixelFraction": 0.010045274
+            },
+            {
+              "color": {
+                "red": 115,
+                "green": 71,
+                "blue": 52
+              },
+              "score": 0.080686554,
+              "pixelFraction": 0.07399547
+            },
+            {
+              "color": {
+                "red": 148,
+                "green": 106,
+                "blue": 83
+              },
+              "score": 0.061722696,
+              "pixelFraction": 0.04329372
+            },
+            {
+              "color": {
+                "red": 176,
+                "green": 93,
+                "blue": 55
+              },
+              "score": 0.05606518,
+              "pixelFraction": 0.007498585
+            },
+            {
+              "color": {
+                "red": 126,
+                "green": 74,
+                "blue": 36
+              },
+              "score": 0.05409628,
+              "pixelFraction": 0.021505376
+            },
+            {
+              "color": {
+                "red": 219,
+                "green": 128,
+                "blue": 68
+              },
+              "score": 0.048735414,
+              "pixelFraction": 0.006366723
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 184
+                },
+                {
+                  "x": 184,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "af"
+                }
+              ]
+            },
+            "width": 185,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "af"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 98,
+                      "y": 202
+                    },
+                    {
+                      "x": 99,
+                      "y": 190
+                    },
+                    {
+                      "x": 120,
+                      "y": 191
+                    },
+                    {
+                      "x": 119,
+                      "y": 203
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "af"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 98,
+                          "y": 189
+                        },
+                        {
+                          "x": 120,
+                          "y": 189
+                        },
+                        {
+                          "x": 120,
+                          "y": 202
+                        },
+                        {
+                          "x": 98,
+                          "y": 202
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "af"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 98,
+                              "y": 202
+                            },
+                            {
+                              "x": 99,
+                              "y": 190
+                            },
+                            {
+                              "x": 120,
+                              "y": 191
+                            },
+                            {
+                              "x": 119,
+                              "y": 203
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "af"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 98,
+                                  "y": 200
+                                },
+                                {
+                                  "x": 98,
+                                  "y": 190
+                                },
+                                {
+                                  "x": 103,
+                                  "y": 190
+                                },
+                                {
+                                  "x": 103,
+                                  "y": 200
+                                }
+                              ]
+                            },
+                            "text": "e"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "af"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 104,
+                                  "y": 202
+                                },
+                                {
+                                  "x": 105,
+                                  "y": 190
+                                },
+                                {
+                                  "x": 120,
+                                  "y": 191
+                                },
+                                {
+                                  "x": 119,
+                                  "y": 203
+                                }
+                              ]
+                            },
+                            "text": "K"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "eK\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0cfjp",
+            "score": 21.82144,
+            "description": "Uffizi Gallery"
+          },
+          {
+            "entityId": "/m/0727kr",
+            "score": 2.73536,
+            "description": "Vallombrosa Abbey"
+          },
+          {
+            "entityId": "/m/0gvr10m",
+            "score": 1.37288,
+            "description": "Vallombrosa Altarpiece"
+          },
+          {
+            "entityId": "/g/11c3tg4ctt",
+            "score": 0.7386,
+            "description": "Sts Michael and John Gualbert"
+          },
+          {
+            "entityId": "/g/120vbsbz",
+            "score": 0.64206
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://catholic4lifeblog.files.wordpress.com/2016/07/st-michael-and-st-gualbert-by-andrea-del-sarto-wga.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Andrea_del_Sarto_-_Sts_Michael_and_John_Gualbert_-_WGA0414.jpg"
+          },
+          {
+            "url": "https://catholic4lifeblog.files.wordpress.com/2016/07/st-michael-and-st-gualbert-by-andrea-del-sarto-wga.jpg?w=705&h=1525"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/54/75/68/547568df4dc7dbd7f41d3c812c0fe884.jpg"
+          },
+          {
+            "url": "http://uploads7.wikiart.org/images/andrea-del-sarto/sts-michael-and-john-gualbert.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://2.bp.blogspot.com/-jQ0GeJ1UBPI/T3BCtpV7sRI/AAAAAAAAGsg/XarTZmuc5_c/s1600/andrea_delsarto_1528.jpg"
+          },
+          {
+            "url": "http://media.gettyimages.com/photos/four-saints-michael-john-gualberto-john-the-baptist-and-bernard-degli-picture-id168965967?s=612x612"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/91/8c/78/918c786efc802820310714074dc3337a.jpg"
+          },
+          {
+            "url": "http://www.jdiezarnal.com/pintura/andreadelsartocuatrosantos01.jpg"
+          },
+          {
+            "url": "http://www.artres.com/Doc/ART/Media/TR3/F/W/3/H/ART75572.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://www.pinterest.com/alexeypavluts/andrea-del-sarto/"
+          },
+          {
+            "url": "https://www.magnoliabox.com/search?q=Andrea+del+Sarto&type=product"
+          },
+          {
+            "url": "https://www.pinterest.com/celaraujo/andrea-del-sarto/"
+          },
+          {
+            "url": "https://www.wikiart.org/en/andrea-del-sarto/sts-michael-and-john-gualbert"
+          },
+          {
+            "url": "https://www.magnoliabox.com/search?q=tag%3Aartist+andrea_del_sarto"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/54/75/68/547568df4dc7dbd7f41d3c812c0fe884.jpg"
+          },
+          {
+            "url": "https://uploads6.wikiart.org/images/andrea-del-sarto/sts-john-the-baptist-and-bernardo-degli-uberti.jpg"
+          },
+          {
+            "url": "https://image.invaluable.com/housePhotos/Dargate/92/284492/H0089-L15921542.jpg"
+          },
+          {
+            "url": "http://en.wahooart.com/Art.nsf/O/8BWLGN/$File/Andrea-Del-Sarto-Tobias-and-the-Angel-with-St-Leonard-and-Donor-S.JPG"
+          },
+          {
+            "url": "http://www.adolphewilliambouguereau.org/upload1/file-admin/images/new3/Andrea%20del%20Sarto-825873.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

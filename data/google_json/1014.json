@@ -1,0 +1,245 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.8854527
+        },
+        {
+          "mid": "/m/02ym4x",
+          "description": "impressionist",
+          "score": 0.7263013
+        },
+        {
+          "mid": "/m/015r61",
+          "description": "modern art",
+          "score": 0.5539505
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 90,
+                "green": 81,
+                "blue": 28
+              },
+              "score": 0.21581165,
+              "pixelFraction": 0.14910394
+            },
+            {
+              "color": {
+                "red": 218,
+                "green": 198,
+                "blue": 166
+              },
+              "score": 0.0878632,
+              "pixelFraction": 0.074193545
+            },
+            {
+              "color": {
+                "red": 104,
+                "green": 135,
+                "blue": 126
+              },
+              "score": 0.003989318,
+              "pixelFraction": 0.06935484
+            },
+            {
+              "color": {
+                "red": 67,
+                "green": 60,
+                "blue": 13
+              },
+              "score": 0.163662,
+              "pixelFraction": 0.051792115
+            },
+            {
+              "color": {
+                "red": 226,
+                "green": 194,
+                "blue": 141
+              },
+              "score": 0.06186834,
+              "pixelFraction": 0.036917564
+            },
+            {
+              "color": {
+                "red": 130,
+                "green": 113,
+                "blue": 54
+              },
+              "score": 0.06024484,
+              "pixelFraction": 0.055824373
+            },
+            {
+              "color": {
+                "red": 62,
+                "green": 54,
+                "blue": 21
+              },
+              "score": 0.05333939,
+              "pixelFraction": 0.01890681
+            },
+            {
+              "color": {
+                "red": 244,
+                "green": 215,
+                "blue": 178
+              },
+              "score": 0.03397389,
+              "pixelFraction": 0.015143369
+            },
+            {
+              "color": {
+                "red": 181,
+                "green": 154,
+                "blue": 98
+              },
+              "score": 0.03378324,
+              "pixelFraction": 0.05062724
+            },
+            {
+              "color": {
+                "red": 186,
+                "green": 191,
+                "blue": 180
+              },
+              "score": 0.029674277,
+              "pixelFraction": 0.053673834
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 288
+                },
+                {
+                  "x": 288,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/08s4wm",
+            "score": 1.4984,
+            "description": "The Baptism of Christ"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.8512026,
+            "description": "Painting"
+          },
+          {
+            "entityId": "/m/02n5_c",
+            "score": 0.71742,
+            "description": "Sotheby's"
+          },
+          {
+            "entityId": "/m/0jjw",
+            "score": 0.70362,
+            "description": "Art"
+          },
+          {
+            "entityId": "/m/02d8yh",
+            "score": 0.4901,
+            "description": "Old Master"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://s3.amazonaws.com/classconnection/998/flashcards/309998/jpg/092l15036_8rtjb-1-151792E75D2605C7528.jpg"
+          },
+          {
+            "url": "http://www.sothebys.com/content/dam/stb/lots/L15/L15036/092L15036_8RTJB.jpg"
+          },
+          {
+            "url": "http://www.sothebys.com/content/dam/stb/lots/L15/L15036/092L15036_8RTJB.jpg.thumb.500.500.png"
+          },
+          {
+            "url": "http://www.artvalue.com/image.aspx?PHOTO_ID=4767181&width=500&height=500"
+          },
+          {
+            "url": "http://www.sothebys.com/content/dam/stb/lots/L15/L15036/092L15036_8RTJB.jpg.thumb.385.385.png"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://s3.amazonaws.com/classconnection/998/flashcards/309998/jpg/092l15036_8rtjb-1-151792E75D2605C7528.jpg"
+          },
+          {
+            "url": "http://www.sothebys.com/content/dam/stb/lots/L15/L15036/092L15036_8RTJB.jpg"
+          },
+          {
+            "url": "https://media.mutualart.com/Images/2015_11/23/23/235049451/450001f4-57ac-49dc-a5b2-24bb5b581afc_570.Jpeg"
+          },
+          {
+            "url": "http://www.sothebys.com/content/dam/stb/lots/L15/L15036/092L15036_8RTJB.jpg.thumb.500.500.png"
+          },
+          {
+            "url": "http://www.artvalue.com/image.aspx?PHOTO_ID=4767181&width=500&height=500"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.sothebys.com/de/auctions/2015/old-master-british-paintings-evening-sale-l15036.html"
+          },
+          {
+            "url": "http://www.sothebys.com/en/auctions/2015/old-master-british-paintings-evening-sale-l15036.html"
+          },
+          {
+            "url": "http://www.wga.hu/frames-e.html?/html/b/bacchiac/index.html"
+          },
+          {
+            "url": "http://www.artvalue.com/default.aspx?ID=23&AVEC_PHOTOS=O&ARTISTE_ID=77754&ARTISTE=UBERTINI&C_C_18=O&show=O&NB_COL=0&PRICEDEV=1&ORDRE=3&AVEC_PHOTOS2=O&cp_checked="
+          },
+          {
+            "url": "http://grumpyarthistorian.blogspot.com/2015/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://www.artexpertswebsite.com/pages/artists/artists_a-k/ivanov/Ivanov_Baptismofjesus.jpg"
+          },
+          {
+            "url": "https://www.bibleodyssey.org/-/media/Images/People/J/john-jesus-ghirlandaio.ashx"
+          },
+          {
+            "url": "http://trisagionseraph.tripod.com/JPGs/kansas.jpg"
+          },
+          {
+            "url": "http://3.bp.blogspot.com/-6YgYTWdqhKM/VLKPzgWGyZI/AAAAAAAAAi8/oU8ox7Q23ng/s1600/baptism-of-christ-1.jpg"
+          },
+          {
+            "url": "http://www.oceansbridge.ca/paintings/artists/p/poussin_nicolas/thumb-oil/the_baptism_of_christ_1650s_XX_philadelphia_pa_usa.JPG"
+          }
+        ]
+      }
+    }
+  ]
+}

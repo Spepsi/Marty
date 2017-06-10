@@ -1,0 +1,585 @@
+{
+  "responses": [
+    {
+      "faceAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 111,
+                "y": 18
+              },
+              {
+                "x": 188,
+                "y": 18
+              },
+              {
+                "x": 188,
+                "y": 108
+              },
+              {
+                "x": 111,
+                "y": 108
+              }
+            ]
+          },
+          "fdBoundingPoly": {
+            "vertices": [
+              {
+                "x": 114,
+                "y": 41
+              },
+              {
+                "x": 175,
+                "y": 41
+              },
+              {
+                "x": 175,
+                "y": 102
+              },
+              {
+                "x": 114,
+                "y": 102
+              }
+            ]
+          },
+          "landmarks": [
+            {
+              "type": "LEFT_EYE",
+              "position": {
+                "x": 130.49066,
+                "y": 60.882183,
+                "z": 0.00028124047
+              }
+            },
+            {
+              "type": "RIGHT_EYE",
+              "position": {
+                "x": 152.56076,
+                "y": 62.36727,
+                "z": -9.896578
+              }
+            },
+            {
+              "type": "LEFT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 124.26386,
+                "y": 54.50109,
+                "z": 4.5243583
+              }
+            },
+            {
+              "type": "RIGHT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 134.03044,
+                "y": 56.136826,
+                "z": -7.2908235
+              }
+            },
+            {
+              "type": "LEFT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 144.33168,
+                "y": 56.861336,
+                "z": -11.981306
+              }
+            },
+            {
+              "type": "RIGHT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 160.42441,
+                "y": 57.094017,
+                "z": -11.507073
+              }
+            },
+            {
+              "type": "MIDPOINT_BETWEEN_EYES",
+              "position": {
+                "x": 138.60603,
+                "y": 60.24085,
+                "z": -9.465176
+              }
+            },
+            {
+              "type": "NOSE_TIP",
+              "position": {
+                "x": 135.9805,
+                "y": 75.625275,
+                "z": -13.707502
+              }
+            },
+            {
+              "type": "UPPER_LIP",
+              "position": {
+                "x": 137.93991,
+                "y": 83.54266,
+                "z": -7.6613517
+              }
+            },
+            {
+              "type": "LOWER_LIP",
+              "position": {
+                "x": 138.74759,
+                "y": 90.29779,
+                "z": -5.2120433
+              }
+            },
+            {
+              "type": "MOUTH_LEFT",
+              "position": {
+                "x": 132.22328,
+                "y": 85.25471,
+                "z": 2.2625766
+              }
+            },
+            {
+              "type": "MOUTH_RIGHT",
+              "position": {
+                "x": 148.48973,
+                "y": 86.38051,
+                "z": -5.381723
+              }
+            },
+            {
+              "type": "MOUTH_CENTER",
+              "position": {
+                "x": 138.6796,
+                "y": 86.61372,
+                "z": -5.6275578
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_RIGHT",
+              "position": {
+                "x": 144.82559,
+                "y": 77.2719,
+                "z": -7.951497
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_LEFT",
+              "position": {
+                "x": 133.76526,
+                "y": 75.84799,
+                "z": -2.6922998
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_CENTER",
+              "position": {
+                "x": 137.40245,
+                "y": 79.098114,
+                "z": -8.380918
+              }
+            },
+            {
+              "type": "LEFT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 129.75368,
+                "y": 59.37394,
+                "z": -1.5966573
+              }
+            },
+            {
+              "type": "LEFT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 134.46355,
+                "y": 61.629765,
+                "z": -1.7141118
+              }
+            },
+            {
+              "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 129.997,
+                "y": 62.70195,
+                "z": 0.13795456
+              }
+            },
+            {
+              "type": "LEFT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 127.05218,
+                "y": 60.31868,
+                "z": 3.933093
+              }
+            },
+            {
+              "type": "LEFT_EYE_PUPIL",
+              "position": {
+                "x": 129.80417,
+                "y": 60.84719,
+                "z": -0.32219765
+              }
+            },
+            {
+              "type": "RIGHT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 151.03085,
+                "y": 60.9895,
+                "z": -11.235796
+              }
+            },
+            {
+              "type": "RIGHT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 157.11104,
+                "y": 62.393963,
+                "z": -9.55742
+              }
+            },
+            {
+              "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 152.25833,
+                "y": 63.986126,
+                "z": -9.6096115
+              }
+            },
+            {
+              "type": "RIGHT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 147.48338,
+                "y": 62.601738,
+                "z": -7.538899
+              }
+            },
+            {
+              "type": "RIGHT_EYE_PUPIL",
+              "position": {
+                "x": 151.6034,
+                "y": 62.498276,
+                "z": -10.241455
+              }
+            },
+            {
+              "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 128.45811,
+                "y": 52.664223,
+                "z": -3.146604
+              }
+            },
+            {
+              "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 151.52216,
+                "y": 54.41507,
+                "z": -13.5982275
+              }
+            },
+            {
+              "type": "LEFT_EAR_TRAGION",
+              "position": {
+                "x": 128.71968,
+                "y": 67.79326,
+                "z": 33.811127
+              }
+            },
+            {
+              "type": "RIGHT_EAR_TRAGION",
+              "position": {
+                "x": 177.9187,
+                "y": 71.274765,
+                "z": 12.110064
+              }
+            },
+            {
+              "type": "FOREHEAD_GLABELLA",
+              "position": {
+                "x": 138.79074,
+                "y": 56.332855,
+                "z": -10.4781065
+              }
+            },
+            {
+              "type": "CHIN_GNATHION",
+              "position": {
+                "x": 139.7931,
+                "y": 101.09403,
+                "z": -0.7469533
+              }
+            },
+            {
+              "type": "CHIN_LEFT_GONION",
+              "position": {
+                "x": 126.85914,
+                "y": 83.835,
+                "z": 26.09621
+              }
+            },
+            {
+              "type": "CHIN_RIGHT_GONION",
+              "position": {
+                "x": 170.4325,
+                "y": 87.29357,
+                "z": 6.295171
+              }
+            }
+          ],
+          "rollAngle": 0.9479443,
+          "panAngle": -24.56663,
+          "tiltAngle": -7.504176,
+          "detectionConfidence": 0.9976603,
+          "landmarkingConfidence": 0.5908353,
+          "joyLikelihood": "VERY_UNLIKELY",
+          "sorrowLikelihood": "VERY_UNLIKELY",
+          "angerLikelihood": "VERY_UNLIKELY",
+          "surpriseLikelihood": "VERY_UNLIKELY",
+          "underExposedLikelihood": "VERY_UNLIKELY",
+          "blurredLikelihood": "VERY_UNLIKELY",
+          "headwearLikelihood": "VERY_UNLIKELY"
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/09j2d",
+          "description": "clothing",
+          "score": 0.9076908
+        },
+        {
+          "mid": "/m/025dq0",
+          "description": "sari",
+          "score": 0.61160696
+        },
+        {
+          "mid": "/m/02w3_2",
+          "description": "formal wear",
+          "score": 0.60498726
+        },
+        {
+          "mid": "/m/0bp_2p",
+          "description": "gown",
+          "score": 0.5848606
+        },
+        {
+          "mid": "/m/047vlmn",
+          "description": "outerwear",
+          "score": 0.5237833
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 13,
+                "green": 19,
+                "blue": 18
+              },
+              "score": 0.35521215,
+              "pixelFraction": 0.40665555
+            },
+            {
+              "color": {
+                "red": 59,
+                "green": 41,
+                "blue": 22
+              },
+              "score": 0.1668991,
+              "pixelFraction": 0.08750463
+            },
+            {
+              "color": {
+                "red": 216,
+                "green": 191,
+                "blue": 158
+              },
+              "score": 0.013312679,
+              "pixelFraction": 0.012791991
+            },
+            {
+              "color": {
+                "red": 74,
+                "green": 44,
+                "blue": 21
+              },
+              "score": 0.15281546,
+              "pixelFraction": 0.081664816
+            },
+            {
+              "color": {
+                "red": 43,
+                "green": 28,
+                "blue": 11
+              },
+              "score": 0.052336954,
+              "pixelFraction": 0.028550241
+            },
+            {
+              "color": {
+                "red": 105,
+                "green": 70,
+                "blue": 43
+              },
+              "score": 0.048612054,
+              "pixelFraction": 0.05311457
+            },
+            {
+              "color": {
+                "red": 114,
+                "green": 71,
+                "blue": 35
+              },
+              "score": 0.03465501,
+              "pixelFraction": 0.06748239
+            },
+            {
+              "color": {
+                "red": 98,
+                "green": 79,
+                "blue": 57
+              },
+              "score": 0.03347025,
+              "pixelFraction": 0.021690767
+            },
+            {
+              "color": {
+                "red": 48,
+                "green": 49,
+                "blue": 43
+              },
+              "score": 0.031250373,
+              "pixelFraction": 0.031609196
+            },
+            {
+              "color": {
+                "red": 51,
+                "green": 23,
+                "blue": 3
+              },
+              "score": 0.017056197,
+              "pixelFraction": 0.008249908
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 281
+                },
+                {
+                  "x": 281,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 1,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0rvt",
+            "score": 1.40872,
+            "description": "Alessandro Allori"
+          },
+          {
+            "entityId": "/m/0bbtmwx",
+            "score": 1.10832,
+            "description": "Portrait of a Lady"
+          },
+          {
+            "entityId": "/m/06cvx",
+            "score": 0.98262,
+            "description": "Renaissance"
+          },
+          {
+            "entityId": "/m/01dv4h",
+            "score": 0.75399,
+            "description": "Portrait"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.40995,
+            "description": "Painting"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://www.artita.ru/dat/a/allori/9.jpg"
+          },
+          {
+            "url": "http://68.media.tumblr.com/934827511ffb55d8511cc0e969ef833f/tumblr_nw6g2nLMBP1qiletdo1_1280.jpg"
+          },
+          {
+            "url": "https://i2.wp.com/www.epochtimes.com.br/wp-content/uploads/2013/12/cr-alessandro-allori-01.jpg"
+          },
+          {
+            "url": "http://cfile207.uf.daum.net/image/27731E43549FE3D3086C1E"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/b6/4f/0e/b64f0e4a4303a1d3bda3eea1ceafe49f.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://www.artita.ru/dat/a/allori/9.jpg"
+          },
+          {
+            "url": "http://www.settemuse.it/pittori_opere_A/allori_alessandro/allori_alessandro_503_portrait_of_a_noble_woman.jpg"
+          },
+          {
+            "url": "https://i2.wp.com/www.epochtimes.com.br/wp-content/uploads/2013/12/cr-alessandro-allori-01.jpg"
+          },
+          {
+            "url": "http://4.bp.blogspot.com/-WQEnNqnN-I8/VIhysZvxEPI/AAAAAAAB4q4/apLaiI9p_x4/s1600/alessandro%2Ballori2.jpg"
+          },
+          {
+            "url": "http://jornalggn.com.br/sites/default/files/imagecache/imagens_blog/imagens/allori_alessandro_-_portrait_of_a_noble_women.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.wga.hu/frames-e.html?/html/a/allori/alessand/index.html"
+          },
+          {
+            "url": "https://www.artexpertswebsite.com/pages/artists/allori.php"
+          },
+          {
+            "url": "http://www.gogmsite.net/the_middle_1500s_-_1550_to_/noblewoman-by-alessandro-al.html"
+          },
+          {
+            "url": "http://www.alamy.com/stock-photo/alessandro-allori.html"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Alessandro_allori,_ritratto_di_nobildonna.jpg"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/5f/05/e2/5f05e24f677e79f37cd7a5ca257d6d65.jpg"
+          },
+          {
+            "url": "http://1.bp.blogspot.com/-Yg7CFsL7rLg/U4duZ_g1u-I/AAAAAAADyv0/W6jBNVdmQhs/s1600/Alessandro+Allori+-+Eleonora+di+Don+Garzia+di+Toledo+di+Pietro+de'+Medici.jpg"
+          },
+          {
+            "url": "https://2.bp.blogspot.com/-C4zz9lSheos/TyCsCPRnPuI/AAAAAAAA1jc/L5CoHIFpaVY/s640/Alessandro%2BAllori%252C%2BIsabella%2Bde%2BMedici%252C%2Bc.%2B1560.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Alessandro_Allori_Lucrezia_de%27_Medici.jpg/182px-Alessandro_Allori_Lucrezia_de%27_Medici.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/0a/fa/55/0afa55f5226440f6f8a76fbc3cf27099.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

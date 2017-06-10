@@ -1,0 +1,555 @@
+{
+  "responses": [
+    {
+      "logoAnnotations": [
+        {
+          "description": "The Story of St. Nicholas. St. Nicholas saves the ship (detail)",
+          "score": 0.9498547,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 4,
+                "y": 7
+              },
+              {
+                "x": 322,
+                "y": 7
+              },
+              {
+                "x": 322,
+                "y": 393
+              },
+              {
+                "x": 4,
+                "y": 393
+              }
+            ]
+          }
+        },
+        {
+          "description": "The Story of St. Nicholas: St. Nicholas saves the ship",
+          "score": 0.8195714,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 8,
+                "y": 9
+              },
+              {
+                "x": 309,
+                "y": 9
+              },
+              {
+                "x": 309,
+                "y": 386
+              },
+              {
+                "x": 8,
+                "y": 386
+              }
+            ]
+          }
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "ja",
+          "description": "ン1\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 202,
+                "y": 5
+              },
+              {
+                "x": 221,
+                "y": 5
+              },
+              {
+                "x": 221,
+                "y": 25
+              },
+              {
+                "x": 202,
+                "y": 25
+              }
+            ]
+          }
+        },
+        {
+          "description": "ン",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 221,
+                "y": 25
+              },
+              {
+                "x": 203,
+                "y": 26
+              },
+              {
+                "x": 202,
+                "y": 14
+              },
+              {
+                "x": 220,
+                "y": 13
+              }
+            ]
+          }
+        },
+        {
+          "description": "1",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 220,
+                "y": 11
+              },
+              {
+                "x": 202,
+                "y": 12
+              },
+              {
+                "x": 202,
+                "y": 7
+              },
+              {
+                "x": 220,
+                "y": 6
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 162,
+                "green": 106,
+                "blue": 57
+              },
+              "score": 0.101642735,
+              "pixelFraction": 0.041587602
+            },
+            {
+              "color": {
+                "red": 72,
+                "green": 56,
+                "blue": 37
+              },
+              "score": 0.06980079,
+              "pixelFraction": 0.059376977
+            },
+            {
+              "color": {
+                "red": 196,
+                "green": 133,
+                "blue": 61
+              },
+              "score": 0.063579164,
+              "pixelFraction": 0.019212523
+            },
+            {
+              "color": {
+                "red": 218,
+                "green": 204,
+                "blue": 166
+              },
+              "score": 0.04897402,
+              "pixelFraction": 0.089500315
+            },
+            {
+              "color": {
+                "red": 168,
+                "green": 40,
+                "blue": 7
+              },
+              "score": 0.03917805,
+              "pixelFraction": 0.0037160025
+            },
+            {
+              "color": {
+                "red": 42,
+                "green": 18,
+                "blue": 23
+              },
+              "score": 0.019823726,
+              "pixelFraction": 0.02261227
+            },
+            {
+              "color": {
+                "red": 124,
+                "green": 73,
+                "blue": 32
+              },
+              "score": 0.076966956,
+              "pixelFraction": 0.045461733
+            },
+            {
+              "color": {
+                "red": 79,
+                "green": 42,
+                "blue": 24
+              },
+              "score": 0.06523777,
+              "pixelFraction": 0.092979126
+            },
+            {
+              "color": {
+                "red": 86,
+                "green": 72,
+                "blue": 47
+              },
+              "score": 0.057141278,
+              "pixelFraction": 0.08720747
+            },
+            {
+              "color": {
+                "red": 175,
+                "green": 113,
+                "blue": 45
+              },
+              "score": 0.056408744,
+              "pixelFraction": 0.01446869
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 327
+                },
+                {
+                  "x": 327,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "ja"
+                }
+              ]
+            },
+            "width": 328,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "ja"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 203,
+                      "y": 26
+                    },
+                    {
+                      "x": 202,
+                      "y": 7
+                    },
+                    {
+                      "x": 220,
+                      "y": 6
+                    },
+                    {
+                      "x": 221,
+                      "y": 25
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "ja"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 202,
+                          "y": 5
+                        },
+                        {
+                          "x": 221,
+                          "y": 5
+                        },
+                        {
+                          "x": 221,
+                          "y": 25
+                        },
+                        {
+                          "x": 202,
+                          "y": 25
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "ja"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 221,
+                              "y": 25
+                            },
+                            {
+                              "x": 203,
+                              "y": 26
+                            },
+                            {
+                              "x": 202,
+                              "y": 14
+                            },
+                            {
+                              "x": 220,
+                              "y": 13
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "ja"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 221,
+                                  "y": 25
+                                },
+                                {
+                                  "x": 203,
+                                  "y": 26
+                                },
+                                {
+                                  "x": 202,
+                                  "y": 14
+                                },
+                                {
+                                  "x": 220,
+                                  "y": 13
+                                }
+                              ]
+                            },
+                            "text": "ン"
+                          }
+                        ]
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 220,
+                              "y": 11
+                            },
+                            {
+                              "x": 202,
+                              "y": 12
+                            },
+                            {
+                              "x": 202,
+                              "y": 7
+                            },
+                            {
+                              "x": 220,
+                              "y": 6
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "ja"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 220,
+                                  "y": 11
+                                },
+                                {
+                                  "x": 202,
+                                  "y": 12
+                                },
+                                {
+                                  "x": 202,
+                                  "y": 7
+                                },
+                                {
+                                  "x": 220,
+                                  "y": 6
+                                }
+                              ]
+                            },
+                            "text": "1"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "ン1\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0glpfxr",
+            "score": 1.16916,
+            "description": "Perugia Altarpiece"
+          },
+          {
+            "entityId": "/m/06cvx",
+            "score": 0.74206,
+            "description": "Renaissance"
+          },
+          {
+            "entityId": "/g/122m411c",
+            "score": 0.59388
+          },
+          {
+            "entityId": "/g/11cktgv_zx",
+            "score": 0.57776,
+            "description": "The Story of St. Nicholas. St. Nicholas saves the ship (detail)"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.37312,
+            "description": "Painting"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://www.toperfect.com/pic/Oil%20Painting%20Masterpieces%20on%20Canvas/Fra%20Angelico%20_Italy_1387-1455/5-Story-Of-St-Nicholas-St-Nicolas-Saves-The-Ship-Renaissance-Fra-Angelico.jpg"
+          },
+          {
+            "url": "http://68.media.tumblr.com/tumblr_m4ivi5uK8t1r29g9xo1_1280.jpg"
+          },
+          {
+            "url": "https://68.media.tumblr.com/e8d692dfaa3ca27193a91cc299dfc706/tumblr_oquzuuTqOD1w3nqtho1_1280.jpg"
+          },
+          {
+            "url": "http://www.lib-art.com/imgpainting/1/9/18891-the-story-of-st-nicholas-st-nichol-fra-angelico.jpg"
+          },
+          {
+            "url": "https://uploads1.wikiart.org/images/fra-angelico/the-story-of-st-nicholas-st-nicholas-saves-the-ship-detail-1448.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://www.oceansbridge.com/paintings/german/thumb/Fra_Angelico_088_OBNP2009-Y00388.jpg"
+          },
+          {
+            "url": "http://www.zeno.org/Kunstwerke.images/I/1180019a.jpg"
+          },
+          {
+            "url": "https://d3s1b1zelykba8.cloudfront.net/Articulo/Original/563.jpg"
+          },
+          {
+            "url": "https://images-na.ssl-images-amazon.com/images/I/91gss8dvM%2BL.jpg"
+          },
+          {
+            "url": "http://www.oceansbridge.com/paintings/german/thumb/Fra_Angelico_087_OBNP2009-Y00387.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Fra_Angelico_-_The_Story_of_St_Nicholas_-_St_Nicholas_saves_the_ship_-_WGA00504.jpg"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/306596687102341628/"
+          },
+          {
+            "url": "https://djaunter.com/nikulden-holiday-bulgaria/life-of-st-nicholas-fra-angelico/"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/800444533740497333/"
+          },
+          {
+            "url": "http://www.wga.hu/frames-e.html?/html/a/angelico/06/index.html"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/1d/f4/ab/1df4ab713622ab5f190713e2cdf64f69.jpg"
+          },
+          {
+            "url": "http://1.bp.blogspot.com/_vr3Kz59CGZY/TTWwACNtZ5I/AAAAAAAAD0U/ing9mVh6cmw/s1600/3%2Bfra%2Bangelico%252C%2BSt%2BNicholas%2Bcalms%2Ba%2Btempest%252C%2Bdetail.jpg"
+          },
+          {
+            "url": "http://theredlist.com/media/database/fine-art2/15-16/quattrocento/fra-angelico/012-fra-angelico-theredlist.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Fra_Angelico_-_The_Story_of_St_Nicholas_-_The_Death_of_the_Saint_-_WGA00508.jpg"
+          },
+          {
+            "url": "https://www.toperfect.com/cache/pic/Oil%20Painting%20Masterpieces%20on%20Canvas/Fra%20Angelico%20_Italy_1387-1455/6-Story-Of-St-Nicholas-Birth-Of-St-Nicholas-Renaissance-Fra-Angelico-360x360.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

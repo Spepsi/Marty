@@ -1,0 +1,265 @@
+{
+  "responses": [
+    {
+      "logoAnnotations": [
+        {
+          "description": "St. Roche",
+          "score": 0.8988276,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 5,
+                "y": 22
+              },
+              {
+                "x": 127,
+                "y": 22
+              },
+              {
+                "x": 127,
+                "y": 395
+              },
+              {
+                "x": 5,
+                "y": 395
+              }
+            ]
+          }
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/0ch75fj",
+          "description": "man made object",
+          "score": 0.91194606
+        },
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.55683297
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 38,
+                "green": 13,
+                "blue": 13
+              },
+              "score": 0.32611388,
+              "pixelFraction": 0.1061828
+            },
+            {
+              "color": {
+                "red": 51,
+                "green": 16,
+                "blue": 6
+              },
+              "score": 0.30918613,
+              "pixelFraction": 0.08294931
+            },
+            {
+              "color": {
+                "red": 74,
+                "green": 39,
+                "blue": 27
+              },
+              "score": 0.14826965,
+              "pixelFraction": 0.10387865
+            },
+            {
+              "color": {
+                "red": 27,
+                "green": 11,
+                "blue": 8
+              },
+              "score": 0.108487286,
+              "pixelFraction": 0.052419353
+            },
+            {
+              "color": {
+                "red": 125,
+                "green": 102,
+                "blue": 95
+              },
+              "score": 0.00070492754,
+              "pixelFraction": 0.00038402458
+            },
+            {
+              "color": {
+                "red": 61,
+                "green": 36,
+                "blue": 39
+              },
+              "score": 0.04291138,
+              "pixelFraction": 0.015360983
+            },
+            {
+              "color": {
+                "red": 103,
+                "green": 68,
+                "blue": 56
+              },
+              "score": 0.024515124,
+              "pixelFraction": 0.06586021
+            },
+            {
+              "color": {
+                "red": 64,
+                "green": 5
+              },
+              "score": 0.010991106,
+              "pixelFraction": 0.0028801844
+            },
+            {
+              "color": {
+                "red": 151,
+                "green": 117,
+                "blue": 105
+              },
+              "score": 0.006371162,
+              "pixelFraction": 0.04358679
+            },
+            {
+              "color": {
+                "red": 94,
+                "green": 39,
+                "blue": 11
+              },
+              "score": 0.004326603,
+              "pixelFraction": 0.00672043
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 134
+                },
+                {
+                  "x": 134,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0fqnmkq",
+            "score": 5.45856,
+            "description": "Lindenau-Museum"
+          },
+          {
+            "entityId": "/m/0272rmj",
+            "score": 2.4268,
+            "description": "San Marco, Florence"
+          },
+          {
+            "entityId": "/g/12100_zb",
+            "score": 2.30408,
+            "description": "Museo Nazionale di San Marco"
+          },
+          {
+            "entityId": "/m/05zpzj5",
+            "score": 1.74748,
+            "description": "San Marco Altarpiece"
+          },
+          {
+            "entityId": "/m/0719f",
+            "score": 0.61628,
+            "description": "Saint"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/e5/a1/7f/e5a17f663dc4fd05518b5a903346b042.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/3d/ee/27/3dee27c54e479bbb39a49acbcb3e245b.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/d0/43/be/d043be2fe1f28a694226766261ae0690.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/3d/ee/27/3dee27c54e479bbb39a49acbcb3e245b.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/f3/6b/15/f36b158dd422ae6fe7153a217916c45a.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/5e/c4/67/5ec467114af579d0da64b6f0f696bd6b.jpg"
+          },
+          {
+            "url": "http://www.lindenau-museum.de/tl_files/0_galerie/florenz/092.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/5e/c4/67/5ec467114af579d0da64b6f0f696bd6b.jpg?noindex=1"
+          },
+          {
+            "url": "https://img.ibs.it/images/9788842534426_0_150_0_70.jpg"
+          },
+          {
+            "url": "http://static.lafeltrinelli.it/static/images-1/l/361/2210361.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://www.wikiart.org/en/fra-angelico/st-roche-1440"
+          },
+          {
+            "url": "https://www.pinterest.com/curtispullin5/st-roch/"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/538039486712653857/"
+          },
+          {
+            "url": "https://www.wikiart.org/en/tag/st-roch"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/369576713145070769/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/d0/43/be/d043be2fe1f28a694226766261ae0690.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/1d/ed/50/1ded50ed1ebfe0a1cc57c54c5caa3c1b.jpg"
+          },
+          {
+            "url": "http://cn.wahooart.com/A55A04/w.nsf/O/BRUE-8DP4FM/$File/CARLO-CRIVELLI-ST.-ROCH.JPG"
+          },
+          {
+            "url": "http://roch.compostelle.free.fr/saintroch/stroch15.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/63/0b/a2/630ba2090e124508487247bb26222a9a.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

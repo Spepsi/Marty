@@ -1,0 +1,585 @@
+{
+  "responses": [
+    {
+      "faceAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 91,
+                "y": 91
+              },
+              {
+                "x": 182,
+                "y": 91
+              },
+              {
+                "x": 182,
+                "y": 197
+              },
+              {
+                "x": 91,
+                "y": 197
+              }
+            ]
+          },
+          "fdBoundingPoly": {
+            "vertices": [
+              {
+                "x": 107,
+                "y": 124
+              },
+              {
+                "x": 172,
+                "y": 124
+              },
+              {
+                "x": 172,
+                "y": 189
+              },
+              {
+                "x": 107,
+                "y": 189
+              }
+            ]
+          },
+          "landmarks": [
+            {
+              "type": "LEFT_EYE",
+              "position": {
+                "x": 122.43394,
+                "y": 148.32858,
+                "z": -0.00018818412
+              }
+            },
+            {
+              "type": "RIGHT_EYE",
+              "position": {
+                "x": 148.89543,
+                "y": 139.65176,
+                "z": 1.6322128
+              }
+            },
+            {
+              "type": "LEFT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 112.134186,
+                "y": 146.0704,
+                "z": 0.8579358
+              }
+            },
+            {
+              "type": "RIGHT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 128.89688,
+                "y": 141.76021,
+                "z": -5.95057
+              }
+            },
+            {
+              "type": "LEFT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 140.57956,
+                "y": 136.96515,
+                "z": -5.296748
+              }
+            },
+            {
+              "type": "RIGHT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 154.86795,
+                "y": 130.08197,
+                "z": 3.332634
+              }
+            },
+            {
+              "type": "MIDPOINT_BETWEEN_EYES",
+              "position": {
+                "x": 136.04199,
+                "y": 143.96677,
+                "z": -5.0287495
+              }
+            },
+            {
+              "type": "NOSE_TIP",
+              "position": {
+                "x": 143.02632,
+                "y": 161.06474,
+                "z": -9.717895
+              }
+            },
+            {
+              "type": "UPPER_LIP",
+              "position": {
+                "x": 145.13416,
+                "y": 168.76816,
+                "z": -1.4644208
+              }
+            },
+            {
+              "type": "LOWER_LIP",
+              "position": {
+                "x": 148.0579,
+                "y": 177.00493,
+                "z": 2.3308284
+              }
+            },
+            {
+              "type": "MOUTH_LEFT",
+              "position": {
+                "x": 135.538,
+                "y": 174.5687,
+                "z": 5.9191265
+              }
+            },
+            {
+              "type": "MOUTH_RIGHT",
+              "position": {
+                "x": 155.6044,
+                "y": 167.32637,
+                "z": 7.096667
+              }
+            },
+            {
+              "type": "MOUTH_CENTER",
+              "position": {
+                "x": 146.50758,
+                "y": 172.18929,
+                "z": 1.3743567
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_RIGHT",
+              "position": {
+                "x": 149.04445,
+                "y": 157.91386,
+                "z": 1.4520234
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_LEFT",
+              "position": {
+                "x": 134.3562,
+                "y": 163.1749,
+                "z": 0.6879184
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_CENTER",
+              "position": {
+                "x": 143.74873,
+                "y": 164.46191,
+                "z": -2.5804164
+              }
+            },
+            {
+              "type": "LEFT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 122.68446,
+                "y": 147.78703,
+                "z": -2.0199997
+              }
+            },
+            {
+              "type": "LEFT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 127.464,
+                "y": 147.31993,
+                "z": 0.56454754
+              }
+            },
+            {
+              "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 122.91923,
+                "y": 150.56172,
+                "z": 0.23613869
+              }
+            },
+            {
+              "type": "LEFT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 117.70631,
+                "y": 150.80273,
+                "z": 2.3335185
+              }
+            },
+            {
+              "type": "LEFT_EYE_PUPIL",
+              "position": {
+                "x": 122.74359,
+                "y": 149.5036,
+                "z": -0.5215063
+              }
+            },
+            {
+              "type": "RIGHT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 148.3275,
+                "y": 138.22986,
+                "z": -0.55548626
+              }
+            },
+            {
+              "type": "RIGHT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 153.54968,
+                "y": 137.44113,
+                "z": 4.4103684
+              }
+            },
+            {
+              "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 149.57133,
+                "y": 141.94272,
+                "z": 1.8170923
+              }
+            },
+            {
+              "type": "RIGHT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 143.76202,
+                "y": 142.33946,
+                "z": 1.524073
+              }
+            },
+            {
+              "type": "RIGHT_EYE_PUPIL",
+              "position": {
+                "x": 149.07375,
+                "y": 139.73828,
+                "z": 0.9323556
+              }
+            },
+            {
+              "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 119.1583,
+                "y": 141.11887,
+                "z": -4.9743056
+              }
+            },
+            {
+              "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 146.93137,
+                "y": 130.72707,
+                "z": -3.3953729
+              }
+            },
+            {
+              "type": "LEFT_EAR_TRAGION",
+              "position": {
+                "x": 107.38695,
+                "y": 162.31755,
+                "z": 34.967545
+              }
+            },
+            {
+              "type": "RIGHT_EAR_TRAGION",
+              "position": {
+                "x": 165.52534,
+                "y": 140.44571,
+                "z": 38.30784
+              }
+            },
+            {
+              "type": "FOREHEAD_GLABELLA",
+              "position": {
+                "x": 134.39513,
+                "y": 139.16167,
+                "z": -6.705332
+              }
+            },
+            {
+              "type": "CHIN_GNATHION",
+              "position": {
+                "x": 151.95328,
+                "y": 187.34055,
+                "z": 8.482332
+              }
+            },
+            {
+              "type": "CHIN_LEFT_GONION",
+              "position": {
+                "x": 117.34302,
+                "y": 179.20444,
+                "z": 27.61069
+              }
+            },
+            {
+              "type": "CHIN_RIGHT_GONION",
+              "position": {
+                "x": 169.91125,
+                "y": 159.53702,
+                "z": 30.626003
+              }
+            }
+          ],
+          "rollAngle": -19.90813,
+          "panAngle": 3.1370556,
+          "tiltAngle": -11.217406,
+          "detectionConfidence": 0.9464121,
+          "landmarkingConfidence": 0.5550632,
+          "joyLikelihood": "VERY_UNLIKELY",
+          "sorrowLikelihood": "VERY_UNLIKELY",
+          "angerLikelihood": "VERY_UNLIKELY",
+          "surpriseLikelihood": "VERY_UNLIKELY",
+          "underExposedLikelihood": "VERY_UNLIKELY",
+          "blurredLikelihood": "VERY_UNLIKELY",
+          "headwearLikelihood": "VERY_UNLIKELY"
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.92091733
+        },
+        {
+          "mid": "/m/01dv4h",
+          "description": "portrait",
+          "score": 0.78988373
+        },
+        {
+          "mid": "/m/02ym4x",
+          "description": "impressionist",
+          "score": 0.7117301
+        },
+        {
+          "mid": "/m/0mf2",
+          "description": "abbot",
+          "score": 0.6280766
+        },
+        {
+          "mid": "/m/04zhd",
+          "description": "mythology",
+          "score": 0.516095
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 51,
+                "green": 44,
+                "blue": 52
+              },
+              "score": 0.28160006,
+              "pixelFraction": 0.27749616
+            },
+            {
+              "color": {
+                "red": 135,
+                "green": 117,
+                "blue": 95
+              },
+              "score": 0.014944082,
+              "pixelFraction": 0.014439324
+            },
+            {
+              "color": {
+                "red": 30,
+                "green": 28,
+                "blue": 37
+              },
+              "score": 0.20389833,
+              "pixelFraction": 0.1920123
+            },
+            {
+              "color": {
+                "red": 70,
+                "green": 47,
+                "blue": 55
+              },
+              "score": 0.13756736,
+              "pixelFraction": 0.10268817
+            },
+            {
+              "color": {
+                "red": 100,
+                "green": 71,
+                "blue": 77
+              },
+              "score": 0.102108926,
+              "pixelFraction": 0.10437788
+            },
+            {
+              "color": {
+                "red": 28,
+                "green": 28,
+                "blue": 43
+              },
+              "score": 0.072860114,
+              "pixelFraction": 0.052073732
+            },
+            {
+              "color": {
+                "red": 44,
+                "green": 41,
+                "blue": 58
+              },
+              "score": 0.051879246,
+              "pixelFraction": 0.037019968
+            },
+            {
+              "color": {
+                "red": 88,
+                "green": 77,
+                "blue": 77
+              },
+              "score": 0.031535573,
+              "pixelFraction": 0.04078341
+            },
+            {
+              "color": {
+                "red": 58,
+                "green": 46,
+                "blue": 66
+              },
+              "score": 0.014743326,
+              "pixelFraction": 0.00906298
+            },
+            {
+              "color": {
+                "red": 171,
+                "green": 150,
+                "blue": 122
+              },
+              "score": 0.012976191,
+              "pixelFraction": 0.010291859
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 313
+                },
+                {
+                  "x": 313,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 1,
+            "importanceFraction": 2.31
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/029t1",
+            "score": 5.48784,
+            "description": "Delft"
+          },
+          {
+            "entityId": "/m/06jsf",
+            "score": 4.82704,
+            "description": "Rijksmuseum"
+          },
+          {
+            "entityId": "/m/07s5949",
+            "score": 1.40784,
+            "description": "Pieter Jansz van Asch"
+          },
+          {
+            "entityId": "/m/0266180",
+            "score": 0.88681,
+            "description": "Self-portrait"
+          },
+          {
+            "entityId": "/m/01dv4h",
+            "score": 0.63994306,
+            "description": "Portrait"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://www.the-athenaeum.org/art/display_image.php?id=311057"
+          },
+          {
+            "url": "http://i9.pixs.ru/storage/6/3/4/wwwwgahuar_8497332_15919634.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/63/6e/61/636e6139047de613d892e039bf1ecf92.jpg"
+          },
+          {
+            "url": "http://s18.postimg.org/bxwzcbaeh/4_Self_portrait.jpg"
+          },
+          {
+            "url": "http://img.bimg.126.net/photo/yUfgR_lyX9xr3v2ZY14_gA==/5724919551318540467.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://2.bp.blogspot.com/-yXfi47uLCu8/UdHfS5mEyKI/AAAAAAAAAHE/jnDGcdmSsPs/s1600/Pieter_Jansz__van_Asch_001.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Pieter_Jansz._van_Asch_001.jpg/1200px-Pieter_Jansz._van_Asch_001.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Zelfportret_Rijksmuseum_SK-A-2106.jpeg/1200px-Zelfportret_Rijksmuseum_SK-A-2106.jpeg"
+          },
+          {
+            "url": "https://i2.wp.com/www.autoritratti.org/wp-content/uploads/2015/11/PIETER-JANSZ-VAN-ASCH-AUTORITRATTO-1640_thumb.jpg?resize=1000%2C1187"
+          },
+          {
+            "url": "https://farm4.staticflickr.com/3477/4073536505_d6d9e1a986_o.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Pieter_Jansz_van_Asch"
+          },
+          {
+            "url": "https://it.wikipedia.org/wiki/Pieter_Jansz_van_Asch"
+          },
+          {
+            "url": "https://fr.wikipedia.org/wiki/Pieter_Jansz._van_Asch"
+          },
+          {
+            "url": "https://nl.wikipedia.org/wiki/Pieter_Jansz._van_Asch"
+          },
+          {
+            "url": "https://sv.wikipedia.org/wiki/Pieter_Jansz_van_Asch"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/33/78/b3/3378b329107916f97fff92b0420ce8f7.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/art/a/asch/selfport.jpg"
+          },
+          {
+            "url": "http://www.artnet.com/WebServices/images/ll07034lldJZ2FFg8KECfDrCWQFHPKcEUK/pieter-jansz-van-asch-figures-on-a-path-in-a-river-landscape.jpg"
+          },
+          {
+            "url": "https://image.invaluable.com/housePhotos/sothebys/60/109960/H0046-L03320099.jpg"
+          },
+          {
+            "url": "http://www.artnet.com/WebServices/images/ll00083lldn3xFFg0YECfDrCWQFHPKc5uJ/pieter-jansz-van-asch-an-evening-landscape-with-a-family-and-other-travellers-walking-on-a-country-path-beside-a-river,-a.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

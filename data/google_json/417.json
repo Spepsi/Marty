@@ -1,0 +1,458 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07sn5gn",
+          "description": "geological phenomenon",
+          "score": 0.7988842
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "en",
+          "description": "72\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 23,
+                "y": 167
+              },
+              {
+                "x": 36,
+                "y": 167
+              },
+              {
+                "x": 36,
+                "y": 181
+              },
+              {
+                "x": 23,
+                "y": 181
+              }
+            ]
+          }
+        },
+        {
+          "description": "72",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 23,
+                "y": 181
+              },
+              {
+                "x": 23,
+                "y": 167
+              },
+              {
+                "x": 36,
+                "y": 167
+              },
+              {
+                "x": 36,
+                "y": 181
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 114,
+                "green": 76,
+                "blue": 54
+              },
+              "score": 0.18682,
+              "pixelFraction": 0.059318997
+            },
+            {
+              "color": {
+                "red": 156,
+                "green": 100,
+                "blue": 64
+              },
+              "score": 0.18209235,
+              "pixelFraction": 0.024462366
+            },
+            {
+              "color": {
+                "red": 136,
+                "green": 151,
+                "blue": 183
+              },
+              "score": 0.018265348,
+              "pixelFraction": 0.104928315
+            },
+            {
+              "color": {
+                "red": 205,
+                "green": 200,
+                "blue": 203
+              },
+              "score": 0.011559919,
+              "pixelFraction": 0.019623656
+            },
+            {
+              "color": {
+                "red": 151,
+                "green": 106,
+                "blue": 80
+              },
+              "score": 0.14068983,
+              "pixelFraction": 0.037275985
+            },
+            {
+              "color": {
+                "red": 80,
+                "green": 48,
+                "blue": 32
+              },
+              "score": 0.10286374,
+              "pixelFraction": 0.04659498
+            },
+            {
+              "color": {
+                "red": 131,
+                "green": 82,
+                "blue": 45
+              },
+              "score": 0.09251778,
+              "pixelFraction": 0.009767025
+            },
+            {
+              "color": {
+                "red": 202,
+                "green": 141,
+                "blue": 93
+              },
+              "score": 0.03533786,
+              "pixelFraction": 0.0038530466
+            },
+            {
+              "color": {
+                "red": 104,
+                "green": 81,
+                "blue": 61
+              },
+              "score": 0.028129367,
+              "pixelFraction": 0.03548387
+            },
+            {
+              "color": {
+                "red": 68,
+                "green": 49,
+                "blue": 34
+              },
+              "score": 0.025355708,
+              "pixelFraction": 0.032258064
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 288
+                },
+                {
+                  "y": 288
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "en"
+                }
+              ]
+            },
+            "width": 400,
+            "height": 289,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "en"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 23,
+                      "y": 167
+                    },
+                    {
+                      "x": 36,
+                      "y": 167
+                    },
+                    {
+                      "x": 36,
+                      "y": 181
+                    },
+                    {
+                      "x": 23,
+                      "y": 181
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "en"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 23,
+                          "y": 167
+                        },
+                        {
+                          "x": 36,
+                          "y": 167
+                        },
+                        {
+                          "x": 36,
+                          "y": 181
+                        },
+                        {
+                          "x": 23,
+                          "y": 181
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 23,
+                              "y": 181
+                            },
+                            {
+                              "x": 23,
+                              "y": 167
+                            },
+                            {
+                              "x": 36,
+                              "y": 167
+                            },
+                            {
+                              "x": 36,
+                              "y": 181
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 23,
+                                  "y": 181
+                                },
+                                {
+                                  "x": 23,
+                                  "y": 167
+                                },
+                                {
+                                  "x": 29,
+                                  "y": 167
+                                },
+                                {
+                                  "x": 29,
+                                  "y": 181
+                                }
+                              ]
+                            },
+                            "text": "7"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 31,
+                                  "y": 181
+                                },
+                                {
+                                  "x": 31,
+                                  "y": 167
+                                },
+                                {
+                                  "x": 36,
+                                  "y": 167
+                                },
+                                {
+                                  "x": 36,
+                                  "y": 181
+                                }
+                              ]
+                            },
+                            "text": "2"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "72\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/031y2",
+            "score": 1.20096,
+            "description": "Florence"
+          },
+          {
+            "entityId": "/m/06cvx",
+            "score": 0.79886,
+            "description": "Renaissance"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.71159,
+            "description": "Painting"
+          },
+          {
+            "entityId": "/g/122tpg2r",
+            "score": 0.67386
+          },
+          {
+            "entityId": "/g/11c3th052y",
+            "score": 0.63832,
+            "description": "Stories of Joseph"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://www.artita.ru/dat/a/andrea/19.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/art/a/andrea/sarto/2/joseph_1.jpg"
+          },
+          {
+            "url": "http://4.bp.blogspot.com/-xTH1XxwbI7E/UBEmbDSvwqI/AAAAAAAAAyc/OJFmvMRoZGU/s1600/stories_of_joseph-andrea+del+sarto+1500-web+gallery.jpg"
+          },
+          {
+            "url": "https://classconnection.s3.amazonaws.com/174/flashcards/4330174/jpg/andrea_del_sarto_-_stories_of_joseph_-_wga00386-14284C3D96B32910B91.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Andrea_del_Sarto_-_Stories_of_Joseph_-_WGA00386.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://oudemeesterschilderijen.files.wordpress.com/2013/10/schilderij-delsarto-stories-of-joseph-a-c1520.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/art/a/andrea/sarto/2/joseph_1.jpg"
+          },
+          {
+            "url": "http://4.bp.blogspot.com/-xTH1XxwbI7E/UBEmbDSvwqI/AAAAAAAAAyc/OJFmvMRoZGU/s1600/stories_of_joseph-andrea+del+sarto+1500-web+gallery.jpg"
+          },
+          {
+            "url": "https://classconnection.s3.amazonaws.com/174/flashcards/4330174/jpg/andrea_del_sarto_-_stories_of_joseph_-_wga00386-14284C3D96B32910B91.jpg"
+          },
+          {
+            "url": "http://ic.pics.livejournal.com/marinagra/32470728/1685941/1685941_original.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://www.wikiart.org/en/andrea-del-sarto/stories-of-joseph-1"
+          },
+          {
+            "url": "http://www.wga.hu/html_m/a/andrea/sarto/2/joseph_1.html"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Andrea_del_Sarto_-_Stories_of_Joseph_-_WGA00386.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Del_Sarto_Andrea_Stories_of_Joseph_1.jpg"
+          },
+          {
+            "url": "https://curiator.com/art/andrea-del-sarto/stories-of-joseph"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/23/53/55/2353550ed7e7fcdc69d7927cd0e83916.jpg"
+          },
+          {
+            "url": "http://img.wikioo.org/ADC/Art.nsf/O/9GEG7A/$File/AndreaDelSarto-StoriesofJoseph.JPG"
+          },
+          {
+            "url": "http://www.fineart-china.com/upload1/file-admin/images/new3/Andrea%20del%20Sarto-659459.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/6c/d6/c9/6cd6c9b4a1ee40312a427034aa3f46ea.jpg"
+          },
+          {
+            "url": "http://cache4.asset-cache.net/xr/541240258.jpg?v=1&c=IWSAsset&k=3&d=77BFBA49EF878921CC759DF4EBAC47D0481F2B1D13FBA574596E14D8D42F4E9F3AF1C5916B69A821A55A1E4F32AD3138"
+          }
+        ]
+      }
+    }
+  ]
+}

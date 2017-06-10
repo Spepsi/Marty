@@ -1,0 +1,585 @@
+{
+  "responses": [
+    {
+      "faceAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 108,
+                "y": 54
+              },
+              {
+                "x": 228,
+                "y": 54
+              },
+              {
+                "x": 228,
+                "y": 194
+              },
+              {
+                "x": 108,
+                "y": 194
+              }
+            ]
+          },
+          "fdBoundingPoly": {
+            "vertices": [
+              {
+                "x": 129,
+                "y": 93
+              },
+              {
+                "x": 220,
+                "y": 93
+              },
+              {
+                "x": 220,
+                "y": 185
+              },
+              {
+                "x": 129,
+                "y": 185
+              }
+            ]
+          },
+          "landmarks": [
+            {
+              "type": "LEFT_EYE",
+              "position": {
+                "x": 156.67291,
+                "y": 122.832855,
+                "z": 0.0008896156
+              }
+            },
+            {
+              "type": "RIGHT_EYE",
+              "position": {
+                "x": 195.01207,
+                "y": 122.901505,
+                "z": 9.954633
+              }
+            },
+            {
+              "type": "LEFT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 146.74072,
+                "y": 116.145,
+                "z": -0.6304577
+              }
+            },
+            {
+              "type": "RIGHT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 170.86983,
+                "y": 116.685555,
+                "z": -5.214189
+              }
+            },
+            {
+              "type": "LEFT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 187.27171,
+                "y": 115.88618,
+                "z": -0.78454614
+              }
+            },
+            {
+              "type": "RIGHT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 205.35103,
+                "y": 113.64865,
+                "z": 14.673227
+              }
+            },
+            {
+              "type": "MIDPOINT_BETWEEN_EYES",
+              "position": {
+                "x": 179.05568,
+                "y": 123.56375,
+                "z": -2.2606807
+              }
+            },
+            {
+              "type": "NOSE_TIP",
+              "position": {
+                "x": 181.42027,
+                "y": 146.73917,
+                "z": -8.840714
+              }
+            },
+            {
+              "type": "UPPER_LIP",
+              "position": {
+                "x": 179.03773,
+                "y": 157.3577,
+                "z": 1.4257822
+              }
+            },
+            {
+              "type": "LOWER_LIP",
+              "position": {
+                "x": 178.10527,
+                "y": 169.42319,
+                "z": 6.1155653
+              }
+            },
+            {
+              "type": "MOUTH_LEFT",
+              "position": {
+                "x": 162.666,
+                "y": 161.49469,
+                "z": 8.055675
+              }
+            },
+            {
+              "type": "MOUTH_RIGHT",
+              "position": {
+                "x": 190.43225,
+                "y": 160.32089,
+                "z": 15.400862
+              }
+            },
+            {
+              "type": "MOUTH_CENTER",
+              "position": {
+                "x": 178.16925,
+                "y": 162.77829,
+                "z": 5.03092
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_RIGHT",
+              "position": {
+                "x": 188.55734,
+                "y": 146.13951,
+                "z": 7.867142
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_LEFT",
+              "position": {
+                "x": 169.08675,
+                "y": 146.51266,
+                "z": 2.3279169
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_CENTER",
+              "position": {
+                "x": 179.31099,
+                "y": 150.45605,
+                "z": 0.076875664
+              }
+            },
+            {
+              "type": "LEFT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 159.90532,
+                "y": 121.96942,
+                "z": -2.1504703
+              }
+            },
+            {
+              "type": "LEFT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 164.57288,
+                "y": 123.7047,
+                "z": 2.5108523
+              }
+            },
+            {
+              "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 157.28908,
+                "y": 125.604836,
+                "z": 0.5956632
+              }
+            },
+            {
+              "type": "LEFT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 150.924,
+                "y": 123.51133,
+                "z": 2.0018435
+              }
+            },
+            {
+              "type": "LEFT_EYE_PUPIL",
+              "position": {
+                "x": 158.96889,
+                "y": 124.17912,
+                "z": -0.41626635
+              }
+            },
+            {
+              "type": "RIGHT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 195.02475,
+                "y": 120.86027,
+                "z": 7.045319
+              }
+            },
+            {
+              "type": "RIGHT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 200.47487,
+                "y": 122.228775,
+                "z": 14.869927
+              }
+            },
+            {
+              "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 195.2573,
+                "y": 125.92093,
+                "z": 10.071414
+              }
+            },
+            {
+              "type": "RIGHT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 188.04118,
+                "y": 124.06827,
+                "z": 8.312917
+              }
+            },
+            {
+              "type": "RIGHT_EYE_PUPIL",
+              "position": {
+                "x": 194.98787,
+                "y": 123.10036,
+                "z": 8.98634
+              }
+            },
+            {
+              "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 159.14244,
+                "y": 112.05,
+                "z": -6.0484557
+              }
+            },
+            {
+              "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 197.12457,
+                "y": 110.783966,
+                "z": 3.9214864
+              }
+            },
+            {
+              "type": "LEFT_EAR_TRAGION",
+              "position": {
+                "x": 125.411644,
+                "y": 134.88646,
+                "z": 40.40982
+              }
+            },
+            {
+              "type": "RIGHT_EAR_TRAGION",
+              "position": {
+                "x": 205.00989,
+                "y": 132.29521,
+                "z": 61.351444
+              }
+            },
+            {
+              "type": "FOREHEAD_GLABELLA",
+              "position": {
+                "x": 179.17252,
+                "y": 115.94563,
+                "z": -4.3967543
+              }
+            },
+            {
+              "type": "CHIN_GNATHION",
+              "position": {
+                "x": 176.6597,
+                "y": 184.62955,
+                "z": 13.74205
+              }
+            },
+            {
+              "type": "CHIN_LEFT_GONION",
+              "position": {
+                "x": 132.76625,
+                "y": 160.08897,
+                "z": 31.300638
+              }
+            },
+            {
+              "type": "CHIN_RIGHT_GONION",
+              "position": {
+                "x": 204.61208,
+                "y": 157.74435,
+                "z": 50.172215
+              }
+            }
+          ],
+          "rollAngle": 0.6808664,
+          "panAngle": 14.925483,
+          "tiltAngle": -9.721945,
+          "detectionConfidence": 0.94559956,
+          "landmarkingConfidence": 0.6158013,
+          "joyLikelihood": "VERY_UNLIKELY",
+          "sorrowLikelihood": "VERY_UNLIKELY",
+          "angerLikelihood": "VERY_UNLIKELY",
+          "surpriseLikelihood": "VERY_UNLIKELY",
+          "underExposedLikelihood": "VERY_UNLIKELY",
+          "blurredLikelihood": "VERY_UNLIKELY",
+          "headwearLikelihood": "VERY_UNLIKELY"
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/01g317",
+          "description": "person",
+          "score": 0.8989123
+        },
+        {
+          "mid": "/m/01dv4h",
+          "description": "portrait",
+          "score": 0.7484849
+        },
+        {
+          "mid": "/m/0bby24z",
+          "description": "moustache",
+          "score": 0.60298234
+        },
+        {
+          "mid": "/m/067408",
+          "description": "album cover",
+          "score": 0.55789435
+        },
+        {
+          "mid": "/m/01kr8f",
+          "description": "illustration",
+          "score": 0.5404646
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 57,
+                "green": 47,
+                "blue": 42
+              },
+              "score": 0.4123289,
+              "pixelFraction": 0.27653486
+            },
+            {
+              "color": {
+                "red": 107,
+                "green": 75,
+                "blue": 61
+              },
+              "score": 0.17037122,
+              "pixelFraction": 0.15756157
+            },
+            {
+              "color": {
+                "red": 223,
+                "green": 194,
+                "blue": 141
+              },
+              "score": 0.02179989,
+              "pixelFraction": 0.014828304
+            },
+            {
+              "color": {
+                "red": 78,
+                "green": 50,
+                "blue": 37
+              },
+              "score": 0.09057459,
+              "pixelFraction": 0.03980229
+            },
+            {
+              "color": {
+                "red": 69,
+                "green": 50,
+                "blue": 36
+              },
+              "score": 0.08750031,
+              "pixelFraction": 0.038241416
+            },
+            {
+              "color": {
+                "red": 99,
+                "green": 77,
+                "blue": 61
+              },
+              "score": 0.054130387,
+              "pixelFraction": 0.027922302
+            },
+            {
+              "color": {
+                "red": 91,
+                "green": 74,
+                "blue": 68
+              },
+              "score": 0.028400378,
+              "pixelFraction": 0.016475894
+            },
+            {
+              "color": {
+                "red": 139,
+                "green": 105,
+                "blue": 87
+              },
+              "score": 0.025483485,
+              "pixelFraction": 0.19068678
+            },
+            {
+              "color": {
+                "red": 71,
+                "green": 47,
+                "blue": 45
+              },
+              "score": 0.022248175,
+              "pixelFraction": 0.010145682
+            },
+            {
+              "color": {
+                "red": 213,
+                "green": 190,
+                "blue": 152
+              },
+              "score": 0.018212598,
+              "pixelFraction": 0.008844953
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 298
+                },
+                {
+                  "x": 298,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 1,
+            "importanceFraction": 3.02
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/05wt9s",
+            "score": 15.47,
+            "description": "Christoph Amberger"
+          },
+          {
+            "entityId": "/m/09f8q",
+            "score": 7.04704,
+            "description": "Augsburg"
+          },
+          {
+            "entityId": "/m/01hlq3",
+            "score": 1.5812,
+            "description": "Museo Nacional Del Prado"
+          },
+          {
+            "entityId": "/g/11c2jbby13",
+            "score": 0.61426,
+            "description": "The Augsburg Goldsmith Jörg Zörer (?)"
+          },
+          {
+            "entityId": "/m/01dv4h",
+            "score": 0.47009948,
+            "description": "Portrait"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://www.youhuadaquan.org/images/Christoph%20Amberger/22860-Amberger,%20Christoph.jpg"
+          },
+          {
+            "url": "http://1.bp.blogspot.com/_0n9IExEpmh8/TA6T4aWbdbI/AAAAAAAAWzE/lN5lLQq5_U0/s1600/Goldsmith+J%C3%B6rg+Z%C3%BCrer+of+Augsburg+531CHRISTOPH+AMBERGER.jpg"
+          },
+          {
+            "url": "https://i1.kknews.cc/large/720000047b28ec3a3f6"
+          },
+          {
+            "url": "http://www.seckim.com/wp-content/gallery/christoph-amberger/goldsmith-j%25c3%25b6rg-z%25c3%25bcrer-of-augsburg.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/b0/4e/01/b04e01f1a8ab9caba11efaa6f1d16484.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://content3.cdnprado.net/imagenes/Documentos/imgsem/eb/eb8a/eb8a4eaa-607a-49b6-a9fa-472af670f1c4/9bc4e3e4-b71c-4761-8534-54a218a7d1a9.jpg"
+          },
+          {
+            "url": "https://territaland.ru/_ph/1012/756663137.jpg"
+          },
+          {
+            "url": "http://1.bp.blogspot.com/-nHVjlJnlM8k/VCrMXght2_I/AAAAAAAAFYU/Kz3bdTBaEdI/s1600/Amberger%2C%2BChr.%2BEl%2Borfebre%2BZorer%2By%2Bsu%2Besposa%2BMNP.JPG"
+          },
+          {
+            "url": "http://img01.taopic.com/161010/267870-16101014522074.jpg"
+          },
+          {
+            "url": "https://i2.wp.com/services4.meosix.fr/baleenfrancais/wp-content/uploads/sites/14/2017/04/Christoph-Amberger-Georg-Zorer-1531-Prado.jpg?fit=759%2C962"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://www.pinterest.com/freierostocker/christoph-amberger/"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Christoph_Amberger_-_Goldsmith_J%C3%B6rg_Z%C3%BCrer_of_Augsburg_-_WGA0255.jpg"
+          },
+          {
+            "url": "http://www.oceansbridge.com/oil-paintings/section/548/1/ambergerchristoph"
+          },
+          {
+            "url": "http://www.art-prints-on-demand.com/a/amberger-christoph.html&sfl=1&VS_CLASSIFY_ID=17&INCLUDE=LIST"
+          },
+          {
+            "url": "http://www.mystudios.com/artgallery/C/Christoph-Amberger/Christoph-Fugger-1541.html"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://portraittimeline.com/1530s%20Portraits%20-%20f_files/image042.jpg"
+          },
+          {
+            "url": "https://render.fineartamerica.com/images/rendered/medium/greeting-card/images-medium-5/jorg-zurer-christoph-amberger.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/La_esposa_de_J%C3%B6rg_Z%C3%B6rer%2C_con_28_a%C3%B1os_%28Amberger%29.jpg"
+          },
+          {
+            "url": "https://static.artuk.org/w800h800/ES/ES_BRHM_BNS_071_021.jpg"
+          },
+          {
+            "url": "http://www.artsunlight.com/artist-photo-tn/Christoph-Amberger/herzog-ludwig-x-von-bayern-brustbild-by-Christoph-Amberger-017.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

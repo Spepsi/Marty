@@ -1,0 +1,469 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.85731393
+        },
+        {
+          "mid": "/m/01spzs",
+          "description": "still life",
+          "score": 0.7726343
+        },
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.6602033
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "la",
+          "description": "ae\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 34,
+                "y": 86
+              },
+              {
+                "x": 50,
+                "y": 86
+              },
+              {
+                "x": 50,
+                "y": 91
+              },
+              {
+                "x": 34,
+                "y": 91
+              }
+            ]
+          }
+        },
+        {
+          "description": "ae",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 34,
+                "y": 88
+              },
+              {
+                "x": 50,
+                "y": 87
+              },
+              {
+                "x": 50,
+                "y": 91
+              },
+              {
+                "x": 34,
+                "y": 92
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 162,
+                "green": 108,
+                "blue": 56
+              },
+              "score": 0.20789051,
+              "pixelFraction": 0.07577285
+            },
+            {
+              "color": {
+                "red": 30,
+                "green": 22,
+                "blue": 22
+              },
+              "score": 0.05066164,
+              "pixelFraction": 0.5857695
+            },
+            {
+              "color": {
+                "red": 251,
+                "green": 228,
+                "blue": 164
+              },
+              "score": 0.017791022,
+              "pixelFraction": 0.0031922043
+            },
+            {
+              "color": {
+                "red": 147,
+                "green": 112,
+                "blue": 88
+              },
+              "score": 0.087140724,
+              "pixelFraction": 0.011340726
+            },
+            {
+              "color": {
+                "red": 112,
+                "green": 77,
+                "blue": 56
+              },
+              "score": 0.08672089,
+              "pixelFraction": 0.06107191
+            },
+            {
+              "color": {
+                "red": 59,
+                "green": 48,
+                "blue": 46
+              },
+              "score": 0.048608612,
+              "pixelFraction": 0.049563173
+            },
+            {
+              "color": {
+                "red": 82,
+                "green": 50,
+                "blue": 34
+              },
+              "score": 0.043670803,
+              "pixelFraction": 0.04015457
+            },
+            {
+              "color": {
+                "red": 189,
+                "green": 134,
+                "blue": 74
+              },
+              "score": 0.042702705,
+              "pixelFraction": 0.0073084678
+            },
+            {
+              "color": {
+                "red": 183,
+                "green": 146,
+                "blue": 118
+              },
+              "score": 0.041108064,
+              "pixelFraction": 0.0027721773
+            },
+            {
+              "color": {
+                "red": 129,
+                "green": 81,
+                "blue": 38
+              },
+              "score": 0.03502964,
+              "pixelFraction": 0.045698926
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 308
+                },
+                {
+                  "x": 308,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "la"
+                }
+              ]
+            },
+            "width": 309,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "la"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 34,
+                      "y": 92
+                    },
+                    {
+                      "x": 34,
+                      "y": 88
+                    },
+                    {
+                      "x": 50,
+                      "y": 87
+                    },
+                    {
+                      "x": 50,
+                      "y": 91
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "la"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 34,
+                          "y": 86
+                        },
+                        {
+                          "x": 50,
+                          "y": 86
+                        },
+                        {
+                          "x": 50,
+                          "y": 91
+                        },
+                        {
+                          "x": 34,
+                          "y": 91
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "la"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 34,
+                              "y": 88
+                            },
+                            {
+                              "x": 50,
+                              "y": 87
+                            },
+                            {
+                              "x": 50,
+                              "y": 91
+                            },
+                            {
+                              "x": 34,
+                              "y": 92
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "la"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 34,
+                                  "y": 88
+                                },
+                                {
+                                  "x": 39,
+                                  "y": 88
+                                },
+                                {
+                                  "x": 39,
+                                  "y": 92
+                                },
+                                {
+                                  "x": 34,
+                                  "y": 92
+                                }
+                              ]
+                            },
+                            "text": "a"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "la"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 42,
+                                  "y": 87
+                                },
+                                {
+                                  "x": 50,
+                                  "y": 86
+                                },
+                                {
+                                  "x": 50,
+                                  "y": 90
+                                },
+                                {
+                                  "x": 42,
+                                  "y": 91
+                                }
+                              ]
+                            },
+                            "text": "e"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "ae\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/06mbs2",
+            "score": 0.79124,
+            "description": "Menil Collection"
+          },
+          {
+            "entityId": "/m/086mh",
+            "score": 0.70036,
+            "description": "Winter"
+          },
+          {
+            "entityId": "/m/01spzs",
+            "score": 0.5519233,
+            "description": "Still life"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.41433,
+            "description": "Painting"
+          },
+          {
+            "entityId": "/m/05nmd",
+            "score": 0.3805,
+            "description": "Oil painting"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://data-cache.abuledu.org/1024/allegorie-de-l-hiver-53ac6191.jpg"
+          },
+          {
+            "url": "https://phototour.pro/content/gallery/photo_199.jpg"
+          },
+          {
+            "url": "https://2.bp.blogspot.com/-Zsas71XkPyI/UoJBDdNcSXI/AAAAAAAAHJA/3bDPgtUFgc4/s1600/2013-01-18_Vinters%C3%A4song_3seaso4.jpg"
+          },
+          {
+            "url": "http://data-cache.abuledu.org/full/allegorie-de-l-hiver-53ac6191.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Giuseppe_Arcimboldo_-_Winter_-_WGA00816.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://data-cache.abuledu.org/1024/allegorie-de-l-hiver-53ac6191.jpg"
+          },
+          {
+            "url": "https://phototour.pro/content/gallery/photo_199.jpg"
+          },
+          {
+            "url": "https://2.bp.blogspot.com/-Zsas71XkPyI/UoJBDdNcSXI/AAAAAAAAHJA/3bDPgtUFgc4/s1600/2013-01-18_Vinters%C3%A4song_3seaso4.jpg"
+          },
+          {
+            "url": "http://data-cache.abuledu.org/full/allegorie-de-l-hiver-53ac6191.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Giuseppe_Arcimboldo_-_Winter_-_WGA00816.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/Giuseppe_Arcimboldo"
+          },
+          {
+            "url": "http://www.the-athenaeum.org/art/list.php?m=a&s=tu&aid=4085"
+          },
+          {
+            "url": "http://www.wga.hu/html_m/a/arcimbol/3allegor/3seaso4.html"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Giuseppe_Arcimboldo_-_Winter_-_WGA00816.jpg"
+          },
+          {
+            "url": "http://www.alamy.com/stock-photo/giuseppe-arcimboldo.html"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://www.lib-art.com/imgpaintingthumb/6/4/t50246-winter-arcimboldo-giuseppe.jpg"
+          },
+          {
+            "url": "http://theredlist.com/media/database/fine_arts/arthistory/painting/xix/manierisme/giuseppe_arcimboldo/014_giuseppe_arcimboldo_theredlist.png"
+          },
+          {
+            "url": "http://arthistoryproject.com/site/assets/files/11190/giuseppe_arcimboldo_-_the_earth_-_from_four_elements_1566_70_2x48_7cm_pc_color.jpg"
+          },
+          {
+            "url": "https://www.art-prints-on-demand.com/kunst/giuseppe_arcimboldo/winter_agn69009_hi.jpg"
+          },
+          {
+            "url": "http://theredlist.com/media/database/fine_arts/arthistory/painting/xix/manierisme/giuseppe_arcimboldo/004_giuseppe_arcimboldo_theredlist.png"
+          }
+        ]
+      }
+    }
+  ]
+}

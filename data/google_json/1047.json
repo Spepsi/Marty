@@ -1,0 +1,592 @@
+{
+  "responses": [
+    {
+      "faceAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 137,
+                "y": 88
+              },
+              {
+                "x": 235,
+                "y": 88
+              },
+              {
+                "x": 235,
+                "y": 201
+              },
+              {
+                "x": 137,
+                "y": 201
+              }
+            ]
+          },
+          "fdBoundingPoly": {
+            "vertices": [
+              {
+                "x": 136,
+                "y": 118
+              },
+              {
+                "x": 213,
+                "y": 118
+              },
+              {
+                "x": 213,
+                "y": 195
+              },
+              {
+                "x": 136,
+                "y": 195
+              }
+            ]
+          },
+          "landmarks": [
+            {
+              "type": "LEFT_EYE",
+              "position": {
+                "x": 159.33357,
+                "y": 143.23746,
+                "z": 0.00046726014
+              }
+            },
+            {
+              "type": "RIGHT_EYE",
+              "position": {
+                "x": 184.08667,
+                "y": 144.38205,
+                "z": -15.493369
+              }
+            },
+            {
+              "type": "LEFT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 151.90779,
+                "y": 135.40189,
+                "z": 6.4304647
+              }
+            },
+            {
+              "type": "RIGHT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 162.2648,
+                "y": 137.50197,
+                "z": -9.915094
+              }
+            },
+            {
+              "type": "LEFT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 174.40988,
+                "y": 137.98079,
+                "z": -17.52763
+              }
+            },
+            {
+              "type": "RIGHT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 193.85574,
+                "y": 138.40854,
+                "z": -19.571697
+              }
+            },
+            {
+              "type": "MIDPOINT_BETWEEN_EYES",
+              "position": {
+                "x": 168.35776,
+                "y": 141.90088,
+                "z": -13.334763
+              }
+            },
+            {
+              "type": "NOSE_TIP",
+              "position": {
+                "x": 164.78789,
+                "y": 162.50632,
+                "z": -17.4465
+              }
+            },
+            {
+              "type": "UPPER_LIP",
+              "position": {
+                "x": 168.80405,
+                "y": 171.46306,
+                "z": -9.940743
+              }
+            },
+            {
+              "type": "LOWER_LIP",
+              "position": {
+                "x": 170.40802,
+                "y": 181.24783,
+                "z": -6.4478154
+              }
+            },
+            {
+              "type": "MOUTH_LEFT",
+              "position": {
+                "x": 163.67279,
+                "y": 173.84299,
+                "z": 3.5100505
+              }
+            },
+            {
+              "type": "MOUTH_RIGHT",
+              "position": {
+                "x": 183.14589,
+                "y": 175.08157,
+                "z": -8.704369
+              }
+            },
+            {
+              "type": "MOUTH_CENTER",
+              "position": {
+                "x": 170.17097,
+                "y": 175.94768,
+                "z": -7.2806773
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_RIGHT",
+              "position": {
+                "x": 177.45497,
+                "y": 163.41908,
+                "z": -11.824187
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_LEFT",
+              "position": {
+                "x": 163.861,
+                "y": 162.16943,
+                "z": -3.3287728
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_CENTER",
+              "position": {
+                "x": 168.19423,
+                "y": 166.01965,
+                "z": -11.009282
+              }
+            },
+            {
+              "type": "LEFT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 158.04149,
+                "y": 141.53397,
+                "z": -1.9140327
+              }
+            },
+            {
+              "type": "LEFT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 164.22292,
+                "y": 143.98792,
+                "z": -2.8810952
+              }
+            },
+            {
+              "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 159.14424,
+                "y": 145.53065,
+                "z": 0.23271872
+              }
+            },
+            {
+              "type": "LEFT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 155.6413,
+                "y": 142.60077,
+                "z": 5.470361
+              }
+            },
+            {
+              "type": "LEFT_EYE_PUPIL",
+              "position": {
+                "x": 158.41896,
+                "y": 143.32262,
+                "z": -0.25877717
+              }
+            },
+            {
+              "type": "RIGHT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 183.11021,
+                "y": 142.95668,
+                "z": -17.524483
+              }
+            },
+            {
+              "type": "RIGHT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 190.94754,
+                "y": 144.74731,
+                "z": -16.342867
+              }
+            },
+            {
+              "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 184.69064,
+                "y": 146.76819,
+                "z": -15.429517
+              }
+            },
+            {
+              "type": "RIGHT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 178.26004,
+                "y": 144.58308,
+                "z": -12.087668
+              }
+            },
+            {
+              "type": "RIGHT_EYE_PUPIL",
+              "position": {
+                "x": 184.11151,
+                "y": 144.79907,
+                "z": -16.31833
+              }
+            },
+            {
+              "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 155.80188,
+                "y": 133.22527,
+                "z": -3.9072716
+              }
+            },
+            {
+              "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 182.98773,
+                "y": 134.79015,
+                "z": -20.839022
+              }
+            },
+            {
+              "type": "LEFT_EAR_TRAGION",
+              "position": {
+                "x": 163.19934,
+                "y": 150.59462,
+                "z": 42.779926
+              }
+            },
+            {
+              "type": "RIGHT_EAR_TRAGION",
+              "position": {
+                "x": 220.1147,
+                "y": 153.81888,
+                "z": 7.3322363
+              }
+            },
+            {
+              "type": "FOREHEAD_GLABELLA",
+              "position": {
+                "x": 167.74118,
+                "y": 137.67015,
+                "z": -14.686149
+              }
+            },
+            {
+              "type": "CHIN_GNATHION",
+              "position": {
+                "x": 173.22943,
+                "y": 193.76671,
+                "z": -0.74008983
+              }
+            },
+            {
+              "type": "CHIN_LEFT_GONION",
+              "position": {
+                "x": 160.44533,
+                "y": 171.38564,
+                "z": 34.17418
+              }
+            },
+            {
+              "type": "CHIN_RIGHT_GONION",
+              "position": {
+                "x": 211.89,
+                "y": 174.34464,
+                "z": 2.1317759
+              }
+            }
+          ],
+          "rollAngle": -2.7028048,
+          "panAngle": -32.36944,
+          "tiltAngle": -9.479172,
+          "detectionConfidence": 0.9323655,
+          "landmarkingConfidence": 0.4483403,
+          "joyLikelihood": "VERY_UNLIKELY",
+          "sorrowLikelihood": "VERY_UNLIKELY",
+          "angerLikelihood": "VERY_UNLIKELY",
+          "surpriseLikelihood": "VERY_UNLIKELY",
+          "underExposedLikelihood": "VERY_UNLIKELY",
+          "blurredLikelihood": "VERY_UNLIKELY",
+          "headwearLikelihood": "POSSIBLE"
+        }
+      ],
+      "logoAnnotations": [
+        {
+          "description": "Portrait of an Old Woman",
+          "score": 0.7289589,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 117,
+                "y": 75
+              },
+              {
+                "x": 261,
+                "y": 75
+              },
+              {
+                "x": 261,
+                "y": 374
+              },
+              {
+                "x": 117,
+                "y": 374
+              }
+            ]
+          }
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/01g317",
+          "description": "person",
+          "score": 0.9662646
+        },
+        {
+          "mid": "/m/01dv4h",
+          "description": "portrait",
+          "score": 0.7283591
+        },
+        {
+          "mid": "/m/063km",
+          "description": "profession",
+          "score": 0.6633986
+        },
+        {
+          "mid": "/m/0mf2",
+          "description": "abbot",
+          "score": 0.6280766
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 30,
+                "green": 22,
+                "blue": 18
+              },
+              "score": 0.6561363,
+              "pixelFraction": 0.7276153
+            },
+            {
+              "color": {
+                "red": 57,
+                "green": 39,
+                "blue": 26
+              },
+              "score": 0.10738836,
+              "pixelFraction": 0.064290024
+            },
+            {
+              "color": {
+                "red": 212,
+                "green": 197,
+                "blue": 172
+              },
+              "score": 0.023679415,
+              "pixelFraction": 0.015902923
+            },
+            {
+              "color": {
+                "red": 44,
+                "green": 30,
+                "blue": 20
+              },
+              "score": 0.06840008,
+              "pixelFraction": 0.04386494
+            },
+            {
+              "color": {
+                "red": 52,
+                "green": 39,
+                "blue": 33
+              },
+              "score": 0.035767864,
+              "pixelFraction": 0.028188122
+            },
+            {
+              "color": {
+                "red": 97,
+                "green": 81,
+                "blue": 64
+              },
+              "score": 0.020229565,
+              "pixelFraction": 0.0142447995
+            },
+            {
+              "color": {
+                "red": 133,
+                "green": 116,
+                "blue": 96
+              },
+              "score": 0.016176188,
+              "pixelFraction": 0.012586675
+            },
+            {
+              "color": {
+                "red": 71,
+                "green": 42,
+                "blue": 26
+              },
+              "score": 0.014722117,
+              "pixelFraction": 0.009270425
+            },
+            {
+              "color": {
+                "red": 170,
+                "green": 153,
+                "blue": 131
+              },
+              "score": 0.012334164,
+              "pixelFraction": 0.008893578
+            },
+            {
+              "color": {
+                "red": 105,
+                "green": 71,
+                "blue": 51
+              },
+              "score": 0.0079417415,
+              "pixelFraction": 0.010702442
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {
+                  "x": 12
+                },
+                {
+                  "x": 345
+                },
+                {
+                  "x": 345,
+                  "y": 371
+                },
+                {
+                  "x": 12,
+                  "y": 371
+                }
+              ]
+            },
+            "confidence": 1,
+            "importanceFraction": 2.86
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0261pvk",
+            "score": 14.7512,
+            "description": "Jacob Adriaensz Backer"
+          },
+          {
+            "entityId": "/m/09c7b",
+            "score": 2.97104,
+            "description": "Metropolitan Museum of Art"
+          },
+          {
+            "entityId": "/m/01dv4h",
+            "score": 0.87819487,
+            "description": "Portrait"
+          },
+          {
+            "entityId": "/g/12bffyc1f",
+            "score": 0.76778,
+            "description": "Portrait of an Old Woman"
+          },
+          {
+            "entityId": "/m/08qck6",
+            "score": 0.64739,
+            "description": "Portrait painting"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://images.metmuseum.org/CRDImages/ep/original/DP121324.jpg"
+          },
+          {
+            "url": "http://www.outpost-art.org/images/Backer%20Jacob%20Adriaensz/Portrait%20of%20an%20Old%20Woman.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Jacob_Adriaensz_Backer_-_Portrait_of_an_Old_Woman_-_MET_29.100.2.jpg/1200px-Jacob_Adriaensz_Backer_-_Portrait_of_an_Old_Woman_-_MET_29.100.2.jpg"
+          },
+          {
+            "url": "http://4.bp.blogspot.com/-kkHqL6756UA/UGTs2e4zqRI/AAAAAAAAAIA/jj6LV4xsrd0/w1200-h630-p-k-no-nu/Old+Woman.jpg"
+          },
+          {
+            "url": "http://img01.taobaocdn.com/imgextra/i1/192752530/TB2gJXGlVXXXXXZXpXXXXXXXXXX_!!192752530.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.the-athenaeum.org/art/list.php?m=a&s=tu&aid=5225"
+          },
+          {
+            "url": "http://www.metmuseum.org/art/collection/search/435597"
+          },
+          {
+            "url": "http://www.metmuseum.org/art/collection/search/435596"
+          },
+          {
+            "url": "http://www.metmuseum.org/art/collection/search/335048"
+          },
+          {
+            "url": "http://www.wga.hu/html_m/b/backer/port_old.html"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://www.outpost-art.org/images/Backer%20Jacob%20Adriaensz/Portrait%20of%20an%20Old%20Woman.jpg"
+          },
+          {
+            "url": "https://www.pubhist.com/works/08/large/8962.jpg"
+          },
+          {
+            "url": "http://museumbredius.nl/wp-content/uploads/2014/01/Collectie-Schilders-AB-Backer-Cat.-5-Inv.-23-1946-LJ.jpg"
+          },
+          {
+            "url": "http://www.outpost-art.org/images/Backer%20Jacob%20Adriaensz/Portrait%20of%20a%20Woman.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Brooklyn_Museum_-_Portrait_of_a_Man_-_Jacob_Adriaensz._Backer.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,800 @@
+{
+  "responses": [
+    {
+      "logoAnnotations": [
+        {
+          "description": "Saint Jerome in his Study",
+          "score": 0.89009935,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 5,
+                "y": 13
+              },
+              {
+                "x": 279,
+                "y": 13
+              },
+              {
+                "x": 279,
+                "y": 395
+              },
+              {
+                "x": 5,
+                "y": 395
+              }
+            ]
+          }
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/0173tc",
+          "description": "chapel",
+          "score": 0.6331568
+        },
+        {
+          "mid": "/m/0dpvm",
+          "description": "arch",
+          "score": 0.6295915
+        },
+        {
+          "mid": "/m/0c_6z",
+          "description": "synagogue",
+          "score": 0.5384076
+        },
+        {
+          "mid": "/m/0hyb2",
+          "description": "altar",
+          "score": 0.5276482
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "en",
+          "description": "MTTT\nKEEN\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 36,
+                "y": 222
+              },
+              {
+                "x": 239,
+                "y": 222
+              },
+              {
+                "x": 239,
+                "y": 262
+              },
+              {
+                "x": 36,
+                "y": 262
+              }
+            ]
+          }
+        },
+        {
+          "description": "MTTT",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 239,
+                "y": 224
+              },
+              {
+                "x": 239,
+                "y": 250
+              },
+              {
+                "x": 232,
+                "y": 250
+              },
+              {
+                "x": 232,
+                "y": 224
+              }
+            ]
+          }
+        },
+        {
+          "description": "KEEN",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 46,
+                "y": 222
+              },
+              {
+                "x": 46,
+                "y": 262
+              },
+              {
+                "x": 36,
+                "y": 262
+              },
+              {
+                "x": 36,
+                "y": 222
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 26,
+                "green": 19,
+                "blue": 22
+              },
+              "score": 0.34127754,
+              "pixelFraction": 0.23154122
+            },
+            {
+              "color": {
+                "red": 72,
+                "green": 42,
+                "blue": 26
+              },
+              "score": 0.072987325,
+              "pixelFraction": 0.030645162
+            },
+            {
+              "color": {
+                "red": 195,
+                "green": 145,
+                "blue": 69
+              },
+              "score": 0.02298942,
+              "pixelFraction": 0.0359319
+            },
+            {
+              "color": {
+                "red": 153,
+                "green": 164,
+                "blue": 164
+              },
+              "score": 0.012225901,
+              "pixelFraction": 0.010035843
+            },
+            {
+              "color": {
+                "red": 56,
+                "green": 44,
+                "blue": 41
+              },
+              "score": 0.085231364,
+              "pixelFraction": 0.06299283
+            },
+            {
+              "color": {
+                "red": 110,
+                "green": 75,
+                "blue": 51
+              },
+              "score": 0.06477499,
+              "pixelFraction": 0.028405018
+            },
+            {
+              "color": {
+                "red": 69,
+                "green": 50,
+                "blue": 34
+              },
+              "score": 0.049908236,
+              "pixelFraction": 0.034587815
+            },
+            {
+              "color": {
+                "red": 49,
+                "green": 23,
+                "blue": 9
+              },
+              "score": 0.045925487,
+              "pixelFraction": 0.018189965
+            },
+            {
+              "color": {
+                "red": 42,
+                "green": 21,
+                "blue": 21
+              },
+              "score": 0.043962527,
+              "pixelFraction": 0.012903226
+            },
+            {
+              "color": {
+                "red": 98,
+                "green": 81,
+                "blue": 60
+              },
+              "score": 0.0427425,
+              "pixelFraction": 0.042383514
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 288
+                },
+                {
+                  "x": 288,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "en"
+                }
+              ]
+            },
+            "width": 289,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "vi"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 232,
+                      "y": 224
+                    },
+                    {
+                      "x": 239,
+                      "y": 224
+                    },
+                    {
+                      "x": 239,
+                      "y": 250
+                    },
+                    {
+                      "x": 232,
+                      "y": 250
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "vi"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 232,
+                          "y": 224
+                        },
+                        {
+                          "x": 239,
+                          "y": 224
+                        },
+                        {
+                          "x": 239,
+                          "y": 250
+                        },
+                        {
+                          "x": 232,
+                          "y": 250
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "vi"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 239,
+                              "y": 224
+                            },
+                            {
+                              "x": 239,
+                              "y": 250
+                            },
+                            {
+                              "x": 232,
+                              "y": 250
+                            },
+                            {
+                              "x": 232,
+                              "y": 224
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 237,
+                                  "y": 224
+                                },
+                                {
+                                  "x": 237,
+                                  "y": 229
+                                },
+                                {
+                                  "x": 232,
+                                  "y": 229
+                                },
+                                {
+                                  "x": 232,
+                                  "y": 224
+                                }
+                              ]
+                            },
+                            "text": "M"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 237,
+                                  "y": 230
+                                },
+                                {
+                                  "x": 237,
+                                  "y": 236
+                                },
+                                {
+                                  "x": 232,
+                                  "y": 236
+                                },
+                                {
+                                  "x": 232,
+                                  "y": 230
+                                }
+                              ]
+                            },
+                            "text": "T"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 237,
+                                  "y": 237
+                                },
+                                {
+                                  "x": 237,
+                                  "y": 238
+                                },
+                                {
+                                  "x": 232,
+                                  "y": 238
+                                },
+                                {
+                                  "x": 232,
+                                  "y": 237
+                                }
+                              ]
+                            },
+                            "text": "T"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 239,
+                                  "y": 239
+                                },
+                                {
+                                  "x": 239,
+                                  "y": 250
+                                },
+                                {
+                                  "x": 232,
+                                  "y": 250
+                                },
+                                {
+                                  "x": 232,
+                                  "y": 239
+                                }
+                              ]
+                            },
+                            "text": "T"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              },
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "en"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 36,
+                      "y": 222
+                    },
+                    {
+                      "x": 46,
+                      "y": 222
+                    },
+                    {
+                      "x": 46,
+                      "y": 262
+                    },
+                    {
+                      "x": 36,
+                      "y": 262
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "en"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 36,
+                          "y": 222
+                        },
+                        {
+                          "x": 46,
+                          "y": 222
+                        },
+                        {
+                          "x": 46,
+                          "y": 262
+                        },
+                        {
+                          "x": 36,
+                          "y": 262
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 46,
+                              "y": 222
+                            },
+                            {
+                              "x": 46,
+                              "y": 262
+                            },
+                            {
+                              "x": 36,
+                              "y": 262
+                            },
+                            {
+                              "x": 36,
+                              "y": 222
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 46,
+                                  "y": 222
+                                },
+                                {
+                                  "x": 46,
+                                  "y": 231
+                                },
+                                {
+                                  "x": 36,
+                                  "y": 231
+                                },
+                                {
+                                  "x": 36,
+                                  "y": 222
+                                }
+                              ]
+                            },
+                            "text": "K"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 46,
+                                  "y": 232
+                                },
+                                {
+                                  "x": 46,
+                                  "y": 239
+                                },
+                                {
+                                  "x": 36,
+                                  "y": 239
+                                },
+                                {
+                                  "x": 36,
+                                  "y": 232
+                                }
+                              ]
+                            },
+                            "text": "E"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 46,
+                                  "y": 241
+                                },
+                                {
+                                  "x": 46,
+                                  "y": 251
+                                },
+                                {
+                                  "x": 36,
+                                  "y": 251
+                                },
+                                {
+                                  "x": 36,
+                                  "y": 241
+                                }
+                              ]
+                            },
+                            "text": "E"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 46,
+                                  "y": 252
+                                },
+                                {
+                                  "x": 46,
+                                  "y": 262
+                                },
+                                {
+                                  "x": 36,
+                                  "y": 262
+                                },
+                                {
+                                  "x": 36,
+                                  "y": 252
+                                }
+                              ]
+                            },
+                            "text": "N"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "MTTT\nKEEN\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0ch64y",
+            "score": 3.88656,
+            "description": "St. Jerome in His Study"
+          },
+          {
+            "entityId": "/m/0p88j",
+            "score": 1.62288,
+            "description": "National Gallery, London"
+          },
+          {
+            "entityId": "/m/0h3x487",
+            "score": 1.55732,
+            "description": "Saint Jerome in His Study"
+          },
+          {
+            "entityId": "/m/043s4rp",
+            "score": 1.34696,
+            "description": "Saint Jerome in His Study"
+          },
+          {
+            "entityId": "/m/0h3rzh4",
+            "score": 1.24268,
+            "description": "Saint Jerome in His Study"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://4.bp.blogspot.com/_KNW8-7G0J5c/TKUmUCM0wNI/AAAAAAAAApA/4ua4YMLXGw0/s1600/A.+da+Messina.+S%C3%A3o+Jer%C3%B4nimo+em+seu+est%C3%BAdio.+osmad,+46x36,5cm.+Londres,+National+Gallery.jpg"
+          },
+          {
+            "url": "http://3.bp.blogspot.com/-sScUXACz2B8/UTjBnuYgQBI/AAAAAAABCu8/n8VM4_z2RRE/s1600/Antonello+da+Mesisina+San+Jer%25C3%25B3nimo+en+su+estudio.jpg"
+          },
+          {
+            "url": "https://whitemarkarts.files.wordpress.com/2012/03/antonello-saint-jero-all.jpg"
+          },
+          {
+            "url": "http://images2.corriereobjects.it/methode_image/2015/10/30/Cultura/Foto%20Gallery/stjerome.jpg"
+          },
+          {
+            "url": "http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/muP3LMJEqrvckJ9EV8XmqerdxjjUDpicjXws01T8aYEaOJQYcKEAkfXRtjJvuibicCeZk8AQjrnB3hIuNMmuezdBw/0?wx_fmt=jpeg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/de/e7/99/dee799892e836a6a190a8542cefe200c.jpg"
+          },
+          {
+            "url": "http://magazine.air-u.kyoto-art.ac.jp/wp-content/uploads/2017/05/Antonello_da_Messina_-_St_Jerome_in_his_study_-_National_Gallery_London.jpeg"
+          },
+          {
+            "url": "https://vinmurphy.files.wordpress.com/2014/04/aad4002perspective2014_handout-111.jpg"
+          },
+          {
+            "url": "https://pascolando.files.wordpress.com/2016/07/wp-image-1060414714jpg.jpeg?w=1400"
+          },
+          {
+            "url": "http://68.media.tumblr.com/tumblr_m834gvenRG1qaf0zjo1_1280.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Antonello_da_Messina_-_St_Jerome_in_his_study_-_National_Gallery_London.jpg"
+          },
+          {
+            "url": "https://en.wikipedia.org/wiki/File:Antonello_da_Messina_-_St_Jerome_in_his_study_-_National_Gallery_London.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/html_m/a/antonell/stjerome.html"
+          },
+          {
+            "url": "https://en.wikipedia.org/wiki/Wikipedia:Featured_picture_candidates/File:Antonello_da_Messina_-_St_Jerome_in_his_study_-_National_Gallery_London.jpg"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/515943701033871980/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://s3.amazonaws.com/classconnection/346/flashcards/9493346/jpg/london_national_gallery_next_20_02_antonello_da_messina_-_saint_jerome_in_his_study-15195CCAEED7365A8FB.jpg"
+          },
+          {
+            "url": "https://classconnection.s3.amazonaws.com/309/flashcards/4088309/png/messina_saint_jerome_in_his_study-142D26066376373573C.png"
+          },
+          {
+            "url": "http://crossings.tcd.ie/issues/5.1/Bernardelli/Fig-6-st-girolamo-large.jpg"
+          },
+          {
+            "url": "http://luxfon.com/large/201204/14212.jpg"
+          },
+          {
+            "url": "http://www.steveartgallery.se/upload1/file-admin/images/Antonello%20da%20Messina5.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

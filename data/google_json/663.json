@@ -1,0 +1,469 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0hyb2",
+          "description": "altar",
+          "score": 0.60349333
+        },
+        {
+          "mid": "/m/0c_jw",
+          "description": "furniture",
+          "score": 0.5976145
+        },
+        {
+          "mid": "/m/06z37_",
+          "description": "picture frame",
+          "score": 0.538659
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "id",
+          "description": "Ah\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 284,
+                "y": 41
+              },
+              {
+                "x": 292,
+                "y": 41
+              },
+              {
+                "x": 292,
+                "y": 55
+              },
+              {
+                "x": 284,
+                "y": 55
+              }
+            ]
+          }
+        },
+        {
+          "description": "Ah",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 292,
+                "y": 41
+              },
+              {
+                "x": 292,
+                "y": 55
+              },
+              {
+                "x": 284,
+                "y": 55
+              },
+              {
+                "x": 284,
+                "y": 41
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 149,
+                "green": 103,
+                "blue": 54
+              },
+              "score": 0.38686755,
+              "pixelFraction": 0.2983871
+            },
+            {
+              "color": {
+                "red": 28,
+                "green": 49,
+                "blue": 76
+              },
+              "score": 0.055355985,
+              "pixelFraction": 0.012798036
+            },
+            {
+              "color": {
+                "red": 126,
+                "green": 81,
+                "blue": 39
+              },
+              "score": 0.23855092,
+              "pixelFraction": 0.18425666
+            },
+            {
+              "color": {
+                "red": 253,
+                "green": 222,
+                "blue": 171
+              },
+              "score": 0.0017055386,
+              "pixelFraction": 0.002454418
+            },
+            {
+              "color": {
+                "red": 143,
+                "green": 53,
+                "blue": 30
+              },
+              "score": 0.057516057,
+              "pixelFraction": 0.0087657785
+            },
+            {
+              "color": {
+                "red": 119,
+                "green": 75,
+                "blue": 49
+              },
+              "score": 0.037661444,
+              "pixelFraction": 0.030154279
+            },
+            {
+              "color": {
+                "red": 166,
+                "green": 51,
+                "blue": 34
+              },
+              "score": 0.031058878,
+              "pixelFraction": 0.002805049
+            },
+            {
+              "color": {
+                "red": 183,
+                "green": 137,
+                "blue": 84
+              },
+              "score": 0.028060371,
+              "pixelFraction": 0.09624825
+            },
+            {
+              "color": {
+                "red": 142,
+                "green": 112,
+                "blue": 61
+              },
+              "score": 0.022805164,
+              "pixelFraction": 0.031556804
+            },
+            {
+              "color": {
+                "red": 105,
+                "green": 83,
+                "blue": 52
+              },
+              "score": 0.019460754,
+              "pixelFraction": 0.039796636
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 148
+                },
+                {
+                  "y": 148
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "id"
+                }
+              ]
+            },
+            "width": 400,
+            "height": 149,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "id"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 284,
+                      "y": 41
+                    },
+                    {
+                      "x": 292,
+                      "y": 41
+                    },
+                    {
+                      "x": 292,
+                      "y": 55
+                    },
+                    {
+                      "x": 284,
+                      "y": 55
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "id"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 284,
+                          "y": 41
+                        },
+                        {
+                          "x": 292,
+                          "y": 41
+                        },
+                        {
+                          "x": 292,
+                          "y": 55
+                        },
+                        {
+                          "x": 284,
+                          "y": 55
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "id"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 292,
+                              "y": 41
+                            },
+                            {
+                              "x": 292,
+                              "y": 55
+                            },
+                            {
+                              "x": 284,
+                              "y": 55
+                            },
+                            {
+                              "x": 284,
+                              "y": 41
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "id"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 292,
+                                  "y": 41
+                                },
+                                {
+                                  "x": 292,
+                                  "y": 47
+                                },
+                                {
+                                  "x": 284,
+                                  "y": 47
+                                },
+                                {
+                                  "x": 284,
+                                  "y": 41
+                                }
+                              ]
+                            },
+                            "text": "A"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "id"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 292,
+                                  "y": 48
+                                },
+                                {
+                                  "x": 292,
+                                  "y": 55
+                                },
+                                {
+                                  "x": 284,
+                                  "y": 55
+                                },
+                                {
+                                  "x": 284,
+                                  "y": 48
+                                }
+                              ]
+                            },
+                            "text": "h"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "Ah\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0gld61",
+            "score": 0.79304,
+            "description": "Vicchio"
+          },
+          {
+            "entityId": "/g/11c3tgbqg3",
+            "score": 0.7259,
+            "description": "St. Peter Martyr Altarpiece"
+          },
+          {
+            "entityId": "/m/01g9zx",
+            "score": 0.37829,
+            "description": "Predella"
+          },
+          {
+            "entityId": "/m/0n1h",
+            "score": 0.26643,
+            "description": "Artist"
+          },
+          {
+            "entityId": "/g/1z44yqc0m",
+            "score": 0.2555,
+            "description": "blessed"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Fra_Angelico_-_Predella_of_the_St_Peter_Martyr_Altarpiece_%28detail%29_-_WGA00618.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/art/a/angelico/12/00_petey.jpg"
+          },
+          {
+            "url": "http://webs.ono.com/monasterio2/ciego/largo-02.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Fra_Angelico_-_Predella_of_the_St_Peter_Martyr_Altarpiece_%28detail%29_-_WGA00618.jpg/640px-Fra_Angelico_-_Predella_of_the_St_Peter_Martyr_Altarpiece_%28detail%29_-_WGA00618.jpg"
+          },
+          {
+            "url": "https://i.mycdn.me/image?id=850565647242&t=0&plc=WEB&tkn=*PaHzuAg5lVRI__bp_a-GcurZVe4"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://artchallenge.me/painters/87/65.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Fra_Angelico_-_Predella_of_the_St_Peter_Martyr_Altarpiece_%28detail%29_-_WGA00618.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/art/a/angelico/12/00_petey.jpg"
+          },
+          {
+            "url": "http://veritas.catholic.or.kr/ko/ca-0818.jpg"
+          },
+          {
+            "url": "https://static.artuk.org/w800h800/CIA/CIA_CIA_P_1966_GP_10_3.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://artchallenge.ru/gallery/it/87.html"
+          },
+          {
+            "url": "https://artuk.org/discover/artists/fra-angelico-c-14001455"
+          },
+          {
+            "url": "https://www.artuk.org/discover/artists/fra-angelico-c-14001455/search/-54216/sort_by/agent.lifecycle.birth.date.value/order/asc/page/3"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Fra_Angelico_-_Predella_of_the_St_Peter_Martyr_Altarpiece_(detail)_-_WGA00618.jpg"
+          },
+          {
+            "url": "http://artchallenge.ru/gallery/ru/87.html"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Fra_Angelico_-_Predella_of_the_St_Peter_Martyr_Altarpiece_%28detail%29_-_WGA00618.jpg/320px-Fra_Angelico_-_Predella_of_the_St_Peter_Martyr_Altarpiece_%28detail%29_-_WGA00618.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Fra_Angelico_-_Predella_of_the_St_Peter_Martyr_Altarpiece_%28detail%29_-_WGA00617.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Fra_Angelico_-_Predella_of_the_St_Peter_Martyr_Altarpiece_%28detail%29_-_WGA00619.jpg"
+          },
+          {
+            "url": "http://l7.alamy.com/zooms/133909144d854116b4d586c13c06412f/man-of-sorrows-with-saints-by-fra-angelico-1422-england-london-courtauld-bk9h1h.jpg"
+          },
+          {
+            "url": "http://l7.alamy.com/zooms/6bb0330889f144498d846c8d66ecb9a5/man-of-sorrows-with-saints-by-fra-angelico-1422-england-london-courtauld-bk9h1x.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

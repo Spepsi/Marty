@@ -1,0 +1,509 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.63508445
+        },
+        {
+          "mid": "/m/0djmp",
+          "description": "ancient history",
+          "score": 0.6194311
+        },
+        {
+          "mid": "/m/04rjz",
+          "description": "middle ages",
+          "score": 0.5983604
+        },
+        {
+          "mid": "/m/04zhd",
+          "description": "mythology",
+          "score": 0.55698353
+        },
+        {
+          "mid": "/m/01kr8f",
+          "description": "illustration",
+          "score": 0.54097325
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "en",
+          "description": "gun\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 280,
+                "y": 5
+              },
+              {
+                "x": 307,
+                "y": 5
+              },
+              {
+                "x": 307,
+                "y": 10
+              },
+              {
+                "x": 280,
+                "y": 10
+              }
+            ]
+          }
+        },
+        {
+          "description": "gun",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 280,
+                "y": 6
+              },
+              {
+                "x": 307,
+                "y": 6
+              },
+              {
+                "x": 307,
+                "y": 11
+              },
+              {
+                "x": 280,
+                "y": 11
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 137,
+                "green": 115,
+                "blue": 86
+              },
+              "score": 0.31453487,
+              "pixelFraction": 0.18486352
+            },
+            {
+              "color": {
+                "red": 102,
+                "green": 82,
+                "blue": 57
+              },
+              "score": 0.21025875,
+              "pixelFraction": 0.12709367
+            },
+            {
+              "color": {
+                "red": 172,
+                "green": 148,
+                "blue": 117
+              },
+              "score": 0.12140583,
+              "pixelFraction": 0.15640509
+            },
+            {
+              "color": {
+                "red": 69,
+                "green": 52,
+                "blue": 29
+              },
+              "score": 0.09774193,
+              "pixelFraction": 0.06001861
+            },
+            {
+              "color": {
+                "red": 143,
+                "green": 110,
+                "blue": 89
+              },
+              "score": 0.06844899,
+              "pixelFraction": 0.03489454
+            },
+            {
+              "color": {
+                "red": 216,
+                "green": 189,
+                "blue": 157
+              },
+              "score": 0.043719027,
+              "pixelFraction": 0.08397953
+            },
+            {
+              "color": {
+                "red": 115,
+                "green": 83,
+                "blue": 63
+              },
+              "score": 0.022043452,
+              "pixelFraction": 0.011631514
+            },
+            {
+              "color": {
+                "red": 145,
+                "green": 118,
+                "blue": 76
+              },
+              "score": 0.019893462,
+              "pixelFraction": 0.017137097
+            },
+            {
+              "color": {
+                "red": 179,
+                "green": 144,
+                "blue": 119
+              },
+              "score": 0.016058197,
+              "pixelFraction": 0.022254962
+            },
+            {
+              "color": {
+                "red": 179,
+                "green": 152,
+                "blue": 106
+              },
+              "score": 0.011498719,
+              "pixelFraction": 0.061802108
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 336
+                },
+                {
+                  "x": 336,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "en"
+                }
+              ]
+            },
+            "width": 337,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "en"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 280,
+                      "y": 5
+                    },
+                    {
+                      "x": 307,
+                      "y": 5
+                    },
+                    {
+                      "x": 307,
+                      "y": 10
+                    },
+                    {
+                      "x": 280,
+                      "y": 10
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "en"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 280,
+                          "y": 5
+                        },
+                        {
+                          "x": 307,
+                          "y": 5
+                        },
+                        {
+                          "x": 307,
+                          "y": 10
+                        },
+                        {
+                          "x": 280,
+                          "y": 10
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 280,
+                              "y": 6
+                            },
+                            {
+                              "x": 307,
+                              "y": 6
+                            },
+                            {
+                              "x": 307,
+                              "y": 11
+                            },
+                            {
+                              "x": 280,
+                              "y": 11
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 280,
+                                  "y": 6
+                                },
+                                {
+                                  "x": 285,
+                                  "y": 6
+                                },
+                                {
+                                  "x": 285,
+                                  "y": 11
+                                },
+                                {
+                                  "x": 280,
+                                  "y": 11
+                                }
+                              ]
+                            },
+                            "text": "g"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 286,
+                                  "y": 6
+                                },
+                                {
+                                  "x": 295,
+                                  "y": 6
+                                },
+                                {
+                                  "x": 295,
+                                  "y": 11
+                                },
+                                {
+                                  "x": 286,
+                                  "y": 11
+                                }
+                              ]
+                            },
+                            "text": "u"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 296,
+                                  "y": 6
+                                },
+                                {
+                                  "x": 307,
+                                  "y": 6
+                                },
+                                {
+                                  "x": 307,
+                                  "y": 11
+                                },
+                                {
+                                  "x": 296,
+                                  "y": 11
+                                }
+                              ]
+                            },
+                            "text": "n"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "gun\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/05zs2ws",
+            "score": 2.88388,
+            "description": "St. George's Oratory, Padua"
+          },
+          {
+            "entityId": "/m/0gb3hc",
+            "score": 1.43396,
+            "description": "Zevio"
+          },
+          {
+            "entityId": "/m/01l67q",
+            "score": 1.41918,
+            "description": "Saint George and the Dragon"
+          },
+          {
+            "entityId": "/m/02cp5",
+            "score": 0.70394,
+            "description": "Dragon"
+          },
+          {
+            "entityId": "/m/03q9yg5",
+            "score": 0.54432,
+            "description": "Saint George Killing the Dragon"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://herbert.guru/wp-content/uploads/2014/08/Oratorio_di_San_Giorgio_Padova_-_3george2.jpg"
+          },
+          {
+            "url": "https://i0.wp.com/www.italieuitgelicht.nl/wp-content/uploads/2015/01/Altichiero-da-Zevio-fresco-Oratorio-di-San-Giorgio-Padua-sint-joris-en-de-draak.jpg?resize=1011%2C1200"
+          },
+          {
+            "url": "https://img-fotki.yandex.ru/get/4612/161887320.47/0_1843aa_d287f7fd_orig.jpg"
+          },
+          {
+            "url": "https://img-fotki.yandex.ru/get/15585/109816945.9c/0_c3f10_7df99360_XXL.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/14/c7/c1/14c7c11fbdb87b3f1608d0dc6742c112.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://f17.ifotki.info/org/929d3f2be2380f0620b4ebb51e8b1f96d913d6201149629.jpg"
+          },
+          {
+            "url": "http://herbert.guru/wp-content/uploads/2014/08/Oratorio_di_San_Giorgio_Padova_-_3george2.jpg"
+          },
+          {
+            "url": "https://i0.wp.com/www.italieuitgelicht.nl/wp-content/uploads/2015/01/Altichiero-da-Zevio-fresco-Oratorio-di-San-Giorgio-Padua-sint-joris-en-de-draak.jpg?resize=1011%2C1200"
+          },
+          {
+            "url": "https://img-fotki.yandex.ru/get/4612/161887320.47/0_1843aa_d287f7fd_orig.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/14/c7/c1/14c7c11fbdb87b3f1608d0dc6742c112.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.wga.hu/html_m/a/altichie/1/3george2.html"
+          },
+          {
+            "url": "http://badger.uvm.edu/omeka/exhibits/show/plague/veneto/ven-dragon"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/34832597096623832/"
+          },
+          {
+            "url": "http://badger.uvm.edu/omeka/exhibits/show/plague/item/1578"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/4644405844522070/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://badger.uvm.edu/omeka/files/fullsize/17c267fad14a6b3061a893ceffd753ac.jpg"
+          },
+          {
+            "url": "https://i.ytimg.com/vi/26XsdSdJzYg/maxresdefault.jpg"
+          },
+          {
+            "url": "http://1.bp.blogspot.com/_GzQnzaF4k-o/Rb2dMIqNQ9I/AAAAAAAABTM/BhWPqEzc2ZE/w1200-h630-p-k-no-nu/800px-Paolo_Uccello_047.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Pisanello_-_St_George_and_the_Princess_of_Trebizond_%28right_side%29_-_WGA17875.jpg"
+          },
+          {
+            "url": "http://www.artic.edu/aic/collections/citi/images/standard/WebLarge/WebImg_000048/96380_492255.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

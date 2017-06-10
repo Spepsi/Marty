@@ -1,0 +1,551 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.9397723
+        },
+        {
+          "mid": "/m/01spzs",
+          "description": "still life",
+          "score": 0.85513854
+        },
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.7217645
+        },
+        {
+          "mid": "/m/02hcw1",
+          "description": "floristry",
+          "score": 0.6910518
+        },
+        {
+          "mid": "/m/0ggjrhd",
+          "description": "flower arranging",
+          "score": 0.6866942
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "en",
+          "description": "/RW\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 186,
+                "y": 119
+              },
+              {
+                "x": 233,
+                "y": 119
+              },
+              {
+                "x": 233,
+                "y": 145
+              },
+              {
+                "x": 186,
+                "y": 145
+              }
+            ]
+          }
+        },
+        {
+          "description": "/",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 189,
+                "y": 120
+              },
+              {
+                "x": 197,
+                "y": 123
+              },
+              {
+                "x": 194,
+                "y": 131
+              },
+              {
+                "x": 186,
+                "y": 127
+              }
+            ]
+          }
+        },
+        {
+          "description": "RW",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 200,
+                "y": 121
+              },
+              {
+                "x": 233,
+                "y": 135
+              },
+              {
+                "x": 229,
+                "y": 146
+              },
+              {
+                "x": 195,
+                "y": 132
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 202,
+                "green": 145,
+                "blue": 96
+              },
+              "score": 0.17128792,
+              "pixelFraction": 0.03248848
+            },
+            {
+              "color": {
+                "red": 185,
+                "green": 95,
+                "blue": 38
+              },
+              "score": 0.10859191,
+              "pixelFraction": 0.00890937
+            },
+            {
+              "color": {
+                "red": 215,
+                "green": 191,
+                "blue": 161
+              },
+              "score": 0.031770997,
+              "pixelFraction": 0.013056836
+            },
+            {
+              "color": {
+                "red": 167,
+                "green": 108,
+                "blue": 59
+              },
+              "score": 0.115373775,
+              "pixelFraction": 0.033794165
+            },
+            {
+              "color": {
+                "red": 233,
+                "green": 177,
+                "blue": 131
+              },
+              "score": 0.067236,
+              "pixelFraction": 0.011290323
+            },
+            {
+              "color": {
+                "red": 180,
+                "green": 98,
+                "blue": 57
+              },
+              "score": 0.05724911,
+              "pixelFraction": 0.008678955
+            },
+            {
+              "color": {
+                "red": 125,
+                "green": 74,
+                "blue": 27
+              },
+              "score": 0.05698307,
+              "pixelFraction": 0.063671276
+            },
+            {
+              "color": {
+                "red": 176,
+                "green": 105,
+                "blue": 41
+              },
+              "score": 0.050672024,
+              "pixelFraction": 0.007834101
+            },
+            {
+              "color": {
+                "red": 140,
+                "green": 64,
+                "blue": 28
+              },
+              "score": 0.042603564,
+              "pixelFraction": 0.011674347
+            },
+            {
+              "color": {
+                "red": 216,
+                "green": 129,
+                "blue": 87
+              },
+              "score": 0.037042595,
+              "pixelFraction": 0.0039170505
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 330
+                },
+                {
+                  "x": 330,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 0.98999995
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "en"
+                }
+              ]
+            },
+            "width": 338,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "en"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 186,
+                      "y": 128
+                    },
+                    {
+                      "x": 191,
+                      "y": 117
+                    },
+                    {
+                      "x": 233,
+                      "y": 134
+                    },
+                    {
+                      "x": 229,
+                      "y": 146
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "en"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 186,
+                          "y": 119
+                        },
+                        {
+                          "x": 233,
+                          "y": 119
+                        },
+                        {
+                          "x": 233,
+                          "y": 145
+                        },
+                        {
+                          "x": 186,
+                          "y": 145
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 189,
+                              "y": 120
+                            },
+                            {
+                              "x": 197,
+                              "y": 123
+                            },
+                            {
+                              "x": 194,
+                              "y": 131
+                            },
+                            {
+                              "x": 186,
+                              "y": 127
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 189,
+                                  "y": 120
+                                },
+                                {
+                                  "x": 197,
+                                  "y": 123
+                                },
+                                {
+                                  "x": 194,
+                                  "y": 131
+                                },
+                                {
+                                  "x": 186,
+                                  "y": 127
+                                }
+                              ]
+                            },
+                            "text": "/"
+                          }
+                        ]
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "ca"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 200,
+                              "y": 121
+                            },
+                            {
+                              "x": 233,
+                              "y": 135
+                            },
+                            {
+                              "x": 229,
+                              "y": 146
+                            },
+                            {
+                              "x": 195,
+                              "y": 132
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 199,
+                                  "y": 124
+                                },
+                                {
+                                  "x": 207,
+                                  "y": 127
+                                },
+                                {
+                                  "x": 204,
+                                  "y": 135
+                                },
+                                {
+                                  "x": 196,
+                                  "y": 131
+                                }
+                              ]
+                            },
+                            "text": "R"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 217,
+                                  "y": 128
+                                },
+                                {
+                                  "x": 234,
+                                  "y": 135
+                                },
+                                {
+                                  "x": 229,
+                                  "y": 146
+                                },
+                                {
+                                  "x": 212,
+                                  "y": 139
+                                }
+                              ]
+                            },
+                            "text": "W"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "/RW\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/01txr2",
+            "score": 0.65275,
+            "description": "Spring"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.44138,
+            "description": "Painting"
+          },
+          {
+            "entityId": "/m/06gjp9",
+            "score": 0.42028072,
+            "description": "Floral design"
+          },
+          {
+            "entityId": "/m/0754v",
+            "score": 0.41026,
+            "description": "Season"
+          },
+          {
+            "entityId": "/g/120ph51m",
+            "score": 0.38355,
+            "description": "painting"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://www.tinghua.org/pic/wiki/masters/Giuseppe-Arcimboldo/oil/Spring-2_s.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://www.zeno.org/Kunstwerke.images/I/72l061a.jpg"
+          },
+          {
+            "url": "http://www.rpk-tc.irnd.ru/jpg/pechat_na_stekle_15.jpg"
+          },
+          {
+            "url": "https://phototour.pro/content/gallery/photo_201.jpg"
+          },
+          {
+            "url": "https://carmelodimauro.files.wordpress.com/2013/09/giuseppe_arcimboldo_-_spring_-_wga00817.jpg"
+          },
+          {
+            "url": "https://www.peintures-tableaux.com/pic/Oil%20Painting%20Styles%20on%20Canvas/Fantasy/Popular%20Fantasy/8-Spring-2-Giuseppe-Arcimboldo-Fantasy.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/Giuseppe_Arcimboldo"
+          },
+          {
+            "url": "http://www.giuseppe-arcimboldo.org/home-1-96-1-0.html"
+          },
+          {
+            "url": "http://www.the-athenaeum.org/art/list.php?m=a&s=tu&aid=4085"
+          },
+          {
+            "url": "https://www.posterlounge.co.uk/artists/guiseppe-arcimboldo/"
+          },
+          {
+            "url": "http://www.giuseppe-arcimboldo.org/home-7-12-1-0.html"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/46/0f/ac/460faca99c2fe28a78d80ff1e5807fd8.jpg"
+          },
+          {
+            "url": "http://www.theartwolf.com/imagenestAW/Arcimboldo_Spring.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/72/ae/1e/72ae1e3bcdb68e9da5027f163d72e453.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/f3/ca/25/f3ca25b4455961356ec3209a3e3598af.jpg"
+          },
+          {
+            "url": "https://uofllibraries.files.wordpress.com/2011/08/arcimboldo.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

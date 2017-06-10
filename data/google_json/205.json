@@ -1,0 +1,460 @@
+{
+  "responses": [
+    {
+      "logoAnnotations": [
+        {
+          "description": "Communion of the Apostles",
+          "score": 0.9620914,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 3,
+                "y": 3
+              },
+              {
+                "x": 285,
+                "y": 3
+              },
+              {
+                "x": 285,
+                "y": 392
+              },
+              {
+                "x": 3,
+                "y": 392
+              }
+            ]
+          }
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/09g5pq",
+          "description": "people",
+          "score": 0.883801
+        },
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.72231406
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "en",
+          "description": "1\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 18,
+                "y": 366
+              },
+              {
+                "x": 24,
+                "y": 366
+              },
+              {
+                "x": 24,
+                "y": 386
+              },
+              {
+                "x": 18,
+                "y": 386
+              }
+            ]
+          }
+        },
+        {
+          "description": "1",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 19,
+                "y": 366
+              },
+              {
+                "x": 24,
+                "y": 366
+              },
+              {
+                "x": 23,
+                "y": 386
+              },
+              {
+                "x": 18,
+                "y": 386
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 201,
+                "green": 198,
+                "blue": 194
+              },
+              "score": 0.2393728,
+              "pixelFraction": 0.090412185
+            },
+            {
+              "color": {
+                "red": 60,
+                "green": 51,
+                "blue": 45
+              },
+              "score": 0.074347,
+              "pixelFraction": 0.11281362
+            },
+            {
+              "color": {
+                "red": 159,
+                "green": 156,
+                "blue": 155
+              },
+              "score": 0.13957135,
+              "pixelFraction": 0.054121863
+            },
+            {
+              "color": {
+                "red": 226,
+                "green": 223,
+                "blue": 218
+              },
+              "score": 0.11584707,
+              "pixelFraction": 0.08844086
+            },
+            {
+              "color": {
+                "red": 90,
+                "green": 83,
+                "blue": 76
+              },
+              "score": 0.07383021,
+              "pixelFraction": 0.093727596
+            },
+            {
+              "color": {
+                "red": 125,
+                "green": 118,
+                "blue": 113
+              },
+              "score": 0.0641096,
+              "pixelFraction": 0.04614695
+            },
+            {
+              "color": {
+                "red": 94,
+                "green": 81,
+                "blue": 63
+              },
+              "score": 0.050353594,
+              "pixelFraction": 0.09820788
+            },
+            {
+              "color": {
+                "red": 64,
+                "green": 51,
+                "blue": 35
+              },
+              "score": 0.041615687,
+              "pixelFraction": 0.07177419
+            },
+            {
+              "color": {
+                "red": 132,
+                "green": 117,
+                "blue": 97
+              },
+              "score": 0.030133875,
+              "pixelFraction": 0.063799284
+            },
+            {
+              "color": {
+                "red": 117,
+                "green": 75,
+                "blue": 58
+              },
+              "score": 0.02235576,
+              "pixelFraction": 0.029569892
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 290
+                },
+                {
+                  "x": 290,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "en"
+                }
+              ]
+            },
+            "width": 291,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "en"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 19,
+                      "y": 366
+                    },
+                    {
+                      "x": 24,
+                      "y": 366
+                    },
+                    {
+                      "x": 23,
+                      "y": 386
+                    },
+                    {
+                      "x": 18,
+                      "y": 386
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "en"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 18,
+                          "y": 366
+                        },
+                        {
+                          "x": 24,
+                          "y": 366
+                        },
+                        {
+                          "x": 24,
+                          "y": 386
+                        },
+                        {
+                          "x": 18,
+                          "y": 386
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 19,
+                              "y": 366
+                            },
+                            {
+                              "x": 24,
+                              "y": 366
+                            },
+                            {
+                              "x": 23,
+                              "y": 386
+                            },
+                            {
+                              "x": 18,
+                              "y": 386
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 19,
+                                  "y": 366
+                                },
+                                {
+                                  "x": 24,
+                                  "y": 366
+                                },
+                                {
+                                  "x": 23,
+                                  "y": 386
+                                },
+                                {
+                                  "x": 18,
+                                  "y": 386
+                                }
+                              ]
+                            },
+                            "text": "1"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "1\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/06cvx",
+            "score": 0.64278,
+            "description": "Renaissance"
+          },
+          {
+            "entityId": "/g/11cktgrq6p",
+            "score": 0.61304,
+            "description": "Communion of the Apostles"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.4794547,
+            "description": "Painting"
+          },
+          {
+            "entityId": "/m/09ns1f",
+            "score": 0.38926,
+            "description": "Apostles"
+          },
+          {
+            "entityId": "/m/05nmd",
+            "score": 0.37639,
+            "description": "Oil painting"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://classic-online.ru/uploads/000_picture/164300/164244.jpg"
+          },
+          {
+            "url": "http://cfile208.uf.daum.net/image/25048B34577B286C1F7DBF"
+          },
+          {
+            "url": "http://www.paintinghere.com/Uploadpic/Denys%20van%20Alsloot/big/Communion%20Of%20The%20Apostles.jpg"
+          },
+          {
+            "url": "http://bbscache1.artron.net/forum/201303/30/152900929estwt5n7vn742.jpg"
+          },
+          {
+            "url": "http://1.bp.blogspot.com/_lJ77rqODcOA/TECn-juw9BI/AAAAAAAAG24/zqtC88VGRno/s1600/la+communion+des+ap%C3%B4tres.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://upload.wikimedia.org/wikipedia/commons/b/b1/Albrecht_Altdorfer_-_Communion_of_the_Apostles_-_WGA0212.jpg"
+          },
+          {
+            "url": "http://s012.radikal.ru/i320/1412/b8/eedb40a4a735.jpg"
+          },
+          {
+            "url": "http://i1382.photobucket.com/albums/ah277/trianarts10/Albrecht-Altdorfer/780%20Albrecht%20Altdorfer%20-%202%20%20Communion%20of%20the%20Apostles%20-%20Apostles%20in%20a%20wooded%20landscape-1523-GemaldeG_zpshtxxb8wc.jpg"
+          },
+          {
+            "url": "http://classic-online.ru/uploads/000_picture/164300/164244.jpg"
+          },
+          {
+            "url": "http://www.settemuse.it/pittori_opere_A/altdorfer_albrecht/altdorfer_albrecht_504_communion_of_the_apostles.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.the-athenaeum.org/art/list.php?m=a&s=tu&aid=601"
+          },
+          {
+            "url": "http://theredlist.com/wiki-2-351-861-414-398-427-view-mannerism-profile-altdorfer-albrecht.html"
+          },
+          {
+            "url": "https://www.wikiart.org/en/albrecht-altdorfer/communion-of-the-apostles-1518"
+          },
+          {
+            "url": "https://www.scholarsresource.com/browse/artist/16"
+          },
+          {
+            "url": "https://it.pinterest.com/pin/297659856600537730/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://www.oilpaintingsartmaker.com/images/wiki/Albrecht%20Altdorfer/communion-of-the-apostles-1518-1426.jpg"
+          },
+          {
+            "url": "https://andrzejosinski.files.wordpress.com/2013/01/011.jpg"
+          },
+          {
+            "url": "https://dnq5fc8vfw3ev.cloudfront.net/thumbnail/85000/85138/small_aspect/Altdorfer/The-Entombment-1516.jpg?ts=1459229076"
+          },
+          {
+            "url": "http://www.likepainting.com/images/painting/Landscape-With-Satyr-Family-Albrecht-Altdorfer-Oil-Painting-LP03865.jpg"
+          },
+          {
+            "url": "http://www.artclon.com/OtherFile/Albrecht-Altdorfer-XX-Christ-on-the-Cross-between-the-Two-thieves-1526.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

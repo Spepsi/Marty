@@ -1,0 +1,606 @@
+{
+  "responses": [
+    {
+      "faceAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 136,
+                "y": 22
+              },
+              {
+                "x": 205,
+                "y": 22
+              },
+              {
+                "x": 205,
+                "y": 102
+              },
+              {
+                "x": 136,
+                "y": 102
+              }
+            ]
+          },
+          "fdBoundingPoly": {
+            "vertices": [
+              {
+                "x": 143,
+                "y": 41
+              },
+              {
+                "x": 199,
+                "y": 41
+              },
+              {
+                "x": 199,
+                "y": 97
+              },
+              {
+                "x": 143,
+                "y": 97
+              }
+            ]
+          },
+          "landmarks": [
+            {
+              "type": "LEFT_EYE",
+              "position": {
+                "x": 163.5032,
+                "y": 58.46679,
+                "z": -0.0005520912
+              }
+            },
+            {
+              "type": "RIGHT_EYE",
+              "position": {
+                "x": 184.92021,
+                "y": 61.85957,
+                "z": 2.7548919
+              }
+            },
+            {
+              "type": "LEFT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 157.69685,
+                "y": 52.877327,
+                "z": 0.6532494
+              }
+            },
+            {
+              "type": "RIGHT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 170.54498,
+                "y": 55.061073,
+                "z": -3.7312407
+              }
+            },
+            {
+              "type": "LEFT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 180.58835,
+                "y": 56.454967,
+                "z": -2.445297
+              }
+            },
+            {
+              "type": "RIGHT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 192.04169,
+                "y": 57.579758,
+                "z": 5.0610147
+              }
+            },
+            {
+              "type": "MIDPOINT_BETWEEN_EYES",
+              "position": {
+                "x": 175.02943,
+                "y": 59.558956,
+                "z": -3.0433905
+              }
+            },
+            {
+              "type": "NOSE_TIP",
+              "position": {
+                "x": 173.7171,
+                "y": 73.188034,
+                "z": -7.9900036
+              }
+            },
+            {
+              "type": "UPPER_LIP",
+              "position": {
+                "x": 172.2436,
+                "y": 79.96198,
+                "z": -2.413467
+              }
+            },
+            {
+              "type": "LOWER_LIP",
+              "position": {
+                "x": 170.7326,
+                "y": 85.383766,
+                "z": -0.44783407
+              }
+            },
+            {
+              "type": "MOUTH_LEFT",
+              "position": {
+                "x": 164.34041,
+                "y": 81.09755,
+                "z": 2.088854
+              }
+            },
+            {
+              "type": "MOUTH_RIGHT",
+              "position": {
+                "x": 178.85269,
+                "y": 82.93495,
+                "z": 4.3281913
+              }
+            },
+            {
+              "type": "MOUTH_CENTER",
+              "position": {
+                "x": 171.7452,
+                "y": 82.167915,
+                "z": -0.6486068
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_RIGHT",
+              "position": {
+                "x": 177.92415,
+                "y": 74.79596,
+                "z": 0.81071633
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_LEFT",
+              "position": {
+                "x": 167.37415,
+                "y": 73.35832,
+                "z": -0.5956379
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_CENTER",
+              "position": {
+                "x": 172.95306,
+                "y": 76.36835,
+                "z": -2.8595183
+              }
+            },
+            {
+              "type": "LEFT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 164.4263,
+                "y": 57.626347,
+                "z": -1.4389887
+              }
+            },
+            {
+              "type": "LEFT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 168.12637,
+                "y": 59.50222,
+                "z": 0.70844
+              }
+            },
+            {
+              "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 163.44191,
+                "y": 60.28231,
+                "z": 0.048263263
+              }
+            },
+            {
+              "type": "LEFT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 159.74751,
+                "y": 58.206047,
+                "z": 1.4643084
+              }
+            },
+            {
+              "type": "LEFT_EYE_PUPIL",
+              "position": {
+                "x": 163.8003,
+                "y": 58.913925,
+                "z": -0.4391339
+              }
+            },
+            {
+              "type": "RIGHT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 185.01883,
+                "y": 60.457527,
+                "z": 1.2062188
+              }
+            },
+            {
+              "type": "RIGHT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 188.49185,
+                "y": 62.145687,
+                "z": 5.1556997
+              }
+            },
+            {
+              "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 184.49013,
+                "y": 63.19131,
+                "z": 2.691031
+              }
+            },
+            {
+              "type": "RIGHT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 180.74269,
+                "y": 61.299686,
+                "z": 2.321213
+              }
+            },
+            {
+              "type": "RIGHT_EYE_PUPIL",
+              "position": {
+                "x": 184.91855,
+                "y": 61.82177,
+                "z": 2.2521715
+              }
+            },
+            {
+              "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 164.5921,
+                "y": 51.62329,
+                "z": -3.130277
+              }
+            },
+            {
+              "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 186.9093,
+                "y": 54.688843,
+                "z": -0.2605874
+              }
+            },
+            {
+              "type": "LEFT_EAR_TRAGION",
+              "position": {
+                "x": 146.58817,
+                "y": 64.50272,
+                "z": 24.84087
+              }
+            },
+            {
+              "type": "RIGHT_EAR_TRAGION",
+              "position": {
+                "x": 193.31567,
+                "y": 70.89868,
+                "z": 30.817173
+              }
+            },
+            {
+              "type": "FOREHEAD_GLABELLA",
+              "position": {
+                "x": 175.68983,
+                "y": 55.630196,
+                "z": -3.8786633
+              }
+            },
+            {
+              "type": "CHIN_GNATHION",
+              "position": {
+                "x": 169.26031,
+                "y": 95.55217,
+                "z": 3.5153384
+              }
+            },
+            {
+              "type": "CHIN_LEFT_GONION",
+              "position": {
+                "x": 147.83615,
+                "y": 78.94888,
+                "z": 17.891981
+              }
+            },
+            {
+              "type": "CHIN_RIGHT_GONION",
+              "position": {
+                "x": 190.0656,
+                "y": 84.75412,
+                "z": 23.32331
+              }
+            }
+          ],
+          "rollAngle": 8.462171,
+          "panAngle": 7.2941217,
+          "tiltAngle": -5.1203704,
+          "detectionConfidence": 0.9999678,
+          "landmarkingConfidence": 0.6467646,
+          "joyLikelihood": "VERY_UNLIKELY",
+          "sorrowLikelihood": "VERY_UNLIKELY",
+          "angerLikelihood": "VERY_UNLIKELY",
+          "surpriseLikelihood": "VERY_UNLIKELY",
+          "underExposedLikelihood": "VERY_UNLIKELY",
+          "blurredLikelihood": "VERY_UNLIKELY",
+          "headwearLikelihood": "VERY_UNLIKELY"
+        }
+      ],
+      "logoAnnotations": [
+        {
+          "description": "Madonna Delle Arpie",
+          "score": 0.6922091,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 65,
+                "y": 63
+              },
+              {
+                "x": 275,
+                "y": 63
+              },
+              {
+                "x": 275,
+                "y": 309
+              },
+              {
+                "x": 65,
+                "y": 309
+              }
+            ]
+          }
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/01g317",
+          "description": "person",
+          "score": 0.8996135
+        },
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.74311674
+        },
+        {
+          "mid": "/m/01dv4h",
+          "description": "portrait",
+          "score": 0.6708766
+        },
+        {
+          "mid": "/m/06n0gv",
+          "description": "art model",
+          "score": 0.50995284
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "UNLIKELY",
+        "spoof": "UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 36,
+                "green": 26,
+                "blue": 30
+              },
+              "score": 0.3028079,
+              "pixelFraction": 0.30713072
+            },
+            {
+              "color": {
+                "red": 71,
+                "green": 44,
+                "blue": 49
+              },
+              "score": 0.14551428,
+              "pixelFraction": 0.09983022
+            },
+            {
+              "color": {
+                "red": 182,
+                "green": 148,
+                "blue": 137
+              },
+              "score": 0.017913824,
+              "pixelFraction": 0.024533108
+            },
+            {
+              "color": {
+                "red": 56,
+                "green": 44,
+                "blue": 47
+              },
+              "score": 0.12134591,
+              "pixelFraction": 0.11918506
+            },
+            {
+              "color": {
+                "red": 96,
+                "green": 81,
+                "blue": 79
+              },
+              "score": 0.08996954,
+              "pixelFraction": 0.09677419
+            },
+            {
+              "color": {
+                "red": 43,
+                "green": 24,
+                "blue": 30
+              },
+              "score": 0.08300428,
+              "pixelFraction": 0.0573854
+            },
+            {
+              "color": {
+                "red": 101,
+                "green": 72,
+                "blue": 72
+              },
+              "score": 0.06248997,
+              "pixelFraction": 0.05483871
+            },
+            {
+              "color": {
+                "red": 97,
+                "green": 76,
+                "blue": 64
+              },
+              "score": 0.020510066,
+              "pixelFraction": 0.02156197
+            },
+            {
+              "color": {
+                "red": 117,
+                "green": 115,
+                "blue": 120
+              },
+              "score": 0.017707447,
+              "pixelFraction": 0.018336164
+            },
+            {
+              "color": {
+                "red": 138,
+                "green": 108,
+                "blue": 105
+              },
+              "score": 0.016348643,
+              "pixelFraction": 0.014601018
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 304
+                },
+                {
+                  "x": 304,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 1,
+            "importanceFraction": 0.72999996
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0cfjp",
+            "score": 3.01248,
+            "description": "Uffizi Gallery"
+          },
+          {
+            "entityId": "/m/0bxyh0",
+            "score": 2.85844,
+            "description": "Madonna of the Harpies"
+          },
+          {
+            "entityId": "/m/06cvx",
+            "score": 0.84966,
+            "description": "Renaissance"
+          },
+          {
+            "entityId": "/m/011wwz",
+            "score": 0.7132,
+            "description": "Madonna"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.46997,
+            "description": "Painting"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://img-fotki.yandex.ru/get/47741/161887320.1c8/0_1c805e_87679f9e_orig.jpg"
+          },
+          {
+            "url": "http://www.artbible.net/3JC/-Mat-02,11-Mary%20and%20child,%20Marie%20et%20l%20enfant/16_century_siecle/16%20ANDREA%20DEL%20SARTO%20B%20MADONNA%20OF%20THE%20HARPIES.jpg"
+          },
+          {
+            "url": "http://2.bp.blogspot.com/-7eH9w2ogqhM/VNyVEyWtlwI/AAAAAAAENnM/OBCAO05rwbM/s1600/Andrea%2BDel%2BSarto%2BTutt'Art%40%2B(38).jpg"
+          },
+          {
+            "url": "https://latuaitalia.ru/wp-content/uploads/2017/02/Andrea_del_Sarto_-_Madonna_of_the_Harpies_detail_-_WGA00371.jpg"
+          },
+          {
+            "url": "http://itshouldbesaid.com/wp-content/uploads/2014/04/ANDREADELSARTO.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://www.devoir-de-philosophie.com/images_dissertations/169571.jpg"
+          },
+          {
+            "url": "https://library.creativecow.net/articles/wright_steve/Renaissance_artists/assets/MadonnadelleArpie_Anagliph.png"
+          },
+          {
+            "url": "http://2.bp.blogspot.com/_46IE_wr02tM/TQ-V5I7wssI/AAAAAAAABIY/j2STTHQDJvE/s1600/felicitacion%2Bde%2Bnavidad.jpg"
+          },
+          {
+            "url": "https://img-fotki.yandex.ru/get/47741/161887320.1c8/0_1c805e_87679f9e_orig.jpg"
+          },
+          {
+            "url": "http://www.artbible.net/3JC/-Mat-02,11-Mary%20and%20child,%20Marie%20et%20l%20enfant/16_century_siecle/16%20ANDREA%20DEL%20SARTO%20B%20MADONNA%20OF%20THE%20HARPIES.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.wga.hu/html_m/a/andrea/sarto/1/harpies1.html"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Andrea_del_Sarto_-_Madonna_of_the_Harpies_(detail)_-_WGA00371.jpg"
+          },
+          {
+            "url": "http://theredlist.com/wiki-2-351-861-414-398-427-view-mannerism-profile-del-sarto-andrea.html"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/326229566742498657/"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/53269208063100624/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Andrea_del_Sarto_-_Madonna_of_the_Harpies_%28detail%29_-_WGA00371.jpg/366px-Andrea_del_Sarto_-_Madonna_of_the_Harpies_%28detail%29_-_WGA00371.jpg"
+          },
+          {
+            "url": "http://68.media.tumblr.com/8083759fa3dcf19afdeb5416c1c19a69/tumblr_mr16s1EfE71s5dghio1_1280.jpg"
+          },
+          {
+            "url": "http://www.artnet.com/WebServices/images/ll00008lldJ3uGFgNKECfDrCWQFHPKcD1JD/andrea-del-sarto-the-madonna-and-child.jpg"
+          },
+          {
+            "url": "http://www.artnet.com/WebServices/images/ll00020lldzV2FFgoPECfDrCWvaHBOcKRK/andrea-del-sarto-madonna-con-bambino-e-san-giovannino.jpg"
+          },
+          {
+            "url": "http://3.bp.blogspot.com/-0aROM3hkpdA/VMVNhSLspCI/AAAAAAAAOWs/zwrQ0wizv7A/s1600/Andrea_del_Sarto_-_Annunciation_(detail)_-_WGA0413.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}
