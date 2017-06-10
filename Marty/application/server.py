@@ -14,7 +14,10 @@ config = Config('../../config.ini')
 catalog = config['DATA']['CATALOG']
 
 #id de la photo la plus proche ==> id dans le catalog
-# 2259 ==> ARCIMBOLDO Giuseppe, Spring
+# 2259 ==> ARCIMBOLDO Giuseppe, Spring  faut faire un -2
+
+def id_to_index(idx):
+    return idx-2
 
 df = pd.read_csv(catalog,encoding="cp1250", sep=";")
 from pdb import set_trace; set_trace()
