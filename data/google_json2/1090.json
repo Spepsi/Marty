@@ -1,0 +1,902 @@
+{
+  "responses": [
+    {
+      "faceAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 265,
+                "y": 9
+              },
+              {
+                "x": 337,
+                "y": 9
+              },
+              {
+                "x": 337,
+                "y": 92
+              },
+              {
+                "x": 265,
+                "y": 92
+              }
+            ]
+          },
+          "fdBoundingPoly": {
+            "vertices": [
+              {
+                "x": 267,
+                "y": 33
+              },
+              {
+                "x": 321,
+                "y": 33
+              },
+              {
+                "x": 321,
+                "y": 86
+              },
+              {
+                "x": 267,
+                "y": 86
+              }
+            ]
+          },
+          "landmarks": [
+            {
+              "type": "LEFT_EYE",
+              "position": {
+                "x": 280.41946,
+                "y": 50.339577,
+                "z": 6.0944487e-05
+              }
+            },
+            {
+              "type": "RIGHT_EYE",
+              "position": {
+                "x": 297.64594,
+                "y": 48.93509,
+                "z": -12.728176
+              }
+            },
+            {
+              "type": "LEFT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 275.0347,
+                "y": 45.125404,
+                "z": 5.4589367
+              }
+            },
+            {
+              "type": "RIGHT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 281.75842,
+                "y": 45.492474,
+                "z": -7.098151
+              }
+            },
+            {
+              "type": "LEFT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 290.24063,
+                "y": 45.164177,
+                "z": -13.3129
+              }
+            },
+            {
+              "type": "RIGHT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 304.1188,
+                "y": 44.073135,
+                "z": -15.883272
+              }
+            },
+            {
+              "type": "MIDPOINT_BETWEEN_EYES",
+              "position": {
+                "x": 286.5625,
+                "y": 49.67701,
+                "z": -10.019229
+              }
+            },
+            {
+              "type": "NOSE_TIP",
+              "position": {
+                "x": 284.02133,
+                "y": 63.321716,
+                "z": -13.967406
+              }
+            },
+            {
+              "type": "UPPER_LIP",
+              "position": {
+                "x": 287.83087,
+                "y": 70.39369,
+                "z": -9.142163
+              }
+            },
+            {
+              "type": "LOWER_LIP",
+              "position": {
+                "x": 289.47354,
+                "y": 77.15172,
+                "z": -7.2228675
+              }
+            },
+            {
+              "type": "MOUTH_LEFT",
+              "position": {
+                "x": 285.09473,
+                "y": 72.34665,
+                "z": 0.7789924
+              }
+            },
+            {
+              "type": "MOUTH_RIGHT",
+              "position": {
+                "x": 298.26398,
+                "y": 72.06256,
+                "z": -9.218725
+              }
+            },
+            {
+              "type": "MOUTH_CENTER",
+              "position": {
+                "x": 289.00354,
+                "y": 73.19567,
+                "z": -7.554186
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_RIGHT",
+              "position": {
+                "x": 292.79935,
+                "y": 64.20864,
+                "z": -10.475796
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_LEFT",
+              "position": {
+                "x": 284.20352,
+                "y": 63.766205,
+                "z": -3.6443982
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_CENTER",
+              "position": {
+                "x": 287.23865,
+                "y": 66.219986,
+                "z": -9.624303
+              }
+            },
+            {
+              "type": "LEFT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 279.27667,
+                "y": 48.961338,
+                "z": -1.2377878
+              }
+            },
+            {
+              "type": "LEFT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 284.06754,
+                "y": 50.63032,
+                "z": -2.4469874
+              }
+            },
+            {
+              "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 280.37042,
+                "y": 51.862885,
+                "z": 0.060872942
+              }
+            },
+            {
+              "type": "LEFT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 277.97437,
+                "y": 50.176144,
+                "z": 4.2042794
+              }
+            },
+            {
+              "type": "LEFT_EYE_PUPIL",
+              "position": {
+                "x": 279.70822,
+                "y": 50.338017,
+                "z": -0.13156855
+              }
+            },
+            {
+              "type": "RIGHT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 296.7606,
+                "y": 48.238743,
+                "z": -14.027097
+              }
+            },
+            {
+              "type": "RIGHT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 302.47516,
+                "y": 49.183247,
+                "z": -13.664784
+              }
+            },
+            {
+              "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 297.95496,
+                "y": 50.53766,
+                "z": -12.766005
+              }
+            },
+            {
+              "type": "RIGHT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 293.87204,
+                "y": 49.661324,
+                "z": -10.000071
+              }
+            },
+            {
+              "type": "RIGHT_EYE_PUPIL",
+              "position": {
+                "x": 297.6235,
+                "y": 49.59626,
+                "z": -13.289176
+              }
+            },
+            {
+              "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 277.21948,
+                "y": 42.908627,
+                "z": -2.1561418
+              }
+            },
+            {
+              "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 296.1812,
+                "y": 42.155777,
+                "z": -16.031624
+              }
+            },
+            {
+              "type": "LEFT_EAR_TRAGION",
+              "position": {
+                "x": 285.86798,
+                "y": 57.547035,
+                "z": 30.603603
+              }
+            },
+            {
+              "type": "RIGHT_EAR_TRAGION",
+              "position": {
+                "x": 325.53912,
+                "y": 55.94458,
+                "z": 1.5803885
+              }
+            },
+            {
+              "type": "FOREHEAD_GLABELLA",
+              "position": {
+                "x": 285.5084,
+                "y": 45.184498,
+                "z": -10.871858
+              }
+            },
+            {
+              "type": "CHIN_GNATHION",
+              "position": {
+                "x": 292.30533,
+                "y": 86.53791,
+                "z": -3.81663
+              }
+            },
+            {
+              "type": "CHIN_LEFT_GONION",
+              "position": {
+                "x": 284.13525,
+                "y": 72.4655,
+                "z": 23.440277
+              }
+            },
+            {
+              "type": "CHIN_RIGHT_GONION",
+              "position": {
+                "x": 320.00052,
+                "y": 71.030846,
+                "z": -2.811695
+              }
+            }
+          ],
+          "rollAngle": -6.2271967,
+          "panAngle": -36.36139,
+          "tiltAngle": -5.321969,
+          "detectionConfidence": 0.89705884,
+          "landmarkingConfidence": 0.5197995,
+          "joyLikelihood": "VERY_UNLIKELY",
+          "sorrowLikelihood": "VERY_UNLIKELY",
+          "angerLikelihood": "VERY_UNLIKELY",
+          "surpriseLikelihood": "VERY_UNLIKELY",
+          "underExposedLikelihood": "VERY_UNLIKELY",
+          "blurredLikelihood": "VERY_UNLIKELY",
+          "headwearLikelihood": "UNLIKELY"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 56,
+                "y": 5
+              },
+              {
+                "x": 134,
+                "y": 5
+              },
+              {
+                "x": 134,
+                "y": 96
+              },
+              {
+                "x": 56,
+                "y": 96
+              }
+            ]
+          },
+          "fdBoundingPoly": {
+            "vertices": [
+              {
+                "x": 69,
+                "y": 25
+              },
+              {
+                "x": 129,
+                "y": 25
+              },
+              {
+                "x": 129,
+                "y": 85
+              },
+              {
+                "x": 69,
+                "y": 85
+              }
+            ]
+          },
+          "landmarks": [
+            {
+              "type": "LEFT_EYE",
+              "position": {
+                "x": 97.32965,
+                "y": 44.572525,
+                "z": 7.440193e-05
+              }
+            },
+            {
+              "type": "RIGHT_EYE",
+              "position": {
+                "x": 115.9251,
+                "y": 43.663445,
+                "z": 12.484712
+              }
+            },
+            {
+              "type": "LEFT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 88.15963,
+                "y": 39.497585,
+                "z": -2.6019313
+              }
+            },
+            {
+              "type": "RIGHT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 103.629166,
+                "y": 38.332813,
+                "z": -0.57702726
+              }
+            },
+            {
+              "type": "LEFT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 113.25729,
+                "y": 37.93769,
+                "z": 5.755178
+              }
+            },
+            {
+              "type": "RIGHT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 121.304924,
+                "y": 38.18487,
+                "z": 19.156832
+              }
+            },
+            {
+              "type": "MIDPOINT_BETWEEN_EYES",
+              "position": {
+                "x": 108.67928,
+                "y": 42.866844,
+                "z": 2.0336123
+              }
+            },
+            {
+              "type": "NOSE_TIP",
+              "position": {
+                "x": 113.7104,
+                "y": 55.307102,
+                "z": -4.4970355
+              }
+            },
+            {
+              "type": "UPPER_LIP",
+              "position": {
+                "x": 111.1899,
+                "y": 66.24158,
+                "z": -0.36835772
+              }
+            },
+            {
+              "type": "LOWER_LIP",
+              "position": {
+                "x": 110.7923,
+                "y": 72.846634,
+                "z": 0.59317553
+              }
+            },
+            {
+              "type": "MOUTH_LEFT",
+              "position": {
+                "x": 100.41346,
+                "y": 69.804955,
+                "z": -0.3819826
+              }
+            },
+            {
+              "type": "MOUTH_RIGHT",
+              "position": {
+                "x": 116.06383,
+                "y": 69.114395,
+                "z": 9.819424
+              }
+            },
+            {
+              "type": "MOUTH_CENTER",
+              "position": {
+                "x": 110.74658,
+                "y": 69.11228,
+                "z": 0.8727656
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_RIGHT",
+              "position": {
+                "x": 114.41743,
+                "y": 58.40923,
+                "z": 6.5141616
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_LEFT",
+              "position": {
+                "x": 104.04671,
+                "y": 58.62563,
+                "z": -0.55094934
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_CENTER",
+              "position": {
+                "x": 111.25361,
+                "y": 59.741886,
+                "z": -0.20816419
+              }
+            },
+            {
+              "type": "LEFT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 97.17419,
+                "y": 42.830536,
+                "z": -1.6244234
+              }
+            },
+            {
+              "type": "LEFT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 100.23922,
+                "y": 44.764572,
+                "z": 2.2745755
+              }
+            },
+            {
+              "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 96.976875,
+                "y": 46.501778,
+                "z": -0.6070298
+              }
+            },
+            {
+              "type": "LEFT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 91.46808,
+                "y": 44.974094,
+                "z": -1.1406652
+              }
+            },
+            {
+              "type": "LEFT_EYE_PUPIL",
+              "position": {
+                "x": 96.41653,
+                "y": 44.57615,
+                "z": -1.0576482
+              }
+            },
+            {
+              "type": "RIGHT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 117.01332,
+                "y": 42.081604,
+                "z": 11.4166155
+              }
+            },
+            {
+              "type": "RIGHT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 119.03367,
+                "y": 43.975166,
+                "z": 17.050957
+              }
+            },
+            {
+              "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 116.55286,
+                "y": 45.45832,
+                "z": 12.399499
+              }
+            },
+            {
+              "type": "RIGHT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 112.0582,
+                "y": 44.24323,
+                "z": 10.051446
+              }
+            },
+            {
+              "type": "RIGHT_EYE_PUPIL",
+              "position": {
+                "x": 116.80245,
+                "y": 43.804375,
+                "z": 12.302914
+              }
+            },
+            {
+              "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 96.44078,
+                "y": 35.859123,
+                "z": -2.775539
+              }
+            },
+            {
+              "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 117.980385,
+                "y": 35.05272,
+                "z": 11.375369
+              }
+            },
+            {
+              "type": "LEFT_EAR_TRAGION",
+              "position": {
+                "x": 68.66494,
+                "y": 59.25032,
+                "z": 15.154868
+              }
+            },
+            {
+              "type": "RIGHT_EAR_TRAGION",
+              "position": {
+                "x": 113.778496,
+                "y": 57.549885,
+                "z": 44.756462
+              }
+            },
+            {
+              "type": "FOREHEAD_GLABELLA",
+              "position": {
+                "x": 108.88407,
+                "y": 37.760357,
+                "z": 1.8704396
+              }
+            },
+            {
+              "type": "CHIN_GNATHION",
+              "position": {
+                "x": 110.03176,
+                "y": 84.40334,
+                "z": 2.8287053
+              }
+            },
+            {
+              "type": "CHIN_LEFT_GONION",
+              "position": {
+                "x": 77.24533,
+                "y": 73.49262,
+                "z": 7.6334577
+              }
+            },
+            {
+              "type": "CHIN_RIGHT_GONION",
+              "position": {
+                "x": 118.026375,
+                "y": 71.96718,
+                "z": 34.41414
+              }
+            }
+          ],
+          "rollAngle": -4.2842383,
+          "panAngle": 33.338886,
+          "tiltAngle": 3.2392085,
+          "detectionConfidence": 0.89260757,
+          "landmarkingConfidence": 0.5642916,
+          "joyLikelihood": "VERY_UNLIKELY",
+          "sorrowLikelihood": "VERY_UNLIKELY",
+          "angerLikelihood": "VERY_UNLIKELY",
+          "surpriseLikelihood": "VERY_UNLIKELY",
+          "underExposedLikelihood": "VERY_UNLIKELY",
+          "blurredLikelihood": "VERY_UNLIKELY",
+          "headwearLikelihood": "VERY_UNLIKELY"
+        }
+      ],
+      "logoAnnotations": [
+        {
+          "description": "Portrait of a Man and His Wife",
+          "score": 0.88550144,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 20,
+                "y": 32
+              },
+              {
+                "x": 366,
+                "y": 32
+              },
+              {
+                "x": 366,
+                "y": 201
+              },
+              {
+                "x": 20,
+                "y": 201
+              }
+            ]
+          }
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.56407017
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 32,
+                "green": 54,
+                "blue": 32
+              },
+              "score": 0.13493195,
+              "pixelFraction": 0.104334675
+            },
+            {
+              "color": {
+                "red": 98,
+                "green": 81,
+                "blue": 28
+              },
+              "score": 0.054369085,
+              "pixelFraction": 0.03578629
+            },
+            {
+              "color": {
+                "red": 71,
+                "green": 122,
+                "blue": 107
+              },
+              "score": 0.044037156,
+              "pixelFraction": 0.039818548
+            },
+            {
+              "color": {
+                "red": 163,
+                "green": 158,
+                "blue": 128
+              },
+              "score": 0.034151,
+              "pixelFraction": 0.034400202
+            },
+            {
+              "color": {
+                "red": 28,
+                "green": 53,
+                "blue": 38
+              },
+              "score": 0.08343407,
+              "pixelFraction": 0.07295867
+            },
+            {
+              "color": {
+                "red": 57,
+                "green": 54,
+                "blue": 28
+              },
+              "score": 0.06349881,
+              "pixelFraction": 0.054939516
+            },
+            {
+              "color": {
+                "red": 16,
+                "green": 35,
+                "blue": 14
+              },
+              "score": 0.05665697,
+              "pixelFraction": 0.04561492
+            },
+            {
+              "color": {
+                "red": 112,
+                "green": 70,
+                "blue": 18
+              },
+              "score": 0.050221067,
+              "pixelFraction": 0.038054436
+            },
+            {
+              "color": {
+                "red": 12,
+                "green": 32,
+                "blue": 19
+              },
+              "score": 0.050022647,
+              "pixelFraction": 0.04813508
+            },
+            {
+              "color": {
+                "red": 68,
+                "green": 84,
+                "blue": 58
+              },
+              "score": 0.046353057,
+              "pixelFraction": 0.038684476
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 207
+                },
+                {
+                  "y": 207
+                }
+              ]
+            },
+            "confidence": 1,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0k9byq2",
+            "score": 14.0994,
+            "description": "Ulrich Apt the Elder"
+          },
+          {
+            "entityId": "/m/09c7b",
+            "score": 12.45888,
+            "description": "Metropolitan Museum of Art"
+          },
+          {
+            "entityId": "/g/11bxd8xnqd",
+            "score": 1.99692,
+            "description": "Portrait of a Man and His Wife (Lorenz Kraffter and Honesta Merz?)"
+          },
+          {
+            "entityId": "/m/0345h",
+            "score": 0.98132,
+            "description": "Germany"
+          },
+          {
+            "entityId": "/m/08b23",
+            "score": 0.60174,
+            "description": "16th century"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://images.metmuseum.org/CRDImages/ep/original/DP280344.jpg"
+          },
+          {
+            "url": "https://i.ytimg.com/vi/L-qYsgqh2FQ/maxresdefault.jpg"
+          },
+          {
+            "url": "http://i056.radikal.ru/1612/12/90d441372982.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/4d/b7/80/4db780dd8957e21817a135fe42107dd1.jpg"
+          },
+          {
+            "url": "http://4.bp.blogspot.com/-y6Hr2DPpkVE/Ty6Sjv6bsLI/AAAAAAAAC2w/BnVQRZyaKb4/w1200-h630-p-k-no-nu/Portrait+of+a+Man+and+His+Wife+-+Ulrich+Apt+the+Elder+%281512%29.png"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.metmuseum.org/art/collection/search/435585"
+          },
+          {
+            "url": "https://mydailyartdisplay.wordpress.com/2012/12/05/portrait-of-a-man-and-his-wife-by-ulrich-apt-the-elder/"
+          },
+          {
+            "url": "https://mydailyartdisplay.wordpress.com/2012/12/05/portrait-of-a-man-and-his-wife-by-ulrich-apt-the-elder/portrait-of-a-man-and-his-wife-by-ulrich-apt-the-elder-1512/"
+          },
+          {
+            "url": "http://commons.wikimedia.org/wiki/File:Portrait_of_a_Man_and_His_Wife_(Lorenz_Kraffter_and_Honesta_Merz%3F)_MET_DP280344.jpg"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/59320920065108897/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://www.artclon.com/OtherFile/Ulrich-Apt-the-Elder-XX-Portrait-of-a-Man-and-His-Wife-1512.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/45/cb/44/45cb448f00c4fb4f8d1a7c26ac4c5e4f.jpg"
+          },
+          {
+            "url": "https://fineartamerica.com/images/rendered/search/canvas-print/mirror/break/images-medium-5/portrait-of-a-man-and-his-wife-lorenz-ulrich-apt-the-elder-canvas-print.jpg"
+          },
+          {
+            "url": "https://www.virtualuffizi.com/slir/w200-c200:150/repository/1/6/1652a8a4b428c9c.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/cb/ab/5b/cbab5b0e289ce6a1588110b47ae1db62.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,444 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.7594794
+        },
+        {
+          "mid": "/m/0djmp",
+          "description": "ancient history",
+          "score": 0.67217296
+        },
+        {
+          "mid": "/m/0lym8",
+          "description": "tapestry",
+          "score": 0.6240223
+        },
+        {
+          "mid": "/m/015r61",
+          "description": "modern art",
+          "score": 0.58748996
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "no",
+          "description": "R\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 179,
+                "y": 18
+              },
+              {
+                "x": 191,
+                "y": 18
+              },
+              {
+                "x": 191,
+                "y": 24
+              },
+              {
+                "x": 179,
+                "y": 24
+              }
+            ]
+          }
+        },
+        {
+          "description": "R",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 191,
+                "y": 24
+              },
+              {
+                "x": 179,
+                "y": 25
+              },
+              {
+                "x": 179,
+                "y": 20
+              },
+              {
+                "x": 191,
+                "y": 19
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 199,
+                "green": 145,
+                "blue": 65
+              },
+              "score": 0.4325138,
+              "pixelFraction": 0.10300288
+            },
+            {
+              "color": {
+                "red": 201,
+                "green": 158,
+                "blue": 69
+              },
+              "score": 0.11338503,
+              "pixelFraction": 0.039142407
+            },
+            {
+              "color": {
+                "red": 195,
+                "green": 143,
+                "blue": 85
+              },
+              "score": 0.10799615,
+              "pixelFraction": 0.104314186
+            },
+            {
+              "color": {
+                "red": 163,
+                "green": 112,
+                "blue": 63
+              },
+              "score": 0.047931492,
+              "pixelFraction": 0.100314714
+            },
+            {
+              "color": {
+                "red": 217,
+                "green": 175,
+                "blue": 83
+              },
+              "score": 0.039753545,
+              "pixelFraction": 0.023013376
+            },
+            {
+              "color": {
+                "red": 171,
+                "green": 114,
+                "blue": 43
+              },
+              "score": 0.033440214,
+              "pixelFraction": 0.014555468
+            },
+            {
+              "color": {
+                "red": 125,
+                "green": 75,
+                "blue": 28
+              },
+              "score": 0.02985364,
+              "pixelFraction": 0.054419093
+            },
+            {
+              "color": {
+                "red": 189,
+                "green": 91,
+                "blue": 33
+              },
+              "score": 0.02741001,
+              "pixelFraction": 0.00380278
+            },
+            {
+              "color": {
+                "red": 187,
+                "green": 151,
+                "blue": 90
+              },
+              "score": 0.02662865,
+              "pixelFraction": 0.05173092
+            },
+            {
+              "color": {
+                "red": 223,
+                "green": 169,
+                "blue": 83
+              },
+              "score": 0.016887838,
+              "pixelFraction": 0.0059008654
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 395
+                },
+                {
+                  "y": 395
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "no"
+                }
+              ]
+            },
+            "width": 400,
+            "height": 396,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "no"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 179,
+                      "y": 25
+                    },
+                    {
+                      "x": 179,
+                      "y": 20
+                    },
+                    {
+                      "x": 191,
+                      "y": 19
+                    },
+                    {
+                      "x": 191,
+                      "y": 24
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "no"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 179,
+                          "y": 18
+                        },
+                        {
+                          "x": 191,
+                          "y": 18
+                        },
+                        {
+                          "x": 191,
+                          "y": 24
+                        },
+                        {
+                          "x": 179,
+                          "y": 24
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "no"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 191,
+                              "y": 24
+                            },
+                            {
+                              "x": 179,
+                              "y": 25
+                            },
+                            {
+                              "x": 179,
+                              "y": 20
+                            },
+                            {
+                              "x": 191,
+                              "y": 19
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "no"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 191,
+                                  "y": 24
+                                },
+                                {
+                                  "x": 179,
+                                  "y": 25
+                                },
+                                {
+                                  "x": 179,
+                                  "y": 20
+                                },
+                                {
+                                  "x": 191,
+                                  "y": 19
+                                }
+                              ]
+                            },
+                            "text": "R"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "R\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0272rmj",
+            "score": 6.11856,
+            "description": "San Marco, Florence"
+          },
+          {
+            "entityId": "/m/05zpzj5",
+            "score": 3.57472,
+            "description": "San Marco Altarpiece"
+          },
+          {
+            "entityId": "/g/12100_zb",
+            "score": 2.70416,
+            "description": "Museo Nazionale di San Marco"
+          },
+          {
+            "entityId": "/g/121_4fy6",
+            "score": 0.39458,
+            "description": "Annalena Altarpiece"
+          },
+          {
+            "entityId": "/m/01bttc",
+            "score": 0.38694,
+            "description": "Altarpiece"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Fra_Angelico_-_San_Marco_Altarpiece_%28detail%29_-_WGA00510.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Fra_Angelico_-_San_Marco_Altarpiece_%28detail%29_-_WGA00510.jpg/605px-Fra_Angelico_-_San_Marco_Altarpiece_%28detail%29_-_WGA00510.jpg"
+          },
+          {
+            "url": "http://hoocher.com/Fra_Angelico/San_Marco_Altarpiece_(Detail)_1438_40.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Fra_Angelico_-_San_Marco_Altarpiece_%28detail%29_-_WGA00510.jpg/484px-Fra_Angelico_-_San_Marco_Altarpiece_%28detail%29_-_WGA00510.jpg"
+          },
+          {
+            "url": "http://cn.wahooart.com/Art.nsf/O/8XZ95B/$File/Fra-Angelico-San-Marco-Altarpiece-detail--S.JPG"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Fra_Angelico_-_San_Marco_Altarpiece_%28detail%29_-_WGA00510.jpg"
+          },
+          {
+            "url": "http://www.frammentiarte.it/wp-11-15/wp-content/uploads/2016/02/dal%20Gotico/Beato%20Angelico%20opere/13-beato-angelico-pala-di-san-marco.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Fra_Angelico_-_San_Marco_Altarpiece_%28detail%29_-_WGA00510.jpg/605px-Fra_Angelico_-_San_Marco_Altarpiece_%28detail%29_-_WGA00510.jpg"
+          },
+          {
+            "url": "http://hoocher.com/Fra_Angelico/San_Marco_Altarpiece_(Detail)_1438_40.jpg"
+          },
+          {
+            "url": "http://www.teggelaar.com/florence/imflorence/F2634.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.wga.hu/frames-e.html?/html/a/angelico/07/index.html"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Fra_Angelico_-_San_Marco_Altarpiece_(detail)_-_WGA00510.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/Category:Pala_di_San_Marco_(Angelico)"
+          },
+          {
+            "url": "http://en.wahooart.com/@@/8XXAXJ-Fra-Angelico-Entombment-(San-Marco-Altarpiece)"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/384705993143463374/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Fra_Angelico_-_San_Marco_Altarpiece_%28detail%29_-_WGA00510.jpg/120px-Fra_Angelico_-_San_Marco_Altarpiece_%28detail%29_-_WGA00510.jpg"
+          },
+          {
+            "url": "http://media.gettyimages.com/illustrations/san-marco-altarpiece-circa-1440-by-giovanni-da-fiesole-known-as-fra-illustration-id146265039?s=170667a"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/30/df/0e/30df0ee1721a768b92b737c08114587f.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Fra_Angelico_-_San_Marco_Altarpiece_-_WGA00509.jpg/799px-Fra_Angelico_-_San_Marco_Altarpiece_-_WGA00509.jpg"
+          },
+          {
+            "url": "https://atesgulcugil.files.wordpress.com/2016/04/san-marco-altarpiece-fra-angelico-2-final-plan1.jpg?w=1032"
+          }
+        ]
+      }
+    }
+  ]
+}

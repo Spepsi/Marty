@@ -1,0 +1,272 @@
+{
+  "responses": [
+    {
+      "logoAnnotations": [
+        {
+          "description": "Annunciation",
+          "score": 0.6878424,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 24,
+                "y": 82
+              },
+              {
+                "x": 147,
+                "y": 82
+              },
+              {
+                "x": 147,
+                "y": 213
+              },
+              {
+                "x": 24,
+                "y": 213
+              }
+            ]
+          }
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/0dpvm",
+          "description": "arch",
+          "score": 0.7275686
+        },
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.6908457
+        },
+        {
+          "mid": "/m/0173tc",
+          "description": "chapel",
+          "score": 0.68557394
+        },
+        {
+          "mid": "/m/015r61",
+          "description": "modern art",
+          "score": 0.61119276
+        },
+        {
+          "mid": "/m/0djmp",
+          "description": "ancient history",
+          "score": 0.5778678
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 200,
+                "green": 184,
+                "blue": 164
+              },
+              "score": 0.2140738,
+              "pixelFraction": 0.14969192
+            },
+            {
+              "color": {
+                "red": 98,
+                "green": 83,
+                "blue": 62
+              },
+              "score": 0.16061728,
+              "pixelFraction": 0.073667996
+            },
+            {
+              "color": {
+                "red": 26,
+                "green": 18,
+                "blue": 20
+              },
+              "score": 0.044811223,
+              "pixelFraction": 0.05028996
+            },
+            {
+              "color": {
+                "red": 111,
+                "green": 117,
+                "blue": 145
+              },
+              "score": 0.0064831004,
+              "pixelFraction": 0.0062522655
+            },
+            {
+              "color": {
+                "red": 178,
+                "green": 160,
+                "blue": 138
+              },
+              "score": 0.14069048,
+              "pixelFraction": 0.34378397
+            },
+            {
+              "color": {
+                "red": 134,
+                "green": 112,
+                "blue": 88
+              },
+              "score": 0.10644772,
+              "pixelFraction": 0.15947807
+            },
+            {
+              "color": {
+                "red": 144,
+                "green": 107,
+                "blue": 81
+              },
+              "score": 0.07949109,
+              "pixelFraction": 0.018031895
+            },
+            {
+              "color": {
+                "red": 115,
+                "green": 77,
+                "blue": 53
+              },
+              "score": 0.0790714,
+              "pixelFraction": 0.012413918
+            },
+            {
+              "color": {
+                "red": 90,
+                "green": 46,
+                "blue": 31
+              },
+              "score": 0.031877346,
+              "pixelFraction": 0.010057992
+            },
+            {
+              "color": {
+                "red": 68,
+                "green": 55,
+                "blue": 39
+              },
+              "score": 0.028520513,
+              "pixelFraction": 0.029811526
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 285
+                },
+                {
+                  "x": 285,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0272rmj",
+            "score": 11.64352,
+            "description": "San Marco, Florence"
+          },
+          {
+            "entityId": "/g/12100_zb",
+            "score": 2.46216,
+            "description": "Museo Nazionale di San Marco"
+          },
+          {
+            "entityId": "/g/1222z4rz",
+            "score": 1.64936,
+            "description": "Annunciation"
+          },
+          {
+            "entityId": "/m/05m4tw",
+            "score": 1.46272,
+            "description": "Annunciation"
+          },
+          {
+            "entityId": "/m/06cvx",
+            "score": 0.6661,
+            "description": "Renaissance"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://www.eurocles.com/arpoma/mini-moy.php?file=../data/peinture/a/angelico/musee%20san%20marco//angelico%20-%201-View%20of%20a%20cell.%201440-1441.%20Fresco.%20190%20x%20164%20cm.%20Museo%20di%20San%20Marco,%20Florence,%20Italy.jpg"
+          },
+          {
+            "url": "https://artedifirenze.files.wordpress.com/2015/02/03_annu.jpg?w=215"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://www.eurocles.com/data/peinture/a/angelico/musee%20san%20marco//angelico%20-%201-View%20of%20a%20cell.%201440-1441.%20Fresco.%20190%20x%20164%20cm.%20Museo%20di%20San%20Marco,%20Florence,%20Italy.jpg"
+          },
+          {
+            "url": "https://i.mycdn.me/image?id=851056337802&t=3&plc=WEB&tkn=*TAXZ9vcIijC2-YdTcsRUEi3FqxY"
+          },
+          {
+            "url": "http://1.bp.blogspot.com/-rQ_8X5oOO7w/UcxckiWQ5CI/AAAAAAAAAfY/QOZzXg2H8u4/s1394/cell.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/5e/ee/ee/5eeeeedf814f60a58a79fad44f27d4fe.jpg"
+          },
+          {
+            "url": "http://3.bp.blogspot.com/-m7tuEgwbzP8/UuzR8u6VTsI/AAAAAAAAEko/dQ4GyMGyC9o/s1600/03_annu.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.wga.hu/frames-e.html?/html/a/angelico/09/cells/index.html"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/330944272593137445/"
+          },
+          {
+            "url": "https://www.pinterest.com/explore/fra-angelico/"
+          },
+          {
+            "url": "http://www.walkaboutflorence.com/what-to-do/museum-san-marco"
+          },
+          {
+            "url": "http://hoocher.com/Fra_Angelico/Fra_Angelico.htm"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/564x/5e/ee/ee/5eeeeedf814f60a58a79fad44f27d4fe.jpg"
+          },
+          {
+            "url": "https://www.walkaboutflorence.com/sites/default/files/San_Marco_Fra_Angelico_Florence_Italy_1.jpg"
+          },
+          {
+            "url": "https://farm6.static.flickr.com/5329/13892644940_727f78eda2_b.jpg"
+          },
+          {
+            "url": "http://l450v.alamy.com/450v/engh2b/fresco-of-the-annunciation-by-fra-angelico-in-a-cell-in-the-convent-engh2b.jpg"
+          },
+          {
+            "url": "https://classconnection.s3.amazonaws.com/68/flashcards/2840068/jpg/6073271-fra_angelico_fresco_in_monk_dormitory_florence1363981870733.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

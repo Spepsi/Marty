@@ -1,0 +1,570 @@
+{
+  "responses": [
+    {
+      "faceAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 136,
+                "y": 24
+              },
+              {
+                "x": 196,
+                "y": 24
+              },
+              {
+                "x": 196,
+                "y": 93
+              },
+              {
+                "x": 136,
+                "y": 93
+              }
+            ]
+          },
+          "fdBoundingPoly": {
+            "vertices": [
+              {
+                "x": 138,
+                "y": 37
+              },
+              {
+                "x": 190,
+                "y": 37
+              },
+              {
+                "x": 190,
+                "y": 88
+              },
+              {
+                "x": 138,
+                "y": 88
+              }
+            ]
+          },
+          "landmarks": [
+            {
+              "type": "LEFT_EYE",
+              "position": {
+                "x": 150.82358,
+                "y": 52.616085,
+                "z": 0.00023436584
+              }
+            },
+            {
+              "type": "RIGHT_EYE",
+              "position": {
+                "x": 164.63419,
+                "y": 54.72248,
+                "z": -13.82797
+              }
+            },
+            {
+              "type": "LEFT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 148.43825,
+                "y": 47.609142,
+                "z": 6.0534506
+              }
+            },
+            {
+              "type": "RIGHT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 152.09232,
+                "y": 47.883373,
+                "z": -5.247407
+              }
+            },
+            {
+              "type": "LEFT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 158.31491,
+                "y": 48.652786,
+                "z": -11.590727
+              }
+            },
+            {
+              "type": "RIGHT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 168.8253,
+                "y": 51.709846,
+                "z": -15.685858
+              }
+            },
+            {
+              "type": "MIDPOINT_BETWEEN_EYES",
+              "position": {
+                "x": 153.72638,
+                "y": 51.74453,
+                "z": -8.766677
+              }
+            },
+            {
+              "type": "NOSE_TIP",
+              "position": {
+                "x": 146.35478,
+                "y": 60.934944,
+                "z": -13.1297655
+              }
+            },
+            {
+              "type": "UPPER_LIP",
+              "position": {
+                "x": 148.92412,
+                "y": 68.46039,
+                "z": -10.287421
+              }
+            },
+            {
+              "type": "LOWER_LIP",
+              "position": {
+                "x": 149.02625,
+                "y": 74.24283,
+                "z": -9.602602
+              }
+            },
+            {
+              "type": "MOUTH_LEFT",
+              "position": {
+                "x": 147.35036,
+                "y": 70.83415,
+                "z": -1.8860053
+              }
+            },
+            {
+              "type": "MOUTH_RIGHT",
+              "position": {
+                "x": 156.86256,
+                "y": 72.41046,
+                "z": -12.097288
+              }
+            },
+            {
+              "type": "MOUTH_CENTER",
+              "position": {
+                "x": 149.51784,
+                "y": 71.061806,
+                "z": -9.4351425
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_RIGHT",
+              "position": {
+                "x": 154.7384,
+                "y": 64.568344,
+                "z": -11.48849
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_LEFT",
+              "position": {
+                "x": 149.10121,
+                "y": 63.15065,
+                "z": -4.530634
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_CENTER",
+              "position": {
+                "x": 149.39462,
+                "y": 64.9073,
+                "z": -10.165588
+              }
+            },
+            {
+              "type": "LEFT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 149.87862,
+                "y": 50.742256,
+                "z": -0.43074098
+              }
+            },
+            {
+              "type": "LEFT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 152.71658,
+                "y": 52.71508,
+                "z": -2.1372197
+              }
+            },
+            {
+              "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 150.15607,
+                "y": 53.51571,
+                "z": 0.18515137
+              }
+            },
+            {
+              "type": "LEFT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 149.15244,
+                "y": 52.122795,
+                "z": 4.1060414
+              }
+            },
+            {
+              "type": "LEFT_EYE_PUPIL",
+              "position": {
+                "x": 149.89737,
+                "y": 52.051384,
+                "z": 0.23431663
+              }
+            },
+            {
+              "type": "RIGHT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 162.19623,
+                "y": 53.08715,
+                "z": -13.423714
+              }
+            },
+            {
+              "type": "RIGHT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 166.7201,
+                "y": 55.425568,
+                "z": -14.149585
+              }
+            },
+            {
+              "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 163.56126,
+                "y": 56.12494,
+                "z": -12.965506
+              }
+            },
+            {
+              "type": "RIGHT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 160.64674,
+                "y": 54.346832,
+                "z": -10.079061
+              }
+            },
+            {
+              "type": "RIGHT_EYE_PUPIL",
+              "position": {
+                "x": 162.49841,
+                "y": 54.45643,
+                "z": -13.105824
+              }
+            },
+            {
+              "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 149.84335,
+                "y": 45.348747,
+                "z": -0.2909113
+              }
+            },
+            {
+              "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 163.16988,
+                "y": 47.890965,
+                "z": -14.386175
+              }
+            },
+            {
+              "type": "LEFT_EAR_TRAGION",
+              "position": {
+                "x": 156.0205,
+                "y": 63.6399,
+                "z": 23.641386
+              }
+            },
+            {
+              "type": "RIGHT_EAR_TRAGION",
+              "position": {
+                "x": 184.098,
+                "y": 67.64959,
+                "z": -5.884943
+              }
+            },
+            {
+              "type": "FOREHEAD_GLABELLA",
+              "position": {
+                "x": 154.58043,
+                "y": 48.05976,
+                "z": -8.868631
+              }
+            },
+            {
+              "type": "CHIN_GNATHION",
+              "position": {
+                "x": 148.48094,
+                "y": 83.48409,
+                "z": -8.219775
+              }
+            },
+            {
+              "type": "CHIN_LEFT_GONION",
+              "position": {
+                "x": 149.58089,
+                "y": 73.63948,
+                "z": 16.592453
+              }
+            },
+            {
+              "type": "CHIN_RIGHT_GONION",
+              "position": {
+                "x": 174.72015,
+                "y": 78.507065,
+                "z": -10.082238
+              }
+            }
+          ],
+          "rollAngle": 13.448305,
+          "panAngle": -46.202564,
+          "tiltAngle": 2.5598714,
+          "detectionConfidence": 0.83292305,
+          "landmarkingConfidence": 0.6356509,
+          "joyLikelihood": "VERY_UNLIKELY",
+          "sorrowLikelihood": "VERY_UNLIKELY",
+          "angerLikelihood": "VERY_UNLIKELY",
+          "surpriseLikelihood": "VERY_UNLIKELY",
+          "underExposedLikelihood": "VERY_UNLIKELY",
+          "blurredLikelihood": "VERY_UNLIKELY",
+          "headwearLikelihood": "VERY_UNLIKELY"
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.52830684
+        },
+        {
+          "mid": "/m/04zhd",
+          "description": "mythology",
+          "score": 0.50536346
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "POSSIBLE"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 35,
+                "green": 24,
+                "blue": 24
+              },
+              "score": 0.12904698,
+              "pixelFraction": 0.14299007
+            },
+            {
+              "color": {
+                "red": 170,
+                "green": 153,
+                "blue": 131
+              },
+              "score": 0.09056511,
+              "pixelFraction": 0.07237386
+            },
+            {
+              "color": {
+                "red": 77,
+                "green": 44,
+                "blue": 32
+              },
+              "score": 0.056397926,
+              "pixelFraction": 0.04445823
+            },
+            {
+              "color": {
+                "red": 57,
+                "green": 45,
+                "blue": 42
+              },
+              "score": 0.10484358,
+              "pixelFraction": 0.10949132
+            },
+            {
+              "color": {
+                "red": 133,
+                "green": 117,
+                "blue": 96
+              },
+              "score": 0.08861068,
+              "pixelFraction": 0.070512824
+            },
+            {
+              "color": {
+                "red": 100,
+                "green": 83,
+                "blue": 64
+              },
+              "score": 0.07923244,
+              "pixelFraction": 0.061000828
+            },
+            {
+              "color": {
+                "red": 211,
+                "green": 192,
+                "blue": 167
+              },
+              "score": 0.06356875,
+              "pixelFraction": 0.05789909
+            },
+            {
+              "color": {
+                "red": 95,
+                "green": 83,
+                "blue": 76
+              },
+              "score": 0.049428675,
+              "pixelFraction": 0.054693963
+            },
+            {
+              "color": {
+                "red": 64,
+                "green": 48,
+                "blue": 33
+              },
+              "score": 0.04791661,
+              "pixelFraction": 0.03504963
+            },
+            {
+              "color": {
+                "red": 43,
+                "green": 21,
+                "blue": 21
+              },
+              "score": 0.040397074,
+              "pixelFraction": 0.028846154
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 249
+                },
+                {
+                  "x": 249,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 1,
+            "importanceFraction": 1.0799999
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.83412063,
+            "description": "Painting"
+          },
+          {
+            "entityId": "/g/11c3tgltdz",
+            "score": 0.68892,
+            "description": "Cook in front of the Stove"
+          },
+          {
+            "entityId": "/m/05nmd",
+            "score": 0.4947,
+            "description": "Oil painting"
+          },
+          {
+            "entityId": "/m/0jjw",
+            "score": 0.42354,
+            "description": "Art"
+          },
+          {
+            "entityId": "/m/02ppnm",
+            "score": 0.39156,
+            "description": "Stove"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://1.bp.blogspot.com/-2IdSXt6KOV8/Uh-mUGC2nNI/AAAAAAAAANk/tZ5m15avOMY/s1600/cook.jpg"
+          },
+          {
+            "url": "http://img.ph.126.net/RcMwpi_35Zj7RCSYrAlHrg==/3409506392896806927.jpg"
+          },
+          {
+            "url": "https://cbertel.files.wordpress.com/2009/11/cooks-aertsen-cook-in-front-of-stove.jpg?w=1000"
+          },
+          {
+            "url": "http://classic-online.ru/uploads/000_picture/447600/447563.jpg"
+          },
+          {
+            "url": "http://artthis.org/history/f_1500-1599/Cook%20in%20front%20of%20the%20Stove%20%20Aertsen,%20Pieter%20c.%201559.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Pieter_Aertsen_-_La_cuisini%C3%A8re.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Pieter_Aertsen_003.jpg/1200px-Pieter_Aertsen_003.jpg"
+          },
+          {
+            "url": "https://oudemeesterschilderijen.files.wordpress.com/2013/06/aertsen-cook-in-front-of-stove-1559.jpg"
+          },
+          {
+            "url": "http://4.bp.blogspot.com/-QxGqYVjvgZM/VXAwaXIovSI/AAAAAAAAihM/aa6ekBkmhus/s1600/1559_%25D0%259F%25D0%25BE%25D0%25B2%25D0%25B0%25D1%2580%2B%2528The%2BCook%2529_172.5%2Bx%2B82_%25D0%25B4.%252C%25D0%25BC._%25D0%2591%25D1%2580%25D1%258E%25D1%2581%25D1%2581%25D0%25B5%25D0%25BB%25D1%258C%252C%2B%25D0%259A%25D0%25BE%25D1%2580%25D0%25BE%25D0%25BB%25D0%25B5%25D0%25B2%25D1%2581%25D0%25BA%25D0%25B8%25D0%25B9%2B%25D0%25BC%25D1%2583%25D0%25B7%25D0%25B5%25D0%25B9%2B%25D0%25B8%25D0%25B7%25D1%258F%25D1%2589%25D0%25BD%25D1%258B%25D1%2585%2B%25D0%25B8%25D1%2581%25D0%25BA%25D1%2583%25D1%2581%25D1%2581%25D1%2582%25D0%25B2.jpg"
+          },
+          {
+            "url": "http://www.izhsh.com.cn/sfile/images/%E5%8F%B2%E8%AE%BA%E7%A9%BA%E9%97%B4/2010.12.11%E8%A5%BF%E6%96%B9%E7%BB%98%E7%94%BB%E4%B8%AD%E7%9A%84%E5%8E%A8%E6%88%BF/1_%20Aertsen,%20Cook%20in%20front%20of%20Stove%201559.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://hu.wikipedia.org/wiki/Pieter_Aertsen"
+          },
+          {
+            "url": "http://www.wga.hu/frames-e.html?/html/a/aertsen/index.html"
+          },
+          {
+            "url": "http://www.the-athenaeum.org/art/list.php?m=a&s=tu&aid=6014"
+          },
+          {
+            "url": "https://www.wikiart.org/en/pieter-aertsen"
+          },
+          {
+            "url": "http://www.wga.hu/html_m/a/aertsen/cook.html"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://www.elite-paintings.com/w/10/AbyC/Holland/AERTSEN_Pieter_Cook_In_Front_Of_The_Stove_artist_painting_reproduction_handmade_oil_canvas_or_print_art_deco.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/564x/61/4c/1f/614c1f7ef8f030d540e0b49ca3603e8b.jpg"
+          },
+          {
+            "url": "http://www.oilpaintingfactory.com/pic/Oil%20Painting%20Masterpieces%20on%20Canvas/Aertsen%20Pieter_Holland_1508-1575/thumbnails/6-Market-Woman-With-Vegetable-Stall-Dutch-historical-painter-Pieter-Aertsen.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Pieter_Aertsen_-_The_Cook_-_Google_Art_Project.jpg/220px-Pieter_Aertsen_-_The_Cook_-_Google_Art_Project.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/10/48/4b/10484b275a7e7f66056fcd2d9048e9eb.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

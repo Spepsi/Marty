@@ -1,0 +1,687 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01zbnw",
+          "description": "screenshot",
+          "score": 0.5933841
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "zh",
+          "description": "勃\nfaker\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 86,
+                "y": 163
+              },
+              {
+                "x": 291,
+                "y": 163
+              },
+              {
+                "x": 291,
+                "y": 269
+              },
+              {
+                "x": 86,
+                "y": 269
+              }
+            ]
+          }
+        },
+        {
+          "description": "勃",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 87,
+                "y": 190
+              },
+              {
+                "x": 86,
+                "y": 165
+              },
+              {
+                "x": 102,
+                "y": 164
+              },
+              {
+                "x": 103,
+                "y": 189
+              }
+            ]
+          }
+        },
+        {
+          "description": "faker",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 131,
+                "y": 173
+              },
+              {
+                "x": 291,
+                "y": 187
+              },
+              {
+                "x": 284,
+                "y": 270
+              },
+              {
+                "x": 124,
+                "y": 256
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 76,
+                "green": 42,
+                "blue": 30
+              },
+              "score": 0.12724309,
+              "pixelFraction": 0.080487035
+            },
+            {
+              "color": {
+                "red": 138,
+                "green": 64,
+                "blue": 41
+              },
+              "score": 0.056861952,
+              "pixelFraction": 0.0029253636
+            },
+            {
+              "color": {
+                "red": 35,
+                "green": 25,
+                "blue": 20
+              },
+              "score": 0.051136766,
+              "pixelFraction": 0.264864
+            },
+            {
+              "color": {
+                "red": 63,
+                "green": 47,
+                "blue": 33
+              },
+              "score": 0.11416766,
+              "pixelFraction": 0.15338394
+            },
+            {
+              "color": {
+                "red": 101,
+                "green": 81,
+                "blue": 60
+              },
+              "score": 0.09634548,
+              "pixelFraction": 0.0757432
+            },
+            {
+              "color": {
+                "red": 112,
+                "green": 75,
+                "blue": 60
+              },
+              "score": 0.09259464,
+              "pixelFraction": 0.044750158
+            },
+            {
+              "color": {
+                "red": 156,
+                "green": 107,
+                "blue": 93
+              },
+              "score": 0.06631501,
+              "pixelFraction": 0.010752688
+            },
+            {
+              "color": {
+                "red": 55,
+                "green": 42,
+                "blue": 35
+              },
+              "score": 0.046251316,
+              "pixelFraction": 0.064358
+            },
+            {
+              "color": {
+                "red": 51,
+                "green": 21,
+                "blue": 11
+              },
+              "score": 0.043389544,
+              "pixelFraction": 0.044908285
+            },
+            {
+              "color": {
+                "red": 43,
+                "green": 28,
+                "blue": 16
+              },
+              "score": 0.03657135,
+              "pixelFraction": 0.059060723
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 327
+                },
+                {
+                  "y": 327
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "zh-Hans"
+                }
+              ]
+            },
+            "width": 400,
+            "height": 328,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "zh-Hans"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 87,
+                      "y": 190
+                    },
+                    {
+                      "x": 86,
+                      "y": 165
+                    },
+                    {
+                      "x": 102,
+                      "y": 164
+                    },
+                    {
+                      "x": 103,
+                      "y": 189
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "zh-Hans"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 86,
+                          "y": 163
+                        },
+                        {
+                          "x": 103,
+                          "y": 163
+                        },
+                        {
+                          "x": 103,
+                          "y": 189
+                        },
+                        {
+                          "x": 86,
+                          "y": 189
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "zh-Hans"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 87,
+                              "y": 190
+                            },
+                            {
+                              "x": 86,
+                              "y": 165
+                            },
+                            {
+                              "x": 102,
+                              "y": 164
+                            },
+                            {
+                              "x": 103,
+                              "y": 189
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "zh-Hans"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 87,
+                                  "y": 190
+                                },
+                                {
+                                  "x": 86,
+                                  "y": 165
+                                },
+                                {
+                                  "x": 102,
+                                  "y": 164
+                                },
+                                {
+                                  "x": 103,
+                                  "y": 189
+                                }
+                              ]
+                            },
+                            "text": "勃"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              },
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "fy"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 124,
+                      "y": 256
+                    },
+                    {
+                      "x": 131,
+                      "y": 173
+                    },
+                    {
+                      "x": 292,
+                      "y": 187
+                    },
+                    {
+                      "x": 284,
+                      "y": 270
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "fy"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 124,
+                          "y": 172
+                        },
+                        {
+                          "x": 291,
+                          "y": 172
+                        },
+                        {
+                          "x": 291,
+                          "y": 269
+                        },
+                        {
+                          "x": 124,
+                          "y": 269
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "fy"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 131,
+                              "y": 173
+                            },
+                            {
+                              "x": 291,
+                              "y": 187
+                            },
+                            {
+                              "x": 284,
+                              "y": 270
+                            },
+                            {
+                              "x": 124,
+                              "y": 256
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "zh-Hans"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 131,
+                                  "y": 179
+                                },
+                                {
+                                  "x": 161,
+                                  "y": 182
+                                },
+                                {
+                                  "x": 154,
+                                  "y": 258
+                                },
+                                {
+                                  "x": 124,
+                                  "y": 256
+                                }
+                              ]
+                            },
+                            "text": "f"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "zh-Hans"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 177,
+                                  "y": 186
+                                },
+                                {
+                                  "x": 192,
+                                  "y": 187
+                                },
+                                {
+                                  "x": 188,
+                                  "y": 227
+                                },
+                                {
+                                  "x": 174,
+                                  "y": 226
+                                }
+                              ]
+                            },
+                            "text": "a"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "zh-Hans"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 193,
+                                  "y": 179
+                                },
+                                {
+                                  "x": 223,
+                                  "y": 182
+                                },
+                                {
+                                  "x": 216,
+                                  "y": 257
+                                },
+                                {
+                                  "x": 186,
+                                  "y": 255
+                                }
+                              ]
+                            },
+                            "text": "k"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "zh-Hans"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 223,
+                                  "y": 181
+                                },
+                                {
+                                  "x": 254,
+                                  "y": 184
+                                },
+                                {
+                                  "x": 247,
+                                  "y": 259
+                                },
+                                {
+                                  "x": 216,
+                                  "y": 257
+                                }
+                              ]
+                            },
+                            "text": "e"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "zh-Hans"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 255,
+                                  "y": 199
+                                },
+                                {
+                                  "x": 290,
+                                  "y": 202
+                                },
+                                {
+                                  "x": 286,
+                                  "y": 250
+                                },
+                                {
+                                  "x": 251,
+                                  "y": 247
+                                }
+                              ]
+                            },
+                            "text": "r"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "勃\nfaker\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0cc91p6",
+            "score": 1.07732,
+            "description": "Museum of Fine Arts of Rennes"
+          },
+          {
+            "entityId": "/g/11cjg8nmz8",
+            "score": 0.99956,
+            "description": "Scene in the courtyard of an inn"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.40315,
+            "description": "Painting"
+          },
+          {
+            "entityId": "/m/03thq",
+            "score": 0.36494,
+            "description": "Inn"
+          },
+          {
+            "entityId": "/m/04f_qd",
+            "score": 0.32894,
+            "description": "Wikimedia Commons"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/94/6d/9e/946d9e601939764b89fe85c668205c3a.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Scene_in_a_court_of_inn.JPG"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/94/6d/9e/946d9e601939764b89fe85c668205c3a.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Scene_in_a_court_of_inn.JPG/1246px-Scene_in_a_court_of_inn.JPG"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/94/6d/9e/946d9e601939764b89fe85c668205c3a.jpg"
+          },
+          {
+            "url": "http://l7.alamy.com/zooms/ee899b3c387f4c2cb4cdbc595efcce54/peter-angelis-scne-dans-une-cour-dauberge-j09hfc.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Peter_Angelis"
+          },
+          {
+            "url": "http://www.alamy.com/stock-photo/peter-angelis.html"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Peter_Angelis_-_Sc%C3%A8ne_dans_une_cour_d%27auberge.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Scene_in_a_court_of_inn.JPG"
+          },
+          {
+            "url": "https://useum.org/artwork/Christ-Healing-the-Mother-of-Simon-Peter-s-Wife-John-Bridges-1839"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://az334033.vo.msecnd.net/images-8/scene-in-the-courtyard-of-an-inn-peter-angelis-1724-252627bb.jpg"
+          },
+          {
+            "url": "http://www.historicalportraits.com/ArtWorkImages/364.JPG"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Peter_Angelis_The_vegetable_seller.jpg/475px-Peter_Angelis_The_vegetable_seller.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Peter_Angelis_-_Queen_Anne.jpg/240px-Peter_Angelis_-_Queen_Anne.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Peter_Angelis_-_Sc%C3%A8ne_dans_une_cour_d%27auberge.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

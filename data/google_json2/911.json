@@ -1,0 +1,475 @@
+{
+  "responses": [
+    {
+      "logoAnnotations": [
+        {
+          "description": "Penitent St. Jerome",
+          "score": 0.930176,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 4,
+                "y": 6
+              },
+              {
+                "x": 278,
+                "y": 6
+              },
+              {
+                "x": 278,
+                "y": 389
+              },
+              {
+                "x": 4,
+                "y": 389
+              }
+            ]
+          }
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.90260774
+        },
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.70116806
+        },
+        {
+          "mid": "/m/0djmp",
+          "description": "ancient history",
+          "score": 0.63174725
+        },
+        {
+          "mid": "/m/0lym8",
+          "description": "tapestry",
+          "score": 0.56413513
+        },
+        {
+          "mid": "/m/015r61",
+          "description": "modern art",
+          "score": 0.56115496
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "zh",
+          "description": "裴\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 242,
+                "y": 331
+              },
+              {
+                "x": 254,
+                "y": 331
+              },
+              {
+                "x": 254,
+                "y": 342
+              },
+              {
+                "x": 242,
+                "y": 342
+              }
+            ]
+          }
+        },
+        {
+          "description": "裴",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 244,
+                "y": 343
+              },
+              {
+                "x": 242,
+                "y": 334
+              },
+              {
+                "x": 252,
+                "y": 332
+              },
+              {
+                "x": 254,
+                "y": 341
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "UNLIKELY",
+        "medical": "UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 97,
+                "green": 82,
+                "blue": 63
+              },
+              "score": 0.24790812,
+              "pixelFraction": 0.12761432
+            },
+            {
+              "color": {
+                "red": 53,
+                "green": 53,
+                "blue": 44
+              },
+              "score": 0.1361533,
+              "pixelFraction": 0.08161999
+            },
+            {
+              "color": {
+                "red": 131,
+                "green": 114,
+                "blue": 91
+              },
+              "score": 0.18853538,
+              "pixelFraction": 0.12043601
+            },
+            {
+              "color": {
+                "red": 68,
+                "green": 53,
+                "blue": 37
+              },
+              "score": 0.10723103,
+              "pixelFraction": 0.04608295
+            },
+            {
+              "color": {
+                "red": 18,
+                "green": 8,
+                "blue": 5
+              },
+              "score": 0.06376026,
+              "pixelFraction": 0.04688054
+            },
+            {
+              "color": {
+                "red": 84,
+                "green": 80,
+                "blue": 70
+              },
+              "score": 0.05649708,
+              "pixelFraction": 0.032169443
+            },
+            {
+              "color": {
+                "red": 105,
+                "green": 74,
+                "blue": 56
+              },
+              "score": 0.044963285,
+              "pixelFraction": 0.07736618
+            },
+            {
+              "color": {
+                "red": 168,
+                "green": 147,
+                "blue": 121
+              },
+              "score": 0.044604503,
+              "pixelFraction": 0.030662885
+            },
+            {
+              "color": {
+                "red": 78,
+                "green": 48,
+                "blue": 30
+              },
+              "score": 0.03820137,
+              "pixelFraction": 0.02171216
+            },
+            {
+              "color": {
+                "red": 202,
+                "green": 185,
+                "blue": 163
+              },
+              "score": 0.011667696,
+              "pixelFraction": 0.0069124424
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 291
+                },
+                {
+                  "x": 291,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "zh-Hans"
+                }
+              ]
+            },
+            "width": 292,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "zh-Hans"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 244,
+                      "y": 343
+                    },
+                    {
+                      "x": 242,
+                      "y": 334
+                    },
+                    {
+                      "x": 252,
+                      "y": 332
+                    },
+                    {
+                      "x": 254,
+                      "y": 341
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "zh-Hans"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 242,
+                          "y": 331
+                        },
+                        {
+                          "x": 254,
+                          "y": 331
+                        },
+                        {
+                          "x": 254,
+                          "y": 342
+                        },
+                        {
+                          "x": 242,
+                          "y": 342
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "zh-Hans"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 244,
+                              "y": 343
+                            },
+                            {
+                              "x": 242,
+                              "y": 334
+                            },
+                            {
+                              "x": 252,
+                              "y": 332
+                            },
+                            {
+                              "x": 254,
+                              "y": 341
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "zh-Hans"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 244,
+                                  "y": 343
+                                },
+                                {
+                                  "x": 242,
+                                  "y": 334
+                                },
+                                {
+                                  "x": 252,
+                                  "y": 332
+                                },
+                                {
+                                  "x": 254,
+                                  "y": 341
+                                }
+                              ]
+                            },
+                            "text": "裴"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "裴\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/03ckzkz",
+            "score": 5.8176,
+            "description": "Princeton University Art Museum"
+          },
+          {
+            "entityId": "/m/0ds5zx2",
+            "score": 1.45264,
+            "description": "Diocesan Museum"
+          },
+          {
+            "entityId": "/m/03f_l8",
+            "score": 1.45264,
+            "description": "Kimbell Art Museum"
+          },
+          {
+            "entityId": "/g/11c3tgcs3c",
+            "score": 0.79912,
+            "description": "Penitent St. Jerome"
+          },
+          {
+            "entityId": "/g/11c58l7kch",
+            "score": 0.60468,
+            "description": "The penitent Saint Jerome"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/5b/46/d1/5b46d127cc677e69a8cd5a95537e3af7.jpg"
+          },
+          {
+            "url": "http://2.bp.blogspot.com/-ItxX9Khoc10/VqhtJ0juqtI/AAAAAAAAjGA/CHyqqwAz5m8/s1600/A%2B5.jpg"
+          },
+          {
+            "url": "https://uploads1.wikiart.org/images/fra-angelico/penitent-st-jerome.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/art/a/angelico/13/01jerome.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/7d/a6/3d/7da63d9b29bb6c15113915b79e85ee61.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/4d/ec/75/4dec758d96caf0f4be0e730908166381.jpg"
+          },
+          {
+            "url": "http://2.bp.blogspot.com/-ItxX9Khoc10/VqhtJ0juqtI/AAAAAAAAjGA/CHyqqwAz5m8/s1600/A%2B5.jpg"
+          },
+          {
+            "url": "https://uploads1.wikiart.org/images/fra-angelico/penitent-st-jerome.jpg"
+          },
+          {
+            "url": "https://4.bp.blogspot.com/-TZ1IU7tMi4Q/V-4C48Ht7-I/AAAAAAAANy8/ctyWVt8Zlw8BaQpbAwmqH8ZSnynlO8B3QCLcB/s1600/1424_Fra%2BAngelioc_Penitent%2BSt%2BJerome_c.1424_Princeton_University%2BArt%2BMuseum.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/art/a/angelico/13/01jerome.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://www.wikiart.org/en/fra-angelico"
+          },
+          {
+            "url": "http://www.the-athenaeum.org/art/list.php?m=a&s=tu&aid=3477"
+          },
+          {
+            "url": "https://www.pinterest.com/explore/fra-angelico/"
+          },
+          {
+            "url": "http://artmuseum.princeton.edu/collections/objects/28905"
+          },
+          {
+            "url": "http://www.wga.hu/frames-e.html?/html/a/angelico/13/index.html"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/52/dc/11/52dc11644060dc5d8b5674aba44d4466.jpg"
+          },
+          {
+            "url": "http://1.bp.blogspot.com/-qH7rbhUYGsE/UReGa5__CQI/AAAAAAAAAeQ/L9Hm8nOBf6U/s1600/DT9341.jpg"
+          },
+          {
+            "url": "http://www.metmuseum.org/toah/images/hb/hb_24.22.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/74/26/de/7426ded0d5b36e8ea0ab052f98f3a8c7.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/66/b9/5d/66b95da159b73130827af17bca54059e.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

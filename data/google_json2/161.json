@@ -1,0 +1,449 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.9287395
+        },
+        {
+          "mid": "/m/02ym4x",
+          "description": "impressionist",
+          "score": 0.7763704
+        },
+        {
+          "mid": "/m/015r61",
+          "description": "modern art",
+          "score": 0.65865
+        },
+        {
+          "mid": "/m/04zhd",
+          "description": "mythology",
+          "score": 0.64747596
+        },
+        {
+          "mid": "/m/0djmp",
+          "description": "ancient history",
+          "score": 0.5690161
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "zh",
+          "description": "囟\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 73,
+                "y": 108
+              },
+              {
+                "x": 90,
+                "y": 108
+              },
+              {
+                "x": 90,
+                "y": 122
+              },
+              {
+                "x": 73,
+                "y": 122
+              }
+            ]
+          }
+        },
+        {
+          "description": "囟",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 73,
+                "y": 108
+              },
+              {
+                "x": 90,
+                "y": 108
+              },
+              {
+                "x": 90,
+                "y": 122
+              },
+              {
+                "x": 73,
+                "y": 122
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 125,
+                "green": 116,
+                "blue": 84
+              },
+              "score": 0.22097133,
+              "pixelFraction": 0.106675185
+            },
+            {
+              "color": {
+                "red": 126,
+                "green": 74,
+                "blue": 29
+              },
+              "score": 0.043274604,
+              "pixelFraction": 0.011897158
+            },
+            {
+              "color": {
+                "red": 147,
+                "green": 68,
+                "blue": 5
+              },
+              "score": 0.04157938,
+              "pixelFraction": 0.0027946343
+            },
+            {
+              "color": {
+                "red": 96,
+                "green": 88,
+                "blue": 58
+              },
+              "score": 0.16025496,
+              "pixelFraction": 0.30533376
+            },
+            {
+              "color": {
+                "red": 132,
+                "green": 114,
+                "blue": 67
+              },
+              "score": 0.056904558,
+              "pixelFraction": 0.024433088
+            },
+            {
+              "color": {
+                "red": 169,
+                "green": 152,
+                "blue": 118
+              },
+              "score": 0.04723877,
+              "pixelFraction": 0.010539764
+            },
+            {
+              "color": {
+                "red": 101,
+                "green": 85,
+                "blue": 34
+              },
+              "score": 0.04145459,
+              "pixelFraction": 0.104758866
+            },
+            {
+              "color": {
+                "red": 157,
+                "green": 106,
+                "blue": 61
+              },
+              "score": 0.038261715,
+              "pixelFraction": 0.0034334077
+            },
+            {
+              "color": {
+                "red": 141,
+                "green": 64,
+                "blue": 25
+              },
+              "score": 0.038024154,
+              "pixelFraction": 0.004710955
+            },
+            {
+              "color": {
+                "red": 62,
+                "green": 51,
+                "blue": 25
+              },
+              "score": 0.03696507,
+              "pixelFraction": 0.16248803
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 325
+                },
+                {
+                  "x": 325,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "zh-Hans"
+                }
+              ]
+            },
+            "width": 326,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "zh-Hans"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 73,
+                      "y": 108
+                    },
+                    {
+                      "x": 90,
+                      "y": 108
+                    },
+                    {
+                      "x": 90,
+                      "y": 122
+                    },
+                    {
+                      "x": 73,
+                      "y": 122
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "zh-Hans"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 73,
+                          "y": 108
+                        },
+                        {
+                          "x": 90,
+                          "y": 108
+                        },
+                        {
+                          "x": 90,
+                          "y": 122
+                        },
+                        {
+                          "x": 73,
+                          "y": 122
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "zh-Hans"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 73,
+                              "y": 108
+                            },
+                            {
+                              "x": 90,
+                              "y": 108
+                            },
+                            {
+                              "x": 90,
+                              "y": 122
+                            },
+                            {
+                              "x": 73,
+                              "y": 122
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "zh-Hans"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 73,
+                                  "y": 108
+                                },
+                                {
+                                  "x": 90,
+                                  "y": 108
+                                },
+                                {
+                                  "x": 90,
+                                  "y": 122
+                                },
+                                {
+                                  "x": 73,
+                                  "y": 122
+                                }
+                              ]
+                            },
+                            "text": "囟"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "囟\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0f4s2w",
+            "score": 1.44244,
+            "description": "Vegetable"
+          },
+          {
+            "entityId": "/m/04jpl",
+            "score": 1.39592,
+            "description": "London"
+          },
+          {
+            "entityId": "/m/0fydw",
+            "score": 1.3524,
+            "description": "Antwerp"
+          },
+          {
+            "entityId": "/m/02xwb",
+            "score": 0.61626,
+            "description": "Fruit"
+          },
+          {
+            "entityId": "/g/11g69zfp3s",
+            "score": 0.51656,
+            "description": "An English Family at Tea"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://image.masterart.com/tsmedia/LeSphinxLephoto/LeSphinx382008T141035.jpg?qlt=75&cell=2000,2000&cvt=jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/db/27/20/db272012c41d87e3d77a63fa32f4e90f.jpg"
+          },
+          {
+            "url": "http://asimg.artsolution.net/tsmedia/LeSphinxLephoto/LeSphinx382008T141035.jpg?qlt=75&ftr=8&cell=500,530&cvt=jpeg"
+          },
+          {
+            "url": "http://old.home-edu.ru/file.php/1035/module28/img/14_LeSphinx382008T141035.jpg"
+          },
+          {
+            "url": "http://image.masterart.com/tsmedia/LeSphinxLephoto/LeSphinx382008T141035.jpg?qlt=75&cell=400,400&cvt=jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://image.masterart.com/tsmedia/LeSphinxLephoto/LeSphinx382008T141035.jpg?qlt=75&cell=2000,2000&cvt=jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/db/27/20/db272012c41d87e3d77a63fa32f4e90f.jpg"
+          },
+          {
+            "url": "https://static.wixstatic.com/media/775491_4967539a1be94c6887fbc3c6cc8fbf0c~mv2_d_1226_1500_s_2.jpg/v1/fill/w_500,h_500,al_c,q_90/file.jpg"
+          },
+          {
+            "url": "http://asimg.artsolution.net/tsmedia/LeSphinxLephoto/LeSphinx382008T141035.jpg?qlt=75&ftr=8&cell=500,530&cvt=jpeg"
+          },
+          {
+            "url": "http://old.home-edu.ru/file.php/1035/module28/img/14_LeSphinx382008T141035.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.masterart.com/Joseph-van-Aken-Antwerp-1699-London-1749-Vegetable-Seller-and-his-Son-Offering-Wares-Lady-and-Cleric-Statue-PortalDefault.aspx?tabid=53&dealerID=5086&objectID=131259"
+          },
+          {
+            "url": "http://www.sphinxfineart.com/Aken-Joseph-van-DesktopDefault.aspx?tabid=45&tabindex=44&artistid=32464"
+          },
+          {
+            "url": "http://www.sphinxfineart.com/Joseph-van-Aken-Antwerp-1699-London-1749-Vegetable-Seller-and-his-Son-Offering-Wares-Lady-and-Cleric-Statue-Bacchus-DesktopDefault.aspx?tabid=6&tabindex=5&objectid=131259"
+          },
+          {
+            "url": "http://www.masterart.com/Aken,-van-Joseph-PortalDefault.aspx?tabid=4&keyword=Aken,%20van%20Joseph"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/455989531002181384/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/1_Joseph_van_Aken.jpg/250px-1_Joseph_van_Aken.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/11/28/77/1128779dca9b5d1ca3755f905994b1af.jpg"
+          },
+          {
+            "url": "https://static.artuk.org/w800h800/NTII/NTII_CCS_537806.jpg"
+          },
+          {
+            "url": "https://static.artuk.org/w800h800/ES/ES_TAG_EASTG1554.jpg"
+          },
+          {
+            "url": "https://media.mutualart.com/Images/2015_05/14/16/162616046/7d3186b2-7993-4da1-9f58-a18e62b32703_570.Jpeg"
+          }
+        ]
+      }
+    }
+  ]
+}

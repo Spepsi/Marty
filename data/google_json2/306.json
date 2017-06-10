@@ -1,0 +1,494 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.5790605
+        },
+        {
+          "mid": "/m/04zhd",
+          "description": "mythology",
+          "score": 0.5562424
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "en",
+          "description": "Lib\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 25,
+                "y": 386
+              },
+              {
+                "x": 38,
+                "y": 386
+              },
+              {
+                "x": 38,
+                "y": 393
+              },
+              {
+                "x": 25,
+                "y": 393
+              }
+            ]
+          }
+        },
+        {
+          "description": "Lib",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 39,
+                "y": 393
+              },
+              {
+                "x": 26,
+                "y": 393
+              },
+              {
+                "x": 26,
+                "y": 386
+              },
+              {
+                "x": 39,
+                "y": 386
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "POSSIBLE"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 111,
+                "green": 117,
+                "blue": 141
+              },
+              "score": 0.14472316,
+              "pixelFraction": 0.04222459
+            },
+            {
+              "color": {
+                "red": 25,
+                "green": 21,
+                "blue": 16
+              },
+              "score": 0.11232734,
+              "pixelFraction": 0.41129032
+            },
+            {
+              "color": {
+                "red": 109,
+                "green": 74,
+                "blue": 58
+              },
+              "score": 0.06927675,
+              "pixelFraction": 0.021454656
+            },
+            {
+              "color": {
+                "red": 58,
+                "green": 52,
+                "blue": 46
+              },
+              "score": 0.07903929,
+              "pixelFraction": 0.20830797
+            },
+            {
+              "color": {
+                "red": 85,
+                "green": 82,
+                "blue": 79
+              },
+              "score": 0.07148996,
+              "pixelFraction": 0.0708308
+            },
+            {
+              "color": {
+                "red": 83,
+                "green": 90,
+                "blue": 111
+              },
+              "score": 0.06451966,
+              "pixelFraction": 0.04709373
+            },
+            {
+              "color": {
+                "red": 77,
+                "green": 44,
+                "blue": 31
+              },
+              "score": 0.056904316,
+              "pixelFraction": 0.023584906
+            },
+            {
+              "color": {
+                "red": 65,
+                "green": 50,
+                "blue": 36
+              },
+              "score": 0.049750693,
+              "pixelFraction": 0.026856361
+            },
+            {
+              "color": {
+                "red": 149,
+                "green": 108,
+                "blue": 92
+              },
+              "score": 0.046826243,
+              "pixelFraction": 0.01803104
+            },
+            {
+              "color": {
+                "red": 97,
+                "green": 80,
+                "blue": 63
+              },
+              "score": 0.04166316,
+              "pixelFraction": 0.01590079
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 342
+                },
+                {
+                  "x": 342,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "en"
+                }
+              ]
+            },
+            "width": 343,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "en"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 25,
+                      "y": 386
+                    },
+                    {
+                      "x": 38,
+                      "y": 386
+                    },
+                    {
+                      "x": 38,
+                      "y": 393
+                    },
+                    {
+                      "x": 25,
+                      "y": 393
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "en"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 25,
+                          "y": 386
+                        },
+                        {
+                          "x": 38,
+                          "y": 386
+                        },
+                        {
+                          "x": 38,
+                          "y": 393
+                        },
+                        {
+                          "x": 25,
+                          "y": 393
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 39,
+                              "y": 393
+                            },
+                            {
+                              "x": 26,
+                              "y": 393
+                            },
+                            {
+                              "x": 26,
+                              "y": 386
+                            },
+                            {
+                              "x": 39,
+                              "y": 386
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 39,
+                                  "y": 393
+                                },
+                                {
+                                  "x": 36,
+                                  "y": 393
+                                },
+                                {
+                                  "x": 36,
+                                  "y": 386
+                                },
+                                {
+                                  "x": 39,
+                                  "y": 386
+                                }
+                              ]
+                            },
+                            "text": "L"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 35,
+                                  "y": 393
+                                },
+                                {
+                                  "x": 31,
+                                  "y": 393
+                                },
+                                {
+                                  "x": 31,
+                                  "y": 386
+                                },
+                                {
+                                  "x": 35,
+                                  "y": 386
+                                }
+                              ]
+                            },
+                            "text": "i"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 30,
+                                  "y": 393
+                                },
+                                {
+                                  "x": 26,
+                                  "y": 393
+                                },
+                                {
+                                  "x": 26,
+                                  "y": 386
+                                },
+                                {
+                                  "x": 30,
+                                  "y": 386
+                                }
+                              ]
+                            },
+                            "text": "b"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "Lib\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0cfjp",
+            "score": 11.87584,
+            "description": "Uffizi Gallery"
+          },
+          {
+            "entityId": "/m/0cm7t3r",
+            "score": 1.75384,
+            "description": "Jesus walking on water"
+          },
+          {
+            "entityId": "/m/0838f",
+            "score": 0.62708,
+            "description": "Water"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.46487388,
+            "description": "Painting"
+          },
+          {
+            "entityId": "/m/0jjw",
+            "score": 0.4129,
+            "description": "Art"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://www.artita.ru/dat/a/allori/6.jpg"
+          },
+          {
+            "url": "http://www.handgemalt24.de/media/images/product/popup_eng/St-Peter-Walking-on-the-Water-Alessandro-Allori-30514.jpg?xaf26a=c24a67b424ce0691a2192d90e198e992"
+          },
+          {
+            "url": "http://www.elite-paintings.com/w/10/AbyC/Italy/ALLORI_Alessandro_St_Peter_Walking_On_The_Water_artist_painting_reproduction_handmade_oil_canvas_or_print_art_deco.jpg"
+          },
+          {
+            "url": "http://cfile210.uf.daum.net/image/2558434853F2E5630CB6C8"
+          },
+          {
+            "url": "http://info.catholic.or.kr/archives/upload/images/000942/%EC%95%8C%EB%A0%88%EC%82%B0%EB%93%9C%EB%A1%9C_%EC%95%8C%EB%A1%9C%EB%A6%AC_%EB%AC%BC_%EC%9C%84%EB%A5%BC_%EA%B1%B7%EB%8A%94_%EB%B2%A0%EB%93%9C%EB%A1%9C_2.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://www.artita.ru/dat/a/allori/6.jpg"
+          },
+          {
+            "url": "http://www.handgemalt24.de/media/images/product/popup_eng/St-Peter-Walking-on-the-Water-Alessandro-Allori-30514.jpg?xaf26a=c24a67b424ce0691a2192d90e198e992"
+          },
+          {
+            "url": "http://www.elite-paintings.com/w/10/AbyC/Italy/ALLORI_Alessandro_St_Peter_Walking_On_The_Water_artist_painting_reproduction_handmade_oil_canvas_or_print_art_deco.jpg"
+          },
+          {
+            "url": "http://s017.radikal.ru/i433/1211/45/c2173eae8255.jpg"
+          },
+          {
+            "url": "http://www.sollusdistribuidora.com.br/admin/upload/imgPQ_9788536214115.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://www.zazzle.com/albrecht+altdorfer+postcards"
+          },
+          {
+            "url": "http://artchallenge.ru/gallery/it/100.html"
+          },
+          {
+            "url": "https://www.wikiart.org/en/albrecht-altdorfer/saint-peter"
+          },
+          {
+            "url": "https://www.pinterest.com/patriciarios65/albrecht-altdorfer-1480-1538/"
+          },
+          {
+            "url": "https://www.zazzle.com/albrecht+altdorfer+cards"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://urpaint.com/images/Albrecht-Altdorfer/thumb/Saint-Peter_Albrecht-Altdorfer_Northern-Renaissance_religious-painting_--------.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/77/b2/b4/77b2b4e766bf4461e3a7f2db8c950f02.jpg"
+          },
+          {
+            "url": "http://www.laminas-y-posters.es/media/images/thumb/albrecht-altdorfer-floriansfolge-szenen-zur-legend-00052.jpg"
+          },
+          {
+            "url": "https://www.kunstkopie.de/kunst/albrecht_altdorfer/auferstehung_christi_101932_hi.jpg"
+          },
+          {
+            "url": "http://es.wahooart.com/Art.nsf/O/8YEBC6/$File/Albrecht-Altdorfer-Florian-result-scenes-for-legend-of-St.-Florian-S.JPG"
+          }
+        ]
+      }
+    }
+  ]
+}

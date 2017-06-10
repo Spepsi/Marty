@@ -1,0 +1,157 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.817241
+        },
+        {
+          "mid": "/m/04zhd",
+          "description": "mythology",
+          "score": 0.6465026
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 19,
+                "green": 17,
+                "blue": 19
+              },
+              "score": 0.10973625,
+              "pixelFraction": 0.30645162
+            },
+            {
+              "color": {
+                "red": 61,
+                "green": 49,
+                "blue": 26
+              },
+              "score": 0.08032404,
+              "pixelFraction": 0.08274194
+            },
+            {
+              "color": {
+                "red": 181,
+                "green": 153,
+                "blue": 62
+              },
+              "score": 0.062802866,
+              "pixelFraction": 0.011290323
+            },
+            {
+              "color": {
+                "red": 102,
+                "green": 81,
+                "blue": 29
+              },
+              "score": 0.05272349,
+              "pixelFraction": 0.04314516
+            },
+            {
+              "color": {
+                "red": 209,
+                "green": 186,
+                "blue": 95
+              },
+              "score": 0.05094245,
+              "pixelFraction": 0.0022580645
+            },
+            {
+              "color": {
+                "red": 95,
+                "green": 81,
+                "blue": 53
+              },
+              "score": 0.050264228,
+              "pixelFraction": 0.044516128
+            },
+            {
+              "color": {
+                "red": 44,
+                "green": 51,
+                "blue": 46
+              },
+              "score": 0.04770922,
+              "pixelFraction": 0.10145161
+            },
+            {
+              "color": {
+                "red": 135,
+                "green": 117,
+                "blue": 87
+              },
+              "score": 0.04478142,
+              "pixelFraction": 0.026451614
+            },
+            {
+              "color": {
+                "red": 168,
+                "green": 155,
+                "blue": 121
+              },
+              "score": 0.041069325,
+              "pixelFraction": 0.024354838
+            },
+            {
+              "color": {
+                "red": 173,
+                "green": 152,
+                "blue": 90
+              },
+              "score": 0.03957144,
+              "pixelFraction": 0.0048387097
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 322
+                },
+                {
+                  "y": 322
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/04zhd",
+            "score": 0.9465569,
+            "description": "Mythology"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.88862455,
+            "description": "Painting"
+          }
+        ]
+      }
+    }
+  ]
+}

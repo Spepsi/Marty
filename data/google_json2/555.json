@@ -1,0 +1,568 @@
+{
+  "responses": [
+    {
+      "faceAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 123,
+                "y": 36
+              },
+              {
+                "x": 212,
+                "y": 36
+              },
+              {
+                "x": 212,
+                "y": 139
+              },
+              {
+                "x": 123,
+                "y": 139
+              }
+            ]
+          },
+          "fdBoundingPoly": {
+            "vertices": [
+              {
+                "x": 137,
+                "y": 64
+              },
+              {
+                "x": 203,
+                "y": 64
+              },
+              {
+                "x": 203,
+                "y": 130
+              },
+              {
+                "x": 137,
+                "y": 130
+              }
+            ]
+          },
+          "landmarks": [
+            {
+              "type": "LEFT_EYE",
+              "position": {
+                "x": 172.94228,
+                "y": 78.76198,
+                "z": -0.00014310902
+              }
+            },
+            {
+              "type": "RIGHT_EYE",
+              "position": {
+                "x": 194.92986,
+                "y": 86.177345,
+                "z": 14.217128
+              }
+            },
+            {
+              "type": "LEFT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 165.58472,
+                "y": 70.93239,
+                "z": -1.5230879
+              }
+            },
+            {
+              "type": "RIGHT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 183.00418,
+                "y": 74.63432,
+                "z": 0.41894808
+              }
+            },
+            {
+              "type": "LEFT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 193.55298,
+                "y": 78.03758,
+                "z": 7.2771473
+              }
+            },
+            {
+              "type": "RIGHT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 202.15231,
+                "y": 82.454285,
+                "z": 22.06424
+              }
+            },
+            {
+              "type": "MIDPOINT_BETWEEN_EYES",
+              "position": {
+                "x": 187.37373,
+                "y": 81.82733,
+                "z": 2.60189
+              }
+            },
+            {
+              "type": "NOSE_TIP",
+              "position": {
+                "x": 188.64616,
+                "y": 96.41566,
+                "z": -6.489547
+              }
+            },
+            {
+              "type": "UPPER_LIP",
+              "position": {
+                "x": 183.11371,
+                "y": 106.01197,
+                "z": -2.8255122
+              }
+            },
+            {
+              "type": "LOWER_LIP",
+              "position": {
+                "x": 180.13078,
+                "y": 114.88791,
+                "z": -2.68387
+              }
+            },
+            {
+              "type": "MOUTH_LEFT",
+              "position": {
+                "x": 169.6537,
+                "y": 107.09386,
+                "z": -2.9508722
+              }
+            },
+            {
+              "type": "MOUTH_RIGHT",
+              "position": {
+                "x": 186.85246,
+                "y": 112.623955,
+                "z": 8.130392
+              }
+            },
+            {
+              "type": "MOUTH_CENTER",
+              "position": {
+                "x": 181.07776,
+                "y": 110.17533,
+                "z": -1.8367971
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_RIGHT",
+              "position": {
+                "x": 188.40762,
+                "y": 100.55452,
+                "z": 5.677228
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_LEFT",
+              "position": {
+                "x": 177.2098,
+                "y": 97.134094,
+                "z": -2.0038805
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_CENTER",
+              "position": {
+                "x": 184.43283,
+                "y": 100.64151,
+                "z": -2.0077336
+              }
+            },
+            {
+              "type": "LEFT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 174.57867,
+                "y": 77.3754,
+                "z": -1.0934423
+              }
+            },
+            {
+              "type": "LEFT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 177.52701,
+                "y": 80.81489,
+                "z": 3.0084128
+              }
+            },
+            {
+              "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 172.61478,
+                "y": 81.04433,
+                "z": -0.40759596
+              }
+            },
+            {
+              "type": "LEFT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 167.49358,
+                "y": 77.98604,
+                "z": -0.6518115
+              }
+            },
+            {
+              "type": "LEFT_EYE_PUPIL",
+              "position": {
+                "x": 173.23419,
+                "y": 79.0925,
+                "z": -0.6542551
+              }
+            },
+            {
+              "type": "RIGHT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 196.30963,
+                "y": 84.34218,
+                "z": 13.026903
+              }
+            },
+            {
+              "type": "RIGHT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 197.88069,
+                "y": 87.69883,
+                "z": 19.082767
+              }
+            },
+            {
+              "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 194.68808,
+                "y": 87.90795,
+                "z": 13.744716
+              }
+            },
+            {
+              "type": "RIGHT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 190.49644,
+                "y": 84.98552,
+                "z": 11.457158
+              }
+            },
+            {
+              "type": "RIGHT_EYE_PUPIL",
+              "position": {
+                "x": 195.54402,
+                "y": 86.238174,
+                "z": 13.813697
+              }
+            },
+            {
+              "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 176.00053,
+                "y": 69.5248,
+                "z": -1.5505755
+              }
+            },
+            {
+              "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 199.57024,
+                "y": 77.07869,
+                "z": 13.771075
+              }
+            },
+            {
+              "type": "LEFT_EAR_TRAGION",
+              "position": {
+                "x": 138.50522,
+                "y": 88.36593,
+                "z": 16.618195
+              }
+            },
+            {
+              "type": "RIGHT_EAR_TRAGION",
+              "position": {
+                "x": 187.84964,
+                "y": 104.16017,
+                "z": 48.688755
+              }
+            },
+            {
+              "type": "FOREHEAD_GLABELLA",
+              "position": {
+                "x": 188.91006,
+                "y": 76.010605,
+                "z": 3.056798
+              }
+            },
+            {
+              "type": "CHIN_GNATHION",
+              "position": {
+                "x": 175.74268,
+                "y": 127.09746,
+                "z": -1.5547793
+              }
+            },
+            {
+              "type": "CHIN_LEFT_GONION",
+              "position": {
+                "x": 143.40642,
+                "y": 105.48288,
+                "z": 6.231024
+              }
+            },
+            {
+              "type": "CHIN_RIGHT_GONION",
+              "position": {
+                "x": 187.99979,
+                "y": 119.702194,
+                "z": 35.225372
+              }
+            }
+          ],
+          "rollAngle": 11.872466,
+          "panAngle": 32.248714,
+          "tiltAngle": 9.410374,
+          "detectionConfidence": 0.5946326,
+          "landmarkingConfidence": 0.18536021,
+          "joyLikelihood": "VERY_UNLIKELY",
+          "sorrowLikelihood": "VERY_UNLIKELY",
+          "angerLikelihood": "VERY_UNLIKELY",
+          "surpriseLikelihood": "VERY_UNLIKELY",
+          "underExposedLikelihood": "VERY_UNLIKELY",
+          "blurredLikelihood": "VERY_UNLIKELY",
+          "headwearLikelihood": "VERY_LIKELY"
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/01g317",
+          "description": "person",
+          "score": 0.89672595
+        },
+        {
+          "mid": "/m/01m0lg",
+          "description": "human positions",
+          "score": 0.8145157
+        },
+        {
+          "mid": "/m/04_fs",
+          "description": "muscle",
+          "score": 0.6600268
+        },
+        {
+          "mid": "/m/0dzf4",
+          "description": "arm",
+          "score": 0.6591106
+        },
+        {
+          "mid": "/m/015k7",
+          "description": "gautama buddha",
+          "score": 0.62408096
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 176,
+                "green": 154,
+                "blue": 126
+              },
+              "score": 0.1209788,
+              "pixelFraction": 0.09389401
+            },
+            {
+              "color": {
+                "red": 99,
+                "green": 81,
+                "blue": 60
+              },
+              "score": 0.110848255,
+              "pixelFraction": 0.08508887
+            },
+            {
+              "color": {
+                "red": 212,
+                "green": 190,
+                "blue": 160
+              },
+              "score": 0.10883273,
+              "pixelFraction": 0.07792956
+            },
+            {
+              "color": {
+                "red": 135,
+                "green": 115,
+                "blue": 90
+              },
+              "score": 0.10754968,
+              "pixelFraction": 0.0876399
+            },
+            {
+              "color": {
+                "red": 65,
+                "green": 50,
+                "blue": 32
+              },
+              "score": 0.09400503,
+              "pixelFraction": 0.06048387
+            },
+            {
+              "color": {
+                "red": 59,
+                "green": 50,
+                "blue": 45
+              },
+              "score": 0.08162156,
+              "pixelFraction": 0.079246216
+            },
+            {
+              "color": {
+                "red": 79,
+                "green": 45,
+                "blue": 30
+              },
+              "score": 0.0764185,
+              "pixelFraction": 0.05365372
+            },
+            {
+              "color": {
+                "red": 22,
+                "green": 25,
+                "blue": 19
+              },
+              "score": 0.05856987,
+              "pixelFraction": 0.05867347
+            },
+            {
+              "color": {
+                "red": 106,
+                "green": 70,
+                "blue": 52
+              },
+              "score": 0.04784,
+              "pixelFraction": 0.097432524
+            },
+            {
+              "color": {
+                "red": 85,
+                "green": 80,
+                "blue": 74
+              },
+              "score": 0.043587707,
+              "pixelFraction": 0.051102698
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 314
+                },
+                {
+                  "x": 314,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 1,
+            "importanceFraction": 0.83
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0glsf9l",
+            "score": 6.276,
+            "description": "Last Supper"
+          },
+          {
+            "entityId": "/m/0jnz3",
+            "score": 5.63504,
+            "description": "The Last Supper"
+          },
+          {
+            "entityId": "/m/02vm8gx",
+            "score": 3.81264,
+            "description": "Sant'Apollonia"
+          },
+          {
+            "entityId": "/m/01fs7r",
+            "score": 1.51662,
+            "description": "Andrea del Castagno"
+          },
+          {
+            "entityId": "/m/05r07h",
+            "score": 1.14056,
+            "description": "Cenacle"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://www.eurocles.com/data/peinture/c/castagno/Andrea_del_castagno_Cenacle_de_SantApollonia_Florence_(detail).jpg"
+          },
+          {
+            "url": "http://ftpmirror.your.org/pub/wikimedia/images/wikipedia/fr/1/1b/Andrea_del_castagno_C%C3%A9nacle_de_SantApollonia_Florence_(detail).jpg"
+          },
+          {
+            "url": "http://3.bp.blogspot.com/-uZd3mNJ8oZs/T3VAbhAKwXI/AAAAAAAANd4/cZIw1tnL42w/s1600/Sant%2527Apollonia_11.jpg"
+          },
+          {
+            "url": "http://4.bp.blogspot.com/-sKXU-wg4CHc/UG8D3DnY7XI/AAAAAAAAGtA/ju-zvWv894Q/s1600/IMG_1671.JPG"
+          },
+          {
+            "url": "https://3.bp.blogspot.com/-wdy_6EMGS4E/V5HUQOeCvAI/AAAAAAAASEE/gj9cGjdV61I91BrI2brrKy9i477WC00hQCLcB/s1600/JNC.%2BFlorencia.%2B25-05-16.%2BCen%25C3%25A1colo%2Bde%2BSanta%2BApolonia%2B%252846%2529.JPG"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://fr.wikipedia.org/wiki/Andrea_del_Castagno"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Andrea_del_castagno_C%C3%A9nacle_de_SantApollonia_Florence_(detail).jpg"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/3237030954453268/"
+          },
+          {
+            "url": "https://www.magnoliabox.com/search?q=tag%3Aartist+andrea_del_castagno"
+          },
+          {
+            "url": "https://www.magnoliabox.com/search?q=Andrea+del+Castagno&type=product"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://media.gettyimages.com/illustrations/apostle-thomas-detail-from-the-last-supper-by-andrea-del-castagno-illustration-id159621964?s=170667a"
+          },
+          {
+            "url": "http://media.gettyimages.com/illustrations/bartholomew-with-clasped-hands-detail-from-the-last-supper-by-andrea-illustration-id159621960?s=170667a"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Andrea_del_castagno%2C_cenacolo_di_sant%27apollonia%2C_1447%2C_14.JPG"
+          },
+          {
+            "url": "https://i.ytimg.com/vi/w72MF2-l5hQ/maxresdefault.jpg"
+          },
+          {
+            "url": "http://www.travelingintuscany.com/images/art/andreadelcastagno/lastsupper4700.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

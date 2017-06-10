@@ -1,0 +1,524 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0hyb2",
+          "description": "altar",
+          "score": 0.790876
+        },
+        {
+          "mid": "/m/06z37_",
+          "description": "picture frame",
+          "score": 0.5666057
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "sw",
+          "description": "MITI\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 150,
+                "y": 84
+              },
+              {
+                "x": 176,
+                "y": 84
+              },
+              {
+                "x": 176,
+                "y": 90
+              },
+              {
+                "x": 150,
+                "y": 90
+              }
+            ]
+          }
+        },
+        {
+          "description": "MITI",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 177,
+                "y": 90
+              },
+              {
+                "x": 151,
+                "y": 90
+              },
+              {
+                "x": 151,
+                "y": 84
+              },
+              {
+                "x": 177,
+                "y": 84
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 200,
+                "green": 143,
+                "blue": 94
+              },
+              "score": 0.086936176,
+              "pixelFraction": 0.02016129
+            },
+            {
+              "color": {
+                "red": 178,
+                "green": 149,
+                "blue": 114
+              },
+              "score": 0.060754605,
+              "pixelFraction": 0.10887097
+            },
+            {
+              "color": {
+                "red": 120,
+                "green": 75,
+                "blue": 55
+              },
+              "score": 0.058103718,
+              "pixelFraction": 0.06829637
+            },
+            {
+              "color": {
+                "red": 50,
+                "green": 19,
+                "blue": 6
+              },
+              "score": 0.047188953,
+              "pixelFraction": 0.03238407
+            },
+            {
+              "color": {
+                "red": 161,
+                "green": 105,
+                "blue": 61
+              },
+              "score": 0.07750804,
+              "pixelFraction": 0.023689516
+            },
+            {
+              "color": {
+                "red": 181,
+                "green": 150,
+                "blue": 103
+              },
+              "score": 0.056461357,
+              "pixelFraction": 0.050403226
+            },
+            {
+              "color": {
+                "red": 178,
+                "green": 95,
+                "blue": 62
+              },
+              "score": 0.049401034,
+              "pixelFraction": 0.009954637
+            },
+            {
+              "color": {
+                "red": 151,
+                "green": 66,
+                "blue": 59
+              },
+              "score": 0.04734998,
+              "pixelFraction": 0.013104838
+            },
+            {
+              "color": {
+                "red": 77,
+                "green": 39,
+                "blue": 23
+              },
+              "score": 0.04536161,
+              "pixelFraction": 0.055695564
+            },
+            {
+              "color": {
+                "red": 127,
+                "green": 78,
+                "blue": 38
+              },
+              "score": 0.04509371,
+              "pixelFraction": 0.018397177
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 207
+                },
+                {
+                  "x": 207,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "sw"
+                }
+              ]
+            },
+            "width": 208,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "sw"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 150,
+                      "y": 84
+                    },
+                    {
+                      "x": 176,
+                      "y": 84
+                    },
+                    {
+                      "x": 176,
+                      "y": 90
+                    },
+                    {
+                      "x": 150,
+                      "y": 90
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "sw"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 150,
+                          "y": 84
+                        },
+                        {
+                          "x": 176,
+                          "y": 84
+                        },
+                        {
+                          "x": 176,
+                          "y": 90
+                        },
+                        {
+                          "x": 150,
+                          "y": 90
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "sw"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 177,
+                              "y": 90
+                            },
+                            {
+                              "x": 151,
+                              "y": 90
+                            },
+                            {
+                              "x": 151,
+                              "y": 84
+                            },
+                            {
+                              "x": 177,
+                              "y": 84
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "sw"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 177,
+                                  "y": 90
+                                },
+                                {
+                                  "x": 167,
+                                  "y": 90
+                                },
+                                {
+                                  "x": 167,
+                                  "y": 84
+                                },
+                                {
+                                  "x": 177,
+                                  "y": 84
+                                }
+                              ]
+                            },
+                            "text": "M"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "sw"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 166,
+                                  "y": 90
+                                },
+                                {
+                                  "x": 163,
+                                  "y": 90
+                                },
+                                {
+                                  "x": 163,
+                                  "y": 84
+                                },
+                                {
+                                  "x": 166,
+                                  "y": 84
+                                }
+                              ]
+                            },
+                            "text": "I"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "sw"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 163,
+                                  "y": 90
+                                },
+                                {
+                                  "x": 158,
+                                  "y": 90
+                                },
+                                {
+                                  "x": 158,
+                                  "y": 84
+                                },
+                                {
+                                  "x": 163,
+                                  "y": 84
+                                }
+                              ]
+                            },
+                            "text": "T"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "sw"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 157,
+                                  "y": 90
+                                },
+                                {
+                                  "x": 151,
+                                  "y": 90
+                                },
+                                {
+                                  "x": 151,
+                                  "y": 84
+                                },
+                                {
+                                  "x": 157,
+                                  "y": 84
+                                }
+                              ]
+                            },
+                            "text": "I"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "MITI\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0272rmj",
+            "score": 6.11824,
+            "description": "San Marco, Florence"
+          },
+          {
+            "entityId": "/m/0gvvtz7",
+            "score": 3.84368,
+            "description": "Tabernacle of the Linaioli"
+          },
+          {
+            "entityId": "/m/0l814",
+            "score": 0.63168,
+            "description": "Tabernacle"
+          },
+          {
+            "entityId": "/m/06cvx",
+            "score": 0.60778,
+            "description": "Renaissance"
+          },
+          {
+            "entityId": "/m/06f6d6",
+            "score": 0.35138,
+            "description": "Church tabernacle"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/02/70/fe/0270fe3ad9a800bd7a8e85ecd6e83b2b.jpg"
+          },
+          {
+            "url": "http://cfile210.uf.daum.net/R400x0/12629F164B42E7F01B7915"
+          },
+          {
+            "url": "http://pt.wahooart.com/Art.nsf/O/8YDDSH/$File/Fra-Angelico-Linaioli-Tabernacle-shutters-closed-.JPG"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/30/c7/f6/30c7f66f041027ed8bd270821244c6b4.jpg"
+          },
+          {
+            "url": "http://livedoor.blogimg.jp/moomintroll2/imgs/0/b/0b3364fd.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://www.c-rover.narod.ru/ang/pict/angelico0240.jpg"
+          },
+          {
+            "url": "http://www.sakkos.ru/images/photo/terms-khram/big/darokhran/darokhran-005-01.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/41/33/a5/4133a5a77f58d9e0c6053fd897caf25d.jpg"
+          },
+          {
+            "url": "http://www.travelingintuscany.com/images/art/fraangelico/linaioli/linaioli700.jpg"
+          },
+          {
+            "url": "https://4.bp.blogspot.com/-6f8lyw-esTs/Vu4wGhVtvvI/AAAAAAAB1FI/fxBxjwsjrhYOP6nA8my02ddgwYU5xoxCg/s1600/5%2Btabernacolo%2Bdei%2Blinaioli%2Bchiuso%2BSan%2BMarco%2Be%2BSan%2BPietro%2Bfra%2Bangelico.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.travelingintuscany.com/art/fraangelico/tabernacolodeilinaioli.htm"
+          },
+          {
+            "url": "http://www.wga.hu/html_m/a/angelico/02/"
+          },
+          {
+            "url": "http://www.wga.hu/frames-e.html?/html/a/angelico/02/index.html"
+          },
+          {
+            "url": "https://www.wikiart.org/en/fra-angelico/linaioli-tabernacle"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/86764730301857370/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/34/c1/e9/34c1e9d28796753febea82e8982756fc.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/b2/9d/00/b29d00e5564a5620b8e4466455b3feec.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Fra_Angelico_Tabernacolo_dei_Linaioli_San_Marco_Florenz-1.jpg"
+          },
+          {
+            "url": "https://3.bp.blogspot.com/-5Fb3Y642WxU/Vx9gcx5mpWI/AAAAAAAAHhA/ZoxQeNuF1qsDjaneEStsVAv0K_w3YEy3wCKgB/s1600/IMG_1243.jpg"
+          },
+          {
+            "url": "https://theframeblog.files.wordpress.com/2015/11/fig-h-fra-angelico-tabernacle-of-the-linaiuoli-shutters-closed-2.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

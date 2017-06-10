@@ -1,0 +1,448 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/019sc6",
+          "description": "lighting",
+          "score": 0.6850076
+        },
+        {
+          "mid": "/m/08jpwt",
+          "description": "light fixture",
+          "score": 0.64078695
+        },
+        {
+          "mid": "/m/0c_jw",
+          "description": "furniture",
+          "score": 0.60275227
+        },
+        {
+          "mid": "/m/02ws6z",
+          "description": "chandelier",
+          "score": 0.5612742
+        },
+        {
+          "mid": "/m/03gfsp",
+          "description": "ceiling",
+          "score": 0.52255464
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "en",
+          "description": "d\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 188,
+                "y": 52
+              },
+              {
+                "x": 205,
+                "y": 52
+              },
+              {
+                "x": 205,
+                "y": 70
+              },
+              {
+                "x": 188,
+                "y": 70
+              }
+            ]
+          }
+        },
+        {
+          "description": "d",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 188,
+                "y": 53
+              },
+              {
+                "x": 204,
+                "y": 52
+              },
+              {
+                "x": 205,
+                "y": 69
+              },
+              {
+                "x": 189,
+                "y": 70
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 97,
+                "green": 85,
+                "blue": 62
+              },
+              "score": 0.22820361,
+              "pixelFraction": 0.10297767
+            },
+            {
+              "color": {
+                "red": 210,
+                "green": 193,
+                "blue": 168
+              },
+              "score": 0.13663658,
+              "pixelFraction": 0.015260546
+            },
+            {
+              "color": {
+                "red": 142,
+                "green": 102,
+                "blue": 65
+              },
+              "score": 0.008464471,
+              "pixelFraction": 0.0013647643
+            },
+            {
+              "color": {
+                "red": 124,
+                "green": 112,
+                "blue": 88
+              },
+              "score": 0.19022939,
+              "pixelFraction": 0.06972705
+            },
+            {
+              "color": {
+                "red": 170,
+                "green": 153,
+                "blue": 131
+              },
+              "score": 0.095997326,
+              "pixelFraction": 0.029404467
+            },
+            {
+              "color": {
+                "red": 159,
+                "green": 155,
+                "blue": 149
+              },
+              "score": 0.05366676,
+              "pixelFraction": 0.15086849
+            },
+            {
+              "color": {
+                "red": 68,
+                "green": 57,
+                "blue": 37
+              },
+              "score": 0.05145483,
+              "pixelFraction": 0.05248139
+            },
+            {
+              "color": {
+                "red": 122,
+                "green": 115,
+                "blue": 107
+              },
+              "score": 0.045528274,
+              "pixelFraction": 0.2016129
+            },
+            {
+              "color": {
+                "red": 96,
+                "green": 89,
+                "blue": 82
+              },
+              "score": 0.041924775,
+              "pixelFraction": 0.14677419
+            },
+            {
+              "color": {
+                "red": 238,
+                "green": 219,
+                "blue": 193
+              },
+              "score": 0.040416572,
+              "pixelFraction": 0.004466501
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 208
+                },
+                {
+                  "y": 208
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "en"
+                }
+              ]
+            },
+            "width": 400,
+            "height": 209,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "en"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 188,
+                      "y": 53
+                    },
+                    {
+                      "x": 204,
+                      "y": 52
+                    },
+                    {
+                      "x": 205,
+                      "y": 69
+                    },
+                    {
+                      "x": 189,
+                      "y": 70
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "en"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 188,
+                          "y": 52
+                        },
+                        {
+                          "x": 205,
+                          "y": 52
+                        },
+                        {
+                          "x": 205,
+                          "y": 70
+                        },
+                        {
+                          "x": 188,
+                          "y": 70
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 188,
+                              "y": 53
+                            },
+                            {
+                              "x": 204,
+                              "y": 52
+                            },
+                            {
+                              "x": 205,
+                              "y": 69
+                            },
+                            {
+                              "x": 189,
+                              "y": 70
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 188,
+                                  "y": 53
+                                },
+                                {
+                                  "x": 204,
+                                  "y": 52
+                                },
+                                {
+                                  "x": 205,
+                                  "y": 69
+                                },
+                                {
+                                  "x": 189,
+                                  "y": 70
+                                }
+                              ]
+                            },
+                            "text": "d"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "d\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/036_2f",
+            "score": 11.95488,
+            "description": "Galleria Borghese"
+          },
+          {
+            "entityId": "/m/0_qkss3",
+            "score": 9.27184,
+            "description": "Villa Albani"
+          },
+          {
+            "entityId": "/g/11bym_yq6h",
+            "score": 3.52132
+          },
+          {
+            "entityId": "/g/1ynnq466k",
+            "score": 1.50224,
+            "description": "Albani Hotel Roma"
+          },
+          {
+            "entityId": "/g/11bw1gq4xx",
+            "score": 1.49436,
+            "description": "Giustiniani Odescalchi Palace"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://3.bp.blogspot.com/-ME8ojDLrZsA/VTSzadMVkUI/AAAAAAAAcc4/A4AkMCzK1b0/s1600/1%2Balbani%2B%2B%2B%2BCeiling%2Bvault%2Bof%2Bpiano%2Bnobile%2Bloggia%2BPalazzo%2BVerospi%2C%2BRome%2B%2Bfresco.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/5e/54/83/5e5483a37a8ae2b2b8a25399acc798bf.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/art/a/albani/1/5verospi.jpg"
+          },
+          {
+            "url": "http://pic.qyer.com/album/user/2178/92/Q0hSShMFZ0k/index/680x"
+          },
+          {
+            "url": "http://www.wga.hu/detail_s/a/albani/1/5verospi.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://3.bp.blogspot.com/-ME8ojDLrZsA/VTSzadMVkUI/AAAAAAAAcc4/A4AkMCzK1b0/s1600/1%2Balbani%2B%2B%2B%2BCeiling%2Bvault%2Bof%2Bpiano%2Bnobile%2Bloggia%2BPalazzo%2BVerospi%2C%2BRome%2B%2Bfresco.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/5e/54/83/5e5483a37a8ae2b2b8a25399acc798bf.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/art/a/albani/1/5verospi.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/detail_s/a/albani/1/5verospi.jpg"
+          },
+          {
+            "url": "http://shows.we-envision.com/aa/2big/ALBANI,%20Francesco/b464121.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.wga.hu/html_m/a/albani/1/5verospi.html"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/140526450843581641/"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/546694842247622138/"
+          },
+          {
+            "url": "http://viticodevagamundo.blogspot.com/2015/04/"
+          },
+          {
+            "url": "http://viticodevagamundo.blogspot.sg/2015_04_01_archive.html"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://3.bp.blogspot.com/-ME8ojDLrZsA/VTSzadMVkUI/AAAAAAAAcc4/A4AkMCzK1b0/s1600/1%2Balbani%2B%2B%2B%2BCeiling%2Bvault%2Bof%2Bpiano%2Bnobile%2Bloggia%2BPalazzo%2BVerospi%2C%2BRome%2B%2Bfresco.jpg"
+          },
+          {
+            "url": "http://fa0.thorvaldsensmuseum.dk/assets/30690/large/Francesco_Albani_Fresker_p_loftet_i_loggiaen_i_Palazzo_Verospi_Rom_1617.jpg"
+          },
+          {
+            "url": "http://www.the-athenaeum.org/art/display_image.php?id=464120"
+          },
+          {
+            "url": "https://www.artexpertswebsite.com/pages/artists/artists_a-k/albani/Albani_Spring.jpg"
+          },
+          {
+            "url": "https://www.artexpertswebsite.com/pages/artists/artists_a-k/albani/Albani_Winter.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

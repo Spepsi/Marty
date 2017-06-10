@@ -1,0 +1,227 @@
+{
+  "responses": [
+    {
+      "logoAnnotations": [
+        {
+          "description": "The Last Supper",
+          "score": 0.43895954,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 49,
+                "y": 41
+              },
+              {
+                "x": 239,
+                "y": 41
+              },
+              {
+                "x": 239,
+                "y": 377
+              },
+              {
+                "x": 49,
+                "y": 377
+              }
+            ]
+          }
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/09qqq",
+          "description": "wall",
+          "score": 0.77976197
+        },
+        {
+          "mid": "/m/01__sk",
+          "description": "brickwork",
+          "score": 0.7658049
+        },
+        {
+          "mid": "/m/083vt",
+          "description": "wood",
+          "score": 0.73159885
+        },
+        {
+          "mid": "/m/020g49",
+          "description": "hardwood",
+          "score": 0.73136896
+        },
+        {
+          "mid": "/m/0l7_8",
+          "description": "floor",
+          "score": 0.7163656
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 206,
+                "green": 192,
+                "blue": 165
+              },
+              "score": 0.16000783,
+              "pixelFraction": 0.10209834
+            },
+            {
+              "color": {
+                "red": 49,
+                "green": 55,
+                "blue": 56
+              },
+              "score": 0.13521245,
+              "pixelFraction": 0.08510805
+            },
+            {
+              "color": {
+                "red": 175,
+                "green": 114,
+                "blue": 35
+              },
+              "score": 0.005077953,
+              "pixelFraction": 0.010804886
+            },
+            {
+              "color": {
+                "red": 169,
+                "green": 154,
+                "blue": 128
+              },
+              "score": 0.12742639,
+              "pixelFraction": 0.08166301
+            },
+            {
+              "color": {
+                "red": 134,
+                "green": 118,
+                "blue": 93
+              },
+              "score": 0.12267984,
+              "pixelFraction": 0.07680865
+            },
+            {
+              "color": {
+                "red": 96,
+                "green": 83,
+                "blue": 60
+              },
+              "score": 0.078390546,
+              "pixelFraction": 0.039774507
+            },
+            {
+              "color": {
+                "red": 62,
+                "green": 51,
+                "blue": 30
+              },
+              "score": 0.06306342,
+              "pixelFraction": 0.026620733
+            },
+            {
+              "color": {
+                "red": 238,
+                "green": 225,
+                "blue": 198
+              },
+              "score": 0.053499855,
+              "pixelFraction": 0.031866584
+            },
+            {
+              "color": {
+                "red": 78,
+                "green": 81,
+                "blue": 78
+              },
+              "score": 0.051922154,
+              "pixelFraction": 0.03343251
+            },
+            {
+              "color": {
+                "red": 26,
+                "green": 26,
+                "blue": 18
+              },
+              "score": 0.027896032,
+              "pixelFraction": 0.017773254
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 330
+                },
+                {
+                  "x": 330,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0jnz3",
+            "score": 5.972,
+            "description": "The Last Supper"
+          },
+          {
+            "entityId": "/m/031y2",
+            "score": 1.33676,
+            "description": "Florence"
+          },
+          {
+            "entityId": "/m/0d4v4",
+            "score": 0.7381802,
+            "description": "Window"
+          },
+          {
+            "entityId": "/m/02_3k",
+            "score": 0.70423,
+            "description": "Fresco"
+          },
+          {
+            "entityId": "/m/08b1m",
+            "score": 0.66508,
+            "description": "15th century"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://media.gettyimages.com/photos/matthew-philip-thomas-and-sphinx-detail-from-the-last-supper-by-del-picture-id159621965?s=612x612"
+          },
+          {
+            "url": "http://media.gettyimages.com/photos/matthew-philip-thomas-and-sphinx-detail-from-the-last-supper-by-del-picture-id159621965?s=170667a"
+          },
+          {
+            "url": "https://yooniqimages.blob.core.windows.net/yooniqimages-data-storage-resizedimagefilerepository/List/10060/4c2655f7-a765-4067-9aad-b9215ce64ad8/YooniqImages_100601447.jpg"
+          },
+          {
+            "url": "https://pbs.twimg.com/media/CkcTRk1UgAAqhIw.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

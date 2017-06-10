@@ -1,0 +1,686 @@
+{
+  "responses": [
+    {
+      "logoAnnotations": [
+        {
+          "mid": "/m/0bx9g44",
+          "description": "Winter",
+          "score": 0.9367642,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 19,
+                "y": 13
+              },
+              {
+                "x": 315,
+                "y": 13
+              },
+              {
+                "x": 315,
+                "y": 381
+              },
+              {
+                "x": 19,
+                "y": 381
+              }
+            ]
+          }
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.8523042
+        },
+        {
+          "mid": "/m/07j7r",
+          "description": "tree",
+          "score": 0.83035874
+        },
+        {
+          "mid": "/m/05s2s",
+          "description": "plant",
+          "score": 0.77311635
+        },
+        {
+          "mid": "/m/01spzs",
+          "description": "still life",
+          "score": 0.7719769
+        },
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.6995571
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "zh-Hant",
+          "description": "tee\n殯\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 256,
+                "y": 23
+              },
+              {
+                "x": 290,
+                "y": 23
+              },
+              {
+                "x": 290,
+                "y": 206
+              },
+              {
+                "x": 256,
+                "y": 206
+              }
+            ]
+          }
+        },
+        {
+          "description": "tee",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 267,
+                "y": 198
+              },
+              {
+                "x": 289,
+                "y": 196
+              },
+              {
+                "x": 290,
+                "y": 204
+              },
+              {
+                "x": 268,
+                "y": 206
+              }
+            ]
+          }
+        },
+        {
+          "description": "殯",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 256,
+                "y": 37
+              },
+              {
+                "x": 256,
+                "y": 23
+              },
+              {
+                "x": 270,
+                "y": 23
+              },
+              {
+                "x": 270,
+                "y": 37
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 139,
+                "green": 114,
+                "blue": 85
+              },
+              "score": 0.23594365,
+              "pixelFraction": 0.048621986
+            },
+            {
+              "color": {
+                "red": 12,
+                "green": 9,
+                "blue": 13
+              },
+              "score": 0.060760833,
+              "pixelFraction": 0.40667084
+            },
+            {
+              "color": {
+                "red": 104,
+                "green": 82,
+                "blue": 58
+              },
+              "score": 0.1815743,
+              "pixelFraction": 0.06154087
+            },
+            {
+              "color": {
+                "red": 111,
+                "green": 78,
+                "blue": 55
+              },
+              "score": 0.07111387,
+              "pixelFraction": 0.0357814
+            },
+            {
+              "color": {
+                "red": 70,
+                "green": 51,
+                "blue": 31
+              },
+              "score": 0.070897184,
+              "pixelFraction": 0.060366426
+            },
+            {
+              "color": {
+                "red": 171,
+                "green": 146,
+                "blue": 115
+              },
+              "score": 0.07000655,
+              "pixelFraction": 0.01573755
+            },
+            {
+              "color": {
+                "red": 142,
+                "green": 116,
+                "blue": 73
+              },
+              "score": 0.04863244,
+              "pixelFraction": 0.016129032
+            },
+            {
+              "color": {
+                "red": 141,
+                "green": 107,
+                "blue": 83
+              },
+              "score": 0.042659562,
+              "pixelFraction": 0.012214218
+            },
+            {
+              "color": {
+                "red": 77,
+                "green": 48,
+                "blue": 30
+              },
+              "score": 0.03107233,
+              "pixelFraction": 0.023488881
+            },
+            {
+              "color": {
+                "red": 179,
+                "green": 151,
+                "blue": 99
+              },
+              "score": 0.025251053,
+              "pixelFraction": 0.012135922
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 331
+                },
+                {
+                  "x": 331,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "zh-Hant"
+                }
+              ]
+            },
+            "width": 332,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "en"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 267,
+                      "y": 198
+                    },
+                    {
+                      "x": 289,
+                      "y": 196
+                    },
+                    {
+                      "x": 290,
+                      "y": 204
+                    },
+                    {
+                      "x": 268,
+                      "y": 206
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "en"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 267,
+                          "y": 196
+                        },
+                        {
+                          "x": 290,
+                          "y": 196
+                        },
+                        {
+                          "x": 290,
+                          "y": 206
+                        },
+                        {
+                          "x": 267,
+                          "y": 206
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 267,
+                              "y": 198
+                            },
+                            {
+                              "x": 289,
+                              "y": 196
+                            },
+                            {
+                              "x": 290,
+                              "y": 204
+                            },
+                            {
+                              "x": 268,
+                              "y": 206
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "zh-Hant"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 267,
+                                  "y": 198
+                                },
+                                {
+                                  "x": 274,
+                                  "y": 197
+                                },
+                                {
+                                  "x": 275,
+                                  "y": 205
+                                },
+                                {
+                                  "x": 268,
+                                  "y": 206
+                                }
+                              ]
+                            },
+                            "text": "t"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "zh-Hant"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 276,
+                                  "y": 197
+                                },
+                                {
+                                  "x": 283,
+                                  "y": 196
+                                },
+                                {
+                                  "x": 284,
+                                  "y": 204
+                                },
+                                {
+                                  "x": 277,
+                                  "y": 205
+                                }
+                              ]
+                            },
+                            "text": "e"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "zh-Hant"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 285,
+                                  "y": 198
+                                },
+                                {
+                                  "x": 289,
+                                  "y": 198
+                                },
+                                {
+                                  "x": 290,
+                                  "y": 204
+                                },
+                                {
+                                  "x": 286,
+                                  "y": 204
+                                }
+                              ]
+                            },
+                            "text": "e"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              },
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "zh-Hant"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 256,
+                      "y": 23
+                    },
+                    {
+                      "x": 270,
+                      "y": 23
+                    },
+                    {
+                      "x": 270,
+                      "y": 37
+                    },
+                    {
+                      "x": 256,
+                      "y": 37
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "zh-Hant"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 256,
+                          "y": 23
+                        },
+                        {
+                          "x": 270,
+                          "y": 23
+                        },
+                        {
+                          "x": 270,
+                          "y": 37
+                        },
+                        {
+                          "x": 256,
+                          "y": 37
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "zh-Hant"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 256,
+                              "y": 37
+                            },
+                            {
+                              "x": 256,
+                              "y": 23
+                            },
+                            {
+                              "x": 270,
+                              "y": 23
+                            },
+                            {
+                              "x": 270,
+                              "y": 37
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "zh-Hant"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 256,
+                                  "y": 37
+                                },
+                                {
+                                  "x": 256,
+                                  "y": 23
+                                },
+                                {
+                                  "x": 270,
+                                  "y": 23
+                                },
+                                {
+                                  "x": 270,
+                                  "y": 37
+                                }
+                              ]
+                            },
+                            "text": "殯"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "tee\n殯\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/04gdr",
+            "score": 3.02776,
+            "description": "The Louvre"
+          },
+          {
+            "entityId": "/m/0bx9g44",
+            "score": 1.22608,
+            "description": "Winter"
+          },
+          {
+            "entityId": "/m/086mh",
+            "score": 0.70164,
+            "description": "Winter"
+          },
+          {
+            "entityId": "/m/01spzs",
+            "score": 0.5217226,
+            "description": "Still life"
+          },
+          {
+            "entityId": "/m/0754v",
+            "score": 0.41083,
+            "description": "Season"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://phototour.pro/content/gallery/photo_196.jpg"
+          },
+          {
+            "url": "https://historiadelarte2ffha.files.wordpress.com/2016/04/2seaso4.jpg"
+          },
+          {
+            "url": "https://3.bp.blogspot.com/-_jxIZbU5tDg/VsTXseYLADI/AAAAAAAADVs/AQtds5-qksU/s1600/Giuseppe_Arcimboldo_-_Winter_-_WGA00813.jpg"
+          },
+          {
+            "url": "https://eclecticlightdotcom.files.wordpress.com/2016/04/arcimboldowinter.jpg"
+          },
+          {
+            "url": "http://i.imgur.com/Nl68Khj.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://www.pageduke.com/wp-content/uploads/2017/01/season002-1.jpg"
+          },
+          {
+            "url": "http://resources.mynewsdesk.com/image/upload/t_open_graph_image/n5bitg7gtohhme2ipwvm.jpg"
+          },
+          {
+            "url": "http://www.mangeurs-libres.fr/upload/41/PAGE_Bibliotheque_epicurienne/ARCIMBOLDO%20-%20Lhiver.jpg"
+          },
+          {
+            "url": "http://www.panoramadelart.com/sites/default/files/styles/grand/public/F193-a-arcimboldo-hiver.jpg?itok=huFEtB25"
+          },
+          {
+            "url": "https://i2.wp.com/sobiocoop.files.wordpress.com/2017/01/hiver.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Giuseppe_Arcimboldo_-_Winter,_1573.jpg"
+          },
+          {
+            "url": "http://www.giuseppe-arcimboldo.org/The-Winter-4.html"
+          },
+          {
+            "url": "http://www.the-athenaeum.org/art/list.php?m=a&s=tu&aid=4085"
+          },
+          {
+            "url": "http://www.giuseppe-arcimboldo.org/home-1-96-1-0.html"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/320459329709605715/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Giuseppe_Arcimboldo_-_Winter_-_WGA00813.jpg/250px-Giuseppe_Arcimboldo_-_Winter_-_WGA00813.jpg"
+          },
+          {
+            "url": "https://www.art-prints-on-demand.com/kunst/giuseppe_arcimboldo/winter_agn69009_hi.jpg"
+          },
+          {
+            "url": "https://uploads5.wikiart.org/images/giuseppe-arcimboldo/summer.jpg"
+          },
+          {
+            "url": "https://www.kinderart.com/drawing/archim_springmed.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/d1/70/62/d17062730d0103f7cade8ca46b383495.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

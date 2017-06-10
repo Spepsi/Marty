@@ -1,0 +1,465 @@
+{
+  "responses": [
+    {
+      "logoAnnotations": [
+        {
+          "description": "Disputation on the Trinity",
+          "score": 0.9491265,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 4,
+                "y": 8
+              },
+              {
+                "x": 324,
+                "y": 8
+              },
+              {
+                "x": 324,
+                "y": 393
+              },
+              {
+                "x": 4,
+                "y": 393
+              }
+            ]
+          }
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.76572675
+        },
+        {
+          "mid": "/m/0557q",
+          "description": "musical theatre",
+          "score": 0.6122113
+        },
+        {
+          "mid": "/m/04zhd",
+          "description": "mythology",
+          "score": 0.5445653
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "zh",
+          "description": "惟\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 260,
+                "y": 94
+              },
+              {
+                "x": 276,
+                "y": 94
+              },
+              {
+                "x": 276,
+                "y": 116
+              },
+              {
+                "x": 260,
+                "y": 116
+              }
+            ]
+          }
+        },
+        {
+          "description": "惟",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 261,
+                "y": 117
+              },
+              {
+                "x": 260,
+                "y": 96
+              },
+              {
+                "x": 275,
+                "y": 95
+              },
+              {
+                "x": 276,
+                "y": 116
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 22,
+                "green": 13,
+                "blue": 13
+              },
+              "score": 0.12603253,
+              "pixelFraction": 0.25078297
+            },
+            {
+              "color": {
+                "red": 74,
+                "green": 38,
+                "blue": 24
+              },
+              "score": 0.099944815,
+              "pixelFraction": 0.04455058
+            },
+            {
+              "color": {
+                "red": 214,
+                "green": 194,
+                "blue": 159
+              },
+              "score": 0.04659889,
+              "pixelFraction": 0.01722518
+            },
+            {
+              "color": {
+                "red": 180,
+                "green": 89,
+                "blue": 60
+              },
+              "score": 0.019830722,
+              "pixelFraction": 0.0059505166
+            },
+            {
+              "color": {
+                "red": 196,
+                "green": 71,
+                "blue": 40
+              },
+              "score": 0.010544801,
+              "pixelFraction": 0.0010961478
+            },
+            {
+              "color": {
+                "red": 45,
+                "green": 17,
+                "blue": 20
+              },
+              "score": 0.09039229,
+              "pixelFraction": 0.034606952
+            },
+            {
+              "color": {
+                "red": 58,
+                "green": 47,
+                "blue": 45
+              },
+              "score": 0.064887494,
+              "pixelFraction": 0.15424366
+            },
+            {
+              "color": {
+                "red": 113,
+                "green": 73,
+                "blue": 53
+              },
+              "score": 0.045192156,
+              "pixelFraction": 0.03405888
+            },
+            {
+              "color": {
+                "red": 53,
+                "green": 20,
+                "blue": 11
+              },
+              "score": 0.043177135,
+              "pixelFraction": 0.01910429
+            },
+            {
+              "color": {
+                "red": 66,
+                "green": 49,
+                "blue": 30
+              },
+              "score": 0.040440656,
+              "pixelFraction": 0.046116505
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 332
+                },
+                {
+                  "x": 332,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "zh-Hans"
+                }
+              ]
+            },
+            "width": 333,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "zh-Hans"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 261,
+                      "y": 117
+                    },
+                    {
+                      "x": 260,
+                      "y": 96
+                    },
+                    {
+                      "x": 275,
+                      "y": 95
+                    },
+                    {
+                      "x": 276,
+                      "y": 116
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "zh-Hans"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 260,
+                          "y": 94
+                        },
+                        {
+                          "x": 276,
+                          "y": 94
+                        },
+                        {
+                          "x": 276,
+                          "y": 116
+                        },
+                        {
+                          "x": 260,
+                          "y": 116
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "zh-Hans"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 261,
+                              "y": 117
+                            },
+                            {
+                              "x": 260,
+                              "y": 96
+                            },
+                            {
+                              "x": 275,
+                              "y": 95
+                            },
+                            {
+                              "x": 276,
+                              "y": 116
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "zh-Hans"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 261,
+                                  "y": 117
+                                },
+                                {
+                                  "x": 260,
+                                  "y": 96
+                                },
+                                {
+                                  "x": 275,
+                                  "y": 95
+                                },
+                                {
+                                  "x": 276,
+                                  "y": 116
+                                }
+                              ]
+                            },
+                            "text": "惟"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "惟\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/044bh6",
+            "score": 6.25552,
+            "description": "Palazzo Pitti"
+          },
+          {
+            "entityId": "/m/0nbdpr4",
+            "score": 3.06,
+            "description": "Palatine Gallery"
+          },
+          {
+            "entityId": "/g/120vt3bp",
+            "score": 1.40824,
+            "description": "Disputation on the Trinity"
+          },
+          {
+            "entityId": "/m/06cvx",
+            "score": 0.74468,
+            "description": "Renaissance"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.5739145,
+            "description": "Painting"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://www.rffriends.org/wpx/wp-content/uploads/2011/12/disputation-of-the-trinity.jpg"
+          },
+          {
+            "url": "http://www.artita.ru/dat/a/andrea/8.jpg"
+          },
+          {
+            "url": "https://i.warosu.org/data/ic/img/0016/30/1389587259255.jpg"
+          },
+          {
+            "url": "https://i.warosu.org/data/ic/img/0021/09/1433503376058.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/art/a/andrea/sarto/2/trinity.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://upload.wikimedia.org/wikipedia/commons/c/cf/Andrea_del_Sarto_002.jpg"
+          },
+          {
+            "url": "http://www.rffriends.org/wpx/wp-content/uploads/2011/12/trinity-disputation_over_the_andrea-del-sarto4.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Andrea_del_Sarto_002.jpg/1200px-Andrea_del_Sarto_002.jpg"
+          },
+          {
+            "url": "http://www.catholictradition.org/Passion/assisi9-25.jpg"
+          },
+          {
+            "url": "http://4.bp.blogspot.com/-4WBvCDuxvpY/U5zOswUdrtI/AAAAAAAAK4I/qgF9TNN6WfU/s1600/Andrea_del_Sarto_-_Disputation_on_the_Trinity_-_WGA0397.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.wga.hu/html_m/a/andrea/sarto/2/trinity.html"
+          },
+          {
+            "url": "https://www.wikiart.org/en/andrea-del-sarto"
+          },
+          {
+            "url": "https://www.wikiart.org/en/andrea-del-sarto/disputation-on-the-trinity"
+          },
+          {
+            "url": "http://theredlist.com/wiki-2-351-861-414-398-427-view-mannerism-profile-del-sarto-andrea.html"
+          },
+          {
+            "url": "https://ericwedwards.wordpress.com/2013/09/07/andrea-del-sarto-master-senza-errori-of-the-florentine-high-renaissance/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Andrea_del_Sarto_-_Disputation_on_the_Trinity_-_WGA0397.jpg/240px-Andrea_del_Sarto_-_Disputation_on_the_Trinity_-_WGA0397.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/5a/1c/f3/5a1cf34a01fa6957f3c5e07e5b3dbcc5.jpg"
+          },
+          {
+            "url": "http://www.lib-art.com/imgpaintingthumb/8/0/t6308-piet--with-saints-andrea-del-sarto.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Andrea_del_Sarto_-_Madonna_of_the_Harpies_-_WGA00370.jpg/410px-Andrea_del_Sarto_-_Madonna_of_the_Harpies_-_WGA00370.jpg"
+          },
+          {
+            "url": "https://www.arab-painting.com/cache/pic/Oil%20Painting%20Masterpieces%20on%20Canvas/Sarto%20Andrea%20del_Italy_1486-1530/9-Virgin-with-Four-Saints-renaissance-mannerism-Andrea-del-Sarto-360x360.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

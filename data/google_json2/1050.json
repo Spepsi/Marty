@@ -1,0 +1,611 @@
+{
+  "responses": [
+    {
+      "faceAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 25,
+                "y": 23
+              },
+              {
+                "x": 249,
+                "y": 23
+              },
+              {
+                "x": 249,
+                "y": 284
+              },
+              {
+                "x": 25,
+                "y": 284
+              }
+            ]
+          },
+          "fdBoundingPoly": {
+            "vertices": [
+              {
+                "x": 35,
+                "y": 92
+              },
+              {
+                "x": 195,
+                "y": 92
+              },
+              {
+                "x": 195,
+                "y": 252
+              },
+              {
+                "x": 35,
+                "y": 252
+              }
+            ]
+          },
+          "landmarks": [
+            {
+              "type": "LEFT_EYE",
+              "position": {
+                "x": 76.368416,
+                "y": 140.81564,
+                "z": 0.00055344024
+              }
+            },
+            {
+              "type": "RIGHT_EYE",
+              "position": {
+                "x": 134.98305,
+                "y": 140.18103,
+                "z": -37.69293
+              }
+            },
+            {
+              "type": "LEFT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 59.58499,
+                "y": 124.85921,
+                "z": 18.255278
+              }
+            },
+            {
+              "type": "RIGHT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 82.621666,
+                "y": 125.19899,
+                "z": -20.062744
+              }
+            },
+            {
+              "type": "LEFT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 110.31381,
+                "y": 125.62124,
+                "z": -38.051224
+              }
+            },
+            {
+              "type": "RIGHT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 154.3476,
+                "y": 126.52023,
+                "z": -43.595257
+              }
+            },
+            {
+              "type": "MIDPOINT_BETWEEN_EYES",
+              "position": {
+                "x": 94.294426,
+                "y": 139.46216,
+                "z": -29.878984
+              }
+            },
+            {
+              "type": "NOSE_TIP",
+              "position": {
+                "x": 84.320404,
+                "y": 179.66098,
+                "z": -46.319794
+              }
+            },
+            {
+              "type": "UPPER_LIP",
+              "position": {
+                "x": 92.15251,
+                "y": 205.64716,
+                "z": -32.80823
+              }
+            },
+            {
+              "type": "LOWER_LIP",
+              "position": {
+                "x": 95.42213,
+                "y": 223.68353,
+                "z": -28.754507
+              }
+            },
+            {
+              "type": "MOUTH_LEFT",
+              "position": {
+                "x": 79.59069,
+                "y": 212.01309,
+                "z": -2.7883184
+              }
+            },
+            {
+              "type": "MOUTH_RIGHT",
+              "position": {
+                "x": 126.22474,
+                "y": 212.71567,
+                "z": -32.00014
+              }
+            },
+            {
+              "type": "MOUTH_CENTER",
+              "position": {
+                "x": 95.46759,
+                "y": 213.59189,
+                "z": -28.544899
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_RIGHT",
+              "position": {
+                "x": 111.72184,
+                "y": 185.45685,
+                "z": -34.29754
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_LEFT",
+              "position": {
+                "x": 82.38999,
+                "y": 183.63708,
+                "z": -14.088565
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_CENTER",
+              "position": {
+                "x": 92.19201,
+                "y": 190.79114,
+                "z": -33.126522
+              }
+            },
+            {
+              "type": "LEFT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 72.63963,
+                "y": 136.47153,
+                "z": -3.221567
+              }
+            },
+            {
+              "type": "LEFT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 85.38492,
+                "y": 142.37683,
+                "z": -6.2725363
+              }
+            },
+            {
+              "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 74.80226,
+                "y": 145.96628,
+                "z": 0.15812826
+              }
+            },
+            {
+              "type": "LEFT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 67.11241,
+                "y": 141.19598,
+                "z": 13.231849
+              }
+            },
+            {
+              "type": "LEFT_EYE_PUPIL",
+              "position": {
+                "x": 73.155846,
+                "y": 141.19717,
+                "z": -0.15771317
+              }
+            },
+            {
+              "type": "RIGHT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 129.46034,
+                "y": 137.57996,
+                "z": -40.195744
+              }
+            },
+            {
+              "type": "RIGHT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 146.20874,
+                "y": 142.66203,
+                "z": -38.490635
+              }
+            },
+            {
+              "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 133.70096,
+                "y": 146.24258,
+                "z": -37.01672
+              }
+            },
+            {
+              "type": "RIGHT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 119.68417,
+                "y": 142.11893,
+                "z": -28.565283
+              }
+            },
+            {
+              "type": "RIGHT_EYE_PUPIL",
+              "position": {
+                "x": 131.35495,
+                "y": 142.33267,
+                "z": -38.212845
+              }
+            },
+            {
+              "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 68.56689,
+                "y": 116.793335,
+                "z": -4.630764
+              }
+            },
+            {
+              "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 130.14195,
+                "y": 118.01932,
+                "z": -44.761833
+              }
+            },
+            {
+              "type": "LEFT_EAR_TRAGION",
+              "position": {
+                "x": 83.97177,
+                "y": 174.1574,
+                "z": 94.59967
+              }
+            },
+            {
+              "type": "RIGHT_EAR_TRAGION",
+              "position": {
+                "x": 214.53746,
+                "y": 177.2029,
+                "z": 10.775966
+              }
+            },
+            {
+              "type": "FOREHEAD_GLABELLA",
+              "position": {
+                "x": 94.89165,
+                "y": 124.65889,
+                "z": -31.223698
+              }
+            },
+            {
+              "type": "CHIN_GNATHION",
+              "position": {
+                "x": 96.03494,
+                "y": 256.54916,
+                "z": -21.50328
+              }
+            },
+            {
+              "type": "CHIN_LEFT_GONION",
+              "position": {
+                "x": 74.41005,
+                "y": 217.48557,
+                "z": 67.83114
+              }
+            },
+            {
+              "type": "CHIN_RIGHT_GONION",
+              "position": {
+                "x": 191.36249,
+                "y": 220.19516,
+                "z": -8.3815155
+              }
+            }
+          ],
+          "rollAngle": 0.9778061,
+          "panAngle": -33.08518,
+          "tiltAngle": -0.24899316,
+          "detectionConfidence": 0.9996133,
+          "landmarkingConfidence": 0.57432675,
+          "joyLikelihood": "VERY_UNLIKELY",
+          "sorrowLikelihood": "VERY_UNLIKELY",
+          "angerLikelihood": "VERY_UNLIKELY",
+          "surpriseLikelihood": "VERY_UNLIKELY",
+          "underExposedLikelihood": "VERY_UNLIKELY",
+          "blurredLikelihood": "VERY_UNLIKELY",
+          "headwearLikelihood": "VERY_UNLIKELY"
+        }
+      ],
+      "logoAnnotations": [
+        {
+          "description": "Portrait of a Man",
+          "score": 0.7704127,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 40,
+                "y": 75
+              },
+              {
+                "x": 223,
+                "y": 75
+              },
+              {
+                "x": 223,
+                "y": 304
+              },
+              {
+                "x": 40,
+                "y": 304
+              }
+            ]
+          }
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/03q69",
+          "description": "hair",
+          "score": 0.95076436
+        },
+        {
+          "mid": "/m/0dzct",
+          "description": "face",
+          "score": 0.94200665
+        },
+        {
+          "mid": "/m/09j2d",
+          "description": "clothing",
+          "score": 0.924756
+        },
+        {
+          "mid": "/m/01dv4h",
+          "description": "portrait",
+          "score": 0.7919372
+        },
+        {
+          "mid": "/m/04hgtk",
+          "description": "head",
+          "score": 0.74698746
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 18,
+                "green": 14,
+                "blue": 17
+              },
+              "score": 0.7564865,
+              "pixelFraction": 0.77276546
+            },
+            {
+              "color": {
+                "red": 79,
+                "green": 48,
+                "blue": 38
+              },
+              "score": 0.06266984,
+              "pixelFraction": 0.029569892
+            },
+            {
+              "color": {
+                "red": 65,
+                "green": 41,
+                "blue": 39
+              },
+              "score": 0.037724115,
+              "pixelFraction": 0.016885081
+            },
+            {
+              "color": {
+                "red": 105,
+                "green": 71,
+                "blue": 56
+              },
+              "score": 0.028669573,
+              "pixelFraction": 0.0390625
+            },
+            {
+              "color": {
+                "red": 57,
+                "green": 41,
+                "blue": 38
+              },
+              "score": 0.020059168,
+              "pixelFraction": 0.011004704
+            },
+            {
+              "color": {
+                "red": 43,
+                "green": 23,
+                "blue": 21
+              },
+              "score": 0.015916152,
+              "pixelFraction": 0.006552419
+            },
+            {
+              "color": {
+                "red": 148,
+                "green": 114,
+                "blue": 96
+              },
+              "score": 0.013679967,
+              "pixelFraction": 0.05745968
+            },
+            {
+              "color": {
+                "red": 182,
+                "green": 148,
+                "blue": 129
+              },
+              "score": 0.012161551,
+              "pixelFraction": 0.03486223
+            },
+            {
+              "color": {
+                "red": 218,
+                "green": 181,
+                "blue": 160
+              },
+              "score": 0.009864082,
+              "pixelFraction": 0.0082325265
+            },
+            {
+              "color": {
+                "red": 216,
+                "green": 183,
+                "blue": 158
+              },
+              "score": 0.007089432,
+              "pixelFraction": 0.0034442204
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 310
+                },
+                {
+                  "x": 310,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.29999998,
+            "importanceFraction": 1.4699999
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/01lrbt",
+            "score": 14.4244,
+            "description": "Antonello da Messina"
+          },
+          {
+            "entityId": "/m/0vztd8n",
+            "score": 1.60824,
+            "description": "Portrait of a Man"
+          },
+          {
+            "entityId": "/m/02ry5zj",
+            "score": 1.43776,
+            "description": "Portrait of a Man (Self Portrait?)"
+          },
+          {
+            "entityId": "/m/073z19",
+            "score": 1.41684,
+            "description": "Thyssen-Bornemisza Museum"
+          },
+          {
+            "entityId": "/m/01hlq3",
+            "score": 1.41376,
+            "description": "Museo Nacional Del Prado"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://www.leninimports.com/antonello_da_messina_gallery_10.jpg"
+          },
+          {
+            "url": "http://theredlist.com/media/.cache/database/fine-art2/15-16/quattrocento/antonello-da-messina/1468679918-011-antonello-da-messina-theredlist.jpg"
+          },
+          {
+            "url": "https://www.malereikopie.de/bmz_cache/a/aa1c723216e37fe315d0786f3bc226ca.image.262x336.jpg"
+          },
+          {
+            "url": "http://portraittimeline.com/1470s%20Portraits%20-%20f_files/image018.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/f0/2c/8e/f02c8e3be16c6a914e16fa5092931bc9.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://imagenes.museothyssen.org/sites/default/files/imagen/obras/1964.7_retrato-hombre.jpg"
+          },
+          {
+            "url": "https://images-na.ssl-images-amazon.com/images/I/9102cbU9A2L.jpg"
+          },
+          {
+            "url": "http://www.youhuaaa.com/UploadFiles/images/Painting_Pic_Full/100/49841.jpg"
+          },
+          {
+            "url": "http://www.edicioneselviso.com/Archivos/0134viso_cub%20rustica.jpg"
+          },
+          {
+            "url": "https://1.bp.blogspot.com/-wduk0-yASKo/Ue6y-Irag6I/AAAAAAAAVy8/nQPrgjhjba8/s1600/AntonellodaMessina.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://www.museothyssen.org/en/collection/artists/messina-antonello-da/portrait-man"
+          },
+          {
+            "url": "https://en.wikipedia.org/wiki/Male_portraits_by_Antonello_da_Messina"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Antonello_Da_Messina_-_Retrato_de_un_hombre.jpg"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/369013763198754038/"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/800444533740606104/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://www.1500stitches.org/venetian_man/images/portrait.jpg"
+          },
+          {
+            "url": "http://www.medievalhistories.com/wp-content/uploads/17-mart-antonellodamessina-Antonello-da-Messina-Ritratto-di-giovane-gentiluomo.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Antonello_da_Messina_060.jpg/1024px-Antonello_da_Messina_060.jpg"
+          },
+          {
+            "url": "http://www.italianways.com/wp-content/uploads/2014/06/Ritratto-virile-02-665x860.jpg"
+          },
+          {
+            "url": "https://imagenes.museothyssen.org/sites/default/files/styles/16x9_medium/public/imagen/obras/1964.7_retrato-hombre.jpg?itok=UBuE2pSC"
+          }
+        ]
+      }
+    }
+  ]
+}

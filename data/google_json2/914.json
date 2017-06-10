@@ -1,0 +1,584 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.67800283
+        },
+        {
+          "mid": "/m/01dv4h",
+          "description": "portrait",
+          "score": 0.55076367
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "ht",
+          "description": "ennanm\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 63,
+                "y": 1
+              },
+              {
+                "x": 110,
+                "y": 1
+              },
+              {
+                "x": 110,
+                "y": 140
+              },
+              {
+                "x": 63,
+                "y": 140
+              }
+            ]
+          }
+        },
+        {
+          "description": "ennanm",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 63,
+                "y": 137
+              },
+              {
+                "x": 83,
+                "y": 2
+              },
+              {
+                "x": 110,
+                "y": 6
+              },
+              {
+                "x": 91,
+                "y": 141
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 23,
+                "green": 14,
+                "blue": 15
+              },
+              "score": 0.13905133,
+              "pixelFraction": 0.01952878
+            },
+            {
+              "color": {
+                "red": 146,
+                "green": 61,
+                "blue": 66
+              },
+              "score": 0.07758772,
+              "pixelFraction": 0.058507275
+            },
+            {
+              "color": {
+                "red": 220,
+                "green": 192,
+                "blue": 166
+              },
+              "score": 0.03812571,
+              "pixelFraction": 0.013203668
+            },
+            {
+              "color": {
+                "red": 138,
+                "green": 115,
+                "blue": 89
+              },
+              "score": 0.024952646,
+              "pixelFraction": 0.0037160025
+            },
+            {
+              "color": {
+                "red": 98,
+                "green": 30,
+                "blue": 35
+              },
+              "score": 0.066106886,
+              "pixelFraction": 0.016840607
+            },
+            {
+              "color": {
+                "red": 38,
+                "green": 14,
+                "blue": 18
+              },
+              "score": 0.06454659,
+              "pixelFraction": 0.0052972804
+            },
+            {
+              "color": {
+                "red": 79,
+                "green": 39,
+                "blue": 27
+              },
+              "score": 0.06124886,
+              "pixelFraction": 0.013994307
+            },
+            {
+              "color": {
+                "red": 169,
+                "green": 78,
+                "blue": 83
+              },
+              "score": 0.058864847,
+              "pixelFraction": 0.05067995
+            },
+            {
+              "color": {
+                "red": 77,
+                "green": 42,
+                "blue": 49
+              },
+              "score": 0.051298,
+              "pixelFraction": 0.0042694495
+            },
+            {
+              "color": {
+                "red": 51,
+                "green": 17,
+                "blue": 6
+              },
+              "score": 0.03676516,
+              "pixelFraction": 0.0038741303
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 327
+                },
+                {
+                  "x": 327,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "ht"
+                }
+              ]
+            },
+            "width": 328,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "ht"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 63,
+                      "y": 137
+                    },
+                    {
+                      "x": 83,
+                      "y": 2
+                    },
+                    {
+                      "x": 110,
+                      "y": 6
+                    },
+                    {
+                      "x": 91,
+                      "y": 141
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "ht"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 63,
+                          "y": 1
+                        },
+                        {
+                          "x": 110,
+                          "y": 1
+                        },
+                        {
+                          "x": 110,
+                          "y": 140
+                        },
+                        {
+                          "x": 63,
+                          "y": 140
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "ht"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 63,
+                              "y": 137
+                            },
+                            {
+                              "x": 83,
+                              "y": 2
+                            },
+                            {
+                              "x": 110,
+                              "y": 6
+                            },
+                            {
+                              "x": 91,
+                              "y": 141
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "ht"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 66,
+                                  "y": 138
+                                },
+                                {
+                                  "x": 69,
+                                  "y": 114
+                                },
+                                {
+                                  "x": 94,
+                                  "y": 118
+                                },
+                                {
+                                  "x": 91,
+                                  "y": 142
+                                }
+                              ]
+                            },
+                            "text": "e"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "ht"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 70,
+                                  "y": 112
+                                },
+                                {
+                                  "x": 73,
+                                  "y": 88
+                                },
+                                {
+                                  "x": 98,
+                                  "y": 92
+                                },
+                                {
+                                  "x": 95,
+                                  "y": 116
+                                }
+                              ]
+                            },
+                            "text": "n"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "ht"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 71,
+                                  "y": 85
+                                },
+                                {
+                                  "x": 73,
+                                  "y": 70
+                                },
+                                {
+                                  "x": 94,
+                                  "y": 73
+                                },
+                                {
+                                  "x": 92,
+                                  "y": 88
+                                }
+                              ]
+                            },
+                            "text": "n"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "ht"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 73,
+                                  "y": 68
+                                },
+                                {
+                                  "x": 75,
+                                  "y": 52
+                                },
+                                {
+                                  "x": 97,
+                                  "y": 55
+                                },
+                                {
+                                  "x": 95,
+                                  "y": 71
+                                }
+                              ]
+                            },
+                            "text": "a"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "ht"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 76,
+                                  "y": 50
+                                },
+                                {
+                                  "x": 78,
+                                  "y": 34
+                                },
+                                {
+                                  "x": 100,
+                                  "y": 37
+                                },
+                                {
+                                  "x": 98,
+                                  "y": 53
+                                }
+                              ]
+                            },
+                            "text": "n"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "ht"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 78,
+                                  "y": 33
+                                },
+                                {
+                                  "x": 82,
+                                  "y": 2
+                                },
+                                {
+                                  "x": 105,
+                                  "y": 6
+                                },
+                                {
+                                  "x": 101,
+                                  "y": 36
+                                }
+                              ]
+                            },
+                            "text": "m"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "ennanm\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/g/11c3tg3cwc",
+            "score": 0.7924,
+            "description": "Annunciatory Angel"
+          },
+          {
+            "entityId": "/m/06cvx",
+            "score": 0.76078,
+            "description": "Renaissance"
+          },
+          {
+            "entityId": "/m/0x6r",
+            "score": 0.73083,
+            "description": "Angel"
+          },
+          {
+            "entityId": "/m/0jjw",
+            "score": 0.46327403,
+            "description": "Art"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.40619,
+            "description": "Painting"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://image.jimcdn.com/app/cms/image/transf/none/path/sa344781f59f9025c/image/i92c9f083e498b125/version/1484485489/image.jpg"
+          },
+          {
+            "url": "http://susanvanallen.files.wordpress.com/2014/03/021annun.jpg"
+          },
+          {
+            "url": "http://3.bp.blogspot.com/-J_2UiFU7kKM/UnKm_8lCtEI/AAAAAAAARdA/m3W1PK-T8gQ/s1600/archangel-gabriel-annunciate-1433.jpg"
+          },
+          {
+            "url": "http://imgfile.367art.net/uploads/artGallery/c110608/130K05U0N950-4F61.jpg"
+          },
+          {
+            "url": "http://artchallenge.me/painters/87/37.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://www.crmoon.com/Angelico%2C%20Angel.jpg"
+          },
+          {
+            "url": "http://cultura.elpais.com/cultura/imagenes/2012/08/29/album/1346267341_082224_1346270691_album_normal.jpg"
+          },
+          {
+            "url": "https://image.jimcdn.com/app/cms/image/transf/none/path/sa344781f59f9025c/image/i92c9f083e498b125/version/1484485489/image.jpg"
+          },
+          {
+            "url": "http://susanvanallen.files.wordpress.com/2014/03/021annun.jpg"
+          },
+          {
+            "url": "http://imgfile.367art.net/uploads/artGallery/c110608/130K05U0N950-4F61.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://www.pinterest.com/explore/fra-angelico/"
+          },
+          {
+            "url": "https://www.google.com/culturalinstitute/beta/entity/m031b2"
+          },
+          {
+            "url": "http://www.the-athenaeum.org/art/list.php?m=a&s=tu&aid=3477"
+          },
+          {
+            "url": "http://www.wga.hu/frames-e.html?/html/a/angelico/13/index.html"
+          },
+          {
+            "url": "https://www.pinterest.com/sergiomundi/fra-angelico-c-1395-1455/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://susanvanallen.files.wordpress.com/2014/03/021annun.jpg"
+          },
+          {
+            "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Fra_Angelico-Annunciatory_Angel-detail.jpg/250px-Fra_Angelico-Annunciatory_Angel-detail.jpg"
+          },
+          {
+            "url": "http://www.topofart.com/images/artists/Fra_Angelico/paintings/fraangelico001.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/58/90/0e/58900e552ac5271181fbc421c47a6001.jpg"
+          },
+          {
+            "url": "http://www.visualgemsstudio.com/images/AngelicoFace.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

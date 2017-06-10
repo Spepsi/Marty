@@ -1,0 +1,474 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.9158511
+        },
+        {
+          "mid": "/m/01spzs",
+          "description": "still life",
+          "score": 0.86934566
+        },
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.6589394
+        },
+        {
+          "mid": "/m/02hcw1",
+          "description": "floristry",
+          "score": 0.62972075
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "en",
+          "description": "5A\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 21,
+                "y": 184
+              },
+              {
+                "x": 30,
+                "y": 184
+              },
+              {
+                "x": 30,
+                "y": 193
+              },
+              {
+                "x": 21,
+                "y": 193
+              }
+            ]
+          }
+        },
+        {
+          "description": "5A",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 22,
+                "y": 184
+              },
+              {
+                "x": 31,
+                "y": 184
+              },
+              {
+                "x": 31,
+                "y": 193
+              },
+              {
+                "x": 22,
+                "y": 193
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 142,
+                "green": 116,
+                "blue": 61
+              },
+              "score": 0.13175876,
+              "pixelFraction": 0.010500672
+            },
+            {
+              "color": {
+                "red": 245,
+                "green": 233,
+                "blue": 204
+              },
+              "score": 0.09574462,
+              "pixelFraction": 0.009576613
+            },
+            {
+              "color": {
+                "red": 25,
+                "green": 14,
+                "blue": 9
+              },
+              "score": 0.017227586,
+              "pixelFraction": 0.43497983
+            },
+            {
+              "color": {
+                "red": 208,
+                "green": 193,
+                "blue": 164
+              },
+              "score": 0.08811507,
+              "pixelFraction": 0.012684812
+            },
+            {
+              "color": {
+                "red": 177,
+                "green": 152,
+                "blue": 92
+              },
+              "score": 0.08416387,
+              "pixelFraction": 0.0055443547
+            },
+            {
+              "color": {
+                "red": 134,
+                "green": 116,
+                "blue": 87
+              },
+              "score": 0.08211711,
+              "pixelFraction": 0.02016129
+            },
+            {
+              "color": {
+                "red": 171,
+                "green": 155,
+                "blue": 127
+              },
+              "score": 0.07150125,
+              "pixelFraction": 0.014112903
+            },
+            {
+              "color": {
+                "red": 98,
+                "green": 83,
+                "blue": 57
+              },
+              "score": 0.06255413,
+              "pixelFraction": 0.08980174
+            },
+            {
+              "color": {
+                "red": 65,
+                "green": 50,
+                "blue": 27
+              },
+              "score": 0.047770645,
+              "pixelFraction": 0.14936157
+            },
+            {
+              "color": {
+                "red": 110,
+                "green": 86,
+                "blue": 33
+              },
+              "score": 0.04526817,
+              "pixelFraction": 0.01797715
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 309
+                },
+                {
+                  "y": 309
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "en"
+                }
+              ]
+            },
+            "width": 400,
+            "height": 310,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "en"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 21,
+                      "y": 184
+                    },
+                    {
+                      "x": 30,
+                      "y": 184
+                    },
+                    {
+                      "x": 30,
+                      "y": 193
+                    },
+                    {
+                      "x": 21,
+                      "y": 193
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "en"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 21,
+                          "y": 184
+                        },
+                        {
+                          "x": 30,
+                          "y": 184
+                        },
+                        {
+                          "x": 30,
+                          "y": 193
+                        },
+                        {
+                          "x": 21,
+                          "y": 193
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 22,
+                              "y": 184
+                            },
+                            {
+                              "x": 31,
+                              "y": 184
+                            },
+                            {
+                              "x": 31,
+                              "y": 193
+                            },
+                            {
+                              "x": 22,
+                              "y": 193
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 22,
+                                  "y": 184
+                                },
+                                {
+                                  "x": 31,
+                                  "y": 184
+                                },
+                                {
+                                  "x": 31,
+                                  "y": 188
+                                },
+                                {
+                                  "x": 22,
+                                  "y": 188
+                                }
+                              ]
+                            },
+                            "text": "5"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 22,
+                                  "y": 190
+                                },
+                                {
+                                  "x": 31,
+                                  "y": 190
+                                },
+                                {
+                                  "x": 31,
+                                  "y": 193
+                                },
+                                {
+                                  "x": 22,
+                                  "y": 193
+                                }
+                              ]
+                            },
+                            "text": "A"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "5A\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/01hlq3",
+            "score": 1.52524,
+            "description": "Museo Nacional Del Prado"
+          },
+          {
+            "entityId": "/m/01spzs",
+            "score": 1.0612227,
+            "description": "Still life"
+          },
+          {
+            "entityId": "/m/0c9ph5",
+            "score": 0.70311,
+            "description": "Flower"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.70115,
+            "description": "Painting"
+          },
+          {
+            "entityId": "/g/11c2j9fgf6",
+            "score": 0.61954,
+            "description": "Basket of Flowers"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://abc.2008php.com/2014_Website_appreciate/2015-12-21/20151221232018.jpg"
+          },
+          {
+            "url": "http://cdn.wallpapersafari.com/67/22/RrCswD.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/ef/56/ee/ef56ee4d92e14d5d7520d9ba3e9c94ad.jpg"
+          },
+          {
+            "url": "https://blog-001.west.edge.storage-yahoo.jp/res/blog-1f-9f/mitosya/folder/813919/94/17288494/img_9?1223017794"
+          },
+          {
+            "url": "http://pt.wahooart.com/A55A04/w.nsf/O/BRUE-8BWTNH/$File/JUAN-DE-ARELLANO-BASKET-OF-FLOWERS.JPG"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://upload.wikimedia.org/wikipedia/commons/e/ef/Arellano-canasta_de_flores.jpg"
+          },
+          {
+            "url": "http://cp14.nevsepic.com.ua/218/21777/1396110108-arellano-juan-de-spanish-1614-1676-korzina-s-cvetami-1670-849-sm-x-1051-sm-holst-maslo.jpeg"
+          },
+          {
+            "url": "https://content3.cdnprado.net/imagenes/Documentos/imgsem/9b/9b2e/9b2eda12-6f0f-4f08-ab52-89381c25af04/450ec8aa-5d5e-454f-aad8-834e3013c729.jpg"
+          },
+          {
+            "url": "http://i02.c.aliimg.com/img/ibank/2013/719/281/913182917_1967815350.jpg"
+          },
+          {
+            "url": "http://4.bp.blogspot.com/-uqX1Q8lsq7w/TbwO9wZYVpI/AAAAAAAABCY/ce3a0fYUVZ8/s1600/4.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.the-athenaeum.org/art/list.php?m=a&s=tu&aid=6021"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Juan_de_Arellano_-_Basket_of_Flowers_(15548141006).jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Juan_de_Arellano_-_Basket_of_Flowers_-_WGA00940.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/html_m/a/arellano/08arella.html"
+          },
+          {
+            "url": "http://www.michellart.com/Galerie340U.htm"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://en.wahooart.com/Art.nsf/O/8XZ9EQ/$File/Juan-De-Arellano-Basket-of-Flowers-2--S.JPG"
+          },
+          {
+            "url": "http://img.artsdot.com/Art.nsf/O/8XZ9ES/$File/Juan-De-Arellano-Basket-of-Flowers-4--S.JPG"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Juan_de_Arellano_-_Basket_of_Flowers_-_WGA00939.jpg/303px-Juan_de_Arellano_-_Basket_of_Flowers_-_WGA00939.jpg"
+          },
+          {
+            "url": "http://www.michellart.com/Images/ArellanoTulipsVolubilis_Diapo.jpg"
+          },
+          {
+            "url": "https://dnq5fc8vfw3ev.cloudfront.net/thumbnail/85000/85421/small_aspect/Arellano/Basket-Of-Flowers-1671.jpg?ts=1459229076"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,635 @@
+{
+  "responses": [
+    {
+      "faceAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 108,
+                "y": 32
+              },
+              {
+                "x": 220,
+                "y": 32
+              },
+              {
+                "x": 220,
+                "y": 162
+              },
+              {
+                "x": 108,
+                "y": 162
+              }
+            ]
+          },
+          "fdBoundingPoly": {
+            "vertices": [
+              {
+                "x": 133,
+                "y": 73
+              },
+              {
+                "x": 209,
+                "y": 73
+              },
+              {
+                "x": 209,
+                "y": 149
+              },
+              {
+                "x": 133,
+                "y": 149
+              }
+            ]
+          },
+          "landmarks": [
+            {
+              "type": "LEFT_EYE",
+              "position": {
+                "x": 155.41406,
+                "y": 95.708984,
+                "z": -0.0005334805
+              }
+            },
+            {
+              "type": "RIGHT_EYE",
+              "position": {
+                "x": 188.34148,
+                "y": 95.220634,
+                "z": 9.456377
+              }
+            },
+            {
+              "type": "LEFT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 143.72975,
+                "y": 89.150795,
+                "z": -0.8317143
+              }
+            },
+            {
+              "type": "RIGHT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 166.44771,
+                "y": 88.79323,
+                "z": -4.9149837
+              }
+            },
+            {
+              "type": "LEFT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 182.54187,
+                "y": 88.17401,
+                "z": -0.33831322
+              }
+            },
+            {
+              "type": "RIGHT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 199.12755,
+                "y": 85.485275,
+                "z": 14.462462
+              }
+            },
+            {
+              "type": "MIDPOINT_BETWEEN_EYES",
+              "position": {
+                "x": 175.05345,
+                "y": 95.57625,
+                "z": -1.9713601
+              }
+            },
+            {
+              "type": "NOSE_TIP",
+              "position": {
+                "x": 178.8613,
+                "y": 118.58452,
+                "z": -8.45496
+              }
+            },
+            {
+              "type": "UPPER_LIP",
+              "position": {
+                "x": 176.61046,
+                "y": 128.73126,
+                "z": 1.2037202
+              }
+            },
+            {
+              "type": "LOWER_LIP",
+              "position": {
+                "x": 176.27663,
+                "y": 137.1633,
+                "z": 4.9108014
+              }
+            },
+            {
+              "type": "MOUTH_LEFT",
+              "position": {
+                "x": 163.42535,
+                "y": 131.22983,
+                "z": 6.565766
+              }
+            },
+            {
+              "type": "MOUTH_RIGHT",
+              "position": {
+                "x": 186.76057,
+                "y": 130.32254,
+                "z": 14.136469
+              }
+            },
+            {
+              "type": "MOUTH_CENTER",
+              "position": {
+                "x": 175.97978,
+                "y": 132.45502,
+                "z": 4.3061957
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_RIGHT",
+              "position": {
+                "x": 183.7149,
+                "y": 116.93213,
+                "z": 7.035047
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_LEFT",
+              "position": {
+                "x": 167.29988,
+                "y": 119.34471,
+                "z": 1.9478624
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_CENTER",
+              "position": {
+                "x": 176.50395,
+                "y": 123.13416,
+                "z": 0.07910799
+              }
+            },
+            {
+              "type": "LEFT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 157.16354,
+                "y": 95.07114,
+                "z": -2.154561
+              }
+            },
+            {
+              "type": "LEFT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 162.50705,
+                "y": 96.92999,
+                "z": 2.3698626
+              }
+            },
+            {
+              "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 155.60098,
+                "y": 98.67917,
+                "z": 0.3771408
+              }
+            },
+            {
+              "type": "LEFT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 149.41708,
+                "y": 96.457825,
+                "z": 1.4377545
+              }
+            },
+            {
+              "type": "LEFT_EYE_PUPIL",
+              "position": {
+                "x": 156.33614,
+                "y": 97.2159,
+                "z": -0.54841155
+              }
+            },
+            {
+              "type": "RIGHT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 189.85486,
+                "y": 92.69957,
+                "z": 7.0976467
+              }
+            },
+            {
+              "type": "RIGHT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 194.8791,
+                "y": 93.888145,
+                "z": 14.460231
+              }
+            },
+            {
+              "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 189.26393,
+                "y": 97.433914,
+                "z": 9.743791
+              }
+            },
+            {
+              "type": "RIGHT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 182.6077,
+                "y": 95.818375,
+                "z": 7.97016
+              }
+            },
+            {
+              "type": "RIGHT_EYE_PUPIL",
+              "position": {
+                "x": 189.88309,
+                "y": 94.84566,
+                "z": 8.91501
+              }
+            },
+            {
+              "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 156.04466,
+                "y": 85.662834,
+                "z": -5.730887
+              }
+            },
+            {
+              "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 191.4965,
+                "y": 83.07228,
+                "z": 4.3160796
+              }
+            },
+            {
+              "type": "LEFT_EAR_TRAGION",
+              "position": {
+                "x": 124.68419,
+                "y": 109.24619,
+                "z": 36.926285
+              }
+            },
+            {
+              "type": "RIGHT_EAR_TRAGION",
+              "position": {
+                "x": 198.83763,
+                "y": 103.748215,
+                "z": 57.946827
+              }
+            },
+            {
+              "type": "FOREHEAD_GLABELLA",
+              "position": {
+                "x": 174.9908,
+                "y": 88.5469,
+                "z": -3.860236
+              }
+            },
+            {
+              "type": "CHIN_GNATHION",
+              "position": {
+                "x": 175.21103,
+                "y": 153.01648,
+                "z": 12.170939
+              }
+            },
+            {
+              "type": "CHIN_LEFT_GONION",
+              "position": {
+                "x": 132.76201,
+                "y": 132.5379,
+                "z": 28.14486
+              }
+            },
+            {
+              "type": "CHIN_RIGHT_GONION",
+              "position": {
+                "x": 199.7723,
+                "y": 127.62973,
+                "z": 47.155285
+              }
+            }
+          ],
+          "rollAngle": -1.6995305,
+          "panAngle": 15.989094,
+          "tiltAngle": -8.850094,
+          "detectionConfidence": 0.9812949,
+          "landmarkingConfidence": 0.62451774,
+          "joyLikelihood": "VERY_UNLIKELY",
+          "sorrowLikelihood": "VERY_UNLIKELY",
+          "angerLikelihood": "VERY_UNLIKELY",
+          "surpriseLikelihood": "VERY_UNLIKELY",
+          "underExposedLikelihood": "VERY_UNLIKELY",
+          "blurredLikelihood": "VERY_UNLIKELY",
+          "headwearLikelihood": "VERY_UNLIKELY"
+        }
+      ],
+      "logoAnnotations": [
+        {
+          "description": "Portrait of the artist&#039;s sister in the garb of a nun (oil on canvas)",
+          "score": 0.8646156,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 40,
+                "y": 40
+              },
+              {
+                "x": 297,
+                "y": 40
+              },
+              {
+                "x": 297,
+                "y": 392
+              },
+              {
+                "x": 40,
+                "y": 392
+              }
+            ]
+          }
+        },
+        {
+          "description": "Portrait of the artist&#039;s sister in the garb of a nun (oil on canvas)",
+          "score": 0.8644597,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 40,
+                "y": 40
+              },
+              {
+                "x": 297,
+                "y": 40
+              },
+              {
+                "x": 297,
+                "y": 392
+              },
+              {
+                "x": 40,
+                "y": 392
+              }
+            ]
+          }
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/01g317",
+          "description": "person",
+          "score": 0.92919797
+        },
+        {
+          "mid": "/m/03bt1vf",
+          "description": "woman",
+          "score": 0.8959801
+        },
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.6603487
+        },
+        {
+          "mid": "/m/0mf2",
+          "description": "abbot",
+          "score": 0.6280766
+        },
+        {
+          "mid": "/m/0nnc",
+          "description": "abbess",
+          "score": 0.6154328
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 15,
+                "green": 16,
+                "blue": 16
+              },
+              "score": 0.3615746,
+              "pixelFraction": 0.50962806
+            },
+            {
+              "color": {
+                "red": 208,
+                "green": 194,
+                "blue": 172
+              },
+              "score": 0.1377289,
+              "pixelFraction": 0.08015142
+            },
+            {
+              "color": {
+                "red": 92,
+                "green": 83,
+                "blue": 77
+              },
+              "score": 0.0408892,
+              "pixelFraction": 0.039664254
+            },
+            {
+              "color": {
+                "red": 74,
+                "green": 45,
+                "blue": 33
+              },
+              "score": 0.011682285,
+              "pixelFraction": 0.0065832785
+            },
+            {
+              "color": {
+                "red": 168,
+                "green": 153,
+                "blue": 133
+              },
+              "score": 0.07184481,
+              "pixelFraction": 0.041310072
+            },
+            {
+              "color": {
+                "red": 199,
+                "green": 196,
+                "blue": 188
+              },
+              "score": 0.06887681,
+              "pixelFraction": 0.064104676
+            },
+            {
+              "color": {
+                "red": 229,
+                "green": 228,
+                "blue": 222
+              },
+              "score": 0.06844752,
+              "pixelFraction": 0.06599737
+            },
+            {
+              "color": {
+                "red": 233,
+                "green": 224,
+                "blue": 203
+              },
+              "score": 0.04722973,
+              "pixelFraction": 0.029624753
+            },
+            {
+              "color": {
+                "red": 56,
+                "green": 48,
+                "blue": 45
+              },
+              "score": 0.0371978,
+              "pixelFraction": 0.03777156
+            },
+            {
+              "color": {
+                "red": 136,
+                "green": 120,
+                "blue": 101
+              },
+              "score": 0.03197295,
+              "pixelFraction": 0.01933838
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 316
+                },
+                {
+                  "x": 316,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 1,
+            "importanceFraction": 1.38
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/073x_",
+            "score": 1.86946,
+            "description": "Sofonisba Anguissola"
+          },
+          {
+            "entityId": "/m/06cvx",
+            "score": 0.82788,
+            "description": "Renaissance"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.62842,
+            "description": "Painting"
+          },
+          {
+            "entityId": "/m/01dv4h",
+            "score": 0.6270888,
+            "description": "Portrait"
+          },
+          {
+            "entityId": "/m/0gzj8",
+            "score": 0.46369,
+            "description": "Nun"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://www.artita.ru/dat/a/anguissola/4.jpg"
+          },
+          {
+            "url": "http://68.media.tumblr.com/9456302d4532cd1560b0a2fbfe69c06e/tumblr_nf4qn7vIxw1syzcjgo9_1280.jpg"
+          },
+          {
+            "url": "https://erikatakacs.files.wordpress.com/2015/01/5.jpg"
+          },
+          {
+            "url": "https://i2.wp.com/www.memecult.it/wp-content/uploads/2014/11/Sofonisba-Anguissola-Ritratto-di-una-monaca-1551-City-Art-Gallery-Southampton..jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/eb/fc/40/ebfc40bd843652f264ed19b19df5243d.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://www.artita.ru/dat/a/anguissola/4.jpg"
+          },
+          {
+            "url": "https://2.bp.blogspot.com/-rGTZSjQDSA4/VxT0cIDZEUI/AAAAAAAAFC4/5mXgDtCmY44ozV8fRJ1j_4wOn4EHij9bACLcB/s1600/page_1.jpg"
+          },
+          {
+            "url": "http://1.bp.blogspot.com/-ghllqJ_e7O8/Uc7XE2TOCII/AAAAAAAADuc/i4JRNhSD_yc/s1600/nowic.jpg"
+          },
+          {
+            "url": "http://wizardvarnish.com/wv/wp-content/uploads/2013/10/vhvCoe51ryxpsao1_400.jpg"
+          },
+          {
+            "url": "https://i0.wp.com/www.wga.hu/art/a/anguisso/sofonisb/port_nun.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.the-athenaeum.org/art/list.php?m=a&s=tu&aid=5511"
+          },
+          {
+            "url": "http://www.wga.hu/frames-e.html?/html/a/anguisso/sofonisb/index.html"
+          },
+          {
+            "url": "http://www.wga.hu/html_m/a/anguisso/sofonisb/"
+          },
+          {
+            "url": "https://www.posterlounge.co.uk/artists/sofonisba-anguissola/"
+          },
+          {
+            "url": "https://erikatakacs.wordpress.com/2015/01/06/sofonisba-anguissola-remarkable-woman-artist-of-the-renaissance/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/7f/ab/2f/7fab2f489bbcaaebb1d3417f73b17028.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/d6/74/31/d67431de15a0ab08eccc16c33455e154.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/5b/4e/69/5b4e690256cd745b5aebf7bc01a0ab84.jpg"
+          },
+          {
+            "url": "https://1.bp.blogspot.com/-WRSljDAwaJk/V30eTvXChaI/AAAAAAAAy1E/SfpxALdOIx4fAiXoklrCcdl6JzpvqrNSACLcB/s640/Infanta%2BCatalina%2BMicaela%252C%2B1591%252C%2BSofonisba%2BAnguissola.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/44/6a/1a/446a1ad05a82cc8f3acbc728fd14f406.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

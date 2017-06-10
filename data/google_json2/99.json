@@ -1,0 +1,479 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09g5pq",
+          "description": "people",
+          "score": 0.88836354
+        },
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.70803225
+        },
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.69346285
+        },
+        {
+          "mid": "/m/0djmp",
+          "description": "ancient history",
+          "score": 0.6933685
+        },
+        {
+          "mid": "/m/04rjz",
+          "description": "middle ages",
+          "score": 0.6588954
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "gd",
+          "description": "aa\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 23,
+                "y": 133
+              },
+              {
+                "x": 30,
+                "y": 133
+              },
+              {
+                "x": 30,
+                "y": 145
+              },
+              {
+                "x": 23,
+                "y": 145
+              }
+            ]
+          }
+        },
+        {
+          "description": "aa",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 23,
+                "y": 146
+              },
+              {
+                "x": 23,
+                "y": 134
+              },
+              {
+                "x": 30,
+                "y": 134
+              },
+              {
+                "x": 30,
+                "y": 146
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 111,
+                "green": 75,
+                "blue": 59
+              },
+              "score": 0.20427805,
+              "pixelFraction": 0.12356631
+            },
+            {
+              "color": {
+                "red": 102,
+                "green": 81,
+                "blue": 62
+              },
+              "score": 0.16522764,
+              "pixelFraction": 0.12885305
+            },
+            {
+              "color": {
+                "red": 79,
+                "green": 47,
+                "blue": 32
+              },
+              "score": 0.14293307,
+              "pixelFraction": 0.09274194
+            },
+            {
+              "color": {
+                "red": 136,
+                "green": 113,
+                "blue": 92
+              },
+              "score": 0.10506884,
+              "pixelFraction": 0.07867383
+            },
+            {
+              "color": {
+                "red": 144,
+                "green": 107,
+                "blue": 88
+              },
+              "score": 0.095341556,
+              "pixelFraction": 0.064605735
+            },
+            {
+              "color": {
+                "red": 72,
+                "green": 53,
+                "blue": 38
+              },
+              "score": 0.078914315,
+              "pixelFraction": 0.09793907
+            },
+            {
+              "color": {
+                "red": 171,
+                "green": 149,
+                "blue": 126
+              },
+              "score": 0.05054835,
+              "pixelFraction": 0.043458782
+            },
+            {
+              "color": {
+                "red": 66,
+                "green": 52,
+                "blue": 46
+              },
+              "score": 0.05022274,
+              "pixelFraction": 0.20241936
+            },
+            {
+              "color": {
+                "red": 179,
+                "green": 141,
+                "blue": 121
+              },
+              "score": 0.022002347,
+              "pixelFraction": 0.012096774
+            },
+            {
+              "color": {
+                "red": 93,
+                "green": 78,
+                "blue": 70
+              },
+              "score": 0.02142893,
+              "pixelFraction": 0.054749105
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 288
+                },
+                {
+                  "y": 288
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "gd"
+                }
+              ]
+            },
+            "width": 400,
+            "height": 289,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "gd"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 23,
+                      "y": 146
+                    },
+                    {
+                      "x": 23,
+                      "y": 134
+                    },
+                    {
+                      "x": 30,
+                      "y": 134
+                    },
+                    {
+                      "x": 30,
+                      "y": 146
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "gd"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 23,
+                          "y": 133
+                        },
+                        {
+                          "x": 30,
+                          "y": 133
+                        },
+                        {
+                          "x": 30,
+                          "y": 145
+                        },
+                        {
+                          "x": 23,
+                          "y": 145
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "gd"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 23,
+                              "y": 146
+                            },
+                            {
+                              "x": 23,
+                              "y": 134
+                            },
+                            {
+                              "x": 30,
+                              "y": 134
+                            },
+                            {
+                              "x": 30,
+                              "y": 146
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "gd"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 23,
+                                  "y": 146
+                                },
+                                {
+                                  "x": 23,
+                                  "y": 142
+                                },
+                                {
+                                  "x": 29,
+                                  "y": 142
+                                },
+                                {
+                                  "x": 29,
+                                  "y": 146
+                                }
+                              ]
+                            },
+                            "text": "a"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "gd"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 23,
+                                  "y": 140
+                                },
+                                {
+                                  "x": 23,
+                                  "y": 134
+                                },
+                                {
+                                  "x": 30,
+                                  "y": 134
+                                },
+                                {
+                                  "x": 30,
+                                  "y": 140
+                                }
+                              ]
+                            },
+                            "text": "a"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "aa\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.99579567,
+            "description": "Painting"
+          },
+          {
+            "entityId": "/m/06cvx",
+            "score": 0.90144,
+            "description": "Renaissance"
+          },
+          {
+            "entityId": "/g/11c3tgjd8r",
+            "score": 0.79496,
+            "description": "Apostles Peter and John"
+          },
+          {
+            "entityId": "/m/03mgmk",
+            "score": 0.7067,
+            "description": "Northern Renaissance"
+          },
+          {
+            "entityId": "/m/09ns1f",
+            "score": 0.70612,
+            "description": "Apostles"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://cfile214.uf.daum.net/image/2370873356CD5C240188FE"
+          },
+          {
+            "url": "https://www.kunst-gemalde.com/pic/Oil%20Painting%20Masterpieces%20on%20Canvas/Aertsen%20Pieter_Holland_1508-1575/0-Apostles-Peter-And-John-Dutch-historical-painter-Pieter-Aertsen.jpg"
+          },
+          {
+            "url": "http://imgfile.367art.net/uploads/artGallery/c110529/130B4223Z3T0-1T21.jpg"
+          },
+          {
+            "url": "http://3.bp.blogspot.com/-bn-1nmbYvEE/UZO-yCCKopI/AAAAAAAABAU/DV-Ti9X-D-8/s1600/asdasds.jpg"
+          },
+          {
+            "url": "http://2.bp.blogspot.com/-hfkd0cZz-F4/TaNjr6Hhy2I/AAAAAAAAAtI/ADZZM6tyq5U/s1600/AERTSEN%252C+Pieter+-+Apostles+Peter+and+John.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://i.dawn.com/primary/2017/01/5890558ad7c42.jpg"
+          },
+          {
+            "url": "https://oudemeesterschilderijen.files.wordpress.com/2013/06/aertsen-apostles-peter-john-1575.jpg"
+          },
+          {
+            "url": "http://c8.alamy.com/comp/B9FNTP/painting-apostles-peter-and-john-healing-the-sick-by-the-dutch-painter-B9FNTP.jpg"
+          },
+          {
+            "url": "https://i.ytimg.com/vi/J2Ki0x2lklU/maxresdefault.jpg"
+          },
+          {
+            "url": "http://www.elite-paintings.com/w/10/AbyC/Holland/AERTSEN_Pieter_Apostles_Peter_And_John_artist_painting_reproduction_handmade_oil_canvas_or_print_art_deco.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://graceofourlord.com/2012/09/28/acts-5-ananias-and-sapphira/"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Pieter_Aertsen_-_Apostles_Peter_and_John_-_WGA00055.jpg"
+          },
+          {
+            "url": "https://nl.pinterest.com/pin/355080751853760325/"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/440789882258692742/"
+          },
+          {
+            "url": "https://www.wikiart.org/en/pieter-aertsen/apostles-peter-and-john-1575"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/V%26A_-_Raphael%2C_The_Death_of_Ananias_%281515%29.jpg/800px-V%26A_-_Raphael%2C_The_Death_of_Ananias_%281515%29.jpg"
+          },
+          {
+            "url": "https://credocovenant.files.wordpress.com/2016/06/peter-before-the-sanhedrin.jpg"
+          },
+          {
+            "url": "http://4.bp.blogspot.com/-IvF9PrZywSQ/U0lpQjgDqTI/AAAAAAAAJAg/-Q-O_mNqf7E/s1600/Bernardo_Cavallino_-_St_Peter_and_Cornelius_the_Centurion_-_WGA04598.jpg"
+          },
+          {
+            "url": "https://samuelclark77.files.wordpress.com/2013/07/st-peter-preaching-fra-angelico.jpg"
+          },
+          {
+            "url": "http://3.bp.blogspot.com/-XbGNnNsCLoA/VQHAANypgWI/AAAAAAAAEUY/LrMLgmwc8S8/s1600/jesus%2Bbefore%2Bsanhedrin.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

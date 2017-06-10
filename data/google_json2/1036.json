@@ -1,0 +1,585 @@
+{
+  "responses": [
+    {
+      "faceAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 44,
+                "y": 5
+              },
+              {
+                "x": 276,
+                "y": 5
+              },
+              {
+                "x": 276,
+                "y": 275
+              },
+              {
+                "x": 44,
+                "y": 275
+              }
+            ]
+          },
+          "fdBoundingPoly": {
+            "vertices": [
+              {
+                "x": 91,
+                "y": 60
+              },
+              {
+                "x": 261,
+                "y": 60
+              },
+              {
+                "x": 261,
+                "y": 230
+              },
+              {
+                "x": 91,
+                "y": 230
+              }
+            ]
+          },
+          "landmarks": [
+            {
+              "type": "LEFT_EYE",
+              "position": {
+                "x": 163.49033,
+                "y": 109.612366,
+                "z": 0.0004524458
+              }
+            },
+            {
+              "type": "RIGHT_EYE",
+              "position": {
+                "x": 211.22394,
+                "y": 97.90771,
+                "z": 52.748913
+              }
+            },
+            {
+              "type": "LEFT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 138.76482,
+                "y": 101.86899,
+                "z": -9.740805
+              }
+            },
+            {
+              "type": "RIGHT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 178.768,
+                "y": 86.47553,
+                "z": 7.7513466
+              }
+            },
+            {
+              "type": "LEFT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 201.14081,
+                "y": 80.762695,
+                "z": 32.94419
+              }
+            },
+            {
+              "type": "RIGHT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 215.60403,
+                "y": 82.343445,
+                "z": 76.90199
+              }
+            },
+            {
+              "type": "MIDPOINT_BETWEEN_EYES",
+              "position": {
+                "x": 196.36961,
+                "y": 97.02987,
+                "z": 17.308893
+              }
+            },
+            {
+              "type": "NOSE_TIP",
+              "position": {
+                "x": 225.04826,
+                "y": 123.4326,
+                "z": -2.4486728
+              }
+            },
+            {
+              "type": "UPPER_LIP",
+              "position": {
+                "x": 227.57524,
+                "y": 154.94647,
+                "z": 3.7385323
+              }
+            },
+            {
+              "type": "LOWER_LIP",
+              "position": {
+                "x": 233.14291,
+                "y": 177.34589,
+                "z": 3.389959
+              }
+            },
+            {
+              "type": "MOUTH_LEFT",
+              "position": {
+                "x": 200.05707,
+                "y": 177.39078,
+                "z": -5.837166
+              }
+            },
+            {
+              "type": "MOUTH_RIGHT",
+              "position": {
+                "x": 236.04318,
+                "y": 166.4078,
+                "z": 35.037956
+              }
+            },
+            {
+              "type": "MOUTH_CENTER",
+              "position": {
+                "x": 229.27022,
+                "y": 165.8835,
+                "z": 5.4495378
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_RIGHT",
+              "position": {
+                "x": 224.14578,
+                "y": 136.48239,
+                "z": 28.4174
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_LEFT",
+              "position": {
+                "x": 200.79588,
+                "y": 141.46613,
+                "z": 0.5519929
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_CENTER",
+              "position": {
+                "x": 221.56021,
+                "y": 139.39233,
+                "z": 6.060303
+              }
+            },
+            {
+              "type": "LEFT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 166.10457,
+                "y": 103.93279,
+                "z": -1.6302255
+              }
+            },
+            {
+              "type": "LEFT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 173.6675,
+                "y": 109.02361,
+                "z": 10.965141
+              }
+            },
+            {
+              "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 165.58046,
+                "y": 114.56224,
+                "z": -0.6731398
+              }
+            },
+            {
+              "type": "LEFT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 150.81927,
+                "y": 116.34673,
+                "z": -5.7005634
+              }
+            },
+            {
+              "type": "LEFT_EYE_PUPIL",
+              "position": {
+                "x": 165.48471,
+                "y": 109.73655,
+                "z": -1.2450403
+              }
+            },
+            {
+              "type": "RIGHT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 212.21638,
+                "y": 92.22603,
+                "z": 50.260513
+              }
+            },
+            {
+              "type": "RIGHT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 216.29092,
+                "y": 99.051216,
+                "z": 67.13918
+              }
+            },
+            {
+              "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 214.18546,
+                "y": 102.441986,
+                "z": 51.50881
+              }
+            },
+            {
+              "type": "RIGHT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 202.66074,
+                "y": 101.495,
+                "z": 42.407806
+              }
+            },
+            {
+              "type": "RIGHT_EYE_PUPIL",
+              "position": {
+                "x": 212.83528,
+                "y": 97.69799,
+                "z": 51.93779
+              }
+            },
+            {
+              "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 158.08374,
+                "y": 84.64685,
+                "z": -2.8461554
+              }
+            },
+            {
+              "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 208.02412,
+                "y": 71.957085,
+                "z": 53.448307
+              }
+            },
+            {
+              "type": "LEFT_EAR_TRAGION",
+              "position": {
+                "x": 94.895874,
+                "y": 184.14523,
+                "z": 19.051275
+              }
+            },
+            {
+              "type": "RIGHT_EAR_TRAGION",
+              "position": {
+                "x": 199.37709,
+                "y": 157.53401,
+                "z": 136.93837
+              }
+            },
+            {
+              "type": "FOREHEAD_GLABELLA",
+              "position": {
+                "x": 191.31699,
+                "y": 81.78032,
+                "z": 18.763062
+              }
+            },
+            {
+              "type": "CHIN_GNATHION",
+              "position": {
+                "x": 238.9081,
+                "y": 210.61365,
+                "z": 5.094431
+              }
+            },
+            {
+              "type": "CHIN_LEFT_GONION",
+              "position": {
+                "x": 136.65602,
+                "y": 211.70117,
+                "z": -1.3339097
+              }
+            },
+            {
+              "type": "CHIN_RIGHT_GONION",
+              "position": {
+                "x": 230.98666,
+                "y": 187.53319,
+                "z": 105.15127
+              }
+            }
+          ],
+          "rollAngle": -24.603704,
+          "panAngle": 48.384373,
+          "tiltAngle": 9.317358,
+          "detectionConfidence": 0.8076319,
+          "landmarkingConfidence": 0.64876646,
+          "joyLikelihood": "VERY_UNLIKELY",
+          "sorrowLikelihood": "VERY_UNLIKELY",
+          "angerLikelihood": "VERY_UNLIKELY",
+          "surpriseLikelihood": "VERY_UNLIKELY",
+          "underExposedLikelihood": "VERY_UNLIKELY",
+          "blurredLikelihood": "VERY_UNLIKELY",
+          "headwearLikelihood": "UNLIKELY"
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/03q69",
+          "description": "hair",
+          "score": 0.9587762
+        },
+        {
+          "mid": "/m/0dzct",
+          "description": "face",
+          "score": 0.95795655
+        },
+        {
+          "mid": "/m/0ds4x",
+          "description": "hairstyle",
+          "score": 0.7929355
+        },
+        {
+          "mid": "/m/01dv4h",
+          "description": "portrait",
+          "score": 0.7875205
+        },
+        {
+          "mid": "/m/04hgtk",
+          "description": "head",
+          "score": 0.75064456
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "UNLIKELY",
+        "spoof": "UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 28,
+                "green": 19,
+                "blue": 18
+              },
+              "score": 0.24148645,
+              "pixelFraction": 0.23790322
+            },
+            {
+              "color": {
+                "red": 212,
+                "green": 187,
+                "blue": 135
+              },
+              "score": 0.08517871,
+              "pixelFraction": 0.061033726
+            },
+            {
+              "color": {
+                "red": 75,
+                "green": 44,
+                "blue": 30
+              },
+              "score": 0.08046088,
+              "pixelFraction": 0.062408358
+            },
+            {
+              "color": {
+                "red": 53,
+                "green": 40,
+                "blue": 36
+              },
+              "score": 0.1052131,
+              "pixelFraction": 0.090542525
+            },
+            {
+              "color": {
+                "red": 179,
+                "green": 155,
+                "blue": 105
+              },
+              "score": 0.0713294,
+              "pixelFraction": 0.056543253
+            },
+            {
+              "color": {
+                "red": 169,
+                "green": 148,
+                "blue": 113
+              },
+              "score": 0.06306213,
+              "pixelFraction": 0.0353739
+            },
+            {
+              "color": {
+                "red": 215,
+                "green": 194,
+                "blue": 154
+              },
+              "score": 0.048604682,
+              "pixelFraction": 0.027859237
+            },
+            {
+              "color": {
+                "red": 139,
+                "green": 118,
+                "blue": 89
+              },
+              "score": 0.04304252,
+              "pixelFraction": 0.027492668
+            },
+            {
+              "color": {
+                "red": 40,
+                "green": 18,
+                "blue": 17
+              },
+              "score": 0.04132532,
+              "pixelFraction": 0.023552053
+            },
+            {
+              "color": {
+                "red": 63,
+                "green": 46,
+                "blue": 31
+              },
+              "score": 0.04100973,
+              "pixelFraction": 0.024468476
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 283
+                },
+                {
+                  "x": 283,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.29999998,
+            "importanceFraction": 1.4399999
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/04gdr",
+            "score": 22.648,
+            "description": "The Louvre"
+          },
+          {
+            "entityId": "/m/0chjnz",
+            "score": 3.41212,
+            "description": "Christ at the Column"
+          },
+          {
+            "entityId": "/m/02rxc16",
+            "score": 1.49864,
+            "description": "Ecce Homo"
+          },
+          {
+            "entityId": "/m/01lrbt",
+            "score": 1.42074,
+            "description": "Antonello da Messina"
+          },
+          {
+            "entityId": "/m/0g7yx",
+            "score": 1.37048,
+            "description": "Messina"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://static.wixstatic.com/media/cd4757_7c9cdd0030524a229c5156e7cf7d9ca0.jpg_srz_979_1376_85_22_0.50_1.20_0.00_jpg_srz"
+          },
+          {
+            "url": "http://images2.corriereobjects.it/methode_image/2015/10/30/Cultura/Foto%20Gallery/christ.jpg"
+          },
+          {
+            "url": "https://s3.amazonaws.com/data.tackk.com/mio/29615556/13987203023504/large.jpg"
+          },
+          {
+            "url": "http://3.bp.blogspot.com/-dYugsVZxd44/Uzx52zZ68hI/AAAAAAAACok/HVIaIDOEkBw/s1600/christ_painting.jpg"
+          },
+          {
+            "url": "https://imagesrevues.revues.org/docannexe/image/1899/img-19.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antonello_da_Messina_-_Christ_at_the_Column_-_WGA0744.jpg/1200px-Antonello_da_Messina_-_Christ_at_the_Column_-_WGA0744.jpg"
+          },
+          {
+            "url": "http://1.bp.blogspot.com/-SC1aZotRIDA/VZeNmuRRXJI/AAAAAAAAJ8o/0PgrQF5Jl7Q/s1600/Antonello_da_Messina_-_Christ_at_the_Column_-_WGA0744.jpg"
+          },
+          {
+            "url": "http://f21.ifotki.info/org/f61fad6e8320d9b8060f895f8c2a9ff7b2bb39275340407.jpg"
+          },
+          {
+            "url": "https://eclecticlightdotcom.files.wordpress.com/2016/08/antonellochristcolumn.jpg"
+          },
+          {
+            "url": "https://i1.wp.com/www.artribune.com/wp-content/uploads/2013/10/Antonello-da-Messina-Cristo-alla-colonna-Parigi-Louvre.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.wga.hu/frames-e.html?/html/a/antonell/index.html"
+          },
+          {
+            "url": "http://www.louvre.fr/en/oeuvre-notices/christ-column-0"
+          },
+          {
+            "url": "http://www.travelingintuscany.com/art/antonellodamessina.htm"
+          },
+          {
+            "url": "http://www.americamagazine.org/issue/773/art/contemplative-compassion"
+          },
+          {
+            "url": "https://www.flickr.com/photos/28433765@N07/albums/72157622796000541/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://pt.wahooart.com/A55A04/w.nsf/O/BRUE-8DNW3L/$File/ANTONELLO-DA-MESSINA-CHRIST-AT-THE-COLUMN.JPG"
+          },
+          {
+            "url": "http://p8.storage.canalblog.com/87/47/71856/59551603.jpg"
+          },
+          {
+            "url": "https://render.fineartamerica.com/images/rendered/search/print/images-medium-5/1-christ-at-the-column-antonello-da-messina.jpg"
+          },
+          {
+            "url": "http://www.renaissance-amboise.com/medias/01-artrenaissance/le-christ-la-colonne.jpg"
+          },
+          {
+            "url": "https://render.fineartamerica.com/images/rendered/medium/greeting-card/images-medium/christ-at-the-column-antonello-da-messina.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

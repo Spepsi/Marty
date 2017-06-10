@@ -1,0 +1,693 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.8470124
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "zh",
+          "description": "em\n点.\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 125,
+                "y": 64
+              },
+              {
+                "x": 190,
+                "y": 64
+              },
+              {
+                "x": 190,
+                "y": 203
+              },
+              {
+                "x": 125,
+                "y": 203
+              }
+            ]
+          }
+        },
+        {
+          "description": "em",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 184,
+                "y": 64
+              },
+              {
+                "x": 190,
+                "y": 64
+              },
+              {
+                "x": 190,
+                "y": 89
+              },
+              {
+                "x": 184,
+                "y": 89
+              }
+            ]
+          }
+        },
+        {
+          "description": "点",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 126,
+                "y": 176
+              },
+              {
+                "x": 147,
+                "y": 177
+              },
+              {
+                "x": 146,
+                "y": 203
+              },
+              {
+                "x": 125,
+                "y": 202
+              }
+            ]
+          }
+        },
+        {
+          "description": ".",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 148,
+                "y": 188
+              },
+              {
+                "x": 150,
+                "y": 188
+              },
+              {
+                "x": 149,
+                "y": 201
+              },
+              {
+                "x": 147,
+                "y": 201
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 127,
+                "green": 122,
+                "blue": 90
+              },
+              "score": 0.1941236,
+              "pixelFraction": 0.10623766
+            },
+            {
+              "color": {
+                "red": 55,
+                "green": 128,
+                "blue": 146
+              },
+              "score": 0.12570591,
+              "pixelFraction": 0.08410138
+            },
+            {
+              "color": {
+                "red": 121,
+                "green": 162,
+                "blue": 156
+              },
+              "score": 0.076740086,
+              "pixelFraction": 0.07274523
+            },
+            {
+              "color": {
+                "red": 162,
+                "green": 155,
+                "blue": 122
+              },
+              "score": 0.16479051,
+              "pixelFraction": 0.05036208
+            },
+            {
+              "color": {
+                "red": 192,
+                "green": 193,
+                "blue": 164
+              },
+              "score": 0.05751237,
+              "pixelFraction": 0.018515471
+            },
+            {
+              "color": {
+                "red": 84,
+                "green": 131,
+                "blue": 126
+              },
+              "score": 0.05151786,
+              "pixelFraction": 0.04781106
+            },
+            {
+              "color": {
+                "red": 97,
+                "green": 91,
+                "blue": 58
+              },
+              "score": 0.044135634,
+              "pixelFraction": 0.09447005
+            },
+            {
+              "color": {
+                "red": 93,
+                "green": 158,
+                "blue": 170
+              },
+              "score": 0.03900905,
+              "pixelFraction": 0.026086241
+            },
+            {
+              "color": {
+                "red": 108,
+                "green": 124,
+                "blue": 91
+              },
+              "score": 0.0389519,
+              "pixelFraction": 0.05645161
+            },
+            {
+              "color": {
+                "red": 165,
+                "green": 192,
+                "blue": 180
+              },
+              "score": 0.030875636,
+              "pixelFraction": 0.013578012
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 316
+                },
+                {
+                  "x": 316,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "zh-Hans"
+                }
+              ]
+            },
+            "width": 317,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "pt-PT"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 184,
+                      "y": 64
+                    },
+                    {
+                      "x": 190,
+                      "y": 64
+                    },
+                    {
+                      "x": 190,
+                      "y": 89
+                    },
+                    {
+                      "x": 184,
+                      "y": 89
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "pt-PT"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 184,
+                          "y": 64
+                        },
+                        {
+                          "x": 190,
+                          "y": 64
+                        },
+                        {
+                          "x": 190,
+                          "y": 89
+                        },
+                        {
+                          "x": 184,
+                          "y": 89
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "pt-PT"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 184,
+                              "y": 64
+                            },
+                            {
+                              "x": 190,
+                              "y": 64
+                            },
+                            {
+                              "x": 190,
+                              "y": 89
+                            },
+                            {
+                              "x": 184,
+                              "y": 89
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "zh-Hans"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 184,
+                                  "y": 64
+                                },
+                                {
+                                  "x": 190,
+                                  "y": 64
+                                },
+                                {
+                                  "x": 190,
+                                  "y": 73
+                                },
+                                {
+                                  "x": 184,
+                                  "y": 73
+                                }
+                              ]
+                            },
+                            "text": "e"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "zh-Hans"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 185,
+                                  "y": 73
+                                },
+                                {
+                                  "x": 188,
+                                  "y": 73
+                                },
+                                {
+                                  "x": 188,
+                                  "y": 89
+                                },
+                                {
+                                  "x": 185,
+                                  "y": 89
+                                }
+                              ]
+                            },
+                            "text": "m"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              },
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "zh-Hans"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 126,
+                      "y": 176
+                    },
+                    {
+                      "x": 151,
+                      "y": 177
+                    },
+                    {
+                      "x": 150,
+                      "y": 203
+                    },
+                    {
+                      "x": 125,
+                      "y": 202
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "zh-Hans"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 125,
+                          "y": 176
+                        },
+                        {
+                          "x": 150,
+                          "y": 176
+                        },
+                        {
+                          "x": 150,
+                          "y": 203
+                        },
+                        {
+                          "x": 125,
+                          "y": 203
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "zh-Hans"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 126,
+                              "y": 176
+                            },
+                            {
+                              "x": 147,
+                              "y": 177
+                            },
+                            {
+                              "x": 146,
+                              "y": 203
+                            },
+                            {
+                              "x": 125,
+                              "y": 202
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "zh-Hans"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 126,
+                                  "y": 176
+                                },
+                                {
+                                  "x": 147,
+                                  "y": 177
+                                },
+                                {
+                                  "x": 146,
+                                  "y": 203
+                                },
+                                {
+                                  "x": 125,
+                                  "y": 202
+                                }
+                              ]
+                            },
+                            "text": "点"
+                          }
+                        ]
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 148,
+                              "y": 188
+                            },
+                            {
+                              "x": 150,
+                              "y": 188
+                            },
+                            {
+                              "x": 149,
+                              "y": 201
+                            },
+                            {
+                              "x": 147,
+                              "y": 201
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "zh-Hans"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 148,
+                                  "y": 188
+                                },
+                                {
+                                  "x": 150,
+                                  "y": 188
+                                },
+                                {
+                                  "x": 149,
+                                  "y": 201
+                                },
+                                {
+                                  "x": 147,
+                                  "y": 201
+                                }
+                              ]
+                            },
+                            "text": "."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "em\n点.\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/057rsg",
+            "score": 6.11168,
+            "description": "Alte Pinakothek"
+          },
+          {
+            "entityId": "/m/03cw5l6",
+            "score": 2.64888,
+            "description": "Bavarian State Painting Collections"
+          },
+          {
+            "entityId": "/g/122x7lj1",
+            "score": 1.40388,
+            "description": "Susanna and the Elders"
+          },
+          {
+            "entityId": "/m/06cvx",
+            "score": 0.74436,
+            "description": "Renaissance"
+          },
+          {
+            "entityId": "/g/11cktgs74p",
+            "score": 0.64286,
+            "description": "Susanna in the Bath"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://www.elite-paintings.com/w/10/AbyC/Belgium/ALSLOOT_Denis_van_Susanna_In_The_Bath_And_The_Stoning_Of_The_Elders_artist_painting_reproduction_handmade_oil_canvas_or_print_art_deco.jpg"
+          },
+          {
+            "url": "http://keep4u.ru/imgs/b/2009/05/17/8d/8d3432b50f2fa6a4b1593dd37da7e0e6.jpg"
+          },
+          {
+            "url": "http://photos1.blogger.com/blogger/6746/466/1600/Altdorfer%20susanna.0.jpg"
+          },
+          {
+            "url": "http://s017.radikal.ru/i408/1110/51/f30b29cc9695.jpg"
+          },
+          {
+            "url": "http://image96.360doc.com/DownloadImg/2016/04/1905/70059824_6"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://dic.academic.ru/pictures/wiki/files/65/Albrecht_Altdorfer_037.jpg"
+          },
+          {
+            "url": "http://www.malerei-meisterwerke.de/images_large/albrecht-altdorfer-susanna-im-bade-00079.jpg"
+          },
+          {
+            "url": "http://image.hnol.net/c/2016-12/06/17/201612061722332771-513051.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Albrecht_Altdorfer_-_Susanna_und_die_beiden_Alten.jpg"
+          },
+          {
+            "url": "http://www.devoir-de-philosophie.com/images_dissertations/175615.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://www.ibiblio.org/wm/paint/auth/altdorfer/"
+          },
+          {
+            "url": "http://www.arthistoryarchive.com/arthistory/christian/Albrecht-Altdorfer.html"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Albrecht_Altdorfer_Susanna_in_the_Bath_and_the_Stoning_of_the_Elders.jpg"
+          },
+          {
+            "url": "http://theredlist.com/wiki-2-351-861-414-398-427-view-mannerism-profile-altdorfer-albrecht.html"
+          },
+          {
+            "url": "https://www.posterlounge.co.uk/artists/albrecht-altdorfer/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://es.wahooart.com/Art.nsf/O/8XZ8UU/$File/Albrecht-Altdorfer-Susanna-in-the-Bath-and-the-Stoning-of-the-Elders-S.JPG"
+          },
+          {
+            "url": "http://www.freundederkuenste.de/typo3temp/GB/Albrecht_Altdorfer_ausstellung_m%C3%BCnchen_c184a5b368_e6582c00da.png"
+          },
+          {
+            "url": "https://www.artexpertswebsite.com/pages/artists/artists_a-k/altdorfer/Altdorfer_SusannaInTheBath.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/df/e0/3f/dfe03f82fd937c9ce221f4e4d577d3af.jpg"
+          },
+          {
+            "url": "http://c8.alamy.com/comp/DN3EAA/susanna-and-the-elders-by-albrecht-altdorfer-1480-1538-german-germany-DN3EAA.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

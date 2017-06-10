@@ -1,0 +1,449 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.96080387
+        },
+        {
+          "mid": "/m/01spzs",
+          "description": "still life",
+          "score": 0.94221526
+        },
+        {
+          "mid": "/m/0ggjrhd",
+          "description": "flower arranging",
+          "score": 0.9393169
+        },
+        {
+          "mid": "/m/0c9ph5",
+          "description": "flower",
+          "score": 0.9307678
+        },
+        {
+          "mid": "/m/027_ny3",
+          "description": "still life photography",
+          "score": 0.885293
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "en",
+          "description": "e\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 144,
+                "y": 272
+              },
+              {
+                "x": 148,
+                "y": 272
+              },
+              {
+                "x": 148,
+                "y": 278
+              },
+              {
+                "x": 144,
+                "y": 278
+              }
+            ]
+          }
+        },
+        {
+          "description": "e",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 144,
+                "y": 278
+              },
+              {
+                "x": 144,
+                "y": 272
+              },
+              {
+                "x": 148,
+                "y": 272
+              },
+              {
+                "x": 148,
+                "y": 278
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 48,
+                "green": 53,
+                "blue": 48
+              },
+              "score": 0.22292453,
+              "pixelFraction": 0.14393939
+            },
+            {
+              "color": {
+                "red": 241,
+                "green": 232,
+                "blue": 235
+              },
+              "score": 0.089102946,
+              "pixelFraction": 0.015232975
+            },
+            {
+              "color": {
+                "red": 102,
+                "green": 85,
+                "blue": 36
+              },
+              "score": 0.06459992,
+              "pixelFraction": 0.0021994135
+            },
+            {
+              "color": {
+                "red": 80,
+                "green": 82,
+                "blue": 77
+              },
+              "score": 0.10054994,
+              "pixelFraction": 0.054985337
+            },
+            {
+              "color": {
+                "red": 25,
+                "green": 27,
+                "blue": 26
+              },
+              "score": 0.08022287,
+              "pixelFraction": 0.6713913
+            },
+            {
+              "color": {
+                "red": 205,
+                "green": 196,
+                "blue": 197
+              },
+              "score": 0.07325944,
+              "pixelFraction": 0.014825677
+            },
+            {
+              "color": {
+                "red": 123,
+                "green": 118,
+                "blue": 115
+              },
+              "score": 0.06045719,
+              "pixelFraction": 0.02688172
+            },
+            {
+              "color": {
+                "red": 89,
+                "green": 81,
+                "blue": 52
+              },
+              "score": 0.05386365,
+              "pixelFraction": 0.0045617465
+            },
+            {
+              "color": {
+                "red": 165,
+                "green": 154,
+                "blue": 155
+              },
+              "score": 0.051081173,
+              "pixelFraction": 0.018246986
+            },
+            {
+              "color": {
+                "red": 59,
+                "green": 54,
+                "blue": 33
+              },
+              "score": 0.026964461,
+              "pixelFraction": 0.00333985
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 318
+                },
+                {
+                  "x": 318,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "en"
+                }
+              ]
+            },
+            "width": 319,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "en"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 144,
+                      "y": 272
+                    },
+                    {
+                      "x": 148,
+                      "y": 272
+                    },
+                    {
+                      "x": 148,
+                      "y": 278
+                    },
+                    {
+                      "x": 144,
+                      "y": 278
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "en"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 144,
+                          "y": 272
+                        },
+                        {
+                          "x": 148,
+                          "y": 272
+                        },
+                        {
+                          "x": 148,
+                          "y": 278
+                        },
+                        {
+                          "x": 144,
+                          "y": 278
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 144,
+                              "y": 278
+                            },
+                            {
+                              "x": 144,
+                              "y": 272
+                            },
+                            {
+                              "x": 148,
+                              "y": 272
+                            },
+                            {
+                              "x": 148,
+                              "y": 278
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 144,
+                                  "y": 278
+                                },
+                                {
+                                  "x": 144,
+                                  "y": 272
+                                },
+                                {
+                                  "x": 148,
+                                  "y": 272
+                                },
+                                {
+                                  "x": 148,
+                                  "y": 278
+                                }
+                              ]
+                            },
+                            "text": "e"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "e\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/01spzs",
+            "score": 0.82317996,
+            "description": "Still life"
+          },
+          {
+            "entityId": "/m/06gjp9",
+            "score": 0.7065749,
+            "description": "Floral design"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.55613,
+            "description": "Painting"
+          },
+          {
+            "entityId": "/m/0b682t",
+            "score": 0.40346,
+            "description": "Dutch Golden Age painting"
+          },
+          {
+            "entityId": "/m/0c9ph5",
+            "score": 0.37808,
+            "description": "Flower"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://img-fotki.yandex.ru/get/6743/19449236.104/0_9c310_cd929dd2_orig.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/70/b2/d9/70b2d9d8b6a89d1763b75640457880c3.jpg"
+          },
+          {
+            "url": "http://1.bp.blogspot.com/-ZIpg5QUbuJI/TVrns_ORh5I/AAAAAAAABqo/06SQ3WyQA6g/s1600/Thomsen%2BDutch%2B14%2Bflower-still-life-willem-van-aelst.jpg"
+          },
+          {
+            "url": "http://img-fotki.yandex.ru/get/6743/19449236.104/0_9c310_cd929dd2_XL.jpg"
+          },
+          {
+            "url": "http://s55.radikal.ru/i149/1107/44/2efd72b95d5e.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://livcorday.com/wp-content/uploads/2015/09/baroque-bouquet-07.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/f0/20/fa/f020fafc5ead528e807b9bd9fd17b40e.jpg"
+          },
+          {
+            "url": "http://68.media.tumblr.com/3f918c06c99813081010f18300fc4fd2/tumblr_mves0l83YL1r29g9xo1_1280.jpg"
+          },
+          {
+            "url": "http://1.bp.blogspot.com/-MxoVwccz2cI/VNfJMNCBZqI/AAAAAAAANgk/Dij4jwuv-1E/s1600/display_image.php10.jpg"
+          },
+          {
+            "url": "http://www.the-athenaeum.org/art/display_image.php?id=360281"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.wga.hu/html/a/aelst/"
+          },
+          {
+            "url": "http://www.the-athenaeum.org/art/list.php?m=a&s=tu&aid=5433"
+          },
+          {
+            "url": "https://www.tumblr.com/tagged/willem+van+aelst"
+          },
+          {
+            "url": "http://www.topofart.com/artists/Willem-van-Aelst/"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Willem_van_Aelst_-_Flower_Still-Life_-_WGA00045.jpg"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://www.schilderijen.nu/schilderij/willem-van-aelst-bloemstilleven-i1073.jpg"
+          },
+          {
+            "url": "https://reproarte.com/images/stories/virtuemart/product/aelst_willem_van/0257-0017_blumen_und_uhr.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flower_still_life_with_a_watch_by_Willem_van_Aelst.jpg/594px-Flower_still_life_with_a_watch_by_Willem_van_Aelst.jpg"
+          },
+          {
+            "url": "http://www.elite-paintings.com/w/10/AbyC/Holland/Willem_van_Aelst_Flowers_in_a_Silver_Vase_artist_painting_reproduction_handmade_oil_canvas_or_print_art_deco.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/fb/42/e0/fb42e086b4c9c42d66e779245e3e5c89.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

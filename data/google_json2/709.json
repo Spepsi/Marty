@@ -1,0 +1,460 @@
+{
+  "responses": [
+    {
+      "logoAnnotations": [
+        {
+          "description": "St. Michael",
+          "score": 0.94912124,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 2,
+                "y": 4
+              },
+              {
+                "x": 129,
+                "y": 4
+              },
+              {
+                "x": 129,
+                "y": 394
+              },
+              {
+                "x": 2,
+                "y": 394
+              }
+            ]
+          }
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.7037502
+        },
+        {
+          "mid": "/m/0lym8",
+          "description": "tapestry",
+          "score": 0.5426235
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "en",
+          "description": "m\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 28,
+                "y": 123
+              },
+              {
+                "x": 33,
+                "y": 123
+              },
+              {
+                "x": 33,
+                "y": 132
+              },
+              {
+                "x": 28,
+                "y": 132
+              }
+            ]
+          }
+        },
+        {
+          "description": "m",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 28,
+                "y": 123
+              },
+              {
+                "x": 33,
+                "y": 123
+              },
+              {
+                "x": 33,
+                "y": 132
+              },
+              {
+                "x": 28,
+                "y": 132
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 71,
+                "green": 40,
+                "blue": 46
+              },
+              "score": 0.21893974,
+              "pixelFraction": 0.09005377
+            },
+            {
+              "color": {
+                "red": 232,
+                "green": 98,
+                "blue": 79
+              },
+              "score": 0.004087226,
+              "pixelFraction": 0.0044162828
+            },
+            {
+              "color": {
+                "red": 45,
+                "green": 15,
+                "blue": 22
+              },
+              "score": 0.21094273,
+              "pixelFraction": 0.07430875
+            },
+            {
+              "color": {
+                "red": 54,
+                "green": 18,
+                "blue": 10
+              },
+              "score": 0.18032259,
+              "pixelFraction": 0.062211983
+            },
+            {
+              "color": {
+                "red": 73,
+                "green": 37,
+                "blue": 26
+              },
+              "score": 0.13550584,
+              "pixelFraction": 0.10387865
+            },
+            {
+              "color": {
+                "red": 226,
+                "green": 169,
+                "blue": 91
+              },
+              "score": 0.0005898482,
+              "pixelFraction": 0.0019201229
+            },
+            {
+              "color": {
+                "red": 101,
+                "green": 68,
+                "blue": 75
+              },
+              "score": 0.045036703,
+              "pixelFraction": 0.022273425
+            },
+            {
+              "color": {
+                "red": 30,
+                "green": 18,
+                "blue": 17
+              },
+              "score": 0.022680296,
+              "pixelFraction": 0.014976959
+            },
+            {
+              "color": {
+                "red": 96,
+                "green": 44,
+                "blue": 7
+              },
+              "score": 0.021561818,
+              "pixelFraction": 0.01516897
+            },
+            {
+              "color": {
+                "red": 63,
+                "green": 4,
+                "blue": 1
+              },
+              "score": 0.01904862,
+              "pixelFraction": 0.0055683563
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 134
+                },
+                {
+                  "x": 134,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "en"
+                }
+              ]
+            },
+            "width": 135,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "en"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 28,
+                      "y": 123
+                    },
+                    {
+                      "x": 33,
+                      "y": 123
+                    },
+                    {
+                      "x": 33,
+                      "y": 132
+                    },
+                    {
+                      "x": 28,
+                      "y": 132
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "en"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 28,
+                          "y": 123
+                        },
+                        {
+                          "x": 33,
+                          "y": 123
+                        },
+                        {
+                          "x": 33,
+                          "y": 132
+                        },
+                        {
+                          "x": 28,
+                          "y": 132
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 28,
+                              "y": 123
+                            },
+                            {
+                              "x": 33,
+                              "y": 123
+                            },
+                            {
+                              "x": 33,
+                              "y": 132
+                            },
+                            {
+                              "x": 28,
+                              "y": 132
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 28,
+                                  "y": 123
+                                },
+                                {
+                                  "x": 33,
+                                  "y": 123
+                                },
+                                {
+                                  "x": 33,
+                                  "y": 132
+                                },
+                                {
+                                  "x": 28,
+                                  "y": 132
+                                }
+                              ]
+                            },
+                            "text": "m"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "m\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/06cvx",
+            "score": 0.5595,
+            "description": "Renaissance"
+          },
+          {
+            "entityId": "/m/07mtr",
+            "score": 0.53334,
+            "description": "Tempera"
+          },
+          {
+            "entityId": "/m/0x6r",
+            "score": 0.47162,
+            "description": "Angel"
+          },
+          {
+            "entityId": "/m/01lw08",
+            "score": 0.38352,
+            "description": "Religious art"
+          },
+          {
+            "entityId": "/m/0159qt",
+            "score": 0.37904,
+            "description": "Archangel"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/9c/fd/f9/9cfdf9a9447e1ac6ee775cc0358a7bde.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/f7/ee/a6/f7eea605b2278a4fbc3d9281d9e0b9da.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/f5/9e/25/f59e25150ea9c1c9befb7987a4653e3a.jpg"
+          },
+          {
+            "url": "http://lesbonsanges.com/images/AStMichel33.jpeg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/ee/cf/cb/eecfcb37f32724d174ceeb09cf1b26d9.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://professionalartistmag.com/wp-content/uploads/2015/03/Gold_Leaf_PaintingsLEAD.jpg"
+          },
+          {
+            "url": "http://michal.org.pl/3patron/galeria/obrazy/obrazy25.jpg"
+          },
+          {
+            "url": "https://rlv.zcache.com/saint_michael_archangel_with_dragon_notepad-rfc6303bd8972437186550335364cea5d_amb08_8byvr_324.jpg"
+          },
+          {
+            "url": "https://rlv.zcache.com/saint_michael_archangel_with_dragon_prayer_card-r93507779becb41b2b9e9dfbb7e400f98_xvuat_8byvr_324.jpg"
+          },
+          {
+            "url": "https://rlv.zcache.be/st_michael_arkhangel_avec_le_diable-r21cfb10c5b804dd2a8c99c55dca61c81_j3aun_8byvr_324.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Fra_Angelico_St_Michael.jpg"
+          },
+          {
+            "url": "https://www.wikiart.org/en/fra-angelico/st-michael-1424"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Fra_Angelico_-_St_Michael_-_WGA0450.jpg"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/575897871077773981/"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/228487381076338864/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/ca/4f/78/ca4f78bca36dbb451b25972d15b95055.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/27/1a/f1/271af1c290ead4e3d66b27ca67d28066.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/cb/ec/c4/cbecc463f79e10794ff473c9a8aa5d74.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/c0/fa/c0/c0fac008ccc01e33053eb3ca3f7c4964.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/2f/ec/87/2fec87326b91af86620ce3d76bdcb366.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

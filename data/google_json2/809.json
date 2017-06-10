@@ -1,0 +1,599 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0djmp",
+          "description": "ancient history",
+          "score": 0.57736504
+        },
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.5768712
+        },
+        {
+          "mid": "/m/09ddf",
+          "description": "symbol",
+          "score": 0.5565854
+        },
+        {
+          "mid": "/m/06bvp",
+          "description": "religion",
+          "score": 0.51479614
+        },
+        {
+          "mid": "/m/022hy",
+          "description": "crucifix",
+          "score": 0.514079
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "en",
+          "description": "TN'r.i\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 120,
+                "y": 30
+              },
+              {
+                "x": 176,
+                "y": 30
+              },
+              {
+                "x": 176,
+                "y": 42
+              },
+              {
+                "x": 120,
+                "y": 42
+              }
+            ]
+          }
+        },
+        {
+          "description": "TN'r.i",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 120,
+                "y": 30
+              },
+              {
+                "x": 176,
+                "y": 30
+              },
+              {
+                "x": 176,
+                "y": 42
+              },
+              {
+                "x": 120,
+                "y": 42
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 23,
+                "green": 24,
+                "blue": 21
+              },
+              "score": 0.33790752,
+              "pixelFraction": 0.13998303
+            },
+            {
+              "color": {
+                "red": 98,
+                "green": 79,
+                "blue": 58
+              },
+              "score": 0.07896463,
+              "pixelFraction": 0.044312395
+            },
+            {
+              "color": {
+                "red": 190,
+                "green": 143,
+                "blue": 99
+              },
+              "score": 0.043791432,
+              "pixelFraction": 0.044142615
+            },
+            {
+              "color": {
+                "red": 63,
+                "green": 49,
+                "blue": 30
+              },
+              "score": 0.051793076,
+              "pixelFraction": 0.03166384
+            },
+            {
+              "color": {
+                "red": 110,
+                "green": 77,
+                "blue": 55
+              },
+              "score": 0.051661342,
+              "pixelFraction": 0.039219014
+            },
+            {
+              "color": {
+                "red": 50,
+                "green": 45,
+                "blue": 39
+              },
+              "score": 0.046325333,
+              "pixelFraction": 0.029456707
+            },
+            {
+              "color": {
+                "red": 37,
+                "green": 27,
+                "blue": 11
+              },
+              "score": 0.044413663,
+              "pixelFraction": 0.015449915
+            },
+            {
+              "color": {
+                "red": 149,
+                "green": 109,
+                "blue": 83
+              },
+              "score": 0.04118644,
+              "pixelFraction": 0.058573853
+            },
+            {
+              "color": {
+                "red": 136,
+                "green": 114,
+                "blue": 87
+              },
+              "score": 0.0394927,
+              "pixelFraction": 0.0524618
+            },
+            {
+              "color": {
+                "red": 159,
+                "green": 112,
+                "blue": 71
+              },
+              "score": 0.03750013,
+              "pixelFraction": 0.04363328
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 306
+                },
+                {
+                  "x": 306,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "en"
+                }
+              ]
+            },
+            "width": 307,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "en"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 120,
+                      "y": 30
+                    },
+                    {
+                      "x": 176,
+                      "y": 30
+                    },
+                    {
+                      "x": 176,
+                      "y": 42
+                    },
+                    {
+                      "x": 120,
+                      "y": 42
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "en"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 120,
+                          "y": 30
+                        },
+                        {
+                          "x": 176,
+                          "y": 30
+                        },
+                        {
+                          "x": 176,
+                          "y": 42
+                        },
+                        {
+                          "x": 120,
+                          "y": 42
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 120,
+                              "y": 30
+                            },
+                            {
+                              "x": 176,
+                              "y": 30
+                            },
+                            {
+                              "x": 176,
+                              "y": 42
+                            },
+                            {
+                              "x": 120,
+                              "y": 42
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 120,
+                                  "y": 30
+                                },
+                                {
+                                  "x": 127,
+                                  "y": 30
+                                },
+                                {
+                                  "x": 127,
+                                  "y": 42
+                                },
+                                {
+                                  "x": 120,
+                                  "y": 42
+                                }
+                              ]
+                            },
+                            "text": "T"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 137,
+                                  "y": 30
+                                },
+                                {
+                                  "x": 143,
+                                  "y": 30
+                                },
+                                {
+                                  "x": 143,
+                                  "y": 42
+                                },
+                                {
+                                  "x": 137,
+                                  "y": 42
+                                }
+                              ]
+                            },
+                            "text": "N"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 145,
+                                  "y": 30
+                                },
+                                {
+                                  "x": 150,
+                                  "y": 30
+                                },
+                                {
+                                  "x": 150,
+                                  "y": 42
+                                },
+                                {
+                                  "x": 145,
+                                  "y": 42
+                                }
+                              ]
+                            },
+                            "text": "'"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 157,
+                                  "y": 32
+                                },
+                                {
+                                  "x": 160,
+                                  "y": 32
+                                },
+                                {
+                                  "x": 160,
+                                  "y": 42
+                                },
+                                {
+                                  "x": 157,
+                                  "y": 42
+                                }
+                              ]
+                            },
+                            "text": "r"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 162,
+                                  "y": 32
+                                },
+                                {
+                                  "x": 165,
+                                  "y": 32
+                                },
+                                {
+                                  "x": 165,
+                                  "y": 42
+                                },
+                                {
+                                  "x": 162,
+                                  "y": 42
+                                }
+                              ]
+                            },
+                            "text": "."
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 174,
+                                  "y": 32
+                                },
+                                {
+                                  "x": 176,
+                                  "y": 32
+                                },
+                                {
+                                  "x": 176,
+                                  "y": 42
+                                },
+                                {
+                                  "x": 174,
+                                  "y": 42
+                                }
+                              ]
+                            },
+                            "text": "i"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "TN'r.i\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0272rmj",
+            "score": 11.21008,
+            "description": "San Marco, Florence"
+          },
+          {
+            "entityId": "/g/12100_zb",
+            "score": 2.97296,
+            "description": "Museo Nazionale di San Marco"
+          },
+          {
+            "entityId": "/g/11c3tgqnmr",
+            "score": 0.76082,
+            "description": "Crucifixion with the Virgin, Mary Magdalene and St. Dominic"
+          },
+          {
+            "entityId": "/m/063_g3_",
+            "score": 0.74108,
+            "description": "Crucifixion of Jesus"
+          },
+          {
+            "entityId": "/m/09hm0",
+            "score": 0.70004,
+            "description": "Crucifixion"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://image.hnol.net/c/2014-05/07/11/201405071111067531-513051.jpg"
+          },
+          {
+            "url": "http://przemyska.pl/wp-content/uploads/2014/06/crucifixion-with-the-virgin-mary-magdalene-and-st-dominic-1442.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/df/30/1a/df301a523f2aeaada2c740d6c9ce301d.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/02/27/2f/02272ffd93c98eec1ac89dc86238c402.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/1f/62/e5/1f62e531a4c6dd0523cb78b6bef9dbc4.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://2.bp.blogspot.com/-Wm5j2bom2Pg/TUfMwS3IPEI/AAAAAAAAIaU/aBEaRqraQ9s/s1600/25_cruci.jpg"
+          },
+          {
+            "url": "http://parishdeacon.com/Assets/Images/Artists/Angelico/crucifixion-02.jpg"
+          },
+          {
+            "url": "http://m.blog.hu/wu/wunderkammer/image/fra_angelico_crucifixion_with_the_virgin_mary_magdalene_and_st_dominic_cell_25.jpg"
+          },
+          {
+            "url": "http://thecurseandthecure.co.uk/wp-content/uploads/2016/03/Fra_Angelico_-_Crucifixion_with_the_Virgin_Mary_Magdalene_and_St_Dominic_Cell_25_-_WGA00547.jpg"
+          },
+          {
+            "url": "https://s3.amazonaws.com/classconnection/799/flashcards/9409799/jpg/25_cruci-1504EC4B2D7159DC7C7.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.alamy.com/stock-photo/convent-of-san-marco.html"
+          },
+          {
+            "url": "http://www.alamy.com/stock-photo/convent-of-san-marco-florence.html"
+          },
+          {
+            "url": "http://www.wga.hu/frames-e.html?/html/a/angelico/09/cells/index.html"
+          },
+          {
+            "url": "https://www.lessingimages.com/search.asp?a=L&lc=2020202043C5&ln=Museo+di+San+Marco+(Monastery)%2C+Florence%2C+Italy&p=1"
+          },
+          {
+            "url": "https://www.pinterest.com/bhioz/fra-angelico/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/9d/1d/f9/9d1df900644a0134b3fee1e200d04f67.jpg"
+          },
+          {
+            "url": "http://media.gettyimages.com/photos/crucifixion-with-the-virgin-and-st-dominick-fresco-by-beato-angelico-picture-id118120312?s=612x612"
+          },
+          {
+            "url": "http://cache4.asset-cache.net/xr/146322171.jpg?v=1&c=IWSAsset&k=3&d=77BFBA49EF8789215ABF3343C02EA5489867393F0759F0060E333EBBD2C64C46F575AAC933474377A55A1E4F32AD3138"
+          },
+          {
+            "url": "http://imgc.allpostersimages.com/images/P-473-488-90/62/6298/1IS5100Z/posters/fra-angelico-fresco-cycle-in-the-dominican-convent-of-san-marco-in-florence-scene-crucifixion-sce.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/00/cc/eb/00cceb2f4d524644d5ad92b9f10e19ac.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,469 @@
+{
+  "responses": [
+    {
+      "logoAnnotations": [
+        {
+          "description": "The Last Supper",
+          "score": 0.7170442,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 47,
+                "y": 13
+              },
+              {
+                "x": 387,
+                "y": 13
+              },
+              {
+                "x": 387,
+                "y": 296
+              },
+              {
+                "x": 47,
+                "y": 296
+              }
+            ]
+          }
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.70692295
+        },
+        {
+          "mid": "/m/0djmp",
+          "description": "ancient history",
+          "score": 0.6430225
+        },
+        {
+          "mid": "/m/0jwzhtg",
+          "description": "carving",
+          "score": 0.599948
+        },
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.58629483
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "zh",
+          "description": "穷\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 32,
+                "y": 262
+              },
+              {
+                "x": 37,
+                "y": 262
+              },
+              {
+                "x": 37,
+                "y": 269
+              },
+              {
+                "x": 32,
+                "y": 269
+              }
+            ]
+          }
+        },
+        {
+          "description": "穷",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 32,
+                "y": 262
+              },
+              {
+                "x": 37,
+                "y": 262
+              },
+              {
+                "x": 37,
+                "y": 269
+              },
+              {
+                "x": 32,
+                "y": 269
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 234,
+                "green": 233,
+                "blue": 222
+              },
+              "score": 0.39083347,
+              "pixelFraction": 0.10649905
+            },
+            {
+              "color": {
+                "red": 116,
+                "green": 76,
+                "blue": 62
+              },
+              "score": 0.118044324,
+              "pixelFraction": 0.08957938
+            },
+            {
+              "color": {
+                "red": 145,
+                "green": 106,
+                "blue": 90
+              },
+              "score": 0.06667241,
+              "pixelFraction": 0.034709044
+            },
+            {
+              "color": {
+                "red": 134,
+                "green": 115,
+                "blue": 93
+              },
+              "score": 0.053026382,
+              "pixelFraction": 0.06166983
+            },
+            {
+              "color": {
+                "red": 82,
+                "green": 45,
+                "blue": 33
+              },
+              "score": 0.052648623,
+              "pixelFraction": 0.0871284
+            },
+            {
+              "color": {
+                "red": 237,
+                "green": 228,
+                "blue": 207
+              },
+              "score": 0.049933992,
+              "pixelFraction": 0.039373815
+            },
+            {
+              "color": {
+                "red": 103,
+                "green": 84,
+                "blue": 64
+              },
+              "score": 0.04281568,
+              "pixelFraction": 0.053447187
+            },
+            {
+              "color": {
+                "red": 208,
+                "green": 194,
+                "blue": 172
+              },
+              "score": 0.04087853,
+              "pixelFraction": 0.076612905
+            },
+            {
+              "color": {
+                "red": 170,
+                "green": 151,
+                "blue": 128
+              },
+              "score": 0.031465936,
+              "pixelFraction": 0.07147375
+            },
+            {
+              "color": {
+                "red": 67,
+                "green": 51,
+                "blue": 33
+              },
+              "score": 0.018080546,
+              "pixelFraction": 0.029253637
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 329
+                },
+                {
+                  "y": 329
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "zh-Hans"
+                }
+              ]
+            },
+            "width": 400,
+            "height": 330,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "zh-Hans"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 32,
+                      "y": 262
+                    },
+                    {
+                      "x": 37,
+                      "y": 262
+                    },
+                    {
+                      "x": 37,
+                      "y": 269
+                    },
+                    {
+                      "x": 32,
+                      "y": 269
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "zh-Hans"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 32,
+                          "y": 262
+                        },
+                        {
+                          "x": 37,
+                          "y": 262
+                        },
+                        {
+                          "x": 37,
+                          "y": 269
+                        },
+                        {
+                          "x": 32,
+                          "y": 269
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "zh-Hans"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 32,
+                              "y": 262
+                            },
+                            {
+                              "x": 37,
+                              "y": 262
+                            },
+                            {
+                              "x": 37,
+                              "y": 269
+                            },
+                            {
+                              "x": 32,
+                              "y": 269
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "zh-Hans"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 32,
+                                  "y": 262
+                                },
+                                {
+                                  "x": 37,
+                                  "y": 262
+                                },
+                                {
+                                  "x": 37,
+                                  "y": 269
+                                },
+                                {
+                                  "x": 32,
+                                  "y": 269
+                                }
+                              ]
+                            },
+                            "text": "穷"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "穷\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/02vm8gx",
+            "score": 11.2688,
+            "description": "Sant'Apollonia"
+          },
+          {
+            "entityId": "/m/0glsf9l",
+            "score": 10.59712,
+            "description": "Last Supper"
+          },
+          {
+            "entityId": "/m/0jnz3",
+            "score": 7.04448,
+            "description": "The Last Supper"
+          },
+          {
+            "entityId": "/m/05r07h",
+            "score": 1.08904,
+            "description": "Cenacle"
+          },
+          {
+            "entityId": "/g/1thh4ztm",
+            "score": 1.04108
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://www.truecarpentry.org/webfolders/web6/PhotosItalia1/LastSupperFresco_bAndrea_del_Castagno1447.jpg"
+          },
+          {
+            "url": "http://i974.photobucket.com/albums/ae229/strochka_/08lasts2.jpg"
+          },
+          {
+            "url": "http://www.artbible.net/3JC/-Mat-26,26_The%20last%20supper_La%20Cene/2nd_15th_Siecle/15%20ANDREA%20DI%20CASTAGNO%20LAST%20SUPPER%20BB%20DETAIL2.jpg"
+          },
+          {
+            "url": "http://1.bp.blogspot.com/-qBPQf7zepXU/UHM1zY7UrZI/AAAAAAAAAg8/a-NgO1ljPd4/s1600/08lasts2.jpg"
+          },
+          {
+            "url": "http://4.bp.blogspot.com/_u_KW4nuKg9k/TF6_dSGyknI/AAAAAAAAMyI/8kr1XRdLUf0/s1600/castagno2.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Andrea_del_castagno%2C_cenacolo_di_sant%27apollonia%2C_1447%2C_03.JPG"
+          },
+          {
+            "url": "https://alessandrocortesi2012.files.wordpress.com/2012/03/dscf1844.jpg"
+          },
+          {
+            "url": "http://www.eurocles.com/data/peinture/c/castagno/Andrea_del_castagno_Cenacle_de_SantApollonia_Florence_(detail).jpg"
+          },
+          {
+            "url": "http://ftpmirror.your.org/pub/wikimedia/images/wikipedia/fr/1/1b/Andrea_del_castagno_C%C3%A9nacle_de_SantApollonia_Florence_(detail).jpg"
+          },
+          {
+            "url": "http://2.bp.blogspot.com/-NWba_E1BHmI/TiDXHyCauvI/AAAAAAAACFA/udVjQh6TBsA/s1600/IMG_1770.JPG"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.museumsinflorence.com/musei/santa_apollonia_.html"
+          },
+          {
+            "url": "http://www.travelingintuscany.com/art/andreadelcastagno/lastsupper.htm"
+          },
+          {
+            "url": "http://b-humanarthistory.blogspot.com/2012/01/comparison-of-last-supper-by-andrea-del.html"
+          },
+          {
+            "url": "http://www.travelingintuscany.com/art/andreadelcastagno/delcastagnolastsupper.htm"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/386957792962731703/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/d0/07/fe/d007fefff869b4142265d55221266f3a.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/83/d0/79/83d07992395e48a85368e269a77fc1f7.jpg"
+          },
+          {
+            "url": "http://media.gettyimages.com/illustrations/james-the-lesser-and-simon-detail-from-the-last-supper-by-andrea-del-illustration-id159621956?s=170667a"
+          },
+          {
+            "url": "http://www.visual-arts-cork.com/images-new/castagno-last-supper.jpg"
+          },
+          {
+            "url": "http://imgc.allpostersimages.com/images/P-473-488-90/67/6785/EQ8I100Z/posters/andrea-del-castagno-judas-with-saint-peter-christ-abd-saint-john-from-the-last-supper.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

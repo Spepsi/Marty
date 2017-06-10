@@ -1,0 +1,490 @@
+{
+  "responses": [
+    {
+      "logoAnnotations": [
+        {
+          "description": "The Sacrifice of Abraham",
+          "score": 0.8986453,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 9,
+                "y": 11
+              },
+              {
+                "x": 287,
+                "y": 11
+              },
+              {
+                "x": 287,
+                "y": 384
+              },
+              {
+                "x": 9,
+                "y": 384
+              }
+            ]
+          }
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.7480556
+        },
+        {
+          "mid": "/m/04zhd",
+          "description": "mythology",
+          "score": 0.7243549
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "en",
+          "description": "to\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 112,
+                "y": 38
+              },
+              {
+                "x": 134,
+                "y": 38
+              },
+              {
+                "x": 134,
+                "y": 64
+              },
+              {
+                "x": 112,
+                "y": 64
+              }
+            ]
+          }
+        },
+        {
+          "description": "to",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 113,
+                "y": 65
+              },
+              {
+                "x": 112,
+                "y": 40
+              },
+              {
+                "x": 133,
+                "y": 39
+              },
+              {
+                "x": 134,
+                "y": 64
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 78,
+                "green": 40,
+                "blue": 29
+              },
+              "score": 0.23174949,
+              "pixelFraction": 0.19319776
+            },
+            {
+              "color": {
+                "red": 29,
+                "green": 16,
+                "blue": 13
+              },
+              "score": 0.08799534,
+              "pixelFraction": 0.15848528
+            },
+            {
+              "color": {
+                "red": 147,
+                "green": 53,
+                "blue": 40
+              },
+              "score": 0.053687233,
+              "pixelFraction": 0.014989481
+            },
+            {
+              "color": {
+                "red": 237,
+                "green": 186,
+                "blue": 137
+              },
+              "score": 0.008798446,
+              "pixelFraction": 0.012359748
+            },
+            {
+              "color": {
+                "red": 211,
+                "green": 184,
+                "blue": 148
+              },
+              "score": 0.00836256,
+              "pixelFraction": 0.0058730715
+            },
+            {
+              "color": {
+                "red": 100,
+                "green": 30,
+                "blue": 27
+              },
+              "score": 0.10689701,
+              "pixelFraction": 0.023229312
+            },
+            {
+              "color": {
+                "red": 112,
+                "green": 74,
+                "blue": 55
+              },
+              "score": 0.09019428,
+              "pixelFraction": 0.13113604
+            },
+            {
+              "color": {
+                "red": 53,
+                "green": 20,
+                "blue": 11
+              },
+              "score": 0.057691135,
+              "pixelFraction": 0.046896916
+            },
+            {
+              "color": {
+                "red": 39,
+                "green": 14,
+                "blue": 12
+              },
+              "score": 0.052766934,
+              "pixelFraction": 0.03874474
+            },
+            {
+              "color": {
+                "red": 134,
+                "green": 47,
+                "blue": 44
+              },
+              "score": 0.046379693,
+              "pixelFraction": 0.012447406
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 296
+                },
+                {
+                  "x": 296,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "en"
+                }
+              ]
+            },
+            "width": 297,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "en"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 113,
+                      "y": 65
+                    },
+                    {
+                      "x": 112,
+                      "y": 40
+                    },
+                    {
+                      "x": 133,
+                      "y": 39
+                    },
+                    {
+                      "x": 134,
+                      "y": 64
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "en"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 112,
+                          "y": 38
+                        },
+                        {
+                          "x": 134,
+                          "y": 38
+                        },
+                        {
+                          "x": 134,
+                          "y": 64
+                        },
+                        {
+                          "x": 112,
+                          "y": 64
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 113,
+                              "y": 65
+                            },
+                            {
+                              "x": 112,
+                              "y": 40
+                            },
+                            {
+                              "x": 133,
+                              "y": 39
+                            },
+                            {
+                              "x": 134,
+                              "y": 64
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 113,
+                                  "y": 65
+                                },
+                                {
+                                  "x": 113,
+                                  "y": 54
+                                },
+                                {
+                                  "x": 134,
+                                  "y": 53
+                                },
+                                {
+                                  "x": 134,
+                                  "y": 64
+                                }
+                              ]
+                            },
+                            "text": "t"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 112,
+                                  "y": 52
+                                },
+                                {
+                                  "x": 111,
+                                  "y": 40
+                                },
+                                {
+                                  "x": 132,
+                                  "y": 39
+                                },
+                                {
+                                  "x": 133,
+                                  "y": 51
+                                }
+                              ]
+                            },
+                            "text": "o"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "to\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0955w3",
+            "score": 1.34412,
+            "description": "Gemäldegalerie Alte Meister"
+          },
+          {
+            "entityId": "/m/08wl5l",
+            "score": 1.19216,
+            "description": "Sacrifice of Isaac"
+          },
+          {
+            "entityId": "/m/0142l8",
+            "score": 0.72928,
+            "description": "Binding of Isaac"
+          },
+          {
+            "entityId": "/m/0ksxc",
+            "score": 0.71129,
+            "description": "Sacrifice"
+          },
+          {
+            "entityId": "/g/11c3tgybdt",
+            "score": 0.69512,
+            "description": "The Sacrifice of Abraham"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://d.websupport.sk/mariakumar.org/wp-content/uploads/2012/09/The-Sacrifice-of-Abraham-ANDREA-DEL-SARTO.jpg"
+          },
+          {
+            "url": "http://2.bp.blogspot.com/-1XiXMs1-iOs/T5Gg6R7hSCI/AAAAAAAAAKY/QQLK065dlvk/s1600/033680d292d7d764b067f3f763d.jpg"
+          },
+          {
+            "url": "http://img19.rajce.idnes.cz/d1903/7/7641/7641445_139f6a3c5fa5328cbda911dd24b5af45/images/7a.AdelSartoObAbrahamova.jpg"
+          },
+          {
+            "url": "http://68.media.tumblr.com/b36bf5e9b58016aeafd492b3a2950dc9/tumblr_ncxh3dZfSG1sua6ivo3_1280.jpg"
+          },
+          {
+            "url": "http://image.hnol.net/c/2014-04/13/12/201404131208501811-513051.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://uploads2.wikiart.org/images/andrea-del-sarto/the-sacrifice-of-abraham.jpg"
+          },
+          {
+            "url": "http://www.malerei-meisterwerke.de/images_large/andrea-del-sarto-opferung-isaaks-08791.jpg"
+          },
+          {
+            "url": "http://1.bp.blogspot.com/-QlAX_KLp1xw/T3BCr_9E-YI/AAAAAAAAGsc/oNJs9JvleEo/s1600/Andrea_del_Sarto_006.jpg"
+          },
+          {
+            "url": "http://www.artita.ru/dat/a/andrea/11.jpg"
+          },
+          {
+            "url": "http://sander-gaiser.de/ru/bilder/erzvaet/sarto01.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://blogs.getty.edu/iris/a-renaissance-mystery-from-a-marriage-to-a-sacrifice/"
+          },
+          {
+            "url": "http://www.gailsibley.com/2014/02/03/andrea-del-sarto-high-renaissance-master/"
+          },
+          {
+            "url": "http://www.the-athenaeum.org/art/list.php?m=a&s=tu&aid=6153"
+          },
+          {
+            "url": "http://blogs.getty.edu/iris/tags/andrea-del-sarto/"
+          },
+          {
+            "url": "https://www.wikiart.org/en/andrea-del-sarto/the-sacrifice-of-abraham"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://cn.wahooart.com/A55A04/w.nsf/O/BRUE-8BWLGL/$File/ANDREA-DEL-SARTO-THE-SACRIFICE-OF-ABRAHAM.JPG"
+          },
+          {
+            "url": "https://cdn.bestofpainting.com/images/andrea_del_sarto/1528_the_sacrifice_of_isaac_2k.jpg"
+          },
+          {
+            "url": "http://blogs.getty.edu/iris/files/2015/09/gm_345365EX3.jpg"
+          },
+          {
+            "url": "http://www.kfki.hu/~arthp/art/r/rosso/1/7madenth.jpg"
+          },
+          {
+            "url": "http://c8.alamy.com/comp/DA59NA/abrahams-sacrifice-of-isaac-by-andrea-del-sarto-andrea-dagnolo-di-DA59NA.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

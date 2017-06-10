@@ -1,0 +1,504 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0hyb2",
+          "description": "altar",
+          "score": 0.69349664
+        },
+        {
+          "mid": "/m/02nvjx",
+          "description": "place of worship",
+          "score": 0.6291224
+        },
+        {
+          "mid": "/m/0jwzhtg",
+          "description": "carving",
+          "score": 0.56024694
+        },
+        {
+          "mid": "/m/0cx45",
+          "description": "temple",
+          "score": 0.5146596
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "ht",
+          "description": "pis\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 74,
+                "y": 343
+              },
+              {
+                "x": 83,
+                "y": 343
+              },
+              {
+                "x": 83,
+                "y": 356
+              },
+              {
+                "x": 74,
+                "y": 356
+              }
+            ]
+          }
+        },
+        {
+          "description": "pis",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 74,
+                "y": 357
+              },
+              {
+                "x": 75,
+                "y": 344
+              },
+              {
+                "x": 83,
+                "y": 344
+              },
+              {
+                "x": 82,
+                "y": 357
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 161,
+                "green": 104,
+                "blue": 62
+              },
+              "score": 0.16775388,
+              "pixelFraction": 0.118720256
+            },
+            {
+              "color": {
+                "red": 82,
+                "green": 39,
+                "blue": 24
+              },
+              "score": 0.10185624,
+              "pixelFraction": 0.065639876
+            },
+            {
+              "color": {
+                "red": 128,
+                "green": 72,
+                "blue": 37
+              },
+              "score": 0.14735317,
+              "pixelFraction": 0.10054204
+            },
+            {
+              "color": {
+                "red": 118,
+                "green": 71,
+                "blue": 52
+              },
+              "score": 0.076268554,
+              "pixelFraction": 0.057377048
+            },
+            {
+              "color": {
+                "red": 142,
+                "green": 62,
+                "blue": 33
+              },
+              "score": 0.07498398,
+              "pixelFraction": 0.047593866
+            },
+            {
+              "color": {
+                "red": 193,
+                "green": 138,
+                "blue": 90
+              },
+              "score": 0.063302465,
+              "pixelFraction": 0.029944474
+            },
+            {
+              "color": {
+                "red": 95,
+                "green": 30,
+                "blue": 20
+              },
+              "score": 0.057166405,
+              "pixelFraction": 0.023995241
+            },
+            {
+              "color": {
+                "red": 250,
+                "green": 234,
+                "blue": 206
+              },
+              "score": 0.0004830319,
+              "pixelFraction": 0.027630882
+            },
+            {
+              "color": {
+                "red": 94,
+                "green": 43,
+                "blue": 13
+              },
+              "score": 0.04149746,
+              "pixelFraction": 0.02194606
+            },
+            {
+              "color": {
+                "red": 150,
+                "green": 103,
+                "blue": 81
+              },
+              "score": 0.0412752,
+              "pixelFraction": 0.033778425
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 394
+                },
+                {
+                  "y": 394
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "ht"
+                }
+              ]
+            },
+            "width": 400,
+            "height": 395,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "ht"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 74,
+                      "y": 357
+                    },
+                    {
+                      "x": 75,
+                      "y": 344
+                    },
+                    {
+                      "x": 83,
+                      "y": 344
+                    },
+                    {
+                      "x": 82,
+                      "y": 357
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "ht"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 74,
+                          "y": 343
+                        },
+                        {
+                          "x": 83,
+                          "y": 343
+                        },
+                        {
+                          "x": 83,
+                          "y": 356
+                        },
+                        {
+                          "x": 74,
+                          "y": 356
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "ht"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 74,
+                              "y": 357
+                            },
+                            {
+                              "x": 75,
+                              "y": 344
+                            },
+                            {
+                              "x": 83,
+                              "y": 344
+                            },
+                            {
+                              "x": 82,
+                              "y": 357
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "ht"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 74,
+                                  "y": 357
+                                },
+                                {
+                                  "x": 74,
+                                  "y": 354
+                                },
+                                {
+                                  "x": 82,
+                                  "y": 354
+                                },
+                                {
+                                  "x": 82,
+                                  "y": 357
+                                }
+                              ]
+                            },
+                            "text": "p"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "ht"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 74,
+                                  "y": 352
+                                },
+                                {
+                                  "x": 74,
+                                  "y": 349
+                                },
+                                {
+                                  "x": 82,
+                                  "y": 349
+                                },
+                                {
+                                  "x": 82,
+                                  "y": 352
+                                }
+                              ]
+                            },
+                            "text": "i"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "ht"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 74,
+                                  "y": 347
+                                },
+                                {
+                                  "x": 74,
+                                  "y": 344
+                                },
+                                {
+                                  "x": 82,
+                                  "y": 344
+                                },
+                                {
+                                  "x": 82,
+                                  "y": 347
+                                }
+                              ]
+                            },
+                            "text": "s"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "pis\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0b2_mh",
+            "score": 1.53072,
+            "description": "Pinacoteca di Brera"
+          },
+          {
+            "entityId": "/m/0fq0mzh",
+            "score": 1.23588,
+            "description": "Coronation of the Virgin"
+          },
+          {
+            "entityId": "/m/0czb4gs",
+            "score": 0.6462,
+            "description": "Madonna of humility"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.41424,
+            "description": "Painting"
+          },
+          {
+            "entityId": "/m/06pc6w",
+            "score": 0.39498,
+            "description": "Panel painting"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://fr.artsdot.com/ADC/Art.nsf/O/8XZ8ZF/$File/Andrea-Di-Bartolo-Coronation-of-the-Virgin-2-.JPG"
+          },
+          {
+            "url": "http://www.cassiciaco.it/navigazione/iconografia/pittori/quattrocento/castagno/bartolo_pala.jpg"
+          },
+          {
+            "url": "http://cfile228.uf.daum.net/R400x0/1805460B4B430E51BFDD0F"
+          },
+          {
+            "url": "http://es.wahooart.com/Art.nsf/O/8XZ8ZF/$File/Andrea-Di-Bartolo-Coronation-of-the-Virgin-2--S.JPG"
+          },
+          {
+            "url": "https://dnq5fc8vfw3ev.cloudfront.net/thumbnail/258000/258373/small_aspect/Bartolo/Coronation-Of-The-Virgin-2.jpg?ts=1459229076"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://rutravel.net/uploads/posts/2015-02/1424526537_15408213355_08473ecf59_k.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/art/a/andrea/bartolo/coronatj.jpg"
+          },
+          {
+            "url": "http://www.settemuse.it/pittori_opere_D/di_bartolo_andrea/di_bartolo_andrea_501_coronation_of_the_virgin.jpg"
+          },
+          {
+            "url": "http://cfile240.uf.daum.net/image/192DE7414F18CA6B1CD5D2"
+          },
+          {
+            "url": "http://cfile201.uf.daum.net/image/1254CA1A4B44501D6BDD6F"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.the-athenaeum.org/art/list.php?m=a&s=tu&aid=5829"
+          },
+          {
+            "url": "http://www.the-athenaeum.org/art/list.php?m=o&s=tu&oid=194"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/430093833148366856/"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/326229566739205271/"
+          },
+          {
+            "url": "https://www.1st-art-gallery.com/Andrea-Di-Bartolo/Andrea-Di-Bartolo-oil-paintings.html"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://www.wikigallery.org/paintings/222501-223000/222842/painting3.jpg"
+          },
+          {
+            "url": "http://l7.alamy.com/zooms/7d08531206084457b0788f850d3ccff1/2-andrea-di-bartolo-massacre-of-the-innocents-1380s-walters-museum-hknag7.jpg"
+          },
+          {
+            "url": "http://www.viaesiena.it/uploads//viaesiena/polittico.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Andrea_di_bartolo%2C_madonna_col_bambino_tra_santi%2C_inizio_XV_sec.JPG/1028px-Andrea_di_bartolo%2C_madonna_col_bambino_tra_santi%2C_inizio_XV_sec.JPG"
+          },
+          {
+            "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/20_Andrea_di_Bartolo_Triptych_Madonna_with_Child_and_Saints_Lindenau%2C_Altenburg.jpg/240px-20_Andrea_di_Bartolo_Triptych_Madonna_with_Child_and_Saints_Lindenau%2C_Altenburg.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

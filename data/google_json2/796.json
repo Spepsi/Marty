@@ -1,0 +1,585 @@
+{
+  "responses": [
+    {
+      "faceAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 22,
+                "y": 86
+              },
+              {
+                "x": 254,
+                "y": 86
+              },
+              {
+                "x": 254,
+                "y": 355
+              },
+              {
+                "x": 22,
+                "y": 355
+              }
+            ]
+          },
+          "fdBoundingPoly": {
+            "vertices": [
+              {
+                "x": 36,
+                "y": 149
+              },
+              {
+                "x": 225,
+                "y": 149
+              },
+              {
+                "x": 225,
+                "y": 338
+              },
+              {
+                "x": 36,
+                "y": 338
+              }
+            ]
+          },
+          "landmarks": [
+            {
+              "type": "LEFT_EYE",
+              "position": {
+                "x": 78.360016,
+                "y": 223.099,
+                "z": -0.00047963863
+              }
+            },
+            {
+              "type": "RIGHT_EYE",
+              "position": {
+                "x": 141.48373,
+                "y": 214.60379,
+                "z": -25.404398
+              }
+            },
+            {
+              "type": "LEFT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 55.173794,
+                "y": 209.68604,
+                "z": 13.345501
+              }
+            },
+            {
+              "type": "RIGHT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 86.29231,
+                "y": 206.72823,
+                "z": -20.742275
+              }
+            },
+            {
+              "type": "LEFT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 117.100136,
+                "y": 202.12346,
+                "z": -33.339603
+              }
+            },
+            {
+              "type": "RIGHT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 162.91599,
+                "y": 192.81715,
+                "z": -30.027609
+              }
+            },
+            {
+              "type": "MIDPOINT_BETWEEN_EYES",
+              "position": {
+                "x": 103.39625,
+                "y": 217.21402,
+                "z": -26.77534
+              }
+            },
+            {
+              "type": "NOSE_TIP",
+              "position": {
+                "x": 105.28964,
+                "y": 260.00616,
+                "z": -41.52507
+              }
+            },
+            {
+              "type": "UPPER_LIP",
+              "position": {
+                "x": 115.59776,
+                "y": 283.98352,
+                "z": -23.933586
+              }
+            },
+            {
+              "type": "LOWER_LIP",
+              "position": {
+                "x": 122.01262,
+                "y": 306.82245,
+                "z": -16.786242
+              }
+            },
+            {
+              "type": "MOUTH_LEFT",
+              "position": {
+                "x": 98.585846,
+                "y": 294.0453,
+                "z": 4.8443236
+              }
+            },
+            {
+              "type": "MOUTH_RIGHT",
+              "position": {
+                "x": 149.46815,
+                "y": 286.87296,
+                "z": -15.641576
+              }
+            },
+            {
+              "type": "MOUTH_CENTER",
+              "position": {
+                "x": 119.64994,
+                "y": 294.0658,
+                "z": -17.947393
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_RIGHT",
+              "position": {
+                "x": 134.7691,
+                "y": 261.16037,
+                "z": -23.104887
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_LEFT",
+              "position": {
+                "x": 97.741165,
+                "y": 265.24323,
+                "z": -8.985506
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_CENTER",
+              "position": {
+                "x": 112.71432,
+                "y": 269.78226,
+                "z": -25.610634
+              }
+            },
+            {
+              "type": "LEFT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 75.12475,
+                "y": 219.63315,
+                "z": -4.572697
+              }
+            },
+            {
+              "type": "LEFT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 91.022255,
+                "y": 222.30519,
+                "z": -4.649679
+              }
+            },
+            {
+              "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 78.33516,
+                "y": 228.0285,
+                "z": 0.1673939
+              }
+            },
+            {
+              "type": "LEFT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 67.15557,
+                "y": 224.79721,
+                "z": 11.416573
+              }
+            },
+            {
+              "type": "LEFT_EYE_PUPIL",
+              "position": {
+                "x": 76.07026,
+                "y": 223.99902,
+                "z": -0.90691674
+              }
+            },
+            {
+              "type": "RIGHT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 139.62248,
+                "y": 209.66316,
+                "z": -30.549412
+              }
+            },
+            {
+              "type": "RIGHT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 157.64163,
+                "y": 210.76654,
+                "z": -24.845299
+              }
+            },
+            {
+              "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 143.37917,
+                "y": 218.972,
+                "z": -25.755095
+              }
+            },
+            {
+              "type": "RIGHT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 128.11671,
+                "y": 216.86377,
+                "z": -20.017452
+              }
+            },
+            {
+              "type": "RIGHT_EYE_PUPIL",
+              "position": {
+                "x": 142.24542,
+                "y": 213.82431,
+                "z": -27.647455
+              }
+            },
+            {
+              "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 67.24838,
+                "y": 200.59428,
+                "z": -8.733927
+              }
+            },
+            {
+              "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 137.21703,
+                "y": 189.75748,
+                "z": -36.901115
+              }
+            },
+            {
+              "type": "LEFT_EAR_TRAGION",
+              "position": {
+                "x": 73.35466,
+                "y": 249.63516,
+                "z": 100.27072
+              }
+            },
+            {
+              "type": "RIGHT_EAR_TRAGION",
+              "position": {
+                "x": 219.87314,
+                "y": 226.90102,
+                "z": 41.29417
+              }
+            },
+            {
+              "type": "FOREHEAD_GLABELLA",
+              "position": {
+                "x": 100.83693,
+                "y": 203.85977,
+                "z": -29.57888
+              }
+            },
+            {
+              "type": "CHIN_GNATHION",
+              "position": {
+                "x": 131.4444,
+                "y": 336.31943,
+                "z": -4.502164
+              }
+            },
+            {
+              "type": "CHIN_LEFT_GONION",
+              "position": {
+                "x": 79.0302,
+                "y": 297.1499,
+                "z": 75.42453
+              }
+            },
+            {
+              "type": "CHIN_RIGHT_GONION",
+              "position": {
+                "x": 211.48096,
+                "y": 276.60587,
+                "z": 22.095007
+              }
+            }
+          ],
+          "rollAngle": -11.050322,
+          "panAngle": -21.804771,
+          "tiltAngle": -5.5937986,
+          "detectionConfidence": 0.90506613,
+          "landmarkingConfidence": 0.4076471,
+          "joyLikelihood": "VERY_UNLIKELY",
+          "sorrowLikelihood": "VERY_UNLIKELY",
+          "angerLikelihood": "VERY_UNLIKELY",
+          "surpriseLikelihood": "VERY_UNLIKELY",
+          "underExposedLikelihood": "VERY_UNLIKELY",
+          "blurredLikelihood": "VERY_UNLIKELY",
+          "headwearLikelihood": "VERY_UNLIKELY"
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/01g317",
+          "description": "person",
+          "score": 0.89724153
+        },
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.8509487
+        },
+        {
+          "mid": "/m/01dv4h",
+          "description": "portrait",
+          "score": 0.8390183
+        },
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.7101053
+        },
+        {
+          "mid": "/m/0mf2",
+          "description": "abbot",
+          "score": 0.6280766
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 37,
+                "green": 28,
+                "blue": 32
+              },
+              "score": 0.20465235,
+              "pixelFraction": 0.18429792
+            },
+            {
+              "color": {
+                "red": 106,
+                "green": 120,
+                "blue": 120
+              },
+              "score": 0.08969292,
+              "pixelFraction": 0.07645477
+            },
+            {
+              "color": {
+                "red": 219,
+                "green": 180,
+                "blue": 96
+              },
+              "score": 0.050821435,
+              "pixelFraction": 0.018026566
+            },
+            {
+              "color": {
+                "red": 53,
+                "green": 43,
+                "blue": 42
+              },
+              "score": 0.1479456,
+              "pixelFraction": 0.13749209
+            },
+            {
+              "color": {
+                "red": 149,
+                "green": 158,
+                "blue": 150
+              },
+              "score": 0.07538055,
+              "pixelFraction": 0.063725494
+            },
+            {
+              "color": {
+                "red": 69,
+                "green": 51,
+                "blue": 36
+              },
+              "score": 0.059019893,
+              "pixelFraction": 0.036606576
+            },
+            {
+              "color": {
+                "red": 97,
+                "green": 78,
+                "blue": 57
+              },
+              "score": 0.05285623,
+              "pixelFraction": 0.042931687
+            },
+            {
+              "color": {
+                "red": 78,
+                "green": 48,
+                "blue": 32
+              },
+              "score": 0.04401604,
+              "pixelFraction": 0.029569892
+            },
+            {
+              "color": {
+                "red": 87,
+                "green": 90,
+                "blue": 87
+              },
+              "score": 0.028970629,
+              "pixelFraction": 0.027988615
+            },
+            {
+              "color": {
+                "red": 133,
+                "green": 115,
+                "blue": 92
+              },
+              "score": 0.028796913,
+              "pixelFraction": 0.025537634
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 329
+                },
+                {
+                  "x": 329,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.29999998,
+            "importanceFraction": 1.1999999
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/03kbnj",
+            "score": 1.8598,
+            "description": "Michelozzo"
+          },
+          {
+            "entityId": "/m/02r9_24",
+            "score": 1.3488,
+            "description": "Deposition of Christ"
+          },
+          {
+            "entityId": "/m/06cvx",
+            "score": 0.7728,
+            "description": "Renaissance"
+          },
+          {
+            "entityId": "/m/01dv4h",
+            "score": 0.5940245,
+            "description": "Portrait"
+          },
+          {
+            "entityId": "/m/0266180",
+            "score": 0.42091,
+            "description": "Self-portrait"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://4.bp.blogspot.com/-h9H6SqXwBLg/VOSxP9zZETI/AAAAAAAAD_U/sz2Yb87iNBM/s1600/Fra_Angelico_074.jpg"
+          },
+          {
+            "url": "http://2.bp.blogspot.com/-iHOt-2zmS3s/UrD_J0lz6SI/AAAAAAAAExM/c04K1lcysf0/s1600/self.jpg"
+          },
+          {
+            "url": "http://art.c-rover.com/ang/pict/angelico0980.jpg"
+          },
+          {
+            "url": "http://stene.ru/wp-content/uploads/2015/05/snyatie-s-kresta.-detal1.jpg"
+          },
+          {
+            "url": "https://www.arab-painting.com/pic/Oil%20Painting%20Masterpieces%20on%20Canvas/Fra%20Angelico%20_Italy_1387-1455/4-Deposition-Detail-Renaissance-Fra-Angelico.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://www.zeno.org/Kunstwerke.images/I/1180012a.jpg"
+          },
+          {
+            "url": "http://parishdeacon.com/Assets/Images/Artists/Angelico/self-portrait.jpg"
+          },
+          {
+            "url": "https://userscontent2.emaze.com/images/87f72d34-b35b-4afb-824a-add6bab94663/a5655a21-dc22-45ec-9da5-fa7f52471065"
+          },
+          {
+            "url": "https://occhipignapanaschiavo.files.wordpress.com/2015/03/michelozzo.jpg"
+          },
+          {
+            "url": "https://i0.wp.com/upload.wikimedia.org/wikipedia/commons/6/6c/Fra_Angelico_074.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Michelozzo"
+          },
+          {
+            "url": "https://hu.wikipedia.org/wiki/Michelozzo"
+          },
+          {
+            "url": "http://www.wikiwand.com/de/Michelozzo_di_Bartolommeo"
+          },
+          {
+            "url": "https://www.wikiwand.com/en/Michelozzo"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/503699539547419505/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://www.yurtopic.com/travel/locations/images/famous-palaces/Michelozzo-di-Bartolomeo-Michelozzi.jpg"
+          },
+          {
+            "url": "http://arch-house.ru/images/photos/w200-133_13.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/51/b2/1b/51b21bde46a19beef1599e42c7d7e207.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/b9/fa/72/b9fa72b9c830855dfead09cc358ba589.jpg"
+          },
+          {
+            "url": "https://userscontent2.emaze.com/images/5d1825b1-1fa0-4360-aa2a-6c79979b6dd2/8af3a768-4080-4d15-9c38-df1b13187d5d"
+          }
+        ]
+      }
+    }
+  ]
+}

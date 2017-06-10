@@ -1,0 +1,204 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02wtjj",
+          "description": "stone carving",
+          "score": 0.8409757
+        },
+        {
+          "mid": "/m/02nnps",
+          "description": "relief",
+          "score": 0.80585074
+        },
+        {
+          "mid": "/m/0jwzhtg",
+          "description": "carving",
+          "score": 0.7799436
+        },
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.6998567
+        },
+        {
+          "mid": "/m/016f4d",
+          "description": "porcelain",
+          "score": 0.5831746
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 145,
+                "green": 121,
+                "blue": 61
+              },
+              "score": 0.54479414,
+              "pixelFraction": 0.13254756
+            },
+            {
+              "color": {
+                "red": 244,
+                "green": 228,
+                "blue": 205
+              },
+              "score": 0.0029102464,
+              "pixelFraction": 0.014784946
+            },
+            {
+              "color": {
+                "red": 168,
+                "green": 144,
+                "blue": 82
+              },
+              "score": 0.2309147,
+              "pixelFraction": 0.07320099
+            },
+            {
+              "color": {
+                "red": 107,
+                "green": 84,
+                "blue": 29
+              },
+              "score": 0.13439815,
+              "pixelFraction": 0.08457403
+            },
+            {
+              "color": {
+                "red": 148,
+                "green": 125,
+                "blue": 48
+              },
+              "score": 0.026683368,
+              "pixelFraction": 0.004032258
+            },
+            {
+              "color": {
+                "red": 165,
+                "green": 141,
+                "blue": 61
+              },
+              "score": 0.014856277,
+              "pixelFraction": 0.001757651
+            },
+            {
+              "color": {
+                "red": 77,
+                "green": 56,
+                "blue": 10
+              },
+              "score": 0.011095303,
+              "pixelFraction": 0.016025642
+            },
+            {
+              "color": {
+                "red": 142,
+                "green": 120,
+                "blue": 87
+              },
+              "score": 0.008931575,
+              "pixelFraction": 0.084884204
+            },
+            {
+              "color": {
+                "red": 100,
+                "green": 80,
+                "blue": 46
+              },
+              "score": 0.00877093,
+              "pixelFraction": 0.04776675
+            },
+            {
+              "color": {
+                "red": 161,
+                "green": 140,
+                "blue": 106
+              },
+              "score": 0.004626664,
+              "pixelFraction": 0.14826302
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 252
+                },
+                {
+                  "y": 252
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0jwzhtg",
+            "score": 1.0240953,
+            "description": "Carving"
+          },
+          {
+            "entityId": "/m/02wtjj",
+            "score": 0.9069676,
+            "description": "Stone carving"
+          },
+          {
+            "entityId": "/m/016f4d",
+            "score": 0.85686,
+            "description": "Porcelain"
+          },
+          {
+            "entityId": "/m/01ys2s",
+            "score": 0.8230887,
+            "description": "Antique"
+          },
+          {
+            "entityId": "/m/04brg2",
+            "score": 0.70014,
+            "description": "Tableware"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://bocadecor.ro/images_gallery/Tablouri/Tablou_3D_basorelief_10.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/e3/6b/32/e36b32091667e4221c724144dac94d2c.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/15/31/82/15318221373ffd55be0a0a1f6f85b1f3.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/ec/46/ca/ec46caf1cd8cd7b08a02def0ef310fc4.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/87/74/56/8774560421fc5a45e9ee83186bd91e8e.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

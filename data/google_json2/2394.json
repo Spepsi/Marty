@@ -1,0 +1,484 @@
+{
+  "responses": [
+    {
+      "landmarkAnnotations": [
+        {
+          "mid": "/m/01hlq3",
+          "description": "Museo del Prado",
+          "score": 0.23701309,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 85,
+                "y": 80
+              },
+              {
+                "x": 271,
+                "y": 80
+              },
+              {
+                "x": 271,
+                "y": 139
+              },
+              {
+                "x": 85,
+                "y": 139
+              }
+            ]
+          },
+          "locations": [
+            {
+              "latLng": {
+                "latitude": 40.413741,
+                "longitude": -3.692736
+              }
+            }
+          ]
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.93265104
+        },
+        {
+          "mid": "/m/01spzs",
+          "description": "still life",
+          "score": 0.89548033
+        },
+        {
+          "mid": "/m/027_ny3",
+          "description": "still life photography",
+          "score": 0.8635852
+        },
+        {
+          "mid": "/m/0c9ph5",
+          "description": "flower",
+          "score": 0.77102417
+        },
+        {
+          "mid": "/m/02hcw1",
+          "description": "floristry",
+          "score": 0.710878
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "zh-Hant",
+          "description": "務\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 202,
+                "y": 33
+              },
+              {
+                "x": 243,
+                "y": 33
+              },
+              {
+                "x": 243,
+                "y": 83
+              },
+              {
+                "x": 202,
+                "y": 83
+              }
+            ]
+          }
+        },
+        {
+          "description": "務",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 202,
+                "y": 73
+              },
+              {
+                "x": 218,
+                "y": 33
+              },
+              {
+                "x": 243,
+                "y": 43
+              },
+              {
+                "x": 227,
+                "y": 83
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 244,
+                "green": 232,
+                "blue": 202
+              },
+              "score": 0.14061107,
+              "pixelFraction": 0.0100395
+            },
+            {
+              "color": {
+                "red": 99,
+                "green": 82,
+                "blue": 58
+              },
+              "score": 0.08918715,
+              "pixelFraction": 0.04682357
+            },
+            {
+              "color": {
+                "red": 75,
+                "green": 44,
+                "blue": 31
+              },
+              "score": 0.04406154,
+              "pixelFraction": 0.018844634
+            },
+            {
+              "color": {
+                "red": 27,
+                "green": 17,
+                "blue": 15
+              },
+              "score": 0.031349067,
+              "pixelFraction": 0.48296577
+            },
+            {
+              "color": {
+                "red": 210,
+                "green": 195,
+                "blue": 167
+              },
+              "score": 0.11932899,
+              "pixelFraction": 0.010697828
+            },
+            {
+              "color": {
+                "red": 135,
+                "green": 118,
+                "blue": 91
+              },
+              "score": 0.08492521,
+              "pixelFraction": 0.014071758
+            },
+            {
+              "color": {
+                "red": 171,
+                "green": 154,
+                "blue": 125
+              },
+              "score": 0.083604366,
+              "pixelFraction": 0.010368664
+            },
+            {
+              "color": {
+                "red": 65,
+                "green": 51,
+                "blue": 32
+              },
+              "score": 0.041148636,
+              "pixelFraction": 0.03028308
+            },
+            {
+              "color": {
+                "red": 147,
+                "green": 111,
+                "blue": 95
+              },
+              "score": 0.040180728,
+              "pixelFraction": 0.0064186966
+            },
+            {
+              "color": {
+                "red": 112,
+                "green": 77,
+                "blue": 63
+              },
+              "score": 0.03973479,
+              "pixelFraction": 0.011356155
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 316
+                },
+                {
+                  "y": 316
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "zh-Hant"
+                }
+              ]
+            },
+            "width": 400,
+            "height": 317,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "zh-Hant"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 218,
+                      "y": 33
+                    },
+                    {
+                      "x": 243,
+                      "y": 43
+                    },
+                    {
+                      "x": 227,
+                      "y": 83
+                    },
+                    {
+                      "x": 202,
+                      "y": 73
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "zh-Hant"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 202,
+                          "y": 33
+                        },
+                        {
+                          "x": 243,
+                          "y": 33
+                        },
+                        {
+                          "x": 243,
+                          "y": 83
+                        },
+                        {
+                          "x": 202,
+                          "y": 83
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "zh-Hant"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 202,
+                              "y": 73
+                            },
+                            {
+                              "x": 218,
+                              "y": 33
+                            },
+                            {
+                              "x": 243,
+                              "y": 43
+                            },
+                            {
+                              "x": 227,
+                              "y": 83
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "zh-Hant"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 202,
+                                  "y": 73
+                                },
+                                {
+                                  "x": 218,
+                                  "y": 33
+                                },
+                                {
+                                  "x": 243,
+                                  "y": 43
+                                },
+                                {
+                                  "x": 227,
+                                  "y": 83
+                                }
+                              ]
+                            },
+                            "text": "務"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "務\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/01hlq3",
+            "score": 13.48704,
+            "description": "Museo Nacional Del Prado"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.70253,
+            "description": "Painting"
+          },
+          {
+            "entityId": "/m/0194x",
+            "score": 0.70098,
+            "description": "Baroque"
+          },
+          {
+            "entityId": "/m/01spzs",
+            "score": 0.62497514,
+            "description": "Still life"
+          },
+          {
+            "entityId": "/m/06gjp9",
+            "score": 0.44291213,
+            "description": "Floral design"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://3.bp.blogspot.com/-f8UWW_OnI24/VM5p4xy-EKI/AAAAAAAAAmg/fekNdKWmf9A/s1600/Juan%2Bde%2BArellano%2B-%2BFlorero%2B6.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/art/a/arellano/07arella.jpg"
+          },
+          {
+            "url": "https://ci3.googleusercontent.com/proxy/EGWvyS4Ww7-t72-cuJnYrb5Ocn3Dx8bE8AV-1yru5dlCNtGYrJadaoY2HHES3AOXpCbFBez5Mq4DRiSFkdlgYlIrrg=s0-d-e1-ft"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Juan_de_Arellano_-_Basket_of_Flowers_-_WGA00939.jpg/968px-Juan_de_Arellano_-_Basket_of_Flowers_-_WGA00939.jpg"
+          },
+          {
+            "url": "http://cornucopia16.com/wp-content/uploads/2015/03/juan-de-arellano-corbeille-de-fleurs-1668-70-museo-del-prado-madrid-source-web-gallery-of-art.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://i0.wp.com/redcliffeframing.com/wp-content/uploads/2016/08/IMG_1957.jpg?fit=4032%2C3024"
+          },
+          {
+            "url": "https://content3.cdnprado.net/imagenes/Documentos/imgsem/1b/1bde/1bde9dba-72f7-4e16-862d-b625aab90631/1d18623b-8ce6-4e31-bc4e-9a19cb37da28.jpg"
+          },
+          {
+            "url": "http://delgadosahagun.es/wp-content/uploads/2016/08/33-Cesta-de-J.Arellano-Mus-Prado.jpg"
+          },
+          {
+            "url": "https://content3.cdnprado.net/imagenes/Documentos/imgsem/52/52de/52ded19c-107e-48fa-b2c5-2f58a2ab65a9/8844e9bf-a9e7-43d4-a3d8-13e794082091.jpg"
+          },
+          {
+            "url": "http://3.bp.blogspot.com/-f8UWW_OnI24/VM5p4xy-EKI/AAAAAAAAAmg/fekNdKWmf9A/s1600/Juan%2Bde%2BArellano%2B-%2BFlorero%2B6.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://www.museodelprado.es/en/the-collection/art-works?search=cester%C3%ADa&ordenarPor=pm:relevance"
+          },
+          {
+            "url": "http://www.thecultureconcept.com/portrait-of-spain-masterpieces-from-the-prado-at-brisbane"
+          },
+          {
+            "url": "http://literalmagazine.com/masterpieces-from-el-prado-museum/"
+          },
+          {
+            "url": "http://houston.culturemap.com/news/entertainment/12-11-12-secrets-of-spain-the-untold-tales-of-imasterpieces-from-the-pradoi/"
+          },
+          {
+            "url": "http://www.wga.hu/html/a/arellano/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://content3.cdnprado.net/imagenes/Documentos/imgsem/52/52de/52ded19c-107e-48fa-b2c5-2f58a2ab65a9/8844e9bf-a9e7-43d4-a3d8-13e794082091.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/en/d/d3/Arellano%2C_Juan_de_~_Garland_of_Flowers_with_Landscape%2C_1652%2C_oil_on_canvas%2C_Museo_del_Prado_at_Madrid.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/0a/bb/b1/0abbb1bbcb277275bb316ff3caebd8f3.jpg"
+          },
+          {
+            "url": "http://www.oceansbridge.ca/paintings/artists/h/heem_jan_davidsz_de/thumb-oil/still_life_museo_del_prado_XX_madrid.jpg"
+          },
+          {
+            "url": "http://3www.ecestaticos.com/imagestatic/clipping/d3f/b1a/d3fb1ac6e825be1cc32f334695943f5c/200-anos-sin-mujeres-pintoras-hasta-hoy-clara-peeters-rompe-el-tabu-del-prado.jpg?mtime=1477323524"
+          }
+        ]
+      }
+    }
+  ]
+}

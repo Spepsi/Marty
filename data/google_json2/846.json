@@ -1,0 +1,449 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0djmp",
+          "description": "ancient history",
+          "score": 0.78388214
+        },
+        {
+          "mid": "/m/04rjz",
+          "description": "middle ages",
+          "score": 0.6091004
+        },
+        {
+          "mid": "/m/0hyb2",
+          "description": "altar",
+          "score": 0.60436076
+        },
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.54786575
+        },
+        {
+          "mid": "/m/03g3w",
+          "description": "history",
+          "score": 0.5200074
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "en",
+          "description": "a\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 6,
+                "y": 66
+              },
+              {
+                "x": 11,
+                "y": 66
+              },
+              {
+                "x": 11,
+                "y": 74
+              },
+              {
+                "x": 6,
+                "y": 74
+              }
+            ]
+          }
+        },
+        {
+          "description": "a",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 6,
+                "y": 66
+              },
+              {
+                "x": 11,
+                "y": 66
+              },
+              {
+                "x": 11,
+                "y": 74
+              },
+              {
+                "x": 6,
+                "y": 74
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 213,
+                "green": 190,
+                "blue": 152
+              },
+              "score": 0.2596722,
+              "pixelFraction": 0.052941177
+            },
+            {
+              "color": {
+                "red": 178,
+                "green": 155,
+                "blue": 119
+              },
+              "score": 0.19086538,
+              "pixelFraction": 0.12675522
+            },
+            {
+              "color": {
+                "red": 139,
+                "green": 117,
+                "blue": 85
+              },
+              "score": 0.11477531,
+              "pixelFraction": 0.1922201
+            },
+            {
+              "color": {
+                "red": 179,
+                "green": 153,
+                "blue": 106
+              },
+              "score": 0.10573468,
+              "pixelFraction": 0.057020873
+            },
+            {
+              "color": {
+                "red": 104,
+                "green": 84,
+                "blue": 54
+              },
+              "score": 0.07928249,
+              "pixelFraction": 0.19136623
+            },
+            {
+              "color": {
+                "red": 145,
+                "green": 119,
+                "blue": 75
+              },
+              "score": 0.051748052,
+              "pixelFraction": 0.044781785
+            },
+            {
+              "color": {
+                "red": 210,
+                "green": 185,
+                "blue": 138
+              },
+              "score": 0.047232144,
+              "pixelFraction": 0.01565465
+            },
+            {
+              "color": {
+                "red": 70,
+                "green": 52,
+                "blue": 27
+              },
+              "score": 0.021228107,
+              "pixelFraction": 0.10635673
+            },
+            {
+              "color": {
+                "red": 153,
+                "green": 111,
+                "blue": 83
+              },
+              "score": 0.015113828,
+              "pixelFraction": 0.015844403
+            },
+            {
+              "color": {
+                "red": 108,
+                "green": 83,
+                "blue": 41
+              },
+              "score": 0.014736275,
+              "pixelFraction": 0.01366224
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 273
+                },
+                {
+                  "y": 273
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "en"
+                }
+              ]
+            },
+            "width": 400,
+            "height": 274,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "en"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 6,
+                      "y": 66
+                    },
+                    {
+                      "x": 11,
+                      "y": 66
+                    },
+                    {
+                      "x": 11,
+                      "y": 74
+                    },
+                    {
+                      "x": 6,
+                      "y": 74
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "en"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 6,
+                          "y": 66
+                        },
+                        {
+                          "x": 11,
+                          "y": 66
+                        },
+                        {
+                          "x": 11,
+                          "y": 74
+                        },
+                        {
+                          "x": 6,
+                          "y": 74
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 6,
+                              "y": 66
+                            },
+                            {
+                              "x": 11,
+                              "y": 66
+                            },
+                            {
+                              "x": 11,
+                              "y": 74
+                            },
+                            {
+                              "x": 6,
+                              "y": 74
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 6,
+                                  "y": 66
+                                },
+                                {
+                                  "x": 11,
+                                  "y": 66
+                                },
+                                {
+                                  "x": 11,
+                                  "y": 74
+                                },
+                                {
+                                  "x": 6,
+                                  "y": 74
+                                }
+                              ]
+                            },
+                            "text": "a"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "a\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0cnypm",
+            "score": 8.19936,
+            "description": "The Last Judgement"
+          },
+          {
+            "entityId": "/m/01hfkb",
+            "score": 8.19936,
+            "description": "Vatican Museums"
+          },
+          {
+            "entityId": "/m/01tk_r",
+            "score": 4.41632,
+            "description": "Apostolic Palace"
+          },
+          {
+            "entityId": "/m/02rbymb",
+            "score": 2.84528,
+            "description": "Niccoline Chapel"
+          },
+          {
+            "entityId": "/g/11b6371m8z",
+            "score": 0.51246,
+            "description": "VATICAN ROME B & B"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://i2.wp.com/www.wga.hu/art/a/angelico/10/2north/40north.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/art/a/angelico/10/2north/40north.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Angelico%2C_niccolina_10.jpg/1024px-Angelico%2C_niccolina_10.jpg"
+          },
+          {
+            "url": "http://image.vtc.vn/files/f1/2016/05/13/anh-nha-nguyen-bi-mat-cua-duc-giao-hoang-vatican-15.cache"
+          },
+          {
+            "url": "http://images.alobacsi.vn/Images/Uploaded/Share/2013/3/14/Kiet-tac-trong-nha-nguyen-mat-cua-Giao-hoang-16.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://i2.wp.com/www.wga.hu/art/a/angelico/10/2north/40north.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/art/a/angelico/10/2north/40north.jpg"
+          },
+          {
+            "url": "http://www.elite-paintings.com/w/10/alph/A/Fra_Angelico/Fra_Angelico_c8_artist_painting_reproduction_handmade_oil_canvas_or_print_art_deco.jpg"
+          },
+          {
+            "url": "http://info.catholic.or.kr/gndata/board/9/9201/%ED%94%84%EB%9D%BC%EC%95%88%EC%A0%A4%EB%A6%AC%EC%BD%94_%EB%B6%81%EC%AA%BD%EB%B2%BD%EC%9E%A5%EB%A9%B4.jpg"
+          },
+          {
+            "url": "http://info.catholic.or.kr/pds/include/readImg.asp?gubun=&seq=&id=9201&filenm=%C7%C1%B6%F3%BE%C8%C1%A9%B8%AE%C4%DA%5F%BA%CF%C2%CA%BA%AE%C0%E5%B8%E9%2Ejpg&maingroup="
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.travelingintuscany.com/art/fraangelico/cappellaniccolina.htm"
+          },
+          {
+            "url": "http://theredlist.com/wiki-2-351-861-414-398-425-view-quattrocento-profile-fra-angelico-1.html"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/50595195784126939/"
+          },
+          {
+            "url": "http://historyczno-sztucznie.blogspot.com/2014/02/56-fra-angelico-z-fiesole.html"
+          },
+          {
+            "url": "https://es.wikipedia.org/wiki/Capilla_Nicolina"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Fra_Angelico_055.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Fra_Angelico_054.jpg"
+          },
+          {
+            "url": "http://www.londonfoodfilmfiesta.co.uk/IMAGES~1/DISTRI~1.JPG"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Fra_Angelico_060.jpg/300px-Fra_Angelico_060.jpg"
+          },
+          {
+            "url": "http://classconnection.s3.amazonaws.com/699/flashcards/2055699/jpg/fra_angelico___coronation_of_the_virgin1352353487598.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

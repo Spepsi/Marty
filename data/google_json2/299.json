@@ -1,0 +1,585 @@
+{
+  "responses": [
+    {
+      "faceAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 8,
+                "y": 8
+              },
+              {
+                "x": 254,
+                "y": 8
+              },
+              {
+                "x": 254,
+                "y": 294
+              },
+              {
+                "x": 8,
+                "y": 294
+              }
+            ]
+          },
+          "fdBoundingPoly": {
+            "vertices": [
+              {
+                "x": 34,
+                "y": 91
+              },
+              {
+                "x": 211,
+                "y": 91
+              },
+              {
+                "x": 211,
+                "y": 268
+              },
+              {
+                "x": 34,
+                "y": 268
+              }
+            ]
+          },
+          "landmarks": [
+            {
+              "type": "LEFT_EYE",
+              "position": {
+                "x": 81.472084,
+                "y": 148.49883,
+                "z": 0.00046513753
+              }
+            },
+            {
+              "type": "RIGHT_EYE",
+              "position": {
+                "x": 152.4444,
+                "y": 146.77332,
+                "z": -17.355276
+              }
+            },
+            {
+              "type": "LEFT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 56.947964,
+                "y": 128.12985,
+                "z": 9.723719
+              }
+            },
+            {
+              "type": "RIGHT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 96.79536,
+                "y": 132.05661,
+                "z": -21.232056
+              }
+            },
+            {
+              "type": "LEFT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 130.15256,
+                "y": 133.48088,
+                "z": -29.493675
+              }
+            },
+            {
+              "type": "RIGHT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 178.03778,
+                "y": 131.68451,
+                "z": -19.123564
+              }
+            },
+            {
+              "type": "MIDPOINT_BETWEEN_EYES",
+              "position": {
+                "x": 111.73343,
+                "y": 145.6341,
+                "z": -24.219448
+              }
+            },
+            {
+              "type": "NOSE_TIP",
+              "position": {
+                "x": 108.34892,
+                "y": 195.6799,
+                "z": -37.81355
+              }
+            },
+            {
+              "type": "UPPER_LIP",
+              "position": {
+                "x": 112.10254,
+                "y": 219.23596,
+                "z": -16.578648
+              }
+            },
+            {
+              "type": "LOWER_LIP",
+              "position": {
+                "x": 113.621,
+                "y": 242.9808,
+                "z": -7.279979
+              }
+            },
+            {
+              "type": "MOUTH_LEFT",
+              "position": {
+                "x": 90.79286,
+                "y": 225.09169,
+                "z": 10.476858
+              }
+            },
+            {
+              "type": "MOUTH_RIGHT",
+              "position": {
+                "x": 142.74678,
+                "y": 226.42891,
+                "z": -2.8432784
+              }
+            },
+            {
+              "type": "MOUTH_CENTER",
+              "position": {
+                "x": 113.52989,
+                "y": 229.51302,
+                "z": -9.346206
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_RIGHT",
+              "position": {
+                "x": 134.27505,
+                "y": 196.91803,
+                "z": -14.027254
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_LEFT",
+              "position": {
+                "x": 95.04978,
+                "y": 195.6245,
+                "z": -4.7259793
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_CENTER",
+              "position": {
+                "x": 112.327835,
+                "y": 206.67683,
+                "z": -19.124992
+              }
+            },
+            {
+              "type": "LEFT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 78.62796,
+                "y": 143.12134,
+                "z": -5.4059315
+              }
+            },
+            {
+              "type": "LEFT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 94.21415,
+                "y": 150.21356,
+                "z": -2.6840706
+              }
+            },
+            {
+              "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 79.9699,
+                "y": 154.13986,
+                "z": 0.5967372
+              }
+            },
+            {
+              "type": "LEFT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 67.008545,
+                "y": 146.21875,
+                "z": 10.288888
+              }
+            },
+            {
+              "type": "LEFT_EYE_PUPIL",
+              "position": {
+                "x": 78.255325,
+                "y": 147.76775,
+                "z": -1.1452755
+              }
+            },
+            {
+              "type": "RIGHT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 151.21075,
+                "y": 145.17218,
+                "z": -22.657442
+              }
+            },
+            {
+              "type": "RIGHT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 168.47142,
+                "y": 148.81717,
+                "z": -13.865106
+              }
+            },
+            {
+              "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 152.3432,
+                "y": 153.6807,
+                "z": -16.874222
+              }
+            },
+            {
+              "type": "RIGHT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 136.51508,
+                "y": 148.7294,
+                "z": -13.198811
+              }
+            },
+            {
+              "type": "RIGHT_EYE_PUPIL",
+              "position": {
+                "x": 152.70761,
+                "y": 149.83362,
+                "z": -19.002073
+              }
+            },
+            {
+              "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 74.52746,
+                "y": 122.09734,
+                "z": -11.745807
+              }
+            },
+            {
+              "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 153.21054,
+                "y": 124.44459,
+                "z": -30.484564
+              }
+            },
+            {
+              "type": "LEFT_EAR_TRAGION",
+              "position": {
+                "x": 55.619934,
+                "y": 167.63898,
+                "z": 105.209236
+              }
+            },
+            {
+              "type": "RIGHT_EAR_TRAGION",
+              "position": {
+                "x": 218.94894,
+                "y": 172.75894,
+                "z": 65.5227
+              }
+            },
+            {
+              "type": "FOREHEAD_GLABELLA",
+              "position": {
+                "x": 111.91402,
+                "y": 132.55731,
+                "z": -28.076168
+              }
+            },
+            {
+              "type": "CHIN_GNATHION",
+              "position": {
+                "x": 115.02939,
+                "y": 271.25726,
+                "z": 7.902069
+              }
+            },
+            {
+              "type": "CHIN_LEFT_GONION",
+              "position": {
+                "x": 56.80035,
+                "y": 220.05365,
+                "z": 81.91108
+              }
+            },
+            {
+              "type": "CHIN_RIGHT_GONION",
+              "position": {
+                "x": 205.65399,
+                "y": 224.33246,
+                "z": 46.491093
+              }
+            }
+          ],
+          "rollAngle": -0.5522136,
+          "panAngle": -13.561673,
+          "tiltAngle": -9.279664,
+          "detectionConfidence": 0.99951226,
+          "landmarkingConfidence": 0.6025939,
+          "joyLikelihood": "VERY_UNLIKELY",
+          "sorrowLikelihood": "VERY_UNLIKELY",
+          "angerLikelihood": "VERY_UNLIKELY",
+          "surpriseLikelihood": "VERY_UNLIKELY",
+          "underExposedLikelihood": "VERY_UNLIKELY",
+          "blurredLikelihood": "VERY_UNLIKELY",
+          "headwearLikelihood": "VERY_UNLIKELY"
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/0dzct",
+          "description": "face",
+          "score": 0.95047283
+        },
+        {
+          "mid": "/m/01g317",
+          "description": "person",
+          "score": 0.8953101
+        },
+        {
+          "mid": "/m/01dv4h",
+          "description": "portrait",
+          "score": 0.83853245
+        },
+        {
+          "mid": "/m/04hgtk",
+          "description": "head",
+          "score": 0.74706185
+        },
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.5684417
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "UNLIKELY",
+        "medical": "UNLIKELY",
+        "violence": "VERY_UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 70,
+                "green": 45,
+                "blue": 45
+              },
+              "score": 0.2939238,
+              "pixelFraction": 0.13079347
+            },
+            {
+              "color": {
+                "red": 105,
+                "green": 67,
+                "blue": 58
+              },
+              "score": 0.10050902,
+              "pixelFraction": 0.10140897
+            },
+            {
+              "color": {
+                "red": 57,
+                "green": 42,
+                "blue": 42
+              },
+              "score": 0.16739808,
+              "pixelFraction": 0.094920285
+            },
+            {
+              "color": {
+                "red": 35,
+                "green": 23,
+                "blue": 26
+              },
+              "score": 0.15493914,
+              "pixelFraction": 0.0902855
+            },
+            {
+              "color": {
+                "red": 41,
+                "green": 23,
+                "blue": 26
+              },
+              "score": 0.0988936,
+              "pixelFraction": 0.045698926
+            },
+            {
+              "color": {
+                "red": 86,
+                "green": 49,
+                "blue": 42
+              },
+              "score": 0.09747675,
+              "pixelFraction": 0.044864666
+            },
+            {
+              "color": {
+                "red": 98,
+                "green": 67,
+                "blue": 65
+              },
+              "score": 0.048274107,
+              "pixelFraction": 0.023637375
+            },
+            {
+              "color": {
+                "red": 140,
+                "green": 106,
+                "blue": 93
+              },
+              "score": 0.009565298,
+              "pixelFraction": 0.10891732
+            },
+            {
+              "color": {
+                "red": 90,
+                "green": 72,
+                "blue": 67
+              },
+              "score": 0.0074011646,
+              "pixelFraction": 0.0041713016
+            },
+            {
+              "color": {
+                "red": 52,
+                "green": 23,
+                "blue": 13
+              },
+              "score": 0.0050961147,
+              "pixelFraction": 0.0020393028
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 280
+                },
+                {
+                  "x": 280,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.29999998,
+            "importanceFraction": 1.53
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0cfjp",
+            "score": 25.13536,
+            "description": "Uffizi Gallery"
+          },
+          {
+            "entityId": "/m/08srys",
+            "score": 8.026401,
+            "description": "Bianca Cappello"
+          },
+          {
+            "entityId": "/m/01dv4h",
+            "score": 0.76425785,
+            "description": "Portrait"
+          },
+          {
+            "entityId": "/m/06cvx",
+            "score": 0.74798,
+            "description": "Renaissance"
+          },
+          {
+            "entityId": "/m/0cng8",
+            "score": 0.63898,
+            "description": "Elizabethan era"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://mmbiz.qpic.cn/mmbiz/SpoQUwJn00OkxCBuPWQaGlaNuACRZPsHDdEGbuR8UFUicticU04VqdkFD2XYicXxH6elhyjsBjUWTkIR44JNlpZSQ/0?wx_fmt=jpeg"
+          },
+          {
+            "url": "http://www.youhuaaa.com/UploadFiles/images/Painting_Pic_Big/16/7573.jpg"
+          },
+          {
+            "url": "http://www.elite-paintings.com/w/10/AbyC/Italy/ALLORI_Alessandro_Portrait_Of_A_Woman_artist_painting_reproduction_handmade_oil_canvas_or_print_art_deco.jpg"
+          },
+          {
+            "url": "http://cfile24.uf.tistory.com/image/1110921C49FD3F309BE08B"
+          },
+          {
+            "url": "http://postfiles5.naver.net/20140105_4/kmozzart_1388897579860b0Hjp_JPEG/Alloria_PortraitOfAWoman.jpg?type=w1"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://www.scenacriminis.com/wp-content/uploads/2014/12/Alessandro_Allori_-_Portrait_of_Bianca_Cappello.jpg"
+          },
+          {
+            "url": "https://3.bp.blogspot.com/-HGs4NwC_4WU/VwfVFvBc84I/AAAAAAAACWY/0coXKwB7ff4SDF-J66uMzBpE7vQnD_NWw/s1600/Alessandro_Allori_-_Portrait_of_Bianca_Cappello.jpg"
+          },
+          {
+            "url": "http://img-fotki.yandex.ru/get/9306/159863450.11f/0_110d84_3462954a_XXXL.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Alessandro_Allori_-_Portrait_of_Bianca_Cappello.jpg/800px-Alessandro_Allori_-_Portrait_of_Bianca_Cappello.jpg"
+          },
+          {
+            "url": "http://mmbiz.qpic.cn/mmbiz/SpoQUwJn00OkxCBuPWQaGlaNuACRZPsHDdEGbuR8UFUicticU04VqdkFD2XYicXxH6elhyjsBjUWTkIR44JNlpZSQ/0?wx_fmt=jpeg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.the-athenaeum.org/art/list.php?m=a&s=tu&aid=2604"
+          },
+          {
+            "url": "http://www.wga.hu/frames-e.html?/html/a/allori/alessand/index.html"
+          },
+          {
+            "url": "https://www.artexpertswebsite.com/pages/artists/allori.php"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Alessandro_Allori_-_Portrait_of_Bianca_Cappello.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/html_m/a/allori/alessand/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/d5/67/49/d5674915af53bcc91ab34343e2ac6fbd.jpg"
+          },
+          {
+            "url": "https://www.cutlermiles.com/media/catalog/product/cache/1/small_image/262x330/9df78eab33525d08d6e5fb8d27136e95/p/o/portrait-of-a-woman_alessandro-allori.jpg"
+          },
+          {
+            "url": "https://www.reprodart.com/kunst/alessandro_allori/portraet_von_bianca_capello_gr.jpg"
+          },
+          {
+            "url": "http://www.artmuseum.cz/resources/artists/allori_lead.jpg"
+          },
+          {
+            "url": "http://en.wahooart.com/Art.nsf/O/9GZQBY/$File/AlessandroAllori-Untitled(545)-S.JPG"
+          }
+        ]
+      }
+    }
+  ]
+}

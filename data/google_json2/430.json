@@ -1,0 +1,464 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0557q",
+          "description": "musical theatre",
+          "score": 0.57439816
+        },
+        {
+          "mid": "/m/04zhd",
+          "description": "mythology",
+          "score": 0.5085727
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "en",
+          "description": "of\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 383,
+                "y": 132
+              },
+              {
+                "x": 397,
+                "y": 132
+              },
+              {
+                "x": 397,
+                "y": 148
+              },
+              {
+                "x": 383,
+                "y": 148
+              }
+            ]
+          }
+        },
+        {
+          "description": "of",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 385,
+                "y": 149
+              },
+              {
+                "x": 383,
+                "y": 135
+              },
+              {
+                "x": 394,
+                "y": 133
+              },
+              {
+                "x": 397,
+                "y": 147
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 124,
+                "green": 124,
+                "blue": 115
+              },
+              "score": 0.09811091,
+              "pixelFraction": 0.082529396
+            },
+            {
+              "color": {
+                "red": 176,
+                "green": 155,
+                "blue": 128
+              },
+              "score": 0.08207125,
+              "pixelFraction": 0.08185107
+            },
+            {
+              "color": {
+                "red": 78,
+                "green": 41,
+                "blue": 24
+              },
+              "score": 0.07070836,
+              "pixelFraction": 0.062405787
+            },
+            {
+              "color": {
+                "red": 24,
+                "green": 12,
+                "blue": 8
+              },
+              "score": 0.044986293,
+              "pixelFraction": 0.23145916
+            },
+            {
+              "color": {
+                "red": 150,
+                "green": 64,
+                "blue": 40
+              },
+              "score": 0.031391982,
+              "pixelFraction": 0.0059541753
+            },
+            {
+              "color": {
+                "red": 215,
+                "green": 187,
+                "blue": 157
+              },
+              "score": 0.05704889,
+              "pixelFraction": 0.025474826
+            },
+            {
+              "color": {
+                "red": 117,
+                "green": 76,
+                "blue": 55
+              },
+              "score": 0.055965237,
+              "pixelFraction": 0.039870366
+            },
+            {
+              "color": {
+                "red": 136,
+                "green": 118,
+                "blue": 95
+              },
+              "score": 0.04711838,
+              "pixelFraction": 0.05358758
+            },
+            {
+              "color": {
+                "red": 155,
+                "green": 109,
+                "blue": 86
+              },
+              "score": 0.039009724,
+              "pixelFraction": 0.02622852
+            },
+            {
+              "color": {
+                "red": 52,
+                "green": 19,
+                "blue": 6
+              },
+              "score": 0.035356067,
+              "pixelFraction": 0.03934278
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 343
+                },
+                {
+                  "y": 343
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "en"
+                }
+              ]
+            },
+            "width": 400,
+            "height": 344,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "en"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 385,
+                      "y": 149
+                    },
+                    {
+                      "x": 383,
+                      "y": 135
+                    },
+                    {
+                      "x": 394,
+                      "y": 133
+                    },
+                    {
+                      "x": 397,
+                      "y": 147
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "en"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 383,
+                          "y": 132
+                        },
+                        {
+                          "x": 397,
+                          "y": 132
+                        },
+                        {
+                          "x": 397,
+                          "y": 148
+                        },
+                        {
+                          "x": 383,
+                          "y": 148
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 385,
+                              "y": 149
+                            },
+                            {
+                              "x": 383,
+                              "y": 135
+                            },
+                            {
+                              "x": 394,
+                              "y": 133
+                            },
+                            {
+                              "x": 397,
+                              "y": 147
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 385,
+                                  "y": 149
+                                },
+                                {
+                                  "x": 384,
+                                  "y": 143
+                                },
+                                {
+                                  "x": 396,
+                                  "y": 141
+                                },
+                                {
+                                  "x": 397,
+                                  "y": 147
+                                }
+                              ]
+                            },
+                            "text": "o"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 384,
+                                  "y": 141
+                                },
+                                {
+                                  "x": 383,
+                                  "y": 135
+                                },
+                                {
+                                  "x": 395,
+                                  "y": 133
+                                },
+                                {
+                                  "x": 396,
+                                  "y": 139
+                                }
+                              ]
+                            },
+                            "text": "f"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "of\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/01hlq3",
+            "score": 5.99888,
+            "description": "Museo Nacional Del Prado"
+          },
+          {
+            "entityId": "/m/05sx9",
+            "score": 0.70405,
+            "description": "Pharaoh"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.41189,
+            "description": "Painting"
+          },
+          {
+            "entityId": "/m/05nmd",
+            "score": 0.35977,
+            "description": "Oil painting"
+          },
+          {
+            "entityId": "/m/0194x",
+            "score": 0.32395,
+            "description": "Baroque"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Jacopo_Amigoni_-_Joseph_in_the_Pharaoh%27s_Palace_-_WGA00271.jpg"
+          },
+          {
+            "url": "http://img.phombo.com/img1/photocombo/6290/European_painting_and_sculpture_from_12th_to_mid-19th_centuries_project_-_update_A-659.jpg_AMIGONI_Jacopo_-_Juno_Receiving_the_Head_of_Argos.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/art/a/amigoni/joseph.jpg"
+          },
+          {
+            "url": "http://2.bp.blogspot.com/-XCAQ_i6-Uq0/VZcwLmy_bnI/AAAAAAACEzU/7XDnKNU964E/s1600/4.jpg"
+          },
+          {
+            "url": "http://www.artita.ru/dat/a/amigoni/2.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://www.villaggioglobaleinternational.it/sala_stampa/events/archivio_img/hd/img116_1545.jpg"
+          },
+          {
+            "url": "https://content3.cdnprado.net/imagenes/Documentos/imgsem/f5/f572/f572d8c2-de2b-4a5c-8d72-0e8bc49a3db9/c9b77311-026e-4781-a276-a6bee993d128.jpg"
+          },
+          {
+            "url": "https://i.ytimg.com/vi/AStl_1ExNqo/maxresdefault.jpg"
+          },
+          {
+            "url": "https://territaland.ru/_ph/1012/841974345.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Jacopo_Amigoni_-_Joseph_in_the_Pharaoh%27s_Palace_-_WGA00271.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.the-athenaeum.org/art/list.php?m=a&s=tu&aid=6078"
+          },
+          {
+            "url": "http://www.wga.hu/html/a/amigoni/"
+          },
+          {
+            "url": "https://www.pinterest.com/gabrielamikeska/jacopo-amigoni/"
+          },
+          {
+            "url": "http://www.alamy.com/stock-photo/jacopo-amigoni.html"
+          },
+          {
+            "url": "http://www.all-art.org/DICTIONARY_of_Art/a/amigoni1.htm"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://3.bp.blogspot.com/-03ZjerKJsGo/Vg6SzgILXqI/AAAAAAAACX8/vGyYaEwnCqc/s1600/179398_gn07s02a_34.jpg"
+          },
+          {
+            "url": "http://68.media.tumblr.com/tumblr_lzt335pCR81qfswibo1_540.jpg"
+          },
+          {
+            "url": "https://www.senato.it/img/repository/notizie/2011/galleria01/img/big/JacopoAmigoni_01.jpg"
+          },
+          {
+            "url": "http://2.bp.blogspot.com/-aB2FSTCXAq0/Uol85OFaLbI/AAAAAAAA29I/9pNKH5Yy-B8/s1600/jacopo-amigoni-jose-en-el-palacio-del-faraon-pintores-y-pinturas-juan-carlos-boveri.jpg"
+          },
+          {
+            "url": "http://arts.mythologica.fr/artist-a/pic/amigoni_esther.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

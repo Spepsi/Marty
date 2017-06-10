@@ -1,0 +1,509 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.7438337
+        },
+        {
+          "mid": "/m/0djmp",
+          "description": "ancient history",
+          "score": 0.57109547
+        },
+        {
+          "mid": "/m/018ktp",
+          "description": "watercolor paint",
+          "score": 0.57043993
+        },
+        {
+          "mid": "/m/017m8l",
+          "description": "waterway",
+          "score": 0.53818476
+        },
+        {
+          "mid": "/m/03d1rd",
+          "description": "ruins",
+          "score": 0.5114447
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "az",
+          "description": "rmi\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 137,
+                "y": 155
+              },
+              {
+                "x": 156,
+                "y": 155
+              },
+              {
+                "x": 156,
+                "y": 164
+              },
+              {
+                "x": 137,
+                "y": 164
+              }
+            ]
+          }
+        },
+        {
+          "description": "rmi",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 137,
+                "y": 155
+              },
+              {
+                "x": 156,
+                "y": 155
+              },
+              {
+                "x": 156,
+                "y": 164
+              },
+              {
+                "x": 137,
+                "y": 164
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 63,
+                "green": 49,
+                "blue": 27
+              },
+              "score": 0.25898427,
+              "pixelFraction": 0.099255584
+            },
+            {
+              "color": {
+                "red": 200,
+                "green": 196,
+                "blue": 171
+              },
+              "score": 0.21502292,
+              "pixelFraction": 0.13647643
+            },
+            {
+              "color": {
+                "red": 181,
+                "green": 155,
+                "blue": 102
+              },
+              "score": 0.07242931,
+              "pixelFraction": 0.029569892
+            },
+            {
+              "color": {
+                "red": 95,
+                "green": 79,
+                "blue": 52
+              },
+              "score": 0.09757279,
+              "pixelFraction": 0.07371795
+            },
+            {
+              "color": {
+                "red": 190,
+                "green": 192,
+                "blue": 180
+              },
+              "score": 0.08467961,
+              "pixelFraction": 0.18093465
+            },
+            {
+              "color": {
+                "red": 137,
+                "green": 120,
+                "blue": 90
+              },
+              "score": 0.067789756,
+              "pixelFraction": 0.06751447
+            },
+            {
+              "color": {
+                "red": 167,
+                "green": 150,
+                "blue": 116
+              },
+              "score": 0.05483111,
+              "pixelFraction": 0.05614144
+            },
+            {
+              "color": {
+                "red": 75,
+                "green": 47,
+                "blue": 27
+              },
+              "score": 0.034981906,
+              "pixelFraction": 0.02512407
+            },
+            {
+              "color": {
+                "red": 141,
+                "green": 119,
+                "blue": 71
+              },
+              "score": 0.022619946,
+              "pixelFraction": 0.009615385
+            },
+            {
+              "color": {
+                "red": 100,
+                "green": 70,
+                "blue": 46
+              },
+              "score": 0.0164167,
+              "pixelFraction": 0.014474773
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 251
+                },
+                {
+                  "y": 251
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "az"
+                }
+              ]
+            },
+            "width": 400,
+            "height": 252,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "az"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 137,
+                      "y": 155
+                    },
+                    {
+                      "x": 156,
+                      "y": 155
+                    },
+                    {
+                      "x": 156,
+                      "y": 164
+                    },
+                    {
+                      "x": 137,
+                      "y": 164
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "az"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 137,
+                          "y": 155
+                        },
+                        {
+                          "x": 156,
+                          "y": 155
+                        },
+                        {
+                          "x": 156,
+                          "y": 164
+                        },
+                        {
+                          "x": 137,
+                          "y": 164
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "az"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 137,
+                              "y": 155
+                            },
+                            {
+                              "x": 156,
+                              "y": 155
+                            },
+                            {
+                              "x": 156,
+                              "y": 164
+                            },
+                            {
+                              "x": 137,
+                              "y": 164
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "az"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 137,
+                                  "y": 156
+                                },
+                                {
+                                  "x": 139,
+                                  "y": 156
+                                },
+                                {
+                                  "x": 139,
+                                  "y": 164
+                                },
+                                {
+                                  "x": 137,
+                                  "y": 164
+                                }
+                              ]
+                            },
+                            "text": "r"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "az"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 141,
+                                  "y": 156
+                                },
+                                {
+                                  "x": 152,
+                                  "y": 156
+                                },
+                                {
+                                  "x": 152,
+                                  "y": 163
+                                },
+                                {
+                                  "x": 141,
+                                  "y": 163
+                                }
+                              ]
+                            },
+                            "text": "m"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "az"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 154,
+                                  "y": 155
+                                },
+                                {
+                                  "x": 156,
+                                  "y": 155
+                                },
+                                {
+                                  "x": 156,
+                                  "y": 164
+                                },
+                                {
+                                  "x": 154,
+                                  "y": 164
+                                }
+                              ]
+                            },
+                            "text": "i"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "rmi\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.5699233,
+            "description": "Painting"
+          },
+          {
+            "entityId": "/g/12xpjd4x2",
+            "score": 0.5298,
+            "description": "Hotel Ponte Sisto"
+          },
+          {
+            "entityId": "/m/08b33",
+            "score": 0.3863,
+            "description": "18th century"
+          },
+          {
+            "entityId": "/m/09hhy4",
+            "score": 0.37026,
+            "description": "Veduta"
+          },
+          {
+            "entityId": "/m/03cpprl",
+            "score": 0.31007,
+            "description": "Capriccio"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://1.bp.blogspot.com/-9sf-1RznqM8/UiRRSR7HOCI/AAAAAAAAPrU/Qz4rHnkAmZE/s1600/3+Paolo_anesi_painting1+tiber+bridge.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/art/a/anesi/rome.jpg"
+          },
+          {
+            "url": "http://68.media.tumblr.com/b1dd4aef2f2a71dded4e6ee4b9da3694/tumblr_n82bk03qHO1syzcjgo3_1280.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Paolo_anesi_painting1.jpg/1200px-Paolo_anesi_painting1.jpg"
+          },
+          {
+            "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Paolo_anesi_painting1.jpg/600px-Paolo_anesi_painting1.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://1.bp.blogspot.com/-9sf-1RznqM8/UiRRSR7HOCI/AAAAAAAAPrU/Qz4rHnkAmZE/s1600/3+Paolo_anesi_painting1+tiber+bridge.jpg"
+          },
+          {
+            "url": "http://www.rome-roma.net/artmodule/paolo%20anesi/paolo%20anesi%20-%20veduta%20di%20ponte%20sisto.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/art/a/anesi/rome.jpg"
+          },
+          {
+            "url": "http://68.media.tumblr.com/b1dd4aef2f2a71dded4e6ee4b9da3694/tumblr_n82bk03qHO1syzcjgo3_1280.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Paolo_anesi_painting1.jpg/1200px-Paolo_anesi_painting1.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Paolo_Anesi"
+          },
+          {
+            "url": "http://www.wikiwand.com/en/Paolo_Anesi"
+          },
+          {
+            "url": "http://www.artnet.com/artists/paolo-anesi/past-auction-results/2"
+          },
+          {
+            "url": "http://italianartsociety.tumblr.com/post/91245871336/painter-draughtsman-and-printmaker-paolo-anesi"
+          },
+          {
+            "url": "http://www.revolvy.com/main/index.php?s=Paolo%20Anesi"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://www.wga.hu/art/a/anesi/rome.jpg"
+          },
+          {
+            "url": "https://www.dorotheum.com/uploads/tx_ogkatalogebe/lots/38A91006_138_37380_13_a.jpg"
+          },
+          {
+            "url": "http://www.artvalue.com/photos/auction/0/49/49132/follower-of-anesi-paolo-1697-1-figures-on-a-path-before-an-it-2744845.jpg"
+          },
+          {
+            "url": "https://www.dorotheum.com/38A00421_138_37032_7/Bild/Hendrik-Mommers.jpg"
+          },
+          {
+            "url": "http://foto.cambiaste.com/Foto/Ridotte/1/105140/105140.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,377 @@
+{
+  "responses": [
+    {
+      "logoAnnotations": [
+        {
+          "description": "The Last Supper",
+          "score": 0.93970025,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 5,
+                "y": 197
+              },
+              {
+                "x": 389,
+                "y": 197
+              },
+              {
+                "x": 389,
+                "y": 354
+              },
+              {
+                "x": 5,
+                "y": 354
+              }
+            ]
+          }
+        },
+        {
+          "description": "Stories of Christ's Passion",
+          "score": 0.8565368,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 117,
+                "y": 11
+              },
+              {
+                "x": 265,
+                "y": 11
+              },
+              {
+                "x": 265,
+                "y": 197
+              },
+              {
+                "x": 117,
+                "y": 197
+              }
+            ]
+          }
+        },
+        {
+          "description": "Stories of Christ's Passion",
+          "score": 0.8321228,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 5,
+                "y": 47
+              },
+              {
+                "x": 356,
+                "y": 47
+              },
+              {
+                "x": 356,
+                "y": 175
+              },
+              {
+                "x": 5,
+                "y": 175
+              }
+            ]
+          }
+        },
+        {
+          "description": "Stories of Christ's Passion",
+          "score": 0.8032155,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 287,
+                "y": 13
+              },
+              {
+                "x": 390,
+                "y": 13
+              },
+              {
+                "x": 390,
+                "y": 175
+              },
+              {
+                "x": 287,
+                "y": 175
+              }
+            ]
+          }
+        },
+        {
+          "description": "Stories of Christ's Passion",
+          "score": 0.7983307,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 4,
+                "y": 11
+              },
+              {
+                "x": 123,
+                "y": 11
+              },
+              {
+                "x": 123,
+                "y": 176
+              },
+              {
+                "x": 4,
+                "y": 176
+              }
+            ]
+          }
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.8283796
+        },
+        {
+          "mid": "/m/04rd7",
+          "description": "mural",
+          "score": 0.78963816
+        },
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.7035643
+        },
+        {
+          "mid": "/m/015r61",
+          "description": "modern art",
+          "score": 0.6895329
+        },
+        {
+          "mid": "/m/05zp8",
+          "description": "palace",
+          "score": 0.6647063
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 172,
+                "green": 154,
+                "blue": 129
+              },
+              "score": 0.24132165,
+              "pixelFraction": 0.15056163
+            },
+            {
+              "color": {
+                "red": 208,
+                "green": 189,
+                "blue": 162
+              },
+              "score": 0.15784276,
+              "pixelFraction": 0.09547811
+            },
+            {
+              "color": {
+                "red": 139,
+                "green": 119,
+                "blue": 97
+              },
+              "score": 0.115193024,
+              "pixelFraction": 0.07884505
+            },
+            {
+              "color": {
+                "red": 168,
+                "green": 154,
+                "blue": 147
+              },
+              "score": 0.06066072,
+              "pixelFraction": 0.037226383
+            },
+            {
+              "color": {
+                "red": 130,
+                "green": 116,
+                "blue": 109
+              },
+              "score": 0.05740662,
+              "pixelFraction": 0.03578629
+            },
+            {
+              "color": {
+                "red": 100,
+                "green": 83,
+                "blue": 63
+              },
+              "score": 0.05687008,
+              "pixelFraction": 0.031538017
+            },
+            {
+              "color": {
+                "red": 95,
+                "green": 84,
+                "blue": 79
+              },
+              "score": 0.05647554,
+              "pixelFraction": 0.035570275
+            },
+            {
+              "color": {
+                "red": 201,
+                "green": 189,
+                "blue": 181
+              },
+              "score": 0.041157894,
+              "pixelFraction": 0.028153801
+            },
+            {
+              "color": {
+                "red": 108,
+                "green": 75,
+                "blue": 56
+              },
+              "score": 0.03319055,
+              "pixelFraction": 0.06473214
+            },
+            {
+              "color": {
+                "red": 241,
+                "green": 222,
+                "blue": 196
+              },
+              "score": 0.020667301,
+              "pixelFraction": 0.014760945
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 361
+                },
+                {
+                  "y": 361
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0glsf9l",
+            "score": 6.23392,
+            "description": "Last Supper"
+          },
+          {
+            "entityId": "/m/02vm8gx",
+            "score": 5.70848,
+            "description": "Sant'Apollonia"
+          },
+          {
+            "entityId": "/m/0jnz3",
+            "score": 5.65128,
+            "description": "The Last Supper"
+          },
+          {
+            "entityId": "/m/02qn9zl",
+            "score": 2.47792,
+            "description": "Foreste Casentinesi, Monte Falterona, Campigna National Park"
+          },
+          {
+            "entityId": "/m/05r07h",
+            "score": 1.24884,
+            "description": "Cenacle"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://www.howtravel.com/wp-content/uploads/2015/07/slick_Andrea-del-CastagnoUltima-Cena.jpg"
+          },
+          {
+            "url": "http://www.teggelaar.com/florence/imflorence/F4265.jpg"
+          },
+          {
+            "url": "http://3.citynews-firenzetoday.stgy.ovh/~media/original-hi/14962182056575/pasqua-al-cenacolo-di-sant-apollonia-visite-guidate-gratuite-all-ultima-cena-di-andrea-del-castagno-2.jpg"
+          },
+          {
+            "url": "http://cdn3.discovertuscany.com/img/events/florence-november/cenacolo-sant-apollonia.jpg?w=750&q=65"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/bc/98/31/bc983175f79d275a8f9d2083dd6f43ab.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://www.howtravel.com/wp-content/uploads/2015/07/slick_Andrea-del-CastagnoUltima-Cena.jpg"
+          },
+          {
+            "url": "https://oudemeesterschilderijen.files.wordpress.com/2013/10/schilderij-castagno-last-supper-in-situ-1445-50.jpg"
+          },
+          {
+            "url": "http://www.florencedomehotel.com/cms-admin/materiale/categorie/img-galleria-6-max.jpg"
+          },
+          {
+            "url": "https://s3.amazonaws.com/classconnection/779/flashcards/9194779/png/2-14FF2AB943D15057F90.png"
+          },
+          {
+            "url": "http://cdn2.discovertuscany.com/img/florence/last-suppers/sant-apollonia-2.jpg?w=1140&q=60&auto=enhance"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.travelingintuscany.com/art/andreadelcastagno.htm"
+          },
+          {
+            "url": "http://www.abcgallery.com/C/castagno/castagno.html"
+          },
+          {
+            "url": "http://www.turismo.intoscana.it/site/en/highlights/Florence-Andrea-del-Castagno-Cenacolo-di-SantApollonia/"
+          },
+          {
+            "url": "http://www.turismo.intoscana.it/site/en/highlights/The-Andrea-Del-Castagno-Virtual-Museum-San-Godenzo/"
+          },
+          {
+            "url": "http://www.wga.hu/html_m/a/andrea/castagno/1_1440s/06apollo.html"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://dg19s6hp6ufoh.cloudfront.net/pictures/612056485/square/Andrea_del_castagno__sant'apollonia_00.jpeg?1375859010"
+          },
+          {
+            "url": "http://2.citynews-firenzetoday.stgy.ovh/~media/horizontal-mid/14962182056575/pasqua-al-cenacolo-di-sant-apollonia-visite-guidate-gratuite-all-ultima-cena-di-andrea-del-castagno-2.jpg"
+          },
+          {
+            "url": "http://www.mystudios.com/artgallery/paintings/131001-131500/131032/size1.jpg"
+          },
+          {
+            "url": "https://www.copia-di-arte.com/kunst/andrea_del_castagno/thm_alg182119.jpg"
+          },
+          {
+            "url": "http://1.bp.blogspot.com/-pbnuodgGlGU/Upspt3uFLBI/AAAAAAAAAO4/03cSlDD16es/s1600/CASTAGNO.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

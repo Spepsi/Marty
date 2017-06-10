@@ -1,0 +1,621 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0djmp",
+          "description": "ancient history",
+          "score": 0.5983141
+        },
+        {
+          "mid": "/m/0cfs8",
+          "description": "cathedral",
+          "score": 0.54151636
+        },
+        {
+          "mid": "/m/0f28m",
+          "description": "symmetry",
+          "score": 0.5403041
+        },
+        {
+          "mid": "/m/0f85g",
+          "description": "basilica",
+          "score": 0.5113865
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "zh-Hant",
+          "description": "MI\n鳳\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 148,
+                "y": 29
+              },
+              {
+                "x": 189,
+                "y": 29
+              },
+              {
+                "x": 189,
+                "y": 333
+              },
+              {
+                "x": 148,
+                "y": 333
+              }
+            ]
+          }
+        },
+        {
+          "description": "MI",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 148,
+                "y": 320
+              },
+              {
+                "x": 174,
+                "y": 320
+              },
+              {
+                "x": 174,
+                "y": 333
+              },
+              {
+                "x": 148,
+                "y": 333
+              }
+            ]
+          }
+        },
+        {
+          "description": "鳳",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 173,
+                "y": 65
+              },
+              {
+                "x": 174,
+                "y": 29
+              },
+              {
+                "x": 189,
+                "y": 29
+              },
+              {
+                "x": 188,
+                "y": 65
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 144,
+                "green": 110,
+                "blue": 93
+              },
+              "score": 0.18220054,
+              "pixelFraction": 0.057312872
+            },
+            {
+              "color": {
+                "red": 193,
+                "green": 141,
+                "blue": 98
+              },
+              "score": 0.06433148,
+              "pixelFraction": 0.011509553
+            },
+            {
+              "color": {
+                "red": 137,
+                "green": 113,
+                "blue": 94
+              },
+              "score": 0.1198316,
+              "pixelFraction": 0.081428126
+            },
+            {
+              "color": {
+                "red": 113,
+                "green": 80,
+                "blue": 64
+              },
+              "score": 0.11304256,
+              "pixelFraction": 0.06052302
+            },
+            {
+              "color": {
+                "red": 163,
+                "green": 112,
+                "blue": 72
+              },
+              "score": 0.062844105,
+              "pixelFraction": 0.013388663
+            },
+            {
+              "color": {
+                "red": 183,
+                "green": 144,
+                "blue": 119
+              },
+              "score": 0.058748942,
+              "pixelFraction": 0.014876292
+            },
+            {
+              "color": {
+                "red": 105,
+                "green": 83,
+                "blue": 66
+              },
+              "score": 0.0577612,
+              "pixelFraction": 0.11165048
+            },
+            {
+              "color": {
+                "red": 174,
+                "green": 150,
+                "blue": 129
+              },
+              "score": 0.04685957,
+              "pixelFraction": 0.02121829
+            },
+            {
+              "color": {
+                "red": 131,
+                "green": 114,
+                "blue": 107
+              },
+              "score": 0.039312236,
+              "pixelFraction": 0.09693079
+            },
+            {
+              "color": {
+                "red": 99,
+                "green": 84,
+                "blue": 78
+              },
+              "score": 0.035477266,
+              "pixelFraction": 0.14383025
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 330
+                },
+                {
+                  "x": 330,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "zh-Hant"
+                }
+              ]
+            },
+            "width": 331,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "en"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 148,
+                      "y": 320
+                    },
+                    {
+                      "x": 174,
+                      "y": 320
+                    },
+                    {
+                      "x": 174,
+                      "y": 333
+                    },
+                    {
+                      "x": 148,
+                      "y": 333
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "en"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 148,
+                          "y": 320
+                        },
+                        {
+                          "x": 174,
+                          "y": 320
+                        },
+                        {
+                          "x": 174,
+                          "y": 333
+                        },
+                        {
+                          "x": 148,
+                          "y": 333
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 148,
+                              "y": 320
+                            },
+                            {
+                              "x": 174,
+                              "y": 320
+                            },
+                            {
+                              "x": 174,
+                              "y": 333
+                            },
+                            {
+                              "x": 148,
+                              "y": 333
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "zh-Hant"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 148,
+                                  "y": 320
+                                },
+                                {
+                                  "x": 159,
+                                  "y": 320
+                                },
+                                {
+                                  "x": 159,
+                                  "y": 332
+                                },
+                                {
+                                  "x": 148,
+                                  "y": 332
+                                }
+                              ]
+                            },
+                            "text": "M"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "zh-Hant"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 163,
+                                  "y": 320
+                                },
+                                {
+                                  "x": 174,
+                                  "y": 320
+                                },
+                                {
+                                  "x": 174,
+                                  "y": 333
+                                },
+                                {
+                                  "x": 163,
+                                  "y": 333
+                                }
+                              ]
+                            },
+                            "text": "I"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              },
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "zh-Hant"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 174,
+                      "y": 29
+                    },
+                    {
+                      "x": 189,
+                      "y": 29
+                    },
+                    {
+                      "x": 188,
+                      "y": 65
+                    },
+                    {
+                      "x": 173,
+                      "y": 65
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "zh-Hant"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 173,
+                          "y": 29
+                        },
+                        {
+                          "x": 189,
+                          "y": 29
+                        },
+                        {
+                          "x": 189,
+                          "y": 65
+                        },
+                        {
+                          "x": 173,
+                          "y": 65
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "zh-Hant"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 173,
+                              "y": 65
+                            },
+                            {
+                              "x": 174,
+                              "y": 29
+                            },
+                            {
+                              "x": 189,
+                              "y": 29
+                            },
+                            {
+                              "x": 188,
+                              "y": 65
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "zh-Hant"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 173,
+                                  "y": 65
+                                },
+                                {
+                                  "x": 174,
+                                  "y": 29
+                                },
+                                {
+                                  "x": 189,
+                                  "y": 29
+                                },
+                                {
+                                  "x": 188,
+                                  "y": 65
+                                }
+                              ]
+                            },
+                            "text": "鳳"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "MI\n鳳\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/01fsd9",
+            "score": 15.4464,
+            "description": "Santa Maria Novella"
+          },
+          {
+            "entityId": "/g/11_pkq41p",
+            "score": 4.32672,
+            "description": "Museum of Santa Maria Novella"
+          },
+          {
+            "entityId": "/g/1210xp_x",
+            "score": 1.77924
+          },
+          {
+            "entityId": "/g/1tp8fmj2",
+            "score": 0.73664
+          },
+          {
+            "entityId": "/g/120yrpnw",
+            "score": 0.6027
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://blogimg.hani.co.kr/editor/uploads/2016/05/06/103998_49562.jpg_M800.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/bc/c5/9b/bcc59b4991dfd80f6ca3798d295e7ea7.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/bc/c5/9b/bcc59b4991dfd80f6ca3798d295e7ea7.jpg"
+          },
+          {
+            "url": "https://c1.staticflickr.com/8/7320/11979801293_68c5148f26_n.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/preview/a/andrea/firenze/spanish/5vault.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://blogimg.hani.co.kr/editor/uploads/2016/05/06/103998_49562.jpg_M800.jpg"
+          },
+          {
+            "url": "http://www.thetoc.gr/images/articles/3/article_98402/upl56d40d2e88d85.jpg"
+          },
+          {
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/0e/8f/16/68/volta-cappellone.jpg"
+          },
+          {
+            "url": "http://images.magyarmuzeumok.hu/zso_10.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/bc/c5/9b/bcc59b4991dfd80f6ca3798d295e7ea7.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.wga.hu/frames-e.html?/html/a/andrea/firenze/spanish/index.html"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/408842472397941438/"
+          },
+          {
+            "url": "https://www.tripadvisor.com/LocationPhotoDirectLink-g187895-d209207-i244258408-Church_of_Santa_Maria_Novella-Florence_Tuscany.html"
+          },
+          {
+            "url": "https://www.tripadvisor.in/LocationPhotoDirectLink-g187895-d209207-i244258322-Church_of_Santa_Maria_Novella-Florence_Tuscany.html"
+          },
+          {
+            "url": "https://www.tripadvisor.in/LocationPhotoDirectLink-g187895-d209207-i244258408-Church_of_Santa_Maria_Novella-Florence_Tuscany.html"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://anchaesmicasa.files.wordpress.com/2014/08/andrea-da-firenze-cappellone-degli-spagnoli-santa-maria-novella-firenze.jpg?w=640"
+          },
+          {
+            "url": "https://c1.staticflickr.com/9/8688/27682844384_18bb899f8a_b.jpg"
+          },
+          {
+            "url": "https://farm2.staticflickr.com/1313/5153838417_5b670d1d83_b.jpg"
+          },
+          {
+            "url": "https://previews.123rf.com/images/tasfoto/tasfoto1510/tasfoto151000117/47385800-Affreschi-di-Bonaiuto-nel-Cappellone-degli-Spagnoli-alla-Basilica-di-Santa-Maria-Novella-a-Firenze-I-Archivio-Fotografico.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Cappellone_degli_Spagnoli_Santa_Maria_Novella_Florenz-2a.jpg/1024px-Cappellone_degli_Spagnoli_Santa_Maria_Novella_Florenz-2a.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

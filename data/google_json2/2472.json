@@ -1,0 +1,241 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05fblh",
+          "description": "habitat",
+          "score": 0.96751773
+        },
+        {
+          "mid": "/m/07pw27b",
+          "description": "atmospheric phenomenon",
+          "score": 0.88786197
+        },
+        {
+          "mid": "/m/02py09",
+          "description": "natural environment",
+          "score": 0.84469795
+        },
+        {
+          "mid": "/m/02zr8",
+          "description": "forest",
+          "score": 0.7806944
+        },
+        {
+          "mid": "/m/02_ktj",
+          "description": "morning",
+          "score": 0.71129006
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 206,
+                "green": 197,
+                "blue": 162
+              },
+              "score": 0.34509492,
+              "pixelFraction": 0.04813768
+            },
+            {
+              "color": {
+                "red": 65,
+                "green": 52,
+                "blue": 24
+              },
+              "score": 0.049245898,
+              "pixelFraction": 0.28732955
+            },
+            {
+              "color": {
+                "red": 101,
+                "green": 128,
+                "blue": 155
+              },
+              "score": 0.04445669,
+              "pixelFraction": 0.0022447621
+            },
+            {
+              "color": {
+                "red": 234,
+                "green": 228,
+                "blue": 193
+              },
+              "score": 0.14878704,
+              "pixelFraction": 0.012055204
+            },
+            {
+              "color": {
+                "red": 171,
+                "green": 161,
+                "blue": 125
+              },
+              "score": 0.044002894,
+              "pixelFraction": 0.025440639
+            },
+            {
+              "color": {
+                "red": 107,
+                "green": 123,
+                "blue": 122
+              },
+              "score": 0.032426618,
+              "pixelFraction": 0.0058197537
+            },
+            {
+              "color": {
+                "red": 214,
+                "green": 200,
+                "blue": 149
+              },
+              "score": 0.03241743,
+              "pixelFraction": 0.004406385
+            },
+            {
+              "color": {
+                "red": 125,
+                "green": 157,
+                "blue": 177
+              },
+              "score": 0.029798891,
+              "pixelFraction": 0.0023279015
+            },
+            {
+              "color": {
+                "red": 92,
+                "green": 80,
+                "blue": 49
+              },
+              "score": 0.029538173,
+              "pixelFraction": 0.026937146
+            },
+            {
+              "color": {
+                "red": 238,
+                "green": 226,
+                "blue": 174
+              },
+              "score": 0.0267586,
+              "pixelFraction": 0.0020784836
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {
+                  "x": 15
+                },
+                {
+                  "x": 363
+                },
+                {
+                  "x": 363,
+                  "y": 313
+                },
+                {
+                  "x": 15,
+                  "y": 313
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 0.97999996
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/02r62ky",
+            "score": 0.75912,
+            "description": "Slovak National Gallery"
+          },
+          {
+            "entityId": "/m/0177z",
+            "score": 0.74944,
+            "description": "Brussels"
+          },
+          {
+            "entityId": "/m/042yqj",
+            "score": 0.36012,
+            "description": "Sonian Forest"
+          },
+          {
+            "entityId": "/m/0bt9lr",
+            "score": 0.346,
+            "description": "Dog"
+          },
+          {
+            "entityId": "/m/025s3q0",
+            "score": 0.31848,
+            "description": "Landscape"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://upload.wikimedia.org/wikipedia/en/a/a4/Jacques_d%27Artois_-_An_Extensive_Wooded_Landscape_with_Travellers_on_a_Path.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/2c/36/00/2c36008071c966b9463a595ecd7d37fb.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/600x315/2c/36/00/2c36008071c966b9463a595ecd7d37fb.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/49/d2/5b/49d25bf34dbb4a5f95a8d84bfdde3e65.jpg"
+          },
+          {
+            "url": "http://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Jacques_d%27Artois_-_An_Extensive_Wooded_Landscape_with_Travellers_on_a_Path.jpg/240px-Jacques_d%27Artois_-_An_Extensive_Wooded_Landscape_with_Travellers_on_a_Path.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Jacques_d%27Arthois"
+          },
+          {
+            "url": "https://en.wikipedia.org/wiki/File:Jacques_d%27Artois_-_An_Extensive_Wooded_Landscape_with_Travellers_on_a_Path.jpg"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/302444931207273859/"
+          },
+          {
+            "url": "http://artist.christies.com/Jacques-D'Arthois--17814.aspx"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/379498706079643248/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/bf/a8/eb/bfa8ebe2ed76a62ab1af412b0a11d8d7.jpg"
+          },
+          {
+            "url": "https://www.repro-tableaux.com/kunst/jacques_d_arthois/xir203284.jpg"
+          },
+          {
+            "url": "http://www.christies.com/LotFinderImages/D15639/D1563958r.jpg"
+          },
+          {
+            "url": "http://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Jacques_d%27Artois_-_An_Extensive_Wooded_Landscape_with_Travellers_on_a_Path.jpg/240px-Jacques_d%27Artois_-_An_Extensive_Wooded_Landscape_with_Travellers_on_a_Path.jpg"
+          },
+          {
+            "url": "https://static.artuk.org/w800h800/NTIV/NTIV_PET_26613.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}
