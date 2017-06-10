@@ -9,18 +9,15 @@ labels = JSONLabels(config)
 url = JSONUrls(config)
 safe_search = JSONSafeSearch(config)
 
-
-from pdb import set_trace; set_trace()
-image_source = config['DATA']['TEST']
+image_source = os.path.join(config['DATA']['TEST'], "898_crop3.jpg")
 vision = GoogleVisionApi(config, image_source=image_source)
-
 labels = vision.get_labels()
 url = vision.get_full_matching_urls()
 # Do we have a full match ?
-# No ... get partial match
+# Suppose No ... get partial match
+# Suppose not, then we do a query on first partial matching
 partials = vision.get_partial_matching_urls()
-# Suppose not, then we do a query on full matching url [0]
-vision_second = GoogleVisionApi(config, image_source=partials[0])
+vision_second = GoogleVisionApi(config, image_source=partials[0][0])
 # get labels
 labels_second = vision_second.get_labels()
 # Check we have a match in database
@@ -32,6 +29,7 @@ for idx in database: # Refactor after ..
     res =  labels_comparator(labels_to_compare)
     if res==True:
         print(" It is idx : "+idx)
+        break
 # Comparer avec toute la base
 # Création de la base de données de mots ?
 
