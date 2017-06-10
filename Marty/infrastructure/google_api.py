@@ -1,22 +1,46 @@
 from google.cloud import vision
 from Marty.utils.config.config import Config
 
-
 class GoogleVisionApi():
-    PROJECT = "martyarty"
+    PROJECT = "Marty"
 
-    def __init__(self, config, image_file):
+    def __init__(self, config, image_source):
         self.API_KEY = config["API"]["GOOGLE"]
-        self.client = vision.Client(project=self.__class__.PROJECT)
-        self.load_image(image_file)
+        #self.client = vision.Client.(project=self.__class__.PROJECT)
+        self.client = vision.Client.from_service_account_json(
+            "/Users/nicolas/Projects/Marty/Marty/utils/config/Marty-4e9f4ec4ab22.json")
+        # TODO : Mettre dans fichier de config
+        self.load_image(image_source)
 
+    def load_image(self, image_source):
+        image_source_type = self._infer_image_type(image_source)
+        #import pdb;pdb.set_trace()
+        if image_source_type == "url":
+            self.load_image_from_url(image_source)
+        elif image_source_type == "local_file":
+            self.load_image_from_local(image_source)
 
-    def load_image(self, image_file):
-        with open(image_file, 'rb') as imread:
+    def load_image_from_local(self, image_source):
+        with open(image_source, 'rb') as imread:
             content = imread.read()
-            image = vision_client.image(
+            image = self.client.image(
                 content=content)
             self.image = image
+
+    def load_image_from_url(self, image_source):
+            image = self.client.image(source_uri=image_source)
+            self.image = image
+
+    @staticmethod
+    def _infer_image_type(image_source):
+        """Infer if the image source is an url or local file
+        """
+        http_in_image_file = "http" in image_source
+        if http_in_image_file:
+            image_source_type = 'url'
+        else:
+            image_source_type = "local_file"
+        return image_source_type
 
     def get_labels(self):
         labels = self.image.detect_labels()
@@ -35,30 +59,3 @@ class GoogleVisionApi():
         partial_matching_urls = [(partial_matching_image.url,partial_matching_image.score)
                                     for partial_matching_image in partial_matching_images]
         return partial_matching_urls
-
-config = Config()
-image = "/Users/nicolas/Projects/Marty/dataToTest/centred.jpg"
-
-if False:
-    config = Config()
-
-    API_KEY = config["API"]["GOOGLE"]
-
-    # Instantiates a client
-    vision_client = vision.Client(project='Marty', credentials=API_KEY)
-
-    # The name of the image file to annotate
-    file_name = "chat.jpeg"
-
-    # Loads the image into memory
-    with open(file_name, 'rb') as image_file:
-        content = image_file.read()
-        image = vision_client.image(
-            content=content)
-
-    # Performs label detection on the image file
-    labels = image.detect_labels()
-
-    print('Labels:')
-    for label in labels:
-        print(label.description)
