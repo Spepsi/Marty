@@ -1,5 +1,6 @@
 from Marty.infrastructure.google_api import GoogleVisionApi
 from Marty.utils.config.config import Config
+from Marty.infrastructure.loader.loader import JSONLabels, JSONUrls, JSONSafeSearch, LabelsComparator
 
 import os
 import pandas as pd
@@ -7,17 +8,19 @@ import pandas as pd
 
 
 class GoogleApiMatcher():
-    def __init__(self, config):
+    def __init__(self, config, image_source):
         self.config = config
         data_dir = config["DATA"]["MAIN"]
         catalog_file = os.path.join(data_dir, "catalog", "enriched_catalog.csv")
         self.catalog = pd.read_csv(catalog_file, sep=";", encoding="utf-8")
+        self.image_source = image_source
+        self.api = GoogleVisionApi(self.config, image_source)
+        self.partial_matching_urls_with_score = api.get_partial_matching_urls()
 
-    def find_perfect_match(self, image_source):
-        api = GoogleVisionApi(self.config, image_source)
-        partial_matching_urls_with_score = api.get_partial_matching_urls()
-        partial_matching_urls = [partial_url[0] for partial_url in partial_matching_urls_with_score]
 
+    def find_perfect_match(self):
+
+        partial_matching_urls = [partial_url[0] for partial_url in self.partial_matching_urls_with_score]
 
         def crop_url(url):
             url_crop = "www.wga.hu" + url.split("www.wga.hu")[1]
@@ -32,13 +35,13 @@ class GoogleApiMatcher():
                 crop_url = crop_url(url)
             except IndexError:
                 continue
-            url = url.replace("preview", "art")
-            url = url.replace("detail", "art")
+            crop_url = crop_url.replace("preview", "art")
+            crop_url = crop_url.replace("detail", "art")
             catalog_filtered = self.catalog[self.catalog["crop_URL_image_art"] == crop_url]
 
             if len(catalog_filtered) == 1:
                 index = catalog_filtered.index
-                print("yeah!")
+                print("yeah!", self.catalog.loc[index[0], :])
                 break
 
         if index is None:
@@ -47,6 +50,40 @@ class GoogleApiMatcher():
         else:
             matching_url = self.catalog.loc[index[0], "URL"]
         return matching_url
+
+    def find_labels_match(self):
+        partial_matching_urls = [partial_url[0] for partial_url in self.partial_matching_urls_with_score]
+        url = partial_matching_urls[0]
+
+        api_second = GoogleVisionApi(self.config, url)
+        labels_second = api_second.get_labels()
+        # Check we have a match in database
+        labels_comparator = LabelsComparator(labels_second)
+        database = os.listdir(config['DATA']['JSON'])
+        database = [int(i.split('.')[0]) for i in database]
+        for idx in database: # Refactor after ..
+
+            try:
+                json_labels = JSONLabels(self.config)
+                labels_to_compare = json_labels.load(idx)
+                res =  labels_comparator(labels_to_compare)
+                if res==True:
+                    print(" It is idx : "+idx)
+                    break
+            except:
+                print("OULALA")
+
+config = Config()
+image = "/Users/nicolas/Projects/Marty/data/test_data/close.jpg"
+api = GoogleVisionApi(config, image)
+urls = api.get_full_matching_urls()
+partial_urls = api.get_partial_matching_urls()
+matcher = GoogleApiMatcher(config, image)
+match = matcher.find_perfect_match()
+from pdb import set_trace ; set_trace()
+labels_match = matcher.find_labels_match()
+
+# OK
 
 
 config = Config()
@@ -61,20 +98,10 @@ catalog = pd.read_csv(catalog_file, sep=";", encoding="cp1250")
 
 print(catalog.loc[index_matching, "URL"])
 
-image_842 = "/Users/nicolas/Projects/Marty/data/test_data2/842_close.jpg"
-api = GoogleVisionApi(config, image_842)
-urls = api.get_partial_matching_urls()
-matcher = GoogleApiMatcher(config)
-match_842 = matcher.find_perfect_match(image_842)
-# KO
+[url[0] for url in partial_urls if "wga" in url[0]]
 
-image = "/Users/nicolas/Projects/Marty/data/test_data2/894_close.jpg"
-api = GoogleVisionApi(config, image)
-urls = api.get_full_matching_urls()
-partial_urls = api.get_partial_matching_urls()
-matcher = GoogleApiMatcher(config)
-match = matcher.find_perfect_match(image)
-# KO
+
+
 
 image = "/Users/nicolas/Projects/Marty/data/test_data2/898_close.jpg"
 api = GoogleVisionApi(config, image)
@@ -84,13 +111,14 @@ matcher = GoogleApiMatcher(config)
 match = matcher.find_perfect_match(image)
 # KO
 
-image = "/Users/nicolas/Projects/Marty/data/test_data2/1059_close.jpg"
+
+image = "/Users/nicolas/Projects/Marty/data/test_data2/1059_crop.jpg"
 api = GoogleVisionApi(config, image)
 urls = api.get_full_matching_urls()
 partial_urls = api.get_partial_matching_urls()
 matcher = GoogleApiMatcher(config)
 match = matcher.find_perfect_match(image)
-# KO
+# OK
 
 image = "/Users/nicolas/Projects/Marty/data/test_data2/1047_close.jpg"
 api = GoogleVisionApi(config, image)
