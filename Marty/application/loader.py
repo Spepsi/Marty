@@ -10,7 +10,7 @@ url = JSONUrls(config)
 safe_search = JSONSafeSearch(config)
 
 image_source = os.path.join(config['DATA']['TEST'], "898_crop3.jpg")
-vision = GoogleVisionApi(config, image_source=image _source)
+vision = GoogleVisionApi(config, image_source=image_source)
 labels = vision.get_labels()
 url = vision.get_full_matching_urls()
 # Do we have a full match ?
