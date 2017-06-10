@@ -1,0 +1,575 @@
+{
+  "responses": [
+    {
+      "faceAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 101,
+                "y": 38
+              },
+              {
+                "x": 193,
+                "y": 38
+              },
+              {
+                "x": 193,
+                "y": 144
+              },
+              {
+                "x": 101,
+                "y": 144
+              }
+            ]
+          },
+          "fdBoundingPoly": {
+            "vertices": [
+              {
+                "x": 116,
+                "y": 68
+              },
+              {
+                "x": 182,
+                "y": 68
+              },
+              {
+                "x": 182,
+                "y": 134
+              },
+              {
+                "x": 116,
+                "y": 134
+              }
+            ]
+          },
+          "landmarks": [
+            {
+              "type": "LEFT_EYE",
+              "position": {
+                "x": 143.47821,
+                "y": 89.02442,
+                "z": 0.0002666631
+              }
+            },
+            {
+              "type": "RIGHT_EYE",
+              "position": {
+                "x": 168.4508,
+                "y": 87.14033,
+                "z": 10.050671
+              }
+            },
+            {
+              "type": "LEFT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 133.05325,
+                "y": 84.41693,
+                "z": -2.1093192
+              }
+            },
+            {
+              "type": "RIGHT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 151.1132,
+                "y": 83.2972,
+                "z": -3.393142
+              }
+            },
+            {
+              "type": "LEFT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 163.44093,
+                "y": 81.70416,
+                "z": 1.5555952
+              }
+            },
+            {
+              "type": "RIGHT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 175.65503,
+                "y": 79.16011,
+                "z": 14.964837
+              }
+            },
+            {
+              "type": "MIDPOINT_BETWEEN_EYES",
+              "position": {
+                "x": 157.24884,
+                "y": 87.35505,
+                "z": -0.6237712
+              }
+            },
+            {
+              "type": "NOSE_TIP",
+              "position": {
+                "x": 161.85007,
+                "y": 105.90666,
+                "z": -5.962082
+              }
+            },
+            {
+              "type": "UPPER_LIP",
+              "position": {
+                "x": 160.2648,
+                "y": 115.38106,
+                "z": 1.4914147
+              }
+            },
+            {
+              "type": "LOWER_LIP",
+              "position": {
+                "x": 160.12823,
+                "y": 122.150345,
+                "z": 4.2402596
+              }
+            },
+            {
+              "type": "MOUTH_LEFT",
+              "position": {
+                "x": 148.78275,
+                "y": 119.17414,
+                "z": 4.699663
+              }
+            },
+            {
+              "type": "MOUTH_RIGHT",
+              "position": {
+                "x": 168.19879,
+                "y": 116.03086,
+                "z": 12.886828
+              }
+            },
+            {
+              "type": "MOUTH_CENTER",
+              "position": {
+                "x": 159.88663,
+                "y": 118.54837,
+                "z": 3.856229
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_RIGHT",
+              "position": {
+                "x": 165.20044,
+                "y": 105.38429,
+                "z": 6.9785943
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_LEFT",
+              "position": {
+                "x": 151.85588,
+                "y": 107.97638,
+                "z": 1.4627466
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_CENTER",
+              "position": {
+                "x": 160.08565,
+                "y": 110.085434,
+                "z": 0.6160166
+              }
+            },
+            {
+              "type": "LEFT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 143.35417,
+                "y": 88.50734,
+                "z": -2.086685
+              }
+            },
+            {
+              "type": "LEFT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 147.18517,
+                "y": 89.56312,
+                "z": 1.9606919
+              }
+            },
+            {
+              "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 143.03743,
+                "y": 91.56443,
+                "z": -0.117655315
+              }
+            },
+            {
+              "type": "LEFT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 136.73735,
+                "y": 90.66285,
+                "z": 0.21057495
+              }
+            },
+            {
+              "type": "LEFT_EYE_PUPIL",
+              "position": {
+                "x": 142.61943,
+                "y": 90.36317,
+                "z": -0.8907045
+              }
+            },
+            {
+              "type": "RIGHT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 169.06972,
+                "y": 85.242096,
+                "z": 8.102235
+              }
+            },
+            {
+              "type": "RIGHT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 172.63869,
+                "y": 86.172104,
+                "z": 14.453588
+              }
+            },
+            {
+              "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 168.70355,
+                "y": 88.862366,
+                "z": 10.093152
+              }
+            },
+            {
+              "type": "RIGHT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 163.17462,
+                "y": 88.047035,
+                "z": 8.1319475
+              }
+            },
+            {
+              "type": "RIGHT_EYE_PUPIL",
+              "position": {
+                "x": 169.03746,
+                "y": 87.023895,
+                "z": 9.536647
+              }
+            },
+            {
+              "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 142.20277,
+                "y": 80.81483,
+                "z": -4.8671417
+              }
+            },
+            {
+              "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 170.08423,
+                "y": 77.24291,
+                "z": 6.196191
+              }
+            },
+            {
+              "type": "LEFT_EAR_TRAGION",
+              "position": {
+                "x": 114.88678,
+                "y": 102.92638,
+                "z": 26.736168
+              }
+            },
+            {
+              "type": "RIGHT_EAR_TRAGION",
+              "position": {
+                "x": 172.90482,
+                "y": 95.301544,
+                "z": 49.91816
+              }
+            },
+            {
+              "type": "FOREHEAD_GLABELLA",
+              "position": {
+                "x": 157.55058,
+                "y": 82.28947,
+                "z": -1.9020189
+              }
+            },
+            {
+              "type": "CHIN_GNATHION",
+              "position": {
+                "x": 159.78949,
+                "y": 135.56819,
+                "z": 9.764616
+              }
+            },
+            {
+              "type": "CHIN_LEFT_GONION",
+              "position": {
+                "x": 123.106674,
+                "y": 120.74431,
+                "z": 19.71012
+              }
+            },
+            {
+              "type": "CHIN_RIGHT_GONION",
+              "position": {
+                "x": 175.72983,
+                "y": 114.42177,
+                "z": 40.596825
+              }
+            }
+          ],
+          "rollAngle": -4.350778,
+          "panAngle": 21.65062,
+          "tiltAngle": -7.4345226,
+          "detectionConfidence": 0.9979179,
+          "landmarkingConfidence": 0.60951173,
+          "joyLikelihood": "VERY_UNLIKELY",
+          "sorrowLikelihood": "VERY_UNLIKELY",
+          "angerLikelihood": "VERY_UNLIKELY",
+          "surpriseLikelihood": "VERY_UNLIKELY",
+          "underExposedLikelihood": "VERY_UNLIKELY",
+          "blurredLikelihood": "VERY_UNLIKELY",
+          "headwearLikelihood": "VERY_UNLIKELY"
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/01g317",
+          "description": "person",
+          "score": 0.89712095
+        },
+        {
+          "mid": "/m/01dv4h",
+          "description": "portrait",
+          "score": 0.6298941
+        },
+        {
+          "mid": "/m/0fx80y",
+          "description": "plucked string instruments",
+          "score": 0.51741534
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 60,
+                "green": 46,
+                "blue": 45
+              },
+              "score": 0.24509162,
+              "pixelFraction": 0.23475718
+            },
+            {
+              "color": {
+                "red": 75,
+                "green": 44,
+                "blue": 31
+              },
+              "score": 0.06728561,
+              "pixelFraction": 0.046348814
+            },
+            {
+              "color": {
+                "red": 97,
+                "green": 77,
+                "blue": 63
+              },
+              "score": 0.051802553,
+              "pixelFraction": 0.043158453
+            },
+            {
+              "color": {
+                "red": 176,
+                "green": 153,
+                "blue": 135
+              },
+              "score": 0.02828233,
+              "pixelFraction": 0.024813896
+            },
+            {
+              "color": {
+                "red": 27,
+                "green": 19,
+                "blue": 19
+              },
+              "score": 0.19750048,
+              "pixelFraction": 0.2521269
+            },
+            {
+              "color": {
+                "red": 91,
+                "green": 76,
+                "blue": 75
+              },
+              "score": 0.049897153,
+              "pixelFraction": 0.048209853
+            },
+            {
+              "color": {
+                "red": 107,
+                "green": 74,
+                "blue": 58
+              },
+              "score": 0.04226489,
+              "pixelFraction": 0.048475716
+            },
+            {
+              "color": {
+                "red": 70,
+                "green": 51,
+                "blue": 38
+              },
+              "score": 0.035900053,
+              "pixelFraction": 0.025611484
+            },
+            {
+              "color": {
+                "red": 67,
+                "green": 45,
+                "blue": 47
+              },
+              "score": 0.030966846,
+              "pixelFraction": 0.023041476
+            },
+            {
+              "color": {
+                "red": 40,
+                "green": 18,
+                "blue": 18
+              },
+              "score": 0.029988399,
+              "pixelFraction": 0.020028358
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 293
+                },
+                {
+                  "x": 293,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 1,
+            "importanceFraction": 1.24
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/047pmjr",
+            "score": 1.62072,
+            "description": "The Coronation of Napoleon"
+          },
+          {
+            "entityId": "/m/03rjj",
+            "score": 1.4882,
+            "description": "Italy"
+          },
+          {
+            "entityId": "/m/0j5b8",
+            "score": 1.45964,
+            "description": "Napoleon"
+          },
+          {
+            "entityId": "/m/02_hz",
+            "score": 0.80938,
+            "description": "French Revolution"
+          },
+          {
+            "entityId": "/m/05jt5h",
+            "score": 0.70476,
+            "description": "Kingdom of Italy"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://www.wacana.co/wp-content/uploads/2017/01/wacana.co_Napoleon-Bonaparte.jpg"
+          },
+          {
+            "url": "https://1.bp.blogspot.com/-_s7SQRDjiaE/V5xGdyIe-wI/AAAAAAAANT0/EmY4jtoGKgQAV0JVxxRLnMun2r3HTo0ywCLcB/s1600/12%2BAndrea%2BAppiani%2B%25281754-1817%2529%2B-%2BPortrait%2Bof%2BNapoleon%252C%2BFirst%2BKing%2Bof%2BItaly%2B-%2Bca.%2B1805%2B-%2BOil%2Bon%2Bcanvas.%2BMus%25C3%25A9e%2BNapol%25C3%25A9onien%252C%2BIle%2Bd%2527Aix.jpg"
+          },
+          {
+            "url": "http://users.sch.gr/ipap/Ellinikos_Politismos/Istoria_c/istoria_c_im4/napoleon.jpg"
+          },
+          {
+            "url": "http://www.gkmm.hr/kaleidoskop_img/napoleon_bonaparte.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/11/96/78/119678a8b63675bf30ba121540fb408b.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://cdn.quotesgram.com/img/83/28/1047586376-Andrea-Appiani.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/2e/24/28/2e2428add01b6526215663bd2f407f16.jpg"
+          },
+          {
+            "url": "http://art-pics.ru/pics/315/%D0%90%D0%BF%D0%BF%D0%B8%D0%B0%D0%BD%D0%B8%20%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B0-%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%20%D0%9D%D0%B0%D0%BF%D0%BE%D0%BB%D0%B5%D0%BE%D0%BD%D0%B0.jpg"
+          },
+          {
+            "url": "http://www.wacana.co/wp-content/uploads/2017/01/wacana.co_Napoleon-Bonaparte.jpg"
+          },
+          {
+            "url": "https://1.bp.blogspot.com/-_s7SQRDjiaE/V5xGdyIe-wI/AAAAAAAANT0/EmY4jtoGKgQAV0JVxxRLnMun2r3HTo0ywCLcB/s1600/12%2BAndrea%2BAppiani%2B%25281754-1817%2529%2B-%2BPortrait%2Bof%2BNapoleon%252C%2BFirst%2BKing%2Bof%2BItaly%2B-%2Bca.%2B1805%2B-%2BOil%2Bon%2Bcanvas.%2BMus%25C3%25A9e%2BNapol%25C3%25A9onien%252C%2BIle%2Bd%2527Aix.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://www.pinterest.com/pin/302585668686085640/"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/503840277036991130/"
+          },
+          {
+            "url": "http://www.all-art.org/history356-2.html"
+          },
+          {
+            "url": "http://www.all-art.org/Visual_History/367-1.htm"
+          },
+          {
+            "url": "http://www.artres.com/C.aspx?VP3=ViewBox_VPage&VBID=2UN3657XTV1&IT=ZoomImageTemplate01_VForm&IID=2UNTWAZD5F0X&PN=13&CT=Search&SF=0"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/72/47/93/724793129d845d25712fc748f01af678.jpg"
+          },
+          {
+            "url": "http://www.lvbeethoven.com/Oeuvres_Presentation/ImagesPresentations/Beethoven-EroicaSymphony-ShannonSiemens_NapoleonByAppiani.jpg"
+          },
+          {
+            "url": "http://cdn2.all-art.org/neoclasscism/appiani2a.jpg"
+          },
+          {
+            "url": "http://l7.alamy.com/zooms/24db9b72d7f74e258e746fa5a7d224e8/emperor-napoleon-bonaparte-i-by-francois-pascal-simon-grard-1770-1837-cn5hkm.jpg"
+          },
+          {
+            "url": "http://cdn.historyextra.com/sites/default/files/imagecache/623px_wide/Napoleon%20blog%202.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

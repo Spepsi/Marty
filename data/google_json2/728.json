@@ -1,0 +1,681 @@
+{
+  "responses": [
+    {
+      "logoAnnotations": [
+        {
+          "description": "Last Judgment",
+          "score": 0.9636094,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 6,
+                "y": 3
+              },
+              {
+                "x": 393,
+                "y": 3
+              },
+              {
+                "x": 393,
+                "y": 187
+              },
+              {
+                "x": 6,
+                "y": 187
+              }
+            ]
+          }
+        },
+        {
+          "description": "Detail of Heaven from the Last Judgement",
+          "score": 0.62644553,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 6,
+                "y": 88
+              },
+              {
+                "x": 80,
+                "y": 88
+              },
+              {
+                "x": 80,
+                "y": 186
+              },
+              {
+                "x": 6,
+                "y": 186
+              }
+            ]
+          }
+        },
+        {
+          "description": "Detail of Heaven from the Last Judgement",
+          "score": 0.6263933,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 6,
+                "y": 88
+              },
+              {
+                "x": 80,
+                "y": 88
+              },
+              {
+                "x": 80,
+                "y": 186
+              },
+              {
+                "x": 6,
+                "y": 186
+              }
+            ]
+          }
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/010jjr",
+          "description": "amusement park",
+          "score": 0.729913
+        },
+        {
+          "mid": "/m/017rnr",
+          "description": "amusement ride",
+          "score": 0.6904203
+        },
+        {
+          "mid": "/m/0166ls",
+          "description": "park",
+          "score": 0.53070194
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "ja",
+          "description": "が醬叡\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 323,
+                "y": 112
+              },
+              {
+                "x": 392,
+                "y": 112
+              },
+              {
+                "x": 392,
+                "y": 133
+              },
+              {
+                "x": 323,
+                "y": 133
+              }
+            ]
+          }
+        },
+        {
+          "description": "が",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 323,
+                "y": 115
+              },
+              {
+                "x": 331,
+                "y": 115
+              },
+              {
+                "x": 332,
+                "y": 134
+              },
+              {
+                "x": 324,
+                "y": 134
+              }
+            ]
+          }
+        },
+        {
+          "description": "醬",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 336,
+                "y": 115
+              },
+              {
+                "x": 355,
+                "y": 114
+              },
+              {
+                "x": 356,
+                "y": 131
+              },
+              {
+                "x": 337,
+                "y": 132
+              }
+            ]
+          }
+        },
+        {
+          "description": "叡",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 364,
+                "y": 114
+              },
+              {
+                "x": 391,
+                "y": 113
+              },
+              {
+                "x": 392,
+                "y": 128
+              },
+              {
+                "x": 365,
+                "y": 129
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 138,
+                "green": 150,
+                "blue": 177
+              },
+              "score": 0.35519773,
+              "pixelFraction": 0.030241935
+            },
+            {
+              "color": {
+                "red": 173,
+                "green": 152,
+                "blue": 125
+              },
+              "score": 0.08684196,
+              "pixelFraction": 0.064784944
+            },
+            {
+              "color": {
+                "red": 151,
+                "green": 150,
+                "blue": 155
+              },
+              "score": 0.08001439,
+              "pixelFraction": 0.06491935
+            },
+            {
+              "color": {
+                "red": 140,
+                "green": 118,
+                "blue": 92
+              },
+              "score": 0.07476311,
+              "pixelFraction": 0.07903226
+            },
+            {
+              "color": {
+                "red": 149,
+                "green": 110,
+                "blue": 90
+              },
+              "score": 0.061341215,
+              "pixelFraction": 0.033467744
+            },
+            {
+              "color": {
+                "red": 122,
+                "green": 130,
+                "blue": 154
+              },
+              "score": 0.05649439,
+              "pixelFraction": 0.0063172043
+            },
+            {
+              "color": {
+                "red": 119,
+                "green": 80,
+                "blue": 63
+              },
+              "score": 0.038697056,
+              "pixelFraction": 0.04099462
+            },
+            {
+              "color": {
+                "red": 130,
+                "green": 123,
+                "blue": 126
+              },
+              "score": 0.03796743,
+              "pixelFraction": 0.03252688
+            },
+            {
+              "color": {
+                "red": 181,
+                "green": 142,
+                "blue": 121
+              },
+              "score": 0.035913154,
+              "pixelFraction": 0.013709677
+            },
+            {
+              "color": {
+                "red": 181,
+                "green": 151,
+                "blue": 103
+              },
+              "score": 0.031879306,
+              "pixelFraction": 0.010483871
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 193
+                },
+                {
+                  "y": 193
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "ja"
+                }
+              ]
+            },
+            "width": 400,
+            "height": 194,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "ja"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 324,
+                      "y": 134
+                    },
+                    {
+                      "x": 323,
+                      "y": 115
+                    },
+                    {
+                      "x": 391,
+                      "y": 112
+                    },
+                    {
+                      "x": 392,
+                      "y": 131
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "ja"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 323,
+                          "y": 112
+                        },
+                        {
+                          "x": 392,
+                          "y": 112
+                        },
+                        {
+                          "x": 392,
+                          "y": 133
+                        },
+                        {
+                          "x": 323,
+                          "y": 133
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "ja"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 323,
+                              "y": 115
+                            },
+                            {
+                              "x": 331,
+                              "y": 115
+                            },
+                            {
+                              "x": 332,
+                              "y": 134
+                            },
+                            {
+                              "x": 324,
+                              "y": 134
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "ja"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 323,
+                                  "y": 115
+                                },
+                                {
+                                  "x": 331,
+                                  "y": 115
+                                },
+                                {
+                                  "x": 332,
+                                  "y": 134
+                                },
+                                {
+                                  "x": 324,
+                                  "y": 134
+                                }
+                              ]
+                            },
+                            "text": "が"
+                          }
+                        ]
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "zh-Hant"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 336,
+                              "y": 115
+                            },
+                            {
+                              "x": 355,
+                              "y": 114
+                            },
+                            {
+                              "x": 356,
+                              "y": 131
+                            },
+                            {
+                              "x": 337,
+                              "y": 132
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "ja"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 336,
+                                  "y": 115
+                                },
+                                {
+                                  "x": 355,
+                                  "y": 114
+                                },
+                                {
+                                  "x": 356,
+                                  "y": 131
+                                },
+                                {
+                                  "x": 337,
+                                  "y": 132
+                                }
+                              ]
+                            },
+                            "text": "醬"
+                          }
+                        ]
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "ja"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 364,
+                              "y": 114
+                            },
+                            {
+                              "x": 391,
+                              "y": 113
+                            },
+                            {
+                              "x": 392,
+                              "y": 128
+                            },
+                            {
+                              "x": 365,
+                              "y": 129
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "ja"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 364,
+                                  "y": 114
+                                },
+                                {
+                                  "x": 391,
+                                  "y": 113
+                                },
+                                {
+                                  "x": 392,
+                                  "y": 128
+                                },
+                                {
+                                  "x": 365,
+                                  "y": 129
+                                }
+                              ]
+                            },
+                            "text": "叡"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "が醬叡\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0cnypm",
+            "score": 5.972,
+            "description": "The Last Judgement"
+          },
+          {
+            "entityId": "/m/03cgvsw",
+            "score": 2.80908,
+            "description": "The Last Judgment"
+          },
+          {
+            "entityId": "/m/015hb2",
+            "score": 1.45152,
+            "description": "Last Judgment"
+          },
+          {
+            "entityId": "/m/0272rmj",
+            "score": 1.26348,
+            "description": "San Marco, Florence"
+          },
+          {
+            "entityId": "/m/03ld5",
+            "score": 0.70589,
+            "description": "Heaven"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://kristlus.varstukk.edu.ee/kristlikkultuur/media/.gallery/image1037.jpg"
+          },
+          {
+            "url": "https://veneremurcernui.files.wordpress.com/2013/10/lastjud1.jpg"
+          },
+          {
+            "url": "https://sites.google.com/site/dasanpiero/angelicolastjudgment.jpg"
+          },
+          {
+            "url": "https://historiadelarte2ffha.files.wordpress.com/2016/04/lastjud1.jpg"
+          },
+          {
+            "url": "https://uploads5.wikiart.org/images/fra-angelico/last-judgment.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://www.diocesisciudadreal.es/myuserfiles/Cartas/16/rey2.jpg"
+          },
+          {
+            "url": "http://1.bp.blogspot.com/_rVN72hBi0gw/TFF6Uu-Xx1I/AAAAAAAAAG4/j78Gy6Qcs24/w1200-h630-p-k-no-nu/Last+Judgement%5B1%5D.jpg"
+          },
+          {
+            "url": "https://1.bp.blogspot.com/-kLnqIY6lj6U/UkHfcPNt_qI/AAAAAAAAArU/F_3h4VfpkTQ/w1200-h630-p-k-no-nu/Juicio+Final+fra+Angelico.jpg"
+          },
+          {
+            "url": "https://aleteiaarabic.files.wordpress.com/2013/11/tutti_i_santi_01.jpg?quality=100&strip=all"
+          },
+          {
+            "url": "http://static.nanopress.it/r/845X0/www.nanopress.it/wp-content/uploads/2015/11/santi-legati-al-giubileo.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://www.wikiart.org/en/fra-angelico/last-judgment"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Fra_Angelico_-_Last_Judgement_-_WGA00467.jpg"
+          },
+          {
+            "url": "http://arthistoryproject.com/artists/fra-angelico/last-judgment/"
+          },
+          {
+            "url": "http://fraangelicostudio.yolasite.com/ulastjudgments.php"
+          },
+          {
+            "url": "http://www.unique-canvas.com/fra-angelico/the-last-judgement-artwork-500"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://www.trumpeteer.co.uk/communities/5/004/009/673/035/images/4576392851_525x255.png"
+          },
+          {
+            "url": "http://2.bp.blogspot.com/-q6tKEQMi-7E/U6Lj5fdJXKI/AAAAAAAAaOA/DHIXA110mOs/s1600/147+last+judgement+Fra+Angelico.jpg"
+          },
+          {
+            "url": "http://pt.wahooart.com/Art.nsf/O/8XZ93U/$File/Fra-Angelico-Last-Judgement-detail-.JPG"
+          },
+          {
+            "url": "http://68.media.tumblr.com/tumblr_lled5dcFSb1qggdq1.jpg"
+          },
+          {
+            "url": "http://media.gettyimages.com/illustrations/last-judgment-by-giovanni-da-fiesole-known-as-fra-angelico-tempera-on-illustration-id146268916?s=170667a"
+          }
+        ]
+      }
+    }
+  ]
+}

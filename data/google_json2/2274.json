@@ -1,0 +1,434 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/04zhd",
+          "description": "mythology",
+          "score": 0.63044715
+        },
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.5628639
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "zh-Hant",
+          "description": "網\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 269,
+                "y": 380
+              },
+              {
+                "x": 281,
+                "y": 380
+              },
+              {
+                "x": 281,
+                "y": 393
+              },
+              {
+                "x": 269,
+                "y": 393
+              }
+            ]
+          }
+        },
+        {
+          "description": "網",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 269,
+                "y": 380
+              },
+              {
+                "x": 281,
+                "y": 380
+              },
+              {
+                "x": 281,
+                "y": 393
+              },
+              {
+                "x": 269,
+                "y": 393
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 177,
+                "green": 148,
+                "blue": 95
+              },
+              "score": 0.15098684,
+              "pixelFraction": 0.0074509117
+            },
+            {
+              "color": {
+                "red": 25,
+                "green": 17,
+                "blue": 11
+              },
+              "score": 0.1432207,
+              "pixelFraction": 0.4796634
+            },
+            {
+              "color": {
+                "red": 149,
+                "green": 119,
+                "blue": 70
+              },
+              "score": 0.15058468,
+              "pixelFraction": 0.022177419
+            },
+            {
+              "color": {
+                "red": 158,
+                "green": 108,
+                "blue": 67
+              },
+              "score": 0.07941137,
+              "pixelFraction": 0.022703366
+            },
+            {
+              "color": {
+                "red": 115,
+                "green": 78,
+                "blue": 34
+              },
+              "score": 0.078821726,
+              "pixelFraction": 0.053909536
+            },
+            {
+              "color": {
+                "red": 41,
+                "green": 26,
+                "blue": 11
+              },
+              "score": 0.045340315,
+              "pixelFraction": 0.063025944
+            },
+            {
+              "color": {
+                "red": 62,
+                "green": 45,
+                "blue": 24
+              },
+              "score": 0.04120216,
+              "pixelFraction": 0.099403925
+            },
+            {
+              "color": {
+                "red": 197,
+                "green": 146,
+                "blue": 108
+              },
+              "score": 0.037697632,
+              "pixelFraction": 0.002103787
+            },
+            {
+              "color": {
+                "red": 75,
+                "green": 43,
+                "blue": 21
+              },
+              "score": 0.036296602,
+              "pixelFraction": 0.05566269
+            },
+            {
+              "color": {
+                "red": 210,
+                "green": 181,
+                "blue": 131
+              },
+              "score": 0.035006117,
+              "pixelFraction": 0.0011395512
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 295
+                },
+                {
+                  "x": 295,
+                  "y": 335
+                },
+                {
+                  "y": 335
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 0.84
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "zh-Hant"
+                }
+              ]
+            },
+            "width": 296,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "zh-Hant"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 269,
+                      "y": 380
+                    },
+                    {
+                      "x": 281,
+                      "y": 380
+                    },
+                    {
+                      "x": 281,
+                      "y": 393
+                    },
+                    {
+                      "x": 269,
+                      "y": 393
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "zh-Hant"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 269,
+                          "y": 380
+                        },
+                        {
+                          "x": 281,
+                          "y": 380
+                        },
+                        {
+                          "x": 281,
+                          "y": 393
+                        },
+                        {
+                          "x": 269,
+                          "y": 393
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "zh-Hant"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 269,
+                              "y": 380
+                            },
+                            {
+                              "x": 281,
+                              "y": 380
+                            },
+                            {
+                              "x": 281,
+                              "y": 393
+                            },
+                            {
+                              "x": 269,
+                              "y": 393
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "zh-Hant"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 269,
+                                  "y": 380
+                                },
+                                {
+                                  "x": 281,
+                                  "y": 380
+                                },
+                                {
+                                  "x": 281,
+                                  "y": 393
+                                },
+                                {
+                                  "x": 269,
+                                  "y": 393
+                                }
+                              ]
+                            },
+                            "text": "網"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "網\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/01z_jj",
+            "score": 1.1374,
+            "description": "National Gallery of Art"
+          },
+          {
+            "entityId": "/g/11c2lh8p9n",
+            "score": 0.83276,
+            "description": "Four Seasons in One Head"
+          },
+          {
+            "entityId": "/m/0754v",
+            "score": 0.66629,
+            "description": "Season"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.4406648,
+            "description": "Painting"
+          },
+          {
+            "entityId": "/m/0184qv",
+            "score": 0.38307,
+            "description": "The Four Seasons"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://wizardvarnish.com/wv/wp-content/uploads/2015/09/tumblr_nsh20rRkFu1qcg3zwo1_540.jpg"
+          },
+          {
+            "url": "http://www.ctrlmagazine.it/wp-content/uploads/2014/09/Giuseppe_Arcimboldo_-_The_Four_Seasons_in_one_Head_-_WGA00820.jpg"
+          },
+          {
+            "url": "http://www.artita.ru/dat/a/arcimboldo/5.jpg"
+          },
+          {
+            "url": "http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz_jpg/oUibkFgwfularDhSicMgzJ2lL1211FhOa5nicfecHIia9mtJcrSibnWy75HH6aG37toziaM84xo9cdYwGRU9EoT6C79Q/0?wx_fmt=jpeg"
+          },
+          {
+            "url": "https://lydiaslibrary.files.wordpress.com/2014/05/image32.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://free-artworks-o02.gatag.net/images/gp01a201310282000.jpg"
+          },
+          {
+            "url": "http://www.ilgiornale.ch/Joomla1/images/stories/Marzo11/25.jpg"
+          },
+          {
+            "url": "https://lh3.googleusercontent.com/-0DU9cA9wXGk/VRLLmtUZ79I/AAAAAAAAAHg/W5Ms5svc2zw/w1483-h2048/Giuseppe_Arcimboldo_-_Four_Seasons_in_One_Head_-_Google_Art_Project.jpg"
+          },
+          {
+            "url": "http://arthistoryproject.com/site/assets/files/11170/giuseppe_arcimboldo_-_four_seasons_in_one_head_1590_60_4x44_7cm_national_gallery_of_art_2010_77_1_small.1200x0.jpg"
+          },
+          {
+            "url": "http://1.bp.blogspot.com/-kK_ukAbzO4Q/U6I4vGlDDEI/AAAAAAAABQw/BP32k6vkR7o/s1600/A15411.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://www.artsy.net/artwork/giuseppe-arcimboldo-four-seasons-in-one-head"
+          },
+          {
+            "url": "http://www.wga.hu/html_m/a/arcimbol/3allegor/5season.html"
+          },
+          {
+            "url": "https://www.fineartone.com/shop/old-masters/four-seasons-in-one-head/"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Giuseppe_Arcimboldo_-_The_Four_Seasons_in_one_Head_-_WGA00820.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Giuseppe_Arcimboldo_-_Four_Seasons_in_One_Head_-_Google_Art_Project.jpg"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://www.toperfect.com/pic/Oil%20Painting%20Styles%20on%20Canvas/Still%20life/Classic/4-The-Four-Seasons-in-one-Head-Giuseppe-Arcimboldo-Classic-still-life.jpg"
+          },
+          {
+            "url": "https://rlv.zcache.com/four_seasons_in_one_head_giuseppe_arcimboldo_cutout-rc61e9bc16fee43bfbd63f0ed40f8b7a7_x7saw_8byvr_324.jpg"
+          },
+          {
+            "url": "http://l450v.alamy.com/450v/hm3p93/giuseppe-arcimboldo-the-four-seasons-in-one-head-detail-wga00821-hm3p93.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/d9/20/b8/d920b89fec59b8326145a5a04c6a6a3c.jpg"
+          },
+          {
+            "url": "http://www.oilpaintingfactory.com/pic/Oil%20Painting%20Masterpieces%20on%20Canvas/Giuseppe%20Arcimboldo%20Italian%201527-1593/9-earth-of-animals-Giuseppe-Arcimboldo.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

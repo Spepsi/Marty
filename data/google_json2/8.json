@@ -1,0 +1,449 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0c9ph5",
+          "description": "flower",
+          "score": 0.93116355
+        },
+        {
+          "mid": "/m/03bmqb",
+          "description": "flora",
+          "score": 0.8442826
+        },
+        {
+          "mid": "/m/05s2s",
+          "description": "plant",
+          "score": 0.8384545
+        },
+        {
+          "mid": "/m/01bwr",
+          "description": "botany",
+          "score": 0.78965676
+        },
+        {
+          "mid": "/m/01v728",
+          "description": "land plant",
+          "score": 0.7510922
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "zh",
+          "description": "莎\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 284,
+                "y": 308
+              },
+              {
+                "x": 292,
+                "y": 308
+              },
+              {
+                "x": 292,
+                "y": 320
+              },
+              {
+                "x": 284,
+                "y": 320
+              }
+            ]
+          }
+        },
+        {
+          "description": "莎",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 284,
+                "y": 320
+              },
+              {
+                "x": 284,
+                "y": 308
+              },
+              {
+                "x": 292,
+                "y": 308
+              },
+              {
+                "x": 292,
+                "y": 320
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 112,
+                "green": 128,
+                "blue": 64
+              },
+              "score": 0.23043402,
+              "pixelFraction": 0.03565365
+            },
+            {
+              "color": {
+                "red": 75,
+                "green": 90,
+                "blue": 52
+              },
+              "score": 0.121456474,
+              "pixelFraction": 0.2021081
+            },
+            {
+              "color": {
+                "red": 183,
+                "green": 198,
+                "blue": 93
+              },
+              "score": 0.07438668,
+              "pixelFraction": 0.0033248444
+            },
+            {
+              "color": {
+                "red": 184,
+                "green": 145,
+                "blue": 155
+              },
+              "score": 0.0022216784,
+              "pixelFraction": 0.0052348613
+            },
+            {
+              "color": {
+                "red": 141,
+                "green": 159,
+                "blue": 84
+              },
+              "score": 0.1492834,
+              "pixelFraction": 0.012521222
+            },
+            {
+              "color": {
+                "red": 106,
+                "green": 123,
+                "blue": 81
+              },
+              "score": 0.11914415,
+              "pixelFraction": 0.0836163
+            },
+            {
+              "color": {
+                "red": 152,
+                "green": 169,
+                "blue": 74
+              },
+              "score": 0.07034737,
+              "pixelFraction": 0.0036785512
+            },
+            {
+              "color": {
+                "red": 80,
+                "green": 96,
+                "blue": 41
+              },
+              "score": 0.053455617,
+              "pixelFraction": 0.031621393
+            },
+            {
+              "color": {
+                "red": 139,
+                "green": 157,
+                "blue": 112
+              },
+              "score": 0.039650448,
+              "pixelFraction": 0.022990946
+            },
+            {
+              "color": {
+                "red": 49,
+                "green": 63,
+                "blue": 32
+              },
+              "score": 0.032959033,
+              "pixelFraction": 0.24632145
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 367
+                },
+                {
+                  "x": 367,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "zh-Hans"
+                }
+              ]
+            },
+            "width": 368,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "zh-Hans"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 284,
+                      "y": 308
+                    },
+                    {
+                      "x": 292,
+                      "y": 308
+                    },
+                    {
+                      "x": 292,
+                      "y": 320
+                    },
+                    {
+                      "x": 284,
+                      "y": 320
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "zh-Hans"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 284,
+                          "y": 308
+                        },
+                        {
+                          "x": 292,
+                          "y": 308
+                        },
+                        {
+                          "x": 292,
+                          "y": 320
+                        },
+                        {
+                          "x": 284,
+                          "y": 320
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "zh-Hans"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 284,
+                              "y": 320
+                            },
+                            {
+                              "x": 284,
+                              "y": 308
+                            },
+                            {
+                              "x": 292,
+                              "y": 308
+                            },
+                            {
+                              "x": 292,
+                              "y": 320
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "zh-Hans"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 284,
+                                  "y": 320
+                                },
+                                {
+                                  "x": 284,
+                                  "y": 308
+                                },
+                                {
+                                  "x": 292,
+                                  "y": 308
+                                },
+                                {
+                                  "x": 292,
+                                  "y": 320
+                                }
+                              ]
+                            },
+                            "text": "莎"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "莎\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/06m11",
+            "score": 0.9952611,
+            "description": "Rose"
+          },
+          {
+            "entityId": "/m/0bl0l",
+            "score": 0.84595495,
+            "description": "Garden"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.71557,
+            "description": "Painting"
+          },
+          {
+            "entityId": "/m/04mzwl7",
+            "score": 0.70394,
+            "description": "Rose garden"
+          },
+          {
+            "entityId": "/m/05nmd",
+            "score": 0.63574,
+            "description": "Oil painting"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://ipseand.files.wordpress.com/2014/02/rosegardenaagaard-carl-frederik.jpg"
+          },
+          {
+            "url": "http://i.imgur.com/HAnmN3U.jpg"
+          },
+          {
+            "url": "https://1.bp.blogspot.com/-_N8lvFD7yV4/Vx5bc3rAYrI/AAAAAAAAINA/AucFZhDImSgIzlNj3oEGU2E5BhxLh2MCACLcB/s1600/O%2BJardim%2Bde%2BRosas%2B%25281877%2529.jpg"
+          },
+          {
+            "url": "http://s52.radikal.ru/i138/1405/95/94ce8e9e1461.jpg"
+          },
+          {
+            "url": "http://blogthumb2.naver.net/20140530_189/marivegauch_1401377347538T3sXL_JPEG/rosegard.jpg?type=w2"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://cfs6.tistory.com/upload_control/download.blog?fhandle=YmxvZzcyOTcxQGZzNi50aXN0b3J5LmNvbTovYXR0YWNoLzAvMDYwMDAwMDAwMDAwLmpwZw%3D%3D"
+          },
+          {
+            "url": "http://www.handgemalt24.de/media/images/product/popup_eng/The-Rose-Garden-Carl-Fredrik-Aagaard-17173.jpg?xaf26a=4g29bnqfq3nkdfm7io6jncccr4"
+          },
+          {
+            "url": "https://ipseand.files.wordpress.com/2014/02/rosegardenaagaard-carl-frederik.jpg"
+          },
+          {
+            "url": "http://i.imgur.com/HAnmN3U.jpg"
+          },
+          {
+            "url": "https://3.bp.blogspot.com/-vsIz_PqS97I/VQm5AUcPzAI/AAAAAAABKRo/DQo7HoYwTng/s1600/rosegard.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.the-athenaeum.org/art/list.php?m=a&s=tu&aid=2437"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/Category:Carl_Frederik_Aagaard"
+          },
+          {
+            "url": "http://www.wga.hu/html_m/a/aagaard/rosegard.html"
+          },
+          {
+            "url": "http://www.renegadetribune.com/carl-frederik-aagaards-lifelike-landscapes/"
+          },
+          {
+            "url": "http://www.the-athenaeum.org/art/list.php?m=a&s=du&aid=2437"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://68.media.tumblr.com/02593c02e09ebad9278319ef515f3bbb/tumblr_o4sc5zfEDe1rwu8obo1_500.jpg"
+          },
+          {
+            "url": "http://c300221.r21.cf1.rackcdn.com/the-athenaeum-the-rose-garden-carl-frederik-aagaard-1475935730_b.jpg"
+          },
+          {
+            "url": "https://globalwholesaleart.com/images/paintings/large/LA2502AAG_l.jpg"
+          },
+          {
+            "url": "http://www.artnet.com/WebServices/images/ll00021lld58QJFgnabR3CfDrCWQFHPKcu5EF/carl-frederik-peder-aagaard-humleb%C3%A6k-all%C3%A9.jpg"
+          },
+          {
+            "url": "http://www.renegadetribune.com/wp-content/uploads/2016/11/9bd3f9a14850t.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

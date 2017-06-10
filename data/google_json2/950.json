@@ -1,0 +1,599 @@
+{
+  "responses": [
+    {
+      "textAnnotations": [
+        {
+          "locale": "cy",
+          "description": "lyll l\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 75,
+                "y": 9
+              },
+              {
+                "x": 132,
+                "y": 9
+              },
+              {
+                "x": 132,
+                "y": 23
+              },
+              {
+                "x": 75,
+                "y": 23
+              }
+            ]
+          }
+        },
+        {
+          "description": "lyll",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 133,
+                "y": 23
+              },
+              {
+                "x": 93,
+                "y": 22
+              },
+              {
+                "x": 93,
+                "y": 9
+              },
+              {
+                "x": 133,
+                "y": 10
+              }
+            ]
+          }
+        },
+        {
+          "description": "l",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 80,
+                "y": 23
+              },
+              {
+                "x": 76,
+                "y": 23
+              },
+              {
+                "x": 76,
+                "y": 10
+              },
+              {
+                "x": 80,
+                "y": 10
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 198,
+                "green": 152,
+                "blue": 127
+              },
+              "score": 0.11210171,
+              "pixelFraction": 0.018649194
+            },
+            {
+              "color": {
+                "red": 42,
+                "green": 43,
+                "blue": 49
+              },
+              "score": 0.10808937,
+              "pixelFraction": 0.14490928
+            },
+            {
+              "color": {
+                "red": 170,
+                "green": 114,
+                "blue": 75
+              },
+              "score": 0.065659024,
+              "pixelFraction": 0.03339214
+            },
+            {
+              "color": {
+                "red": 30,
+                "green": 28,
+                "blue": 34
+              },
+              "score": 0.10465371,
+              "pixelFraction": 0.218624
+            },
+            {
+              "color": {
+                "red": 36,
+                "green": 44,
+                "blue": 60
+              },
+              "score": 0.08227442,
+              "pixelFraction": 0.057837702
+            },
+            {
+              "color": {
+                "red": 222,
+                "green": 180,
+                "blue": 153
+              },
+              "score": 0.07646155,
+              "pixelFraction": 0.0047883065
+            },
+            {
+              "color": {
+                "red": 199,
+                "green": 148,
+                "blue": 107
+              },
+              "score": 0.059896,
+              "pixelFraction": 0.0107106855
+            },
+            {
+              "color": {
+                "red": 25,
+                "green": 30,
+                "blue": 45
+              },
+              "score": 0.054164447,
+              "pixelFraction": 0.053175405
+            },
+            {
+              "color": {
+                "red": 218,
+                "green": 186,
+                "blue": 161
+              },
+              "score": 0.042084597,
+              "pixelFraction": 0.0030241935
+            },
+            {
+              "color": {
+                "red": 160,
+                "green": 108,
+                "blue": 89
+              },
+              "score": 0.032908995,
+              "pixelFraction": 0.06325605
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 207
+                },
+                {
+                  "x": 207,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "cy"
+                }
+              ]
+            },
+            "width": 208,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "cy"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 133,
+                      "y": 10
+                    },
+                    {
+                      "x": 133,
+                      "y": 24
+                    },
+                    {
+                      "x": 76,
+                      "y": 23
+                    },
+                    {
+                      "x": 76,
+                      "y": 9
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "cy"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 75,
+                          "y": 9
+                        },
+                        {
+                          "x": 132,
+                          "y": 9
+                        },
+                        {
+                          "x": 132,
+                          "y": 23
+                        },
+                        {
+                          "x": 75,
+                          "y": 23
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "cy"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 133,
+                              "y": 23
+                            },
+                            {
+                              "x": 93,
+                              "y": 22
+                            },
+                            {
+                              "x": 93,
+                              "y": 9
+                            },
+                            {
+                              "x": 133,
+                              "y": 10
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "cy"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 133,
+                                  "y": 23
+                                },
+                                {
+                                  "x": 131,
+                                  "y": 23
+                                },
+                                {
+                                  "x": 131,
+                                  "y": 13
+                                },
+                                {
+                                  "x": 133,
+                                  "y": 13
+                                }
+                              ]
+                            },
+                            "text": "l"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "cy"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 126,
+                                  "y": 23
+                                },
+                                {
+                                  "x": 111,
+                                  "y": 23
+                                },
+                                {
+                                  "x": 111,
+                                  "y": 10
+                                },
+                                {
+                                  "x": 126,
+                                  "y": 10
+                                }
+                              ]
+                            },
+                            "text": "y"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "cy"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 106,
+                                  "y": 23
+                                },
+                                {
+                                  "x": 100,
+                                  "y": 23
+                                },
+                                {
+                                  "x": 100,
+                                  "y": 13
+                                },
+                                {
+                                  "x": 106,
+                                  "y": 13
+                                }
+                              ]
+                            },
+                            "text": "l"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "cy"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 99,
+                                  "y": 22
+                                },
+                                {
+                                  "x": 93,
+                                  "y": 22
+                                },
+                                {
+                                  "x": 93,
+                                  "y": 12
+                                },
+                                {
+                                  "x": 99,
+                                  "y": 12
+                                }
+                              ]
+                            },
+                            "text": "l"
+                          }
+                        ]
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 80,
+                              "y": 23
+                            },
+                            {
+                              "x": 76,
+                              "y": 23
+                            },
+                            {
+                              "x": 76,
+                              "y": 10
+                            },
+                            {
+                              "x": 80,
+                              "y": 10
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "cy"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 80,
+                                  "y": 23
+                                },
+                                {
+                                  "x": 76,
+                                  "y": 23
+                                },
+                                {
+                                  "x": 76,
+                                  "y": 10
+                                },
+                                {
+                                  "x": 80,
+                                  "y": 10
+                                }
+                              ]
+                            },
+                            "text": "l"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "lyll l\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/04gdr",
+            "score": 90.3808,
+            "description": "The Louvre"
+          },
+          {
+            "entityId": "/m/0fq0mzh",
+            "score": 1.52764,
+            "description": "Coronation of the Virgin"
+          },
+          {
+            "entityId": "/g/120m19mm",
+            "score": 0.83486,
+            "description": "Crucifixion with St. Dominic"
+          },
+          {
+            "entityId": "/m/063_g3_",
+            "score": 0.80166,
+            "description": "Crucifixion of Jesus"
+          },
+          {
+            "entityId": "/m/06cvx",
+            "score": 0.68338,
+            "description": "Renaissance"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Angelico%2C_crocefissione_con_san_domenico%2C_louvre.jpg"
+          },
+          {
+            "url": "https://i.mycdn.me/image?id=851046807690&t=3&plc=WEB&tkn=*XTebHWw4HFMpkeGuGUCdS8nEzcU"
+          },
+          {
+            "url": "http://3.bp.blogspot.com/-ftq-vY0nGXc/T4aZ9pe01II/AAAAAAAAKqQ/tcakl1aNRho/s1600/Crucifixion%2Bwith%2BSt%2BDominic.jpg"
+          },
+          {
+            "url": "https://christbearers.files.wordpress.com/2012/08/crucifixion-with-st-dominic-fra-angelico-1440-1445.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/art/a/angelico/14/4fiesole.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://thepocketscroll.files.wordpress.com/2014/07/img_9983.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Fra_angelico%2C_calvario%2C_1440-45%2C_da_s._domenico_di_fiesole%2C_01.JPG"
+          },
+          {
+            "url": "https://warnawarnihariku.files.wordpress.com/2015/01/dsc_0183.jpg"
+          },
+          {
+            "url": "http://janetreeger.com/wp-content/uploads/2015/04/IMG_8900.jpg"
+          },
+          {
+            "url": "http://www.jornalgrandebahia.com.br/wp-content/uploads/2015/08/Iconografia-crist%C3%A3-exposta-no-museu-do-Louvre-em-Paris.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://www.pinterest.com/pin/507217976756803810/"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/326229566737866503/"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Angelico,_crocefissione_con_san_domenico,_louvre.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/Category:Crucifixion_with_Saint_Dominic_(Angelico_Louvre)"
+          },
+          {
+            "url": "http://www.wikiwand.com/it/Crocifissione_del_chiostro_di_San_Marco"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/26/e4/ee/26e4ee9b5ee43ca306cd914bb788e7b5.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/44/6a/4b/446a4bc9713a725f6a74713200ba2ec2.jpg"
+          },
+          {
+            "url": "https://i0.wp.com/radiospada.org/wp-content/uploads/2014/06/Listener-1.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Angelico%2C_crocefissione%2C_1450s.jpg/149px-Angelico%2C_crocefissione%2C_1450s.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/db/ce/f5/dbcef59c2e70b3cc5ddaa0e21613d07f.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

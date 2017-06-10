@@ -1,0 +1,448 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0170gz",
+          "description": "nativity scene",
+          "score": 0.7852271
+        },
+        {
+          "mid": "/m/05fc9mj",
+          "description": "christmas decoration",
+          "score": 0.7759174
+        },
+        {
+          "mid": "/m/0djmp",
+          "description": "ancient history",
+          "score": 0.6918898
+        },
+        {
+          "mid": "/m/0f85g",
+          "description": "basilica",
+          "score": 0.59902084
+        },
+        {
+          "mid": "/m/0173tc",
+          "description": "chapel",
+          "score": 0.5183891
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "ja",
+          "description": "出\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 178,
+                "y": 24
+              },
+              {
+                "x": 196,
+                "y": 24
+              },
+              {
+                "x": 196,
+                "y": 42
+              },
+              {
+                "x": 178,
+                "y": 42
+              }
+            ]
+          }
+        },
+        {
+          "description": "出",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 178,
+                "y": 24
+              },
+              {
+                "x": 196,
+                "y": 24
+              },
+              {
+                "x": 196,
+                "y": 42
+              },
+              {
+                "x": 178,
+                "y": 42
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 100,
+                "green": 80,
+                "blue": 63
+              },
+              "score": 0.12643674,
+              "pixelFraction": 0.081482045
+            },
+            {
+              "color": {
+                "red": 25,
+                "green": 23,
+                "blue": 24
+              },
+              "score": 0.082927056,
+              "pixelFraction": 0.06664638
+            },
+            {
+              "color": {
+                "red": 107,
+                "green": 77,
+                "blue": 61
+              },
+              "score": 0.09247198,
+              "pixelFraction": 0.10734936
+            },
+            {
+              "color": {
+                "red": 135,
+                "green": 112,
+                "blue": 95
+              },
+              "score": 0.08304053,
+              "pixelFraction": 0.06238588
+            },
+            {
+              "color": {
+                "red": 75,
+                "green": 44,
+                "blue": 31
+              },
+              "score": 0.08266575,
+              "pixelFraction": 0.055386487
+            },
+            {
+              "color": {
+                "red": 69,
+                "green": 51,
+                "blue": 36
+              },
+              "score": 0.068127625,
+              "pixelFraction": 0.034996957
+            },
+            {
+              "color": {
+                "red": 96,
+                "green": 82,
+                "blue": 76
+              },
+              "score": 0.05897038,
+              "pixelFraction": 0.041007303
+            },
+            {
+              "color": {
+                "red": 58,
+                "green": 49,
+                "blue": 47
+              },
+              "score": 0.05702886,
+              "pixelFraction": 0.04017042
+            },
+            {
+              "color": {
+                "red": 142,
+                "green": 111,
+                "blue": 97
+              },
+              "score": 0.04634136,
+              "pixelFraction": 0.08604687
+            },
+            {
+              "color": {
+                "red": 130,
+                "green": 113,
+                "blue": 107
+              },
+              "score": 0.041227292,
+              "pixelFraction": 0.027693244
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 342
+                },
+                {
+                  "y": 342
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "ja"
+                }
+              ]
+            },
+            "width": 400,
+            "height": 343,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "ja"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 178,
+                      "y": 24
+                    },
+                    {
+                      "x": 196,
+                      "y": 24
+                    },
+                    {
+                      "x": 196,
+                      "y": 42
+                    },
+                    {
+                      "x": 178,
+                      "y": 42
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "ja"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 178,
+                          "y": 24
+                        },
+                        {
+                          "x": 196,
+                          "y": 24
+                        },
+                        {
+                          "x": 196,
+                          "y": 42
+                        },
+                        {
+                          "x": 178,
+                          "y": 42
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "ja"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 178,
+                              "y": 24
+                            },
+                            {
+                              "x": 196,
+                              "y": 24
+                            },
+                            {
+                              "x": 196,
+                              "y": 42
+                            },
+                            {
+                              "x": 178,
+                              "y": 42
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "ja"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 178,
+                                  "y": 24
+                                },
+                                {
+                                  "x": 196,
+                                  "y": 24
+                                },
+                                {
+                                  "x": 196,
+                                  "y": 42
+                                },
+                                {
+                                  "x": 178,
+                                  "y": 42
+                                }
+                              ]
+                            },
+                            "text": "出"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "出\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/01fsd9",
+            "score": 181.76,
+            "description": "Santa Maria Novella"
+          },
+          {
+            "entityId": "/g/11_pkq41p",
+            "score": 22.37504,
+            "description": "Museum of Santa Maria Novella"
+          },
+          {
+            "entityId": "/g/1210xp_x",
+            "score": 0.8441
+          },
+          {
+            "entityId": "/m/03qsc",
+            "score": 0.70489,
+            "description": "Holy Spirit"
+          },
+          {
+            "entityId": "/m/0cgc8",
+            "score": 0.44913,
+            "description": "Pentecost"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://learninghowtoliveweb.files.wordpress.com/2017/02/gr-vault.jpg"
+          },
+          {
+            "url": "http://blogimg.hani.co.kr/editor/uploads/2017/05/21/51040_49156.jpg_M800.jpg"
+          },
+          {
+            "url": "http://cfile236.uf.daum.net/image/22502B335408EB6F1D1128"
+          },
+          {
+            "url": "http://chiten.org/files/uploads/sugiyama_15__large.jpg"
+          },
+          {
+            "url": "https://learninghowtoliveweb.files.wordpress.com/2017/02/gr-vault.jpg?w=640"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://www.teggelaar.com/florence/imflorence/F9809.jpg"
+          },
+          {
+            "url": "https://learninghowtoliveweb.files.wordpress.com/2017/02/gr-vault.jpg"
+          },
+          {
+            "url": "http://mblogthumb4.phinf.naver.net/20150315_275/nakata48_1426425998786QO2vP_JPEG/IMG_7261.JPG?type=w2"
+          },
+          {
+            "url": "https://farm8.staticflickr.com/7614/17140986272_fbccbc443c_b.jpg"
+          },
+          {
+            "url": "https://learninghowtoliveweb.files.wordpress.com/2017/03/the-great-regcognition.png"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://livingcminca.blogspot.com/2009/12/descent-of-holy-spirit.html"
+          },
+          {
+            "url": "http://www.gettyimages.ca/photos/church-of-the-descent-of-the-holy-spirit?page=4"
+          },
+          {
+            "url": "http://www.alinariarchives.it/en/search?isPostBack=1&query=%22Holy%20Spirit%22"
+          },
+          {
+            "url": "https://livingcminca.blogspot.com/2009_12_01_archive.html"
+          },
+          {
+            "url": "http://www.gettyimages.fi/photos/descent-of-the-spirit?page=3"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://4.bp.blogspot.com/__Us1OhktB28/SzcdPOiesRI/AAAAAAAAMiU/rQrHqLt5Fcg/s400/4vault.jpg"
+          },
+          {
+            "url": "http://media.gettyimages.com/photos/the-descent-of-the-holy-spirit-by-andrea-di-bonaiuto-13651367-fresco-picture-id159623074?s=170667a"
+          },
+          {
+            "url": "https://afterthoughtsblog.net/wp-content/uploads/2015/06/Descent-of-the-Holy-Spirit.png"
+          },
+          {
+            "url": "https://thumbs.dreamstime.com/x/apse-basilica-st-peter-s-rome-masterpieces-bernini-chair-gloria-descent-holy-spirit-58858367.jpg"
+          },
+          {
+            "url": "https://us.123rf.com/450wm/marinv/marinv1509/marinv150900028/44781891-apse-of-basilica-of-st-peter-s-in-rome-masterpieces-of-bernini-chair-of-st-peter-and-gloria-the-desc.jpg?ver=6"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,440 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.9359784
+        },
+        {
+          "mid": "/m/0jg24",
+          "description": "image",
+          "score": 0.902329
+        },
+        {
+          "mid": "/m/027_ny3",
+          "description": "still life photography",
+          "score": 0.8635502
+        },
+        {
+          "mid": "/m/01kyr8",
+          "description": "darkness",
+          "score": 0.7835108
+        },
+        {
+          "mid": "/m/01spzs",
+          "description": "still life",
+          "score": 0.74241877
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "ja",
+          "description": "矼\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 183,
+                "y": 42
+              },
+              {
+                "x": 198,
+                "y": 42
+              },
+              {
+                "x": 198,
+                "y": 59
+              },
+              {
+                "x": 183,
+                "y": 59
+              }
+            ]
+          }
+        },
+        {
+          "description": "矼",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 184,
+                "y": 59
+              },
+              {
+                "x": 183,
+                "y": 43
+              },
+              {
+                "x": 197,
+                "y": 42
+              },
+              {
+                "x": 198,
+                "y": 58
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 162,
+                "green": 109,
+                "blue": 59
+              },
+              "score": 0.15756083,
+              "pixelFraction": 0.007366625
+            },
+            {
+              "color": {
+                "red": 103,
+                "green": 80,
+                "blue": 51
+              },
+              "score": 0.02633009,
+              "pixelFraction": 0.010158189
+            },
+            {
+              "color": {
+                "red": 198,
+                "green": 143,
+                "blue": 87
+              },
+              "score": 0.13138962,
+              "pixelFraction": 0.005738213
+            },
+            {
+              "color": {
+                "red": 201,
+                "green": 143,
+                "blue": 73
+              },
+              "score": 0.10609201,
+              "pixelFraction": 0.0032568239
+            },
+            {
+              "color": {
+                "red": 171,
+                "green": 109,
+                "blue": 42
+              },
+              "score": 0.09075547,
+              "pixelFraction": 0.0024813896
+            },
+            {
+              "color": {
+                "red": 124,
+                "green": 74,
+                "blue": 31
+              },
+              "score": 0.085825324,
+              "pixelFraction": 0.005117866
+            },
+            {
+              "color": {
+                "red": 232,
+                "green": 182,
+                "blue": 119
+              },
+              "score": 0.054595467,
+              "pixelFraction": 0.003101737
+            },
+            {
+              "color": {
+                "red": 140,
+                "green": 66,
+                "blue": 22
+              },
+              "score": 0.054438412,
+              "pixelFraction": 0.0018610422
+            },
+            {
+              "color": {
+                "red": 232,
+                "green": 176,
+                "blue": 103
+              },
+              "score": 0.053988166,
+              "pixelFraction": 0.0018610422
+            },
+            {
+              "color": {
+                "red": 175,
+                "green": 97,
+                "blue": 54
+              },
+              "score": 0.026543021,
+              "pixelFraction": 0.0008529777
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {
+                  "y": 47
+                },
+                {
+                  "x": 333,
+                  "y": 47
+                },
+                {
+                  "x": 333,
+                  "y": 347
+                },
+                {
+                  "y": 347
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 0.98999995
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "ja"
+                }
+              ]
+            },
+            "width": 334,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "ja"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 183,
+                      "y": 43
+                    },
+                    {
+                      "x": 197,
+                      "y": 42
+                    },
+                    {
+                      "x": 198,
+                      "y": 58
+                    },
+                    {
+                      "x": 184,
+                      "y": 59
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "ja"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 183,
+                          "y": 42
+                        },
+                        {
+                          "x": 198,
+                          "y": 42
+                        },
+                        {
+                          "x": 198,
+                          "y": 59
+                        },
+                        {
+                          "x": 183,
+                          "y": 59
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "ja"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 184,
+                              "y": 59
+                            },
+                            {
+                              "x": 183,
+                              "y": 43
+                            },
+                            {
+                              "x": 197,
+                              "y": 42
+                            },
+                            {
+                              "x": 198,
+                              "y": 58
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "ja"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 184,
+                                  "y": 59
+                                },
+                                {
+                                  "x": 183,
+                                  "y": 43
+                                },
+                                {
+                                  "x": 197,
+                                  "y": 42
+                                },
+                                {
+                                  "x": 198,
+                                  "y": 58
+                                }
+                              ]
+                            },
+                            "text": "矼"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "矼\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/04pwg8",
+            "score": 2.97744,
+            "description": "Academy of Fine Arts Vienna"
+          },
+          {
+            "entityId": "/m/0k3p",
+            "score": 1.06004,
+            "description": "Amsterdam"
+          },
+          {
+            "entityId": "/m/01spzs",
+            "score": 1.0147704,
+            "description": "Still life"
+          },
+          {
+            "entityId": "/m/0lgs8",
+            "score": 0.52352,
+            "description": "Battle of Vienna"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.46926,
+            "description": "Painting"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/79/d7/ed/79d7ed4e8b324f8a48bc4b73efa710d4.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://4.bp.blogspot.com/-WjHxQeCb61U/Vbs7KOe7BhI/AAAAAAAAEWA/nYR0HoY2zpw/s1600/aelst%2B-%2Bbreakfast.jpg"
+          },
+          {
+            "url": "http://1.bp.blogspot.com/-SJfj5z8Hvns/VNfI6pMTo2I/AAAAAAAANfk/R2ZjLdf67Is/s1600/breakfas.jpg"
+          },
+          {
+            "url": "http://cdn.fishki.net/upload/post/201508/26/1642128/villem-van-alst.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/art/a/aelst/breakfas.jpg"
+          },
+          {
+            "url": "http://i1.wp.com/nasha-kuhnya.com/wp-content/uploads/2015/09/villem-van-alst.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.wga.hu/html/a/aelst/"
+          },
+          {
+            "url": "http://www.the-athenaeum.org/art/list.php?m=a&s=tu&aid=5433"
+          },
+          {
+            "url": "https://www.tripadvisor.co.za/LocationPhotoDirectLink-g190454-d191397-i114324018-Academy_of_Fine_Arts_Akademie_der_bildenden_Kunste-Vienna.html"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/301811612508644344/"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/458874649511511027/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/b6/5d/bb/b65dbbf2af4c543439c855af1cc9a0b2.jpg"
+          },
+          {
+            "url": "https://c1.staticflickr.com/8/7332/11876662146_f201c3294b_z.jpg"
+          },
+          {
+            "url": "http://www.douglashistory.co.uk/history/image_folder/objects/herring_cherries_glassware.jpg"
+          },
+          {
+            "url": "http://img.topofart.com/images/artists/Willem_van_Aelst/paintings/aelst009.jpg"
+          },
+          {
+            "url": "http://www.artnet.com/WebServices/images/ll00131lldNbKFFgDjECfDrCWQFHPKc27/willem-van-aelst-stilleben-med-frukter-p%C3%A5-stenskiva.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

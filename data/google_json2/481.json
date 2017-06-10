@@ -1,0 +1,412 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07yv9",
+          "description": "vehicle",
+          "score": 0.94296545
+        },
+        {
+          "mid": "/m/06q74",
+          "description": "ship",
+          "score": 0.92426443
+        },
+        {
+          "mid": "/m/031dt",
+          "description": "frigate",
+          "score": 0.84878165
+        },
+        {
+          "mid": "/m/0n2d2",
+          "description": "ship of the line",
+          "score": 0.8300299
+        },
+        {
+          "mid": "/m/01rzcn",
+          "description": "watercraft",
+          "score": 0.7243595
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "en",
+          "description": "d\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 123,
+                "y": 196
+              },
+              {
+                "x": 127,
+                "y": 196
+              },
+              {
+                "x": 127,
+                "y": 201
+              },
+              {
+                "x": 123,
+                "y": 201
+              }
+            ]
+          }
+        },
+        {
+          "description": "d",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 123,
+                "y": 196
+              },
+              {
+                "x": 127,
+                "y": 196
+              },
+              {
+                "x": 127,
+                "y": 201
+              },
+              {
+                "x": 123,
+                "y": 201
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 198,
+                "green": 196,
+                "blue": 197
+              },
+              "score": 0.34937876,
+              "pixelFraction": 0.29690152
+            },
+            {
+              "color": {
+                "red": 160,
+                "green": 157,
+                "blue": 149
+              },
+              "score": 0.15426543,
+              "pixelFraction": 0.047325976
+            },
+            {
+              "color": {
+                "red": 225,
+                "green": 224,
+                "blue": 230
+              },
+              "score": 0.11801559,
+              "pixelFraction": 0.44153225
+            },
+            {
+              "color": {
+                "red": 125,
+                "green": 123,
+                "blue": 115
+              },
+              "score": 0.10049004,
+              "pixelFraction": 0.041065365
+            },
+            {
+              "color": {
+                "red": 120,
+                "green": 113,
+                "blue": 95
+              },
+              "score": 0.083935745,
+              "pixelFraction": 0.007640068
+            },
+            {
+              "color": {
+                "red": 97,
+                "green": 87,
+                "blue": 65
+              },
+              "score": 0.05153053,
+              "pixelFraction": 0.006260611
+            },
+            {
+              "color": {
+                "red": 161,
+                "green": 152,
+                "blue": 135
+              },
+              "score": 0.050136883,
+              "pixelFraction": 0.009337861
+            },
+            {
+              "color": {
+                "red": 93,
+                "green": 93,
+                "blue": 84
+              },
+              "score": 0.028307112,
+              "pixelFraction": 0.031196944
+            },
+            {
+              "color": {
+                "red": 196,
+                "green": 185,
+                "blue": 168
+              },
+              "score": 0.023094468,
+              "pixelFraction": 0.011247878
+            },
+            {
+              "color": {
+                "red": 138,
+                "green": 107,
+                "blue": 96
+              },
+              "score": 0.011101231,
+              "pixelFraction": 0.00084889645
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 244
+                },
+                {
+                  "y": 244
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "en"
+                }
+              ]
+            },
+            "width": 400,
+            "height": 245,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "en"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 123,
+                      "y": 196
+                    },
+                    {
+                      "x": 127,
+                      "y": 196
+                    },
+                    {
+                      "x": 127,
+                      "y": 201
+                    },
+                    {
+                      "x": 123,
+                      "y": 201
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "en"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 123,
+                          "y": 196
+                        },
+                        {
+                          "x": 127,
+                          "y": 196
+                        },
+                        {
+                          "x": 127,
+                          "y": 201
+                        },
+                        {
+                          "x": 123,
+                          "y": 201
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 123,
+                              "y": 196
+                            },
+                            {
+                              "x": 127,
+                              "y": 196
+                            },
+                            {
+                              "x": 127,
+                              "y": 201
+                            },
+                            {
+                              "x": 123,
+                              "y": 201
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 123,
+                                  "y": 196
+                                },
+                                {
+                                  "x": 127,
+                                  "y": 196
+                                },
+                                {
+                                  "x": 127,
+                                  "y": 201
+                                },
+                                {
+                                  "x": 123,
+                                  "y": 201
+                                }
+                              ]
+                            },
+                            "text": "d"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "d\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0m5sp",
+            "score": 24.60288,
+            "description": "Table Mountain"
+          },
+          {
+            "entityId": "/m/0n2d2",
+            "score": 3.0628073,
+            "description": "Ship of the line"
+          },
+          {
+            "entityId": "/m/031dt",
+            "score": 0.64588404,
+            "description": "Frigate"
+          },
+          {
+            "entityId": "/m/01yj2",
+            "score": 0.5432,
+            "description": "Cape Town"
+          },
+          {
+            "entityId": "/m/019tql",
+            "score": 0.5196062,
+            "description": "Flagship"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://crashmacduff.files.wordpress.com/2015/04/rateship.jpg"
+          },
+          {
+            "url": "http://cdn.og-cdn.com/img/1079456/an-english-3rd-rate-ship-of-the-line-74-guns-in-three-positions-off-table-moun-william-anderson-1757-1837.jpg"
+          },
+          {
+            "url": "https://crashmacduff.files.wordpress.com/2015/04/rateship.jpg?w=584&h=358"
+          },
+          {
+            "url": "http://www.wga.hu/detail_s/a/anderson/rateship.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://crashmacduff.files.wordpress.com/2015/04/rateship.jpg"
+          },
+          {
+            "url": "http://cdn.og-cdn.com/img/1079456/an-english-3rd-rate-ship-of-the-line-74-guns-in-three-positions-off-table-moun-william-anderson-1757-1837.jpg"
+          },
+          {
+            "url": "https://crashmacduff.files.wordpress.com/2015/04/rateship.jpg?w=584&h=358"
+          },
+          {
+            "url": "https://artlogic-res.cloudinary.com/w_436,h_436,c_limit,f_auto,fl_lossy/artlogicstorage/lfa/images/view/78e8ca35b37c1128f0e64b5daa5ecd4b8deef19d.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/detail_s/a/anderson/rateship.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

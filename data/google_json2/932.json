@@ -1,0 +1,447 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0557q",
+          "description": "musical theatre",
+          "score": 0.6250803
+        },
+        {
+          "mid": "/m/05lls",
+          "description": "opera",
+          "score": 0.51468086
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "en",
+          "description": ".n\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 63,
+                "y": 2
+              },
+              {
+                "x": 73,
+                "y": 2
+              },
+              {
+                "x": 73,
+                "y": 14
+              },
+              {
+                "x": 63,
+                "y": 14
+              }
+            ]
+          }
+        },
+        {
+          "description": ".n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 63,
+                "y": 2
+              },
+              {
+                "x": 72,
+                "y": 2
+              },
+              {
+                "x": 73,
+                "y": 14
+              },
+              {
+                "x": 64,
+                "y": 14
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "POSSIBLE"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 29,
+                "green": 15,
+                "blue": 12
+              },
+              "score": 0.18665443,
+              "pixelFraction": 0.145
+            },
+            {
+              "color": {
+                "red": 74,
+                "green": 41,
+                "blue": 31
+              },
+              "score": 0.11378618,
+              "pixelFraction": 0.088064514
+            },
+            {
+              "color": {
+                "red": 214,
+                "green": 186,
+                "blue": 162
+              },
+              "score": 0.013534237,
+              "pixelFraction": 0.015645161
+            },
+            {
+              "color": {
+                "red": 181,
+                "green": 73,
+                "blue": 78
+              },
+              "score": 0.0018086021,
+              "pixelFraction": 0.0008064516
+            },
+            {
+              "color": {
+                "red": 40,
+                "green": 17,
+                "blue": 15
+              },
+              "score": 0.16685705,
+              "pixelFraction": 0.08758064
+            },
+            {
+              "color": {
+                "red": 69,
+                "green": 42,
+                "blue": 43
+              },
+              "score": 0.0945578,
+              "pixelFraction": 0.05387097
+            },
+            {
+              "color": {
+                "red": 51,
+                "green": 20,
+                "blue": 12
+              },
+              "score": 0.07732908,
+              "pixelFraction": 0.038548388
+            },
+            {
+              "color": {
+                "red": 60,
+                "green": 46,
+                "blue": 46
+              },
+              "score": 0.06651515,
+              "pixelFraction": 0.047419354
+            },
+            {
+              "color": {
+                "red": 101,
+                "green": 72,
+                "blue": 76
+              },
+              "score": 0.051721655,
+              "pixelFraction": 0.035
+            },
+            {
+              "color": {
+                "red": 104,
+                "green": 69,
+                "blue": 58
+              },
+              "score": 0.047278985,
+              "pixelFraction": 0.14951614
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 159
+                },
+                {
+                  "y": 159
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "en"
+                }
+              ]
+            },
+            "width": 400,
+            "height": 160,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "en"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 63,
+                      "y": 2
+                    },
+                    {
+                      "x": 72,
+                      "y": 2
+                    },
+                    {
+                      "x": 73,
+                      "y": 14
+                    },
+                    {
+                      "x": 64,
+                      "y": 14
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "en"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 63,
+                          "y": 2
+                        },
+                        {
+                          "x": 73,
+                          "y": 2
+                        },
+                        {
+                          "x": 73,
+                          "y": 14
+                        },
+                        {
+                          "x": 63,
+                          "y": 14
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 63,
+                              "y": 2
+                            },
+                            {
+                              "x": 72,
+                              "y": 2
+                            },
+                            {
+                              "x": 73,
+                              "y": 14
+                            },
+                            {
+                              "x": 64,
+                              "y": 14
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 63,
+                                  "y": 2
+                                },
+                                {
+                                  "x": 67,
+                                  "y": 2
+                                },
+                                {
+                                  "x": 68,
+                                  "y": 14
+                                },
+                                {
+                                  "x": 64,
+                                  "y": 14
+                                }
+                              ]
+                            },
+                            "text": "."
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 69,
+                                  "y": 2
+                                },
+                                {
+                                  "x": 72,
+                                  "y": 2
+                                },
+                                {
+                                  "x": 73,
+                                  "y": 14
+                                },
+                                {
+                                  "x": 70,
+                                  "y": 14
+                                }
+                              ]
+                            },
+                            "text": "n"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": ".n\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/07wrxk",
+            "score": 1.0706,
+            "description": "Gemäldegalerie, Berlin"
+          },
+          {
+            "entityId": "/m/069_q4",
+            "score": 1.0706,
+            "description": "Basilica of Saint Francis of Assisi"
+          },
+          {
+            "entityId": "/g/11c3tgf_kl",
+            "score": 0.67374,
+            "description": "Lamentation over St. Francis"
+          },
+          {
+            "entityId": "/g/121g7cnr",
+            "score": 0.52376,
+            "description": "Predella with scenes from Saint Francis"
+          },
+          {
+            "entityId": "/m/0719f",
+            "score": 0.41785,
+            "description": "Saint"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://www.medioevouniversalis.org/images/MEDIOEVO/FRANCESCO_UNA_NUOVA_IMMAGINE_78-79_90.jpg"
+          },
+          {
+            "url": "https://haavarsimon.files.wordpress.com/2015/08/lamentation-of-st-francis-fra-angelico-detail.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/art/a/angelico/13/10ponta2.jpg"
+          },
+          {
+            "url": "http://www.settemuse.it/pittori_scultori_italiani/beato_angelico/beato_angelico_508_dettaglio_lamento_san_francesco.jpg"
+          },
+          {
+            "url": "http://www.settemuse.it/pittori_scultori_italiani/beato_angelico/beato_angelico_507_lamento_morte_san_francesco.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.catholicreview.org/blogs/god-is-in-the-clouds/2014/02/18/blessed-fra-angelico-patron-saint-of-catholic-artists-the-praying-painter"
+          },
+          {
+            "url": "http://theredlist.com/wiki-2-351-861-414-398-425-view-quattrocento-profile-fra-angelico-1.html"
+          },
+          {
+            "url": "http://hoocher.com/Fra_Angelico/Fra_Angelico.htm"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Fra_Angelico_-_Lamentation_over_St_Francis_-_WGA0626.jpg"
+          },
+          {
+            "url": "https://www.wikiart.org/en/fra-angelico/lamentation-over-st-francis"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Fra_Angelico_-_Lamentation_over_St_Francis_-_WGA0626.jpg/320px-Fra_Angelico_-_Lamentation_over_St_Francis_-_WGA0626.jpg"
+          },
+          {
+            "url": "http://www.breadforbeggars.com/wp-content/uploads/2016/05/006_fra-angelico_theredlist-1024x657.png"
+          },
+          {
+            "url": "https://www.herodote.net/_images/fra_angelico.jpg"
+          },
+          {
+            "url": "http://2.bp.blogspot.com/-zHZMpEdNYRY/Tyl2cb8yjtI/AAAAAAAAcU0/fQhUkbiHGc0/s1600/fra+angelico+-+wskrzeszenie+napoleone+orsiniego.jpg"
+          },
+          {
+            "url": "http://de.wahooart.com/A55A04/w.nsf/O/BRUE-8EWG2Y/$File/FRA-ANGELICO-CRUCIFIXION.JPG"
+          }
+        ]
+      }
+    }
+  ]
+}

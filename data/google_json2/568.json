@@ -1,0 +1,605 @@
+{
+  "responses": [
+    {
+      "faceAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 160,
+                "y": 41
+              },
+              {
+                "x": 229,
+                "y": 41
+              },
+              {
+                "x": 229,
+                "y": 121
+              },
+              {
+                "x": 160,
+                "y": 121
+              }
+            ]
+          },
+          "fdBoundingPoly": {
+            "vertices": [
+              {
+                "x": 173,
+                "y": 63
+              },
+              {
+                "x": 227,
+                "y": 63
+              },
+              {
+                "x": 227,
+                "y": 117
+              },
+              {
+                "x": 173,
+                "y": 117
+              }
+            ]
+          },
+          "landmarks": [
+            {
+              "type": "LEFT_EYE",
+              "position": {
+                "x": 200.23753,
+                "y": 79.61679,
+                "z": -9.442874e-05
+              }
+            },
+            {
+              "type": "RIGHT_EYE",
+              "position": {
+                "x": 215.35152,
+                "y": 78.86022,
+                "z": 13.295414
+              }
+            },
+            {
+              "type": "LEFT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 192.95085,
+                "y": 75.53615,
+                "z": -4.0884314
+              }
+            },
+            {
+              "type": "RIGHT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 206.1224,
+                "y": 74.825134,
+                "z": -0.57954323
+              }
+            },
+            {
+              "type": "LEFT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 214.04015,
+                "y": 74.40681,
+                "z": 6.131195
+              }
+            },
+            {
+              "type": "RIGHT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 219.52632,
+                "y": 73.04661,
+                "z": 18.765501
+              }
+            },
+            {
+              "type": "MIDPOINT_BETWEEN_EYES",
+              "position": {
+                "x": 209.5409,
+                "y": 78.72078,
+                "z": 3.1079016
+              }
+            },
+            {
+              "type": "NOSE_TIP",
+              "position": {
+                "x": 213.5294,
+                "y": 92.9133,
+                "z": -0.015475821
+              }
+            },
+            {
+              "type": "UPPER_LIP",
+              "position": {
+                "x": 210.97942,
+                "y": 99.073975,
+                "z": 4.4700203
+              }
+            },
+            {
+              "type": "LOWER_LIP",
+              "position": {
+                "x": 209.93733,
+                "y": 105.93201,
+                "z": 6.441532
+              }
+            },
+            {
+              "type": "MOUTH_LEFT",
+              "position": {
+                "x": 201.98416,
+                "y": 101.364845,
+                "z": 3.6847878
+              }
+            },
+            {
+              "type": "MOUTH_RIGHT",
+              "position": {
+                "x": 213.50156,
+                "y": 100.95245,
+                "z": 14.41116
+              }
+            },
+            {
+              "type": "MOUTH_CENTER",
+              "position": {
+                "x": 209.94406,
+                "y": 102.20591,
+                "z": 6.037456
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_RIGHT",
+              "position": {
+                "x": 213.37117,
+                "y": 92.31871,
+                "z": 9.869416
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_LEFT",
+              "position": {
+                "x": 205.47142,
+                "y": 93.53447,
+                "z": 2.532618
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_CENTER",
+              "position": {
+                "x": 211.23473,
+                "y": 95.63947,
+                "z": 3.9461455
+              }
+            },
+            {
+              "type": "LEFT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 200.43784,
+                "y": 78.86596,
+                "z": -1.609947
+              }
+            },
+            {
+              "type": "LEFT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 203.11368,
+                "y": 80.14432,
+                "z": 2.5650518
+              }
+            },
+            {
+              "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 199.57866,
+                "y": 81.57836,
+                "z": -0.34209958
+              }
+            },
+            {
+              "type": "LEFT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 195.08171,
+                "y": 80.33385,
+                "z": -1.6368618
+              }
+            },
+            {
+              "type": "LEFT_EYE_PUPIL",
+              "position": {
+                "x": 199.58252,
+                "y": 80.25806,
+                "z": -0.9693949
+              }
+            },
+            {
+              "type": "RIGHT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 216.35826,
+                "y": 77.38898,
+                "z": 12.096788
+              }
+            },
+            {
+              "type": "RIGHT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 217.33325,
+                "y": 78.29608,
+                "z": 17.493155
+              }
+            },
+            {
+              "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 215.52023,
+                "y": 80.13716,
+                "z": 13.3504505
+              }
+            },
+            {
+              "type": "RIGHT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 212.19312,
+                "y": 79.19774,
+                "z": 10.66064
+              }
+            },
+            {
+              "type": "RIGHT_EYE_PUPIL",
+              "position": {
+                "x": 215.9332,
+                "y": 78.751114,
+                "z": 13.087857
+              }
+            },
+            {
+              "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 200.48108,
+                "y": 72.916435,
+                "z": -3.7022727
+              }
+            },
+            {
+              "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 217.75056,
+                "y": 71.314384,
+                "z": 11.170067
+              }
+            },
+            {
+              "type": "LEFT_EAR_TRAGION",
+              "position": {
+                "x": 172.27817,
+                "y": 89.00735,
+                "z": 11.635823
+              }
+            },
+            {
+              "type": "RIGHT_EAR_TRAGION",
+              "position": {
+                "x": 208.47552,
+                "y": 85.6364,
+                "z": 42.71801
+              }
+            },
+            {
+              "type": "FOREHEAD_GLABELLA",
+              "position": {
+                "x": 210.64098,
+                "y": 74.5972,
+                "z": 2.200617
+              }
+            },
+            {
+              "type": "CHIN_GNATHION",
+              "position": {
+                "x": 207.82117,
+                "y": 114.35474,
+                "z": 9.796344
+              }
+            },
+            {
+              "type": "CHIN_LEFT_GONION",
+              "position": {
+                "x": 179.51337,
+                "y": 103.062454,
+                "z": 8.250304
+              }
+            },
+            {
+              "type": "CHIN_RIGHT_GONION",
+              "position": {
+                "x": 212.23387,
+                "y": 100.070854,
+                "z": 36.407326
+              }
+            }
+          ],
+          "rollAngle": 0.40697247,
+          "panAngle": 40.92765,
+          "tiltAngle": -6.6598063,
+          "detectionConfidence": 0.62135583,
+          "landmarkingConfidence": 0.451544,
+          "joyLikelihood": "VERY_UNLIKELY",
+          "sorrowLikelihood": "VERY_UNLIKELY",
+          "angerLikelihood": "VERY_UNLIKELY",
+          "surpriseLikelihood": "VERY_UNLIKELY",
+          "underExposedLikelihood": "VERY_UNLIKELY",
+          "blurredLikelihood": "VERY_UNLIKELY",
+          "headwearLikelihood": "VERY_UNLIKELY"
+        }
+      ],
+      "logoAnnotations": [
+        {
+          "description": "Queen Esther",
+          "score": 0.94720083,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 6,
+                "y": 4
+              },
+              {
+                "x": 387,
+                "y": 4
+              },
+              {
+                "x": 387,
+                "y": 293
+              },
+              {
+                "x": 6,
+                "y": 293
+              }
+            ]
+          }
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.7048002
+        },
+        {
+          "mid": "/m/02nnps",
+          "description": "relief",
+          "score": 0.63459444
+        },
+        {
+          "mid": "/m/0djmp",
+          "description": "ancient history",
+          "score": 0.6300684
+        },
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.58308786
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 215,
+                "green": 195,
+                "blue": 157
+              },
+              "score": 0.24315988,
+              "pixelFraction": 0.17939259
+            },
+            {
+              "color": {
+                "red": 89,
+                "green": 47,
+                "blue": 26
+              },
+              "score": 0.05393938,
+              "pixelFraction": 0.042638984
+            },
+            {
+              "color": {
+                "red": 59,
+                "green": 90,
+                "blue": 87
+              },
+              "score": 0.0156092085,
+              "pixelFraction": 0.008922444
+            },
+            {
+              "color": {
+                "red": 45,
+                "green": 52,
+                "blue": 51
+              },
+              "score": 0.014732804,
+              "pixelFraction": 0.013726836
+            },
+            {
+              "color": {
+                "red": 166,
+                "green": 149,
+                "blue": 122
+              },
+              "score": 0.13555117,
+              "pixelFraction": 0.10475292
+            },
+            {
+              "color": {
+                "red": 217,
+                "green": 194,
+                "blue": 145
+              },
+              "score": 0.112414174,
+              "pixelFraction": 0.10638298
+            },
+            {
+              "color": {
+                "red": 141,
+                "green": 125,
+                "blue": 100
+              },
+              "score": 0.07885467,
+              "pixelFraction": 0.05319149
+            },
+            {
+              "color": {
+                "red": 242,
+                "green": 226,
+                "blue": 194
+              },
+              "score": 0.06368458,
+              "pixelFraction": 0.0719801
+            },
+            {
+              "color": {
+                "red": 110,
+                "green": 66,
+                "blue": 46
+              },
+              "score": 0.05187409,
+              "pixelFraction": 0.109728895
+            },
+            {
+              "color": {
+                "red": 179,
+                "green": 155,
+                "blue": 106
+              },
+              "score": 0.03296272,
+              "pixelFraction": 0.05104667
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 301
+                },
+                {
+                  "y": 301
+                }
+              ]
+            },
+            "confidence": 1,
+            "importanceFraction": 0.62
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0cfjp",
+            "score": 11.9728,
+            "description": "Uffizi Gallery"
+          },
+          {
+            "entityId": "/m/01fs7r",
+            "score": 1.4634,
+            "description": "Andrea del Castagno"
+          },
+          {
+            "entityId": "/m/01dpg",
+            "score": 1.41024,
+            "description": "Book of Esther"
+          },
+          {
+            "entityId": "/g/121k2lg3",
+            "score": 0.81164
+          },
+          {
+            "entityId": "/m/06cvx",
+            "score": 0.70072,
+            "description": "Renaissance"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://www.michlala.edu/Productions/sadna/chaguim/diapo6.JPG"
+          },
+          {
+            "url": "http://richardmcbee.com/images/writings/jewish_art_before_1800/Esther_in_Venice/andrea_del_castigano_1450_uffizi.jpg"
+          },
+          {
+            "url": "http://www.bc-like.com/uploads/images/00/06/83/2016/03/08/37f1340ad7.jpg"
+          },
+          {
+            "url": "http://img12.nnm.ru/c/8/8/2/9/5ec4bc61592afa3ba3ecbee7615.jpg"
+          },
+          {
+            "url": "http://bbscache.artron.net/forum/201303/31/1620270gepbhw988lti6za.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://naturalpigments.com/images/education/castagno_esther1.jpg"
+          },
+          {
+            "url": "http://www.michlala.edu/Productions/sadna/chaguim/diapo6.JPG"
+          },
+          {
+            "url": "http://richardmcbee.com/images/writings/jewish_art_before_1800/Esther_in_Venice/andrea_del_castigano_1450_uffizi.jpg"
+          },
+          {
+            "url": "http://www.bc-like.com/uploads/images/00/06/83/2016/03/08/37f1340ad7.jpg"
+          },
+          {
+            "url": "http://bbscache.artron.net/forum/201303/31/1620270gepbhw988lti6za.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.paradoxplace.com/Perspectives/Italian%20Images/Montages/Art/Andrea%20del%20Castagno.htm"
+          },
+          {
+            "url": "http://www.travelingintuscany.com/art/andreadelcastagno/famouspersons.htm"
+          },
+          {
+            "url": "http://www.wga.hu/html_m/a/andrea/castagno/2_famous/4esther.html"
+          },
+          {
+            "url": "https://www.wikiart.org/en/andrea-del-castagno/queen-esther"
+          },
+          {
+            "url": "http://www.abcgallery.com/C/castagno/castagno.html"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://www.oceansbridge.com/paintings/artists/a/Andrea_Del_Castagno/oil-big/Famous_Persons_Queen_Esther_WGA.jpg"
+          },
+          {
+            "url": "http://img.wikioo.org/Art.nsf/O/9GEG6F/$File/AndreaDelCastagno-queenesther.JPG"
+          },
+          {
+            "url": "http://tribalstories.weebly.com/uploads/3/0/6/6/30660423/9238497_orig.jpg"
+          },
+          {
+            "url": "http://fr.wahooart.com/Art.nsf/O/8XXNBE/$File/Andrea-Del-Castagno-Crucifixion-and-Saints-S.JPG"
+          },
+          {
+            "url": "https://classconnection.s3.amazonaws.com/25/flashcards/1795025/jpg/andrea-del-castagno-crucifixion-and-saints-11352082844938.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

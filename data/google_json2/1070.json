@@ -1,0 +1,444 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.84808964
+        },
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.70567906
+        },
+        {
+          "mid": "/m/0djmp",
+          "description": "ancient history",
+          "score": 0.57828057
+        },
+        {
+          "mid": "/m/015r61",
+          "description": "modern art",
+          "score": 0.5505055
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "en",
+          "description": "A\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 178,
+                "y": 31
+              },
+              {
+                "x": 228,
+                "y": 31
+              },
+              {
+                "x": 228,
+                "y": 92
+              },
+              {
+                "x": 178,
+                "y": 92
+              }
+            ]
+          }
+        },
+        {
+          "description": "A",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 178,
+                "y": 31
+              },
+              {
+                "x": 228,
+                "y": 31
+              },
+              {
+                "x": 228,
+                "y": 92
+              },
+              {
+                "x": 178,
+                "y": 92
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "UNLIKELY",
+        "spoof": "UNLIKELY",
+        "medical": "UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 158,
+                "green": 46,
+                "blue": 23
+              },
+              "score": 0.106668055,
+              "pixelFraction": 0.022229115
+            },
+            {
+              "color": {
+                "red": 211,
+                "green": 187,
+                "blue": 164
+              },
+              "score": 0.07167575,
+              "pixelFraction": 0.041666668
+            },
+            {
+              "color": {
+                "red": 108,
+                "green": 76,
+                "blue": 63
+              },
+              "score": 0.07136049,
+              "pixelFraction": 0.10752688
+            },
+            {
+              "color": {
+                "red": 78,
+                "green": 43,
+                "blue": 29
+              },
+              "score": 0.06872356,
+              "pixelFraction": 0.03546319
+            },
+            {
+              "color": {
+                "red": 144,
+                "green": 48,
+                "blue": 23
+              },
+              "score": 0.06485737,
+              "pixelFraction": 0.0519024
+            },
+            {
+              "color": {
+                "red": 178,
+                "green": 153,
+                "blue": 135
+              },
+              "score": 0.062947564,
+              "pixelFraction": 0.03691067
+            },
+            {
+              "color": {
+                "red": 143,
+                "green": 112,
+                "blue": 100
+              },
+              "score": 0.048350863,
+              "pixelFraction": 0.15756823
+            },
+            {
+              "color": {
+                "red": 106,
+                "green": 79,
+                "blue": 76
+              },
+              "score": 0.047221992,
+              "pixelFraction": 0.016956162
+            },
+            {
+              "color": {
+                "red": 169,
+                "green": 50,
+                "blue": 19
+              },
+              "score": 0.038839266,
+              "pixelFraction": 0.0055831266
+            },
+            {
+              "color": {
+                "red": 139,
+                "green": 116,
+                "blue": 100
+              },
+              "score": 0.03875583,
+              "pixelFraction": 0.02016129
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 249
+                },
+                {
+                  "x": 249,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "en"
+                }
+              ]
+            },
+            "width": 250,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "en"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 178,
+                      "y": 31
+                    },
+                    {
+                      "x": 228,
+                      "y": 31
+                    },
+                    {
+                      "x": 228,
+                      "y": 92
+                    },
+                    {
+                      "x": 178,
+                      "y": 92
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "en"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 178,
+                          "y": 31
+                        },
+                        {
+                          "x": 228,
+                          "y": 31
+                        },
+                        {
+                          "x": 228,
+                          "y": 92
+                        },
+                        {
+                          "x": 178,
+                          "y": 92
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 178,
+                              "y": 31
+                            },
+                            {
+                              "x": 228,
+                              "y": 31
+                            },
+                            {
+                              "x": 228,
+                              "y": 92
+                            },
+                            {
+                              "x": 178,
+                              "y": 92
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 178,
+                                  "y": 31
+                                },
+                                {
+                                  "x": 228,
+                                  "y": 31
+                                },
+                                {
+                                  "x": 228,
+                                  "y": 92
+                                },
+                                {
+                                  "x": 178,
+                                  "y": 92
+                                }
+                              ]
+                            },
+                            "text": "A"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "A\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0ch64y",
+            "score": 2.82464,
+            "description": "St. Jerome in His Study"
+          },
+          {
+            "entityId": "/m/043s4rp",
+            "score": 2.80552,
+            "description": "Saint Jerome in His Study"
+          },
+          {
+            "entityId": "/m/03jnx1",
+            "score": 1.6296,
+            "description": "Walters Art Museum"
+          },
+          {
+            "entityId": "/m/02gx5d",
+            "score": 1.22056,
+            "description": "Fabriano"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.52431303,
+            "description": "Painting"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://classconnection.s3.amazonaws.com/53/flashcards/4370053/jpg/antonio_da_fabriano_-_st_jerome_in_his_study_-_wga00769-142D742582B16C99BCC.jpg"
+          },
+          {
+            "url": "http://lapisblog.epfl.ch/gallery3/var/albums/20140709-01/da_fabriano_antonio_san_girolamo_nello_studio_1451.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/17/10/61/171061ea0b8a8ca18dac32bcb374f34d.jpg"
+          },
+          {
+            "url": "https://c1.staticflickr.com/1/663/23365728741_250e062b7b_b.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/db/7d/28/db7d28345b7c4b4bd3b4dea53990e087.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://everypainterpaintshimself.com/article_images_new/AntonioJeromex1.jpg"
+          },
+          {
+            "url": "https://classconnection.s3.amazonaws.com/53/flashcards/4370053/jpg/antonio_da_fabriano_-_st_jerome_in_his_study_-_wga00769-142D742582B16C99BCC.jpg"
+          },
+          {
+            "url": "https://2.bp.blogspot.com/-oZs2ApH1jgM/V-39ezk5ECI/AAAAAAAANyA/ZdQv0inaTck2Itv-rns2JNhY2t1MrgA8QCLcB/s1600/1451_Antonio%2Bda%2BFabriano_St.%2BJ%2Bin%2Bstudy_1451_Baltimore_Walters%2BArt%2BMuseum.jpg"
+          },
+          {
+            "url": "https://pictures.abebooks.com/BIBLIOTECADIBABELE/22426188068.jpg"
+          },
+          {
+            "url": "http://www.gwick.ch/Perspe/Pictures/BildDepot/daFabriano02.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Antonio_da_Fabriano"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Antonio_da_Fabriano_II_-_Saint_Jerome_in_His_Study_-_Walters_37439.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/html_m/a/antonio/fabriano/s_jerome.html"
+          },
+          {
+            "url": "http://www.everypainterpaintshimself.com/article/antonio_da_fabrianos_st_jerome_in_his_study_1451"
+          },
+          {
+            "url": "http://www.wikiwand.com/it/Antonio_da_Fabriano"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Antonio_Da_Fabriano_-_St_Jerome_in_His_Study_-_WGA00769.jpg/150px-Antonio_Da_Fabriano_-_St_Jerome_in_His_Study_-_WGA00769.jpg"
+          },
+          {
+            "url": "http://everypainterpaintshimself.com/article_images_new/AntonioJeromeLETTER.jpg"
+          },
+          {
+            "url": "http://2.bp.blogspot.com/-aWgmsiCJle4/Tdks6G3aaSI/AAAAAAAABV0/8Enmgzm5MNA/s1600/Antonio%2Bda%2BFabriano.bmp"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Antonio_da_fabriano%2C_sant%27anna_con_la_vergine_bambina%2C_san_gioacchino_e_san_giuseppe%2C_01.jpg/547px-Antonio_da_fabriano%2C_sant%27anna_con_la_vergine_bambina%2C_san_gioacchino_e_san_giuseppe%2C_01.jpg"
+          },
+          {
+            "url": "http://www.incrocinews.it/polopoly_fs/1.120135.1449764388!/image/image.jpg_gen/derivatives/landscape_174/image.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

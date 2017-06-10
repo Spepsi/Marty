@@ -1,0 +1,479 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/012h24",
+          "description": "comics",
+          "score": 0.75076544
+        },
+        {
+          "mid": "/m/01vnb",
+          "description": "comic book",
+          "score": 0.74134547
+        },
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.6668706
+        },
+        {
+          "mid": "/m/04zhd",
+          "description": "mythology",
+          "score": 0.6095231
+        },
+        {
+          "mid": "/m/067408",
+          "description": "album cover",
+          "score": 0.60701716
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "oc",
+          "description": "es\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 231,
+                "y": 41
+              },
+              {
+                "x": 245,
+                "y": 41
+              },
+              {
+                "x": 245,
+                "y": 60
+              },
+              {
+                "x": 231,
+                "y": 60
+              }
+            ]
+          }
+        },
+        {
+          "description": "es",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 244,
+                "y": 41
+              },
+              {
+                "x": 245,
+                "y": 59
+              },
+              {
+                "x": 232,
+                "y": 60
+              },
+              {
+                "x": 231,
+                "y": 42
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 153,
+                "green": 110,
+                "blue": 96
+              },
+              "score": 0.11996114,
+              "pixelFraction": 0.050307218
+            },
+            {
+              "color": {
+                "red": 28,
+                "green": 19,
+                "blue": 14
+              },
+              "score": 0.10354527,
+              "pixelFraction": 0.27841783
+            },
+            {
+              "color": {
+                "red": 112,
+                "green": 73,
+                "blue": 61
+              },
+              "score": 0.09611638,
+              "pixelFraction": 0.06317204
+            },
+            {
+              "color": {
+                "red": 77,
+                "green": 44,
+                "blue": 34
+              },
+              "score": 0.0862504,
+              "pixelFraction": 0.075652845
+            },
+            {
+              "color": {
+                "red": 187,
+                "green": 142,
+                "blue": 127
+              },
+              "score": 0.08499715,
+              "pixelFraction": 0.029857911
+            },
+            {
+              "color": {
+                "red": 229,
+                "green": 185,
+                "blue": 166
+              },
+              "score": 0.05270503,
+              "pixelFraction": 0.011808756
+            },
+            {
+              "color": {
+                "red": 216,
+                "green": 188,
+                "blue": 164
+              },
+              "score": 0.04719044,
+              "pixelFraction": 0.017665131
+            },
+            {
+              "color": {
+                "red": 40,
+                "green": 18,
+                "blue": 16
+              },
+              "score": 0.042367276,
+              "pixelFraction": 0.043874808
+            },
+            {
+              "color": {
+                "red": 71,
+                "green": 44,
+                "blue": 43
+              },
+              "score": 0.039243955,
+              "pixelFraction": 0.056739632
+            },
+            {
+              "color": {
+                "red": 107,
+                "green": 77,
+                "blue": 74
+              },
+              "score": 0.033603087,
+              "pixelFraction": 0.037922427
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 270
+                },
+                {
+                  "x": 270,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "oc"
+                }
+              ]
+            },
+            "width": 271,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "oc"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 231,
+                      "y": 42
+                    },
+                    {
+                      "x": 244,
+                      "y": 41
+                    },
+                    {
+                      "x": 245,
+                      "y": 59
+                    },
+                    {
+                      "x": 232,
+                      "y": 60
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "oc"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 231,
+                          "y": 41
+                        },
+                        {
+                          "x": 245,
+                          "y": 41
+                        },
+                        {
+                          "x": 245,
+                          "y": 60
+                        },
+                        {
+                          "x": 231,
+                          "y": 60
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "oc"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 244,
+                              "y": 41
+                            },
+                            {
+                              "x": 245,
+                              "y": 59
+                            },
+                            {
+                              "x": 232,
+                              "y": 60
+                            },
+                            {
+                              "x": 231,
+                              "y": 42
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "oc"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 244,
+                                  "y": 41
+                                },
+                                {
+                                  "x": 244,
+                                  "y": 52
+                                },
+                                {
+                                  "x": 231,
+                                  "y": 53
+                                },
+                                {
+                                  "x": 231,
+                                  "y": 42
+                                }
+                              ]
+                            },
+                            "text": "e"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "oc"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 243,
+                                  "y": 52
+                                },
+                                {
+                                  "x": 243,
+                                  "y": 59
+                                },
+                                {
+                                  "x": 231,
+                                  "y": 60
+                                },
+                                {
+                                  "x": 231,
+                                  "y": 53
+                                }
+                              ]
+                            },
+                            "text": "s"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "es\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/05q6bt",
+            "score": 1.49276,
+            "description": "Wallraf-Richartz Museum"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.948979,
+            "description": "Painting"
+          },
+          {
+            "entityId": "/m/0bp_wy",
+            "score": 0.6761,
+            "description": "Oil"
+          },
+          {
+            "entityId": "/g/11bwqmqsx0",
+            "score": 0.65114,
+            "description": "Market Scene"
+          },
+          {
+            "entityId": "/m/06cvx",
+            "score": 0.61172,
+            "description": "Renaissance"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://oudemeesterschilderijen.files.wordpress.com/2013/06/aertsen-market-scene.jpg"
+          },
+          {
+            "url": "http://image.hnol.net/c/2013-12/17/17/201312171736308761-513051.jpg"
+          },
+          {
+            "url": "http://cfile216.uf.daum.net/image/2556124D5471765D04BB59"
+          },
+          {
+            "url": "http://cfile213.uf.daum.net/image/1909B5254CD8B9E9217977"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/38/dd/96/38dd96e1a7e5a140816899427b3d5bce.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://oudemeesterschilderijen.files.wordpress.com/2013/06/aertsen-market-scene.jpg"
+          },
+          {
+            "url": "http://image.hnol.net/c/2013-12/17/17/201312171736308761-513051.jpg"
+          },
+          {
+            "url": "http://cfile216.uf.daum.net/image/2556124D5471765D04BB59"
+          },
+          {
+            "url": "http://cfile213.uf.daum.net/image/1909B5254CD8B9E9217977"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/38/dd/96/38dd96e1a7e5a140816899427b3d5bce.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.wga.hu/frames-e.html?/html/a/aertsen/index.html"
+          },
+          {
+            "url": "http://www.the-athenaeum.org/art/list.php?m=a&s=tu&aid=6014"
+          },
+          {
+            "url": "http://www.wikiwand.com/es/Pieter_Aertsen"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Pieter_Aertsen_-_Market_Scene_-_WGA0062.jpg"
+          },
+          {
+            "url": "http://www.carrotmuseum.co.uk/arts1.html"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Pieter_Aertsen_-_Market_Scene_-_WGA0062.jpg/406px-Pieter_Aertsen_-_Market_Scene_-_WGA0062.jpg"
+          },
+          {
+            "url": "http://www.oilpaintingfactory.com/pic/Oil%20Painting%20Masterpieces%20on%20Canvas/Aertsen%20Pieter_Holland_1508-1575/6-Vendor-Of-Vegetable-Dutch-historical-painter-Pieter-Aertsen.jpg"
+          },
+          {
+            "url": "https://i.ytimg.com/vi/92T2j8Dh_Y4/maxresdefault.jpg"
+          },
+          {
+            "url": "http://www.londonfoodfilmfiesta.co.uk/Artmai~1/images~2/campi-2kitchen(large).jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/2f/55/9c/2f559c9951f47b981c3a814aa3379c98.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

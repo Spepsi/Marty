@@ -1,0 +1,448 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.6914934
+        },
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.6722348
+        },
+        {
+          "mid": "/m/0lym8",
+          "description": "tapestry",
+          "score": 0.66997206
+        },
+        {
+          "mid": "/m/015r61",
+          "description": "modern art",
+          "score": 0.5566134
+        },
+        {
+          "mid": "/m/04zhd",
+          "description": "mythology",
+          "score": 0.5337083
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "zh",
+          "description": "攵\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 23,
+                "y": 156
+              },
+              {
+                "x": 30,
+                "y": 156
+              },
+              {
+                "x": 30,
+                "y": 165
+              },
+              {
+                "x": 23,
+                "y": 165
+              }
+            ]
+          }
+        },
+        {
+          "description": "攵",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 23,
+                "y": 156
+              },
+              {
+                "x": 30,
+                "y": 156
+              },
+              {
+                "x": 30,
+                "y": 165
+              },
+              {
+                "x": 23,
+                "y": 165
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 177,
+                "green": 149,
+                "blue": 87
+              },
+              "score": 0.2073708,
+              "pixelFraction": 0.10349462
+            },
+            {
+              "color": {
+                "red": 223,
+                "green": 123,
+                "blue": 94
+              },
+              "score": 0.06632628,
+              "pixelFraction": 0.012303556
+            },
+            {
+              "color": {
+                "red": 222,
+                "green": 176,
+                "blue": 156
+              },
+              "score": 0.049517866,
+              "pixelFraction": 0.021608768
+            },
+            {
+              "color": {
+                "red": 189,
+                "green": 95,
+                "blue": 64
+              },
+              "score": 0.06310861,
+              "pixelFraction": 0.016232423
+            },
+            {
+              "color": {
+                "red": 152,
+                "green": 125,
+                "blue": 68
+              },
+              "score": 0.06288149,
+              "pixelFraction": 0.08560794
+            },
+            {
+              "color": {
+                "red": 135,
+                "green": 121,
+                "blue": 87
+              },
+              "score": 0.062239,
+              "pixelFraction": 0.15539703
+            },
+            {
+              "color": {
+                "red": 234,
+                "green": 110,
+                "blue": 87
+              },
+              "score": 0.06020371,
+              "pixelFraction": 0.0126137305
+            },
+            {
+              "color": {
+                "red": 169,
+                "green": 150,
+                "blue": 116
+              },
+              "score": 0.053775128,
+              "pixelFraction": 0.15953267
+            },
+            {
+              "color": {
+                "red": 209,
+                "green": 85,
+                "blue": 61
+              },
+              "score": 0.052123927,
+              "pixelFraction": 0.020471465
+            },
+            {
+              "color": {
+                "red": 191,
+                "green": 141,
+                "blue": 94
+              },
+              "score": 0.050451092,
+              "pixelFraction": 0.011269644
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 252
+                },
+                {
+                  "y": 252
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "zh-Hans"
+                }
+              ]
+            },
+            "width": 400,
+            "height": 253,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "zh-Hans"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 23,
+                      "y": 156
+                    },
+                    {
+                      "x": 30,
+                      "y": 156
+                    },
+                    {
+                      "x": 30,
+                      "y": 165
+                    },
+                    {
+                      "x": 23,
+                      "y": 165
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "zh-Hans"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 23,
+                          "y": 156
+                        },
+                        {
+                          "x": 30,
+                          "y": 156
+                        },
+                        {
+                          "x": 30,
+                          "y": 165
+                        },
+                        {
+                          "x": 23,
+                          "y": 165
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "zh-Hans"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 23,
+                              "y": 156
+                            },
+                            {
+                              "x": 30,
+                              "y": 156
+                            },
+                            {
+                              "x": 30,
+                              "y": 165
+                            },
+                            {
+                              "x": 23,
+                              "y": 165
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "zh-Hans"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 23,
+                                  "y": 156
+                                },
+                                {
+                                  "x": 30,
+                                  "y": 156
+                                },
+                                {
+                                  "x": 30,
+                                  "y": 165
+                                },
+                                {
+                                  "x": 23,
+                                  "y": 165
+                                }
+                              ]
+                            },
+                            "text": "攵"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "攵\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/01t_6r",
+            "score": 1.5001,
+            "description": "Noli me tangere"
+          },
+          {
+            "entityId": "/m/01181dgn",
+            "score": 0.654,
+            "description": "1410s"
+          },
+          {
+            "entityId": "/g/119ty0rh9",
+            "score": 0.43177
+          },
+          {
+            "entityId": "/m/0ytgt",
+            "score": 0.41334,
+            "description": "Child"
+          },
+          {
+            "entityId": "/m/01xzhr",
+            "score": 0.40559,
+            "description": "Medieval art"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://www.wga.hu/art/a/antonio/atri/noli_me.jpg"
+          },
+          {
+            "url": "https://i0.wp.com/www.wga.hu/art/a/antonio/atri/noli_me.jpg"
+          },
+          {
+            "url": "https://i0.wp.com/somewherepostculture.com/wp-content/uploads/2013/07/noli_me.jpg"
+          },
+          {
+            "url": "http://3.bp.blogspot.com/-SMk_3BVJmg0/UZnrITJmtSI/AAAAAAAAARk/Q0JlMqg0EOE/s1600/4.Antonio+da+Atri,+Noli+me+tangere,+met%C3%A0+XV+sec..jpg"
+          },
+          {
+            "url": "http://images2.corriereobjects.it/gallery/Cultura/2010/05_Maggio/collezioni_arte/2/img_2/02_Antonio-da-Atri,-Noli-me-tangere_(247)_672-458_resize.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://www.wga.hu/art/a/antonio/atri/noli_me.jpg"
+          },
+          {
+            "url": "https://i0.wp.com/www.wga.hu/art/a/antonio/atri/noli_me.jpg"
+          },
+          {
+            "url": "https://i0.wp.com/somewherepostculture.com/wp-content/uploads/2013/07/noli_me.jpg"
+          },
+          {
+            "url": "http://www.ilgiornaledellarte.com/immagini/IMG2010091315065185_900_700.jpeg"
+          },
+          {
+            "url": "http://3.bp.blogspot.com/-SMk_3BVJmg0/UZnrITJmtSI/AAAAAAAAARk/Q0JlMqg0EOE/s1600/4.Antonio+da+Atri,+Noli+me+tangere,+met%C3%A0+XV+sec..jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.somewherepostculture.com/no-mary-sue/"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/362750944962527782/"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/455989530996067059/"
+          },
+          {
+            "url": "https://romancatholicimperialist.blogspot.com/2013/03/"
+          },
+          {
+            "url": "https://romancatholicimperialist.blogspot.com/2013/03/515-say-your-prayers_31.html"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://images2.corriereobjects.it/gallery/Cultura/2010/05_Maggio/collezioni_arte/2/img_2/02_Antonio-da-Atri,-Noli-me-tangere_(247)_672-458_resize.jpg"
+          },
+          {
+            "url": "http://www.bsae.it/contents/3/3it9_201205211054.jpg"
+          },
+          {
+            "url": "https://image.invaluable.com/housePhotos/hampel/34/572734/H2610-L79345788.jpg"
+          },
+          {
+            "url": "http://www.uciimtorino.it/arte_11_pietro_da_saluzzo_madonna_col_ba.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/%27Madonna_and_Child%27%2C_by_Nicol%C3%B2_da_Voltri%2C_end_of_14th_century%2C_San_Donato_%28Genoa%29-San_Donato%2C_Genoa.jpg/220px-%27Madonna_and_Child%27%2C_by_Nicol%C3%B2_da_Voltri%2C_end_of_14th_century%2C_San_Donato_%28Genoa%29-San_Donato%2C_Genoa.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

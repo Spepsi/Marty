@@ -1,0 +1,274 @@
+{
+  "responses": [
+    {
+      "logoAnnotations": [
+        {
+          "description": "Madonna and Child with Saints",
+          "score": 0.97183716,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 1,
+                "y": 21
+              },
+              {
+                "x": 280,
+                "y": 21
+              },
+              {
+                "x": 280,
+                "y": 394
+              },
+              {
+                "x": 1,
+                "y": 394
+              }
+            ]
+          }
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/0djmp",
+          "description": "ancient history",
+          "score": 0.6663509
+        },
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.578961
+        },
+        {
+          "mid": "/m/0lym8",
+          "description": "tapestry",
+          "score": 0.57790893
+        },
+        {
+          "mid": "/m/06bvp",
+          "description": "religion",
+          "score": 0.5127751
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 99,
+                "green": 81,
+                "blue": 60
+              },
+              "score": 0.1291037,
+              "pixelFraction": 0.06913737
+            },
+            {
+              "color": {
+                "red": 222,
+                "green": 227,
+                "blue": 223
+              },
+              "score": 0.07178049,
+              "pixelFraction": 0.0650598
+            },
+            {
+              "color": {
+                "red": 133,
+                "green": 115,
+                "blue": 91
+              },
+              "score": 0.102889694,
+              "pixelFraction": 0.0700435
+            },
+            {
+              "color": {
+                "red": 171,
+                "green": 152,
+                "blue": 125
+              },
+              "score": 0.087621585,
+              "pixelFraction": 0.07393983
+            },
+            {
+              "color": {
+                "red": 66,
+                "green": 51,
+                "blue": 33
+              },
+              "score": 0.08518056,
+              "pixelFraction": 0.03950707
+            },
+            {
+              "color": {
+                "red": 60,
+                "green": 51,
+                "blue": 45
+              },
+              "score": 0.069741465,
+              "pixelFraction": 0.04566872
+            },
+            {
+              "color": {
+                "red": 87,
+                "green": 82,
+                "blue": 76
+              },
+              "score": 0.06876052,
+              "pixelFraction": 0.048568323
+            },
+            {
+              "color": {
+                "red": 75,
+                "green": 45,
+                "blue": 29
+              },
+              "score": 0.06408524,
+              "pixelFraction": 0.039869517
+            },
+            {
+              "color": {
+                "red": 105,
+                "green": 74,
+                "blue": 57
+              },
+              "score": 0.04481083,
+              "pixelFraction": 0.0614353
+            },
+            {
+              "color": {
+                "red": 206,
+                "green": 186,
+                "blue": 154
+              },
+              "score": 0.039493293,
+              "pixelFraction": 0.03950707
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 285
+                },
+                {
+                  "x": 285,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0cfjp",
+            "score": 14.29728,
+            "description": "Uffizi Gallery"
+          },
+          {
+            "entityId": "/g/1218fj45",
+            "score": 1.47188
+          },
+          {
+            "entityId": "/g/1224tdx8",
+            "score": 1.3217
+          },
+          {
+            "entityId": "/m/0h697_b",
+            "score": 1.12424,
+            "description": "Madonna and Child"
+          },
+          {
+            "entityId": "/m/06cvx",
+            "score": 0.70598,
+            "description": "Renaissance"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://image.hnol.net/c/2014-05/23/08/20140523080646851-513051.jpg"
+          },
+          {
+            "url": "http://www.art-kingdom.com/upload/373415.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Andrea_del_castagno%2C_madonna_col_bambino_da_colelzione_contini_bonacossi.jpg"
+          },
+          {
+            "url": "http://k30.kn3.net/taringa/7/A/5/B/B/A/cardagra/E4D.jpg"
+          },
+          {
+            "url": "https://i2.wp.com/upload.wikimedia.org/wikipedia/commons/1/1d/Andrea_del_castagno,_madonna_col_bambino_da_colelzione_contini_bonacossi.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://image.hnol.net/c/2014-05/23/08/20140523080646851-513051.jpg"
+          },
+          {
+            "url": "http://www.art-kingdom.com/upload/373415.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Andrea_del_castagno%2C_madonna_col_bambino_da_colelzione_contini_bonacossi.jpg"
+          },
+          {
+            "url": "http://k30.kn3.net/taringa/7/A/5/B/B/A/cardagra/E4D.jpg"
+          },
+          {
+            "url": "https://i2.wp.com/upload.wikimedia.org/wikipedia/commons/1/1d/Andrea_del_castagno,_madonna_col_bambino_da_colelzione_contini_bonacossi.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.uffizi.org/the-contini-bonacossi-collection/"
+          },
+          {
+            "url": "https://it.wikipedia.org/wiki/Collezione_Contini_Bonacossi"
+          },
+          {
+            "url": "http://www.discovertuscany.com/blog/secret-uffizi-open-for-a-month-887/"
+          },
+          {
+            "url": "http://www.uffizi.org/es/coleccion-contini-bonacossi/"
+          },
+          {
+            "url": "http://www.uffizi.org/1240-temporary-opening-of-the-contini-bonacossi-collection/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/df/2e/e0/df2ee0e39b4956b2e69b1e5c90fce7aa.jpg"
+          },
+          {
+            "url": "http://www.kfki.hu/~arthp/art/c/cimabue/madonna/madonnb.jpg"
+          },
+          {
+            "url": "http://img.uffizi.org/wp-content/uploads/2013/11/andrea_del_castagno_madonna.jpg"
+          },
+          {
+            "url": "https://saciart.files.wordpress.com/2013/11/madonna-child.jpg"
+          },
+          {
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/0d/e1/02/39/collezione-contini-bonacossi.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

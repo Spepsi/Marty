@@ -1,0 +1,585 @@
+{
+  "responses": [
+    {
+      "faceAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 95,
+                "y": 16
+              },
+              {
+                "x": 205,
+                "y": 16
+              },
+              {
+                "x": 205,
+                "y": 143
+              },
+              {
+                "x": 95,
+                "y": 143
+              }
+            ]
+          },
+          "fdBoundingPoly": {
+            "vertices": [
+              {
+                "x": 114,
+                "y": 47
+              },
+              {
+                "x": 195,
+                "y": 47
+              },
+              {
+                "x": 195,
+                "y": 128
+              },
+              {
+                "x": 114,
+                "y": 128
+              }
+            ]
+          },
+          "landmarks": [
+            {
+              "type": "LEFT_EYE",
+              "position": {
+                "x": 147.06483,
+                "y": 73.733734,
+                "z": -0.0008589722
+              }
+            },
+            {
+              "type": "RIGHT_EYE",
+              "position": {
+                "x": 175.80334,
+                "y": 73.41883,
+                "z": 12.331397
+              }
+            },
+            {
+              "type": "LEFT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 134.71179,
+                "y": 67.70863,
+                "z": -1.8427236
+              }
+            },
+            {
+              "type": "RIGHT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 156.69609,
+                "y": 66.61058,
+                "z": -3.0307152
+              }
+            },
+            {
+              "type": "LEFT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 171.36847,
+                "y": 66.26251,
+                "z": 3.2729912
+              }
+            },
+            {
+              "type": "RIGHT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 186.12688,
+                "y": 65.09828,
+                "z": 19.81136
+              }
+            },
+            {
+              "type": "MIDPOINT_BETWEEN_EYES",
+              "position": {
+                "x": 164.91716,
+                "y": 73.33313,
+                "z": -0.14876817
+              }
+            },
+            {
+              "type": "NOSE_TIP",
+              "position": {
+                "x": 169.1824,
+                "y": 92.61046,
+                "z": -8.719074
+              }
+            },
+            {
+              "type": "UPPER_LIP",
+              "position": {
+                "x": 166.72148,
+                "y": 105.37608,
+                "z": -1.158048
+              }
+            },
+            {
+              "type": "LOWER_LIP",
+              "position": {
+                "x": 166.26035,
+                "y": 115.86871,
+                "z": 1.332212
+              }
+            },
+            {
+              "type": "MOUTH_LEFT",
+              "position": {
+                "x": 151.74527,
+                "y": 109.708145,
+                "z": 2.064106
+              }
+            },
+            {
+              "type": "MOUTH_RIGHT",
+              "position": {
+                "x": 176.18234,
+                "y": 108.157394,
+                "z": 12.597338
+              }
+            },
+            {
+              "type": "MOUTH_CENTER",
+              "position": {
+                "x": 166.1107,
+                "y": 109.590256,
+                "z": 1.223832
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_RIGHT",
+              "position": {
+                "x": 172.68471,
+                "y": 94.57901,
+                "z": 6.7323956
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_LEFT",
+              "position": {
+                "x": 156.37927,
+                "y": 95.730225,
+                "z": -0.3353975
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_CENTER",
+              "position": {
+                "x": 165.84198,
+                "y": 98.41724,
+                "z": -1.4305372
+              }
+            },
+            {
+              "type": "LEFT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 147.34842,
+                "y": 72.623665,
+                "z": -2.2563665
+              }
+            },
+            {
+              "type": "LEFT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 153.02263,
+                "y": 74.57078,
+                "z": 2.6042128
+              }
+            },
+            {
+              "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 146.96643,
+                "y": 76.48372,
+                "z": -0.33642662
+              }
+            },
+            {
+              "type": "LEFT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 139.44095,
+                "y": 74.99921,
+                "z": 0.0927607
+              }
+            },
+            {
+              "type": "LEFT_EYE_PUPIL",
+              "position": {
+                "x": 146.40746,
+                "y": 74.95227,
+                "z": -1.0957041
+              }
+            },
+            {
+              "type": "RIGHT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 178.04657,
+                "y": 71.11751,
+                "z": 10.702333
+              }
+            },
+            {
+              "type": "RIGHT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 182.17293,
+                "y": 73.19258,
+                "z": 18.196304
+              }
+            },
+            {
+              "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 176.74533,
+                "y": 76.08659,
+                "z": 12.528682
+              }
+            },
+            {
+              "type": "RIGHT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 170.58673,
+                "y": 74.72716,
+                "z": 10.248488
+              }
+            },
+            {
+              "type": "RIGHT_EYE_PUPIL",
+              "position": {
+                "x": 177.9507,
+                "y": 73.453415,
+                "z": 12.17247
+              }
+            },
+            {
+              "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 146.34814,
+                "y": 63.07173,
+                "z": -4.6194735
+              }
+            },
+            {
+              "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 179.68121,
+                "y": 61.409943,
+                "z": 9.4543295
+              }
+            },
+            {
+              "type": "LEFT_EAR_TRAGION",
+              "position": {
+                "x": 111.75038,
+                "y": 91.948074,
+                "z": 29.938253
+              }
+            },
+            {
+              "type": "RIGHT_EAR_TRAGION",
+              "position": {
+                "x": 181.46898,
+                "y": 88.47872,
+                "z": 59.393692
+              }
+            },
+            {
+              "type": "FOREHEAD_GLABELLA",
+              "position": {
+                "x": 164.65799,
+                "y": 65.86101,
+                "z": -1.0401157
+              }
+            },
+            {
+              "type": "CHIN_GNATHION",
+              "position": {
+                "x": 164.91663,
+                "y": 131.05783,
+                "z": 6.0946155
+              }
+            },
+            {
+              "type": "CHIN_LEFT_GONION",
+              "position": {
+                "x": 121.17096,
+                "y": 113.36637,
+                "z": 19.360313
+              }
+            },
+            {
+              "type": "CHIN_RIGHT_GONION",
+              "position": {
+                "x": 184.26994,
+                "y": 110.23973,
+                "z": 45.989613
+              }
+            }
+          ],
+          "rollAngle": -2.2815583,
+          "panAngle": 22.868044,
+          "tiltAngle": -1.3816091,
+          "detectionConfidence": 0.9565978,
+          "landmarkingConfidence": 0.5992835,
+          "joyLikelihood": "VERY_UNLIKELY",
+          "sorrowLikelihood": "VERY_UNLIKELY",
+          "angerLikelihood": "VERY_UNLIKELY",
+          "surpriseLikelihood": "VERY_UNLIKELY",
+          "underExposedLikelihood": "VERY_UNLIKELY",
+          "blurredLikelihood": "VERY_UNLIKELY",
+          "headwearLikelihood": "VERY_UNLIKELY"
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/01g317",
+          "description": "person",
+          "score": 0.9457055
+        },
+        {
+          "mid": "/m/0mf2",
+          "description": "abbot",
+          "score": 0.6280766
+        },
+        {
+          "mid": "/m/063km",
+          "description": "profession",
+          "score": 0.5767965
+        },
+        {
+          "mid": "/m/01dv4h",
+          "description": "portrait",
+          "score": 0.5208041
+        },
+        {
+          "mid": "/m/067nv",
+          "description": "preacher",
+          "score": 0.50723416
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 25,
+                "green": 25,
+                "blue": 25
+              },
+              "score": 0.36645663,
+              "pixelFraction": 0.57242554
+            },
+            {
+              "color": {
+                "red": 60,
+                "green": 123,
+                "blue": 141
+              },
+              "score": 0.03354494,
+              "pixelFraction": 0.01380273
+            },
+            {
+              "color": {
+                "red": 159,
+                "green": 198,
+                "blue": 193
+              },
+              "score": 0.027055556,
+              "pixelFraction": 0.014423077
+            },
+            {
+              "color": {
+                "red": 202,
+                "green": 194,
+                "blue": 155
+              },
+              "score": 0.023073079,
+              "pixelFraction": 0.011476426
+            },
+            {
+              "color": {
+                "red": 116,
+                "green": 69,
+                "blue": 24
+              },
+              "score": 0.02151709,
+              "pixelFraction": 0.013104838
+            },
+            {
+              "color": {
+                "red": 136,
+                "green": 116,
+                "blue": 62
+              },
+              "score": 0.015783848,
+              "pixelFraction": 0.007986973
+            },
+            {
+              "color": {
+                "red": 48,
+                "green": 44,
+                "blue": 40
+              },
+              "score": 0.05241694,
+              "pixelFraction": 0.06226737
+            },
+            {
+              "color": {
+                "red": 58,
+                "green": 48,
+                "blue": 28
+              },
+              "score": 0.03866789,
+              "pixelFraction": 0.022565136
+            },
+            {
+              "color": {
+                "red": 52,
+                "green": 101,
+                "blue": 116
+              },
+              "score": 0.027197197,
+              "pixelFraction": 0.012794665
+            },
+            {
+              "color": {
+                "red": 74,
+                "green": 41,
+                "blue": 25
+              },
+              "score": 0.023894938,
+              "pixelFraction": 0.013880273
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 335
+                },
+                {
+                  "x": 335,
+                  "y": 379
+                },
+                {
+                  "y": 379
+                }
+              ]
+            },
+            "confidence": 1,
+            "importanceFraction": 1.5899999
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0vzsjms",
+            "score": 14.8098,
+            "description": "Matthäus Schwarz"
+          },
+          {
+            "entityId": "/m/073z19",
+            "score": 3.8564,
+            "description": "Thyssen-Bornemisza Museum"
+          },
+          {
+            "entityId": "/g/11bxc78nd2",
+            "score": 0.89798,
+            "description": "Portrait of Matthäus Schwarz"
+          },
+          {
+            "entityId": "/m/08b23",
+            "score": 0.77902,
+            "description": "16th century"
+          },
+          {
+            "entityId": "/m/06cvx",
+            "score": 0.76196,
+            "description": "Renaissance"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/a4/ec/69/a4ec69af14c94acb0caa1a017ee96858.jpg"
+          },
+          {
+            "url": "https://3.bp.blogspot.com/-rL8425wZ6D4/Ti14vS7etAI/AAAAAAAAAuY/PL8Z8pDDeak/s1600/schwarzweddingNEP.jpg"
+          },
+          {
+            "url": "http://www.catchy.ro/wp-content/uploads/2013/06/Pictur%C4%83-din-1952.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/88/b6/82/88b682ec870a994c817bdb5a85ef729f.jpg"
+          },
+          {
+            "url": "https://benjaminpbreen.files.wordpress.com/2011/07/abd87-schwarzweddingnep.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://upload.wikimedia.org/wikipedia/commons/2/28/Christoph_Amberger_-_Bildnis_Matth%C3%A4us_Schwarz_%281542%29.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Christoph_Amberger_-_Portrait_of_Matth%C3%A4us_Schwarz_-_WGA0257.jpg"
+          },
+          {
+            "url": "https://i0.wp.com/falaele.com.br/wp-content/uploads/2016/01/Christoph_Amberger_-_Portrait_of_Matth%C3%A4us_Schwarz_-_WGA0257.jpg"
+          },
+          {
+            "url": "http://cp15.nevsepic.com.ua/240cp15/23983/1426476016-amberger-christoph-portret-matteusa-shvarca-matthaus-schwarz-1542-735-cm-x-61-cm-derevo-maslo.jpg"
+          },
+          {
+            "url": "https://s3-eu-west-1.amazonaws.com/vam-blog/wp-content/uploads/Schwarz-Portrait_af55370f953743b1c7303b2440962ba2.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Matth%C3%A4us_Schwarz"
+          },
+          {
+            "url": "http://www.abroadintheyard.com/16th-century-selfies-matthaeus-schwarz/"
+          },
+          {
+            "url": "https://www.museothyssen.org/en/collection/artists/amberger-christoph/portrait-matthaus-schwarz"
+          },
+          {
+            "url": "https://resobscura.blogspot.com/2011/07/renaissance-merchants-life-in-clothing.html"
+          },
+          {
+            "url": "http://viola.bz/matthaus-schwarz-founder-of-fashion-from-xvi-century/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://it.wahooart.com/Art.nsf/O/8XZ8VY/$File/Christoph-Amberger-Portrait-of-Matth-us-Schwarz-S.JPG"
+          },
+          {
+            "url": "http://yg-garments.ru/userfiles/modniy_blog/Matthaeus-Schwarz.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Math%C3%A4us_Schwartz_hans_maler_1526.jpg/220px-Math%C3%A4us_Schwartz_hans_maler_1526.jpg"
+          },
+          {
+            "url": "https://imagenes.museothyssen.org/sites/default/files/styles/16x9_large/public/imagen/obras/1935.1_retrato-matthaus-schwarz.jpg?itok=vnccNwM-"
+          },
+          {
+            "url": "http://ic.pics.livejournal.com/d1nny/15217011/323468/323468_original.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

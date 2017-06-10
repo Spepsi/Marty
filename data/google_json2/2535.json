@@ -1,0 +1,449 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.95333165
+        },
+        {
+          "mid": "/m/01spzs",
+          "description": "still life",
+          "score": 0.94755465
+        },
+        {
+          "mid": "/m/027_ny3",
+          "description": "still life photography",
+          "score": 0.8810453
+        },
+        {
+          "mid": "/m/0c9ph5",
+          "description": "flower",
+          "score": 0.8655668
+        },
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.6751867
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "en",
+          "description": "2\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 162,
+                "y": 266
+              },
+              {
+                "x": 171,
+                "y": 266
+              },
+              {
+                "x": 171,
+                "y": 275
+              },
+              {
+                "x": 162,
+                "y": 275
+              }
+            ]
+          }
+        },
+        {
+          "description": "2",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 163,
+                "y": 267
+              },
+              {
+                "x": 171,
+                "y": 266
+              },
+              {
+                "x": 172,
+                "y": 273
+              },
+              {
+                "x": 164,
+                "y": 275
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 142,
+                "green": 63,
+                "blue": 56
+              },
+              "score": 0.07498197,
+              "pixelFraction": 0.024890482
+            },
+            {
+              "color": {
+                "red": 199,
+                "green": 145,
+                "blue": 126
+              },
+              "score": 0.066197164,
+              "pixelFraction": 0.043508563
+            },
+            {
+              "color": {
+                "red": 227,
+                "green": 189,
+                "blue": 96
+              },
+              "score": 0.045128964,
+              "pixelFraction": 0.005276782
+            },
+            {
+              "color": {
+                "red": 210,
+                "green": 144,
+                "blue": 70
+              },
+              "score": 0.044036403,
+              "pixelFraction": 0.0042811627
+            },
+            {
+              "color": {
+                "red": 27,
+                "green": 17,
+                "blue": 12
+              },
+              "score": 0.0083861565,
+              "pixelFraction": 0.4128833
+            },
+            {
+              "color": {
+                "red": 229,
+                "green": 182,
+                "blue": 165
+              },
+              "score": 0.05208064,
+              "pixelFraction": 0.015232975
+            },
+            {
+              "color": {
+                "red": 204,
+                "green": 143,
+                "blue": 90
+              },
+              "score": 0.0416865,
+              "pixelFraction": 0.007168459
+            },
+            {
+              "color": {
+                "red": 162,
+                "green": 104,
+                "blue": 61
+              },
+              "score": 0.03866321,
+              "pixelFraction": 0.008462763
+            },
+            {
+              "color": {
+                "red": 159,
+                "green": 104,
+                "blue": 86
+              },
+              "score": 0.03725714,
+              "pixelFraction": 0.037435286
+            },
+            {
+              "color": {
+                "red": 218,
+                "green": 193,
+                "blue": 169
+              },
+              "score": 0.03671673,
+              "pixelFraction": 0.015830347
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 261
+                },
+                {
+                  "x": 261,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "en"
+                }
+              ]
+            },
+            "width": 262,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "en"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 171,
+                      "y": 266
+                    },
+                    {
+                      "x": 172,
+                      "y": 274
+                    },
+                    {
+                      "x": 165,
+                      "y": 275
+                    },
+                    {
+                      "x": 163,
+                      "y": 267
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "en"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 162,
+                          "y": 266
+                        },
+                        {
+                          "x": 171,
+                          "y": 266
+                        },
+                        {
+                          "x": 171,
+                          "y": 275
+                        },
+                        {
+                          "x": 162,
+                          "y": 275
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 163,
+                              "y": 267
+                            },
+                            {
+                              "x": 171,
+                              "y": 266
+                            },
+                            {
+                              "x": 172,
+                              "y": 273
+                            },
+                            {
+                              "x": 164,
+                              "y": 275
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 163,
+                                  "y": 267
+                                },
+                                {
+                                  "x": 171,
+                                  "y": 266
+                                },
+                                {
+                                  "x": 172,
+                                  "y": 273
+                                },
+                                {
+                                  "x": 164,
+                                  "y": 275
+                                }
+                              ]
+                            },
+                            "text": "2"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "2\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/073z19",
+            "score": 1.14852,
+            "description": "Thyssen-Bornemisza Museum"
+          },
+          {
+            "entityId": "/m/01spzs",
+            "score": 1.1351478,
+            "description": "Still life"
+          },
+          {
+            "entityId": "/g/11bwf1pyrq",
+            "score": 0.68362,
+            "description": "Flowers in a Vase with Shells and Insects"
+          },
+          {
+            "entityId": "/g/11ckvgh98w",
+            "score": 0.6191,
+            "description": "Chinese Vase with Flowers, Shells and Insects"
+          },
+          {
+            "entityId": "/m/0c9ph5",
+            "score": 0.5287384,
+            "description": "Flower"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://img5.010lm.com/img.php?http://mmbiz.qpic.cn/mmbiz/cUib0h2ykrZUlBLhOUKrGArcAkzARsZOD8HUf9V8M7ByfYAo3eG7MtqIn3iaJWianFj670mCXokoEYibcnm5sd3ytA/0?wx_fmt=jpeg"
+          },
+          {
+            "url": "http://www.wga.hu/art/a/ast/flowstil.jpg"
+          },
+          {
+            "url": "http://2.bp.blogspot.com/-DHVMVKs0N-M/UVxnaNGMm7I/AAAAAAAAPGw/XvKyL_9MVZI/s1600/Balthasar_van_der_Ast_-_Flower_Still-Life_with_Shell_and_Insects_-_WGA1041.jpg"
+          },
+          {
+            "url": "http://img0.ph.126.net/oYmUTQVxImJ3AJg8d3yXGg==/1411315533327648720.jpg"
+          },
+          {
+            "url": "http://s017.radikal.ru/i428/1112/e7/c3f8c8f21924.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Flowers_in_a_Chinese_Vase_by_Balthasar_van_der_Ast%2C_1628_AD%2C_oil_on_wood_-_Museo_Nacional_Centro_de_Arte_Reina_Sof%C3%ADa_-_DSC08658.JPG"
+          },
+          {
+            "url": "http://cp12.nevsepic.com.ua/71/1352747278-0202227-www.nevsepic.com.ua.jpg"
+          },
+          {
+            "url": "https://imagenes.museothyssen.org/sites/default/files/imagen/obras/1958.5_vaso-chino-flores-conchas-e-insectos.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Balthasar_van_der_Ast_-_Flower_Still-Life_with_Shell_and_Insects_-_WGA1041.jpg"
+          },
+          {
+            "url": "https://imagenes.museothyssen.org/sites/default/files/styles/16x9_large/public/imagen/obras/1958.5_vaso-chino-flores-conchas-e-insectos.jpg?itok=T_Blssqe"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.allposters.com/-st/Balthasar-van-der-Ast-Posters_c64121_.htm"
+          },
+          {
+            "url": "https://uk.pinterest.com/hetsterrenschip/balthasar-van-der-ast-1593-1657/"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/509117932850204742/"
+          },
+          {
+            "url": "http://www.art.com/gallery/id--a32807/balthasar-van-der-ast-posters.htm"
+          },
+          {
+            "url": "https://www.museothyssen.org/en/collection/artists/ast-balthasar-van-der/chinese-vase-flowers-shells-and-insects"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/8a/64/95/8a6495f1c4965015f7b1cba639829372.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/cb/19/10/cb1910ab8c5a747fa2c31aedc2ef3dcb.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/5b/86/10/5b8610023749910e7d39faf2c3baeb75.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/71/8e/94/718e9437e5c0cec040b64bb4492c4704.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/63/79/cf/6379cf6510f9f9cd6999df72d2496640.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

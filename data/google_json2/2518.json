@@ -1,0 +1,323 @@
+{
+  "responses": [
+    {
+      "landmarkAnnotations": [
+        {
+          "mid": "/m/06jsf",
+          "description": "Rijksmuseum Amsterdam",
+          "score": 0.8943655,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 14,
+                "y": 26
+              },
+              {
+                "x": 380,
+                "y": 26
+              },
+              {
+                "x": 380,
+                "y": 290
+              },
+              {
+                "x": 14,
+                "y": 290
+              }
+            ]
+          },
+          "locations": [
+            {
+              "latLng": {
+                "latitude": 52.359038,
+                "longitude": 4.8838037252426147
+              }
+            }
+          ]
+        },
+        {
+          "mid": "/m/06jsf",
+          "description": "Rijksmuseum",
+          "score": 0.87776315,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 87,
+                "y": 71
+              },
+              {
+                "x": 298,
+                "y": 71
+              },
+              {
+                "x": 298,
+                "y": 261
+              },
+              {
+                "x": 87,
+                "y": 261
+              }
+            ]
+          },
+          "locations": [
+            {
+              "latLng": {
+                "latitude": 52.374760798535064,
+                "longitude": 4.893035
+              }
+            }
+          ]
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/015p6",
+          "description": "bird",
+          "score": 0.87950385
+        },
+        {
+          "mid": "/m/0gg8brk",
+          "description": "water bird",
+          "score": 0.5737808
+        },
+        {
+          "mid": "/m/083s2",
+          "description": "wing",
+          "score": 0.5624591
+        },
+        {
+          "mid": "/m/0h0rv",
+          "description": "pigeons and doves",
+          "score": 0.54305667
+        },
+        {
+          "mid": "/m/01c_0l",
+          "description": "ducks geese and swans",
+          "score": 0.5425236
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 174,
+                "green": 156,
+                "blue": 136
+              },
+              "score": 0.36302572,
+              "pixelFraction": 0.1073938
+            },
+            {
+              "color": {
+                "red": 206,
+                "green": 190,
+                "blue": 168
+              },
+              "score": 0.35922027,
+              "pixelFraction": 0.11242414
+            },
+            {
+              "color": {
+                "red": 137,
+                "green": 120,
+                "blue": 101
+              },
+              "score": 0.08399157,
+              "pixelFraction": 0.052539125
+            },
+            {
+              "color": {
+                "red": 239,
+                "green": 224,
+                "blue": 202
+              },
+              "score": 0.07979562,
+              "pixelFraction": 0.02898435
+            },
+            {
+              "color": {
+                "red": 129,
+                "green": 116,
+                "blue": 112
+              },
+              "score": 0.028690366,
+              "pixelFraction": 0.06012456
+            },
+            {
+              "color": {
+                "red": 103,
+                "green": 85,
+                "blue": 67
+              },
+              "score": 0.025866302,
+              "pixelFraction": 0.07769083
+            },
+            {
+              "color": {
+                "red": 65,
+                "green": 49,
+                "blue": 33
+              },
+              "score": 0.012232091,
+              "pixelFraction": 0.13158736
+            },
+            {
+              "color": {
+                "red": 104,
+                "green": 90,
+                "blue": 83
+              },
+              "score": 0.00939175,
+              "pixelFraction": 0.08192271
+            },
+            {
+              "color": {
+                "red": 164,
+                "green": 148,
+                "blue": 142
+              },
+              "score": 0.007992319,
+              "pixelFraction": 0.0051900353
+            },
+            {
+              "color": {
+                "red": 121,
+                "green": 84,
+                "blue": 57
+              },
+              "score": 0.0070656054,
+              "pixelFraction": 0.0784893
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 325
+                },
+                {
+                  "y": 325
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/06jsf",
+            "score": 7.7088,
+            "description": "Rijksmuseum"
+          },
+          {
+            "entityId": "/m/012nf4d1",
+            "score": 2.87524,
+            "description": "The Threatened Swan"
+          },
+          {
+            "entityId": "/m/0dftk",
+            "score": 1.44916,
+            "description": "Swan"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.53913,
+            "description": "Painting"
+          },
+          {
+            "entityId": "/m/05nmd",
+            "score": 0.40213,
+            "description": "Oil painting"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://biblioklept.files.wordpress.com/2016/01/thr_swan.jpg?w=1400"
+          },
+          {
+            "url": "https://biblioklept.files.wordpress.com/2016/01/thr_swan.jpg"
+          },
+          {
+            "url": "http://ertekkereso.hu/doc/clipart/K%C3%A9pt%C3%A1r/festmenyek/asselyn%20jan%20thr_swan.jpg"
+          },
+          {
+            "url": "http://cp12.nevsepic.com.ua/73/1352937420-jan-asselyn---the-threatened-swan.jpg"
+          },
+          {
+            "url": "http://images2.corriereobjects.it/methode_image/2016/09/02/Cultura/Foto%20Gallery/thr_swan.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://jelillie.files.wordpress.com/2012/07/100_01242.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Jan_Asselijn_-_De_bedreigde_zwaan%3B_later_opgevat_als_allegorie_op_Johan_de_Witt_-_Google_Art_Project.jpg"
+          },
+          {
+            "url": "http://dam-diaries.com/wp-content/uploads/2013/10/IMG_0556.jpg"
+          },
+          {
+            "url": "https://nathaliesolange.files.wordpress.com/2015/05/de-bedreigde-zwaan-van-jan-a.jpg"
+          },
+          {
+            "url": "http://resolver.kb.nl/resolve?urn=urn:gvn:RIJK01:SK-A-4&size=large"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.themasterpiececards.com/famous-paintings-reviewed/bid/99667/10-Famous-Paintings-in-the-Rijksmuseum"
+          },
+          {
+            "url": "https://en.wikipedia.org/wiki/The_Threatened_Swan"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/62839357273156096/"
+          },
+          {
+            "url": "http://62.212.91.193/aria/aria_assets/SK-A-4?page=2&lang=en&context_space=aria_catalogs&context_id=Term_00027945_en"
+          },
+          {
+            "url": "http://www.mike-jess.com/2013/05/rembrandt-and-others-at-rijksmuseum.html"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/de/17/a4/de17a4379adaebe9b367d8702ebd359b.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/16/cf/64/16cf64cc4bc39036184c1f7d76e4e7b5.jpg"
+          },
+          {
+            "url": "http://www.artclon.com/OtherFile/floating_painting.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/0e/76/e6/0e76e6b28f12b5d136f32241ce1235a1.jpg"
+          },
+          {
+            "url": "http://www.gogmsite.net/_Media/caroline-of-naples-in-the.png"
+          }
+        ]
+      }
+    }
+  ]
+}

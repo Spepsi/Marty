@@ -1,0 +1,585 @@
+{
+  "responses": [
+    {
+      "faceAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 74,
+                "y": 92
+              },
+              {
+                "x": 174,
+                "y": 92
+              },
+              {
+                "x": 174,
+                "y": 208
+              },
+              {
+                "x": 74,
+                "y": 208
+              }
+            ]
+          },
+          "fdBoundingPoly": {
+            "vertices": [
+              {
+                "x": 77,
+                "y": 111
+              },
+              {
+                "x": 171,
+                "y": 111
+              },
+              {
+                "x": 171,
+                "y": 205
+              },
+              {
+                "x": 77,
+                "y": 205
+              }
+            ]
+          },
+          "landmarks": [
+            {
+              "type": "LEFT_EYE",
+              "position": {
+                "x": 92.66504,
+                "y": 145.56075,
+                "z": -0.00053082645
+              }
+            },
+            {
+              "type": "RIGHT_EYE",
+              "position": {
+                "x": 108.40436,
+                "y": 141.91943,
+                "z": -25.684155
+              }
+            },
+            {
+              "type": "LEFT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 89.76641,
+                "y": 139.92601,
+                "z": 10.931519
+              }
+            },
+            {
+              "type": "RIGHT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 91.57069,
+                "y": 137.15038,
+                "z": -8.7259
+              }
+            },
+            {
+              "type": "LEFT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 99.182304,
+                "y": 135.33487,
+                "z": -21.180485
+              }
+            },
+            {
+              "type": "RIGHT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 115.92421,
+                "y": 133.70802,
+                "z": -31.905703
+              }
+            },
+            {
+              "type": "MIDPOINT_BETWEEN_EYES",
+              "position": {
+                "x": 95.14933,
+                "y": 142.56479,
+                "z": -16.018589
+              }
+            },
+            {
+              "type": "NOSE_TIP",
+              "position": {
+                "x": 87.19896,
+                "y": 160.05324,
+                "z": -23.069748
+              }
+            },
+            {
+              "type": "UPPER_LIP",
+              "position": {
+                "x": 94.15582,
+                "y": 170.52707,
+                "z": -20.694202
+              }
+            },
+            {
+              "type": "LOWER_LIP",
+              "position": {
+                "x": 96.28777,
+                "y": 181.0239,
+                "z": -20.936049
+              }
+            },
+            {
+              "type": "MOUTH_LEFT",
+              "position": {
+                "x": 95.080956,
+                "y": 176.7948,
+                "z": -6.9963408
+              }
+            },
+            {
+              "type": "MOUTH_RIGHT",
+              "position": {
+                "x": 107.95735,
+                "y": 173.49664,
+                "z": -27.24072
+              }
+            },
+            {
+              "type": "MOUTH_CENTER",
+              "position": {
+                "x": 96.211,
+                "y": 175.50336,
+                "z": -20.16711
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_RIGHT",
+              "position": {
+                "x": 102.21422,
+                "y": 160.75601,
+                "z": -24.200718
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_LEFT",
+              "position": {
+                "x": 93.6069,
+                "y": 163.13809,
+                "z": -10.167508
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_CENTER",
+              "position": {
+                "x": 94.02384,
+                "y": 164.50932,
+                "z": -19.932377
+              }
+            },
+            {
+              "type": "LEFT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 90.964775,
+                "y": 143.44035,
+                "z": -0.8194378
+              }
+            },
+            {
+              "type": "LEFT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 95.94622,
+                "y": 145.08218,
+                "z": -5.146837
+              }
+            },
+            {
+              "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 92.52404,
+                "y": 147.63362,
+                "z": -0.454107
+              }
+            },
+            {
+              "type": "LEFT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 92.02637,
+                "y": 146.58972,
+                "z": 6.47051
+              }
+            },
+            {
+              "type": "LEFT_EYE_PUPIL",
+              "position": {
+                "x": 91.87622,
+                "y": 145.62144,
+                "z": -0.021928139
+              }
+            },
+            {
+              "type": "RIGHT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 106.61713,
+                "y": 139.71268,
+                "z": -26.461535
+              }
+            },
+            {
+              "type": "RIGHT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 113.89858,
+                "y": 141.3795,
+                "z": -29.365063
+              }
+            },
+            {
+              "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 108.231346,
+                "y": 143.89328,
+                "z": -26.07855
+              }
+            },
+            {
+              "type": "RIGHT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 105.39181,
+                "y": 142.86842,
+                "z": -20.52236
+              }
+            },
+            {
+              "type": "RIGHT_EYE_PUPIL",
+              "position": {
+                "x": 107.90728,
+                "y": 141.79858,
+                "z": -26.35576
+              }
+            },
+            {
+              "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 88.8276,
+                "y": 134.7883,
+                "z": 0.648061
+              }
+            },
+            {
+              "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 105.80944,
+                "y": 130.74207,
+                "z": -27.17325
+              }
+            },
+            {
+              "type": "LEFT_EAR_TRAGION",
+              "position": {
+                "x": 115.09778,
+                "y": 164.64508,
+                "z": 33.529377
+              }
+            },
+            {
+              "type": "RIGHT_EAR_TRAGION",
+              "position": {
+                "x": 150.6673,
+                "y": 156.22124,
+                "z": -24.729692
+              }
+            },
+            {
+              "type": "FOREHEAD_GLABELLA",
+              "position": {
+                "x": 94.39203,
+                "y": 135.81259,
+                "z": -15.489654
+              }
+            },
+            {
+              "type": "CHIN_GNATHION",
+              "position": {
+                "x": 100.19757,
+                "y": 194.83154,
+                "z": -20.540607
+              }
+            },
+            {
+              "type": "CHIN_LEFT_GONION",
+              "position": {
+                "x": 106.62713,
+                "y": 182.83844,
+                "z": 21.809391
+              }
+            },
+            {
+              "type": "CHIN_RIGHT_GONION",
+              "position": {
+                "x": 138.75943,
+                "y": 175.20403,
+                "z": -30.83951
+              }
+            }
+          ],
+          "rollAngle": -1.1102728,
+          "panAngle": -58.71094,
+          "tiltAngle": 7.617881,
+          "detectionConfidence": 0.56168264,
+          "landmarkingConfidence": 0.17314495,
+          "joyLikelihood": "POSSIBLE",
+          "sorrowLikelihood": "VERY_UNLIKELY",
+          "angerLikelihood": "VERY_UNLIKELY",
+          "surpriseLikelihood": "VERY_UNLIKELY",
+          "underExposedLikelihood": "VERY_UNLIKELY",
+          "blurredLikelihood": "VERY_UNLIKELY",
+          "headwearLikelihood": "VERY_UNLIKELY"
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/01g317",
+          "description": "person",
+          "score": 0.9078324
+        },
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.90406346
+        },
+        {
+          "mid": "/m/03bt1vf",
+          "description": "woman",
+          "score": 0.8846405
+        },
+        {
+          "mid": "/m/01dv4h",
+          "description": "portrait",
+          "score": 0.6679116
+        },
+        {
+          "mid": "/m/015r61",
+          "description": "modern art",
+          "score": 0.6009674
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "UNLIKELY",
+        "spoof": "UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 21,
+                "green": 18,
+                "blue": 18
+              },
+              "score": 0.17149289,
+              "pixelFraction": 0.24243432
+            },
+            {
+              "color": {
+                "red": 66,
+                "green": 53,
+                "blue": 31
+              },
+              "score": 0.12855002,
+              "pixelFraction": 0.07873296
+            },
+            {
+              "color": {
+                "red": 141,
+                "green": 115,
+                "blue": 61
+              },
+              "score": 0.064057276,
+              "pixelFraction": 0.039823744
+            },
+            {
+              "color": {
+                "red": 167,
+                "green": 46,
+                "blue": 32
+              },
+              "score": 0.046453103,
+              "pixelFraction": 0.038327236
+            },
+            {
+              "color": {
+                "red": 152,
+                "green": 104,
+                "blue": 30
+              },
+              "score": 0.023405498,
+              "pixelFraction": 0.019537745
+            },
+            {
+              "color": {
+                "red": 90,
+                "green": 77,
+                "blue": 48
+              },
+              "score": 0.11519823,
+              "pixelFraction": 0.069587626
+            },
+            {
+              "color": {
+                "red": 102,
+                "green": 69,
+                "blue": 46
+              },
+              "score": 0.06538232,
+              "pixelFraction": 0.06193881
+            },
+            {
+              "color": {
+                "red": 101,
+                "green": 82,
+                "blue": 35
+              },
+              "score": 0.05269343,
+              "pixelFraction": 0.028017959
+            },
+            {
+              "color": {
+                "red": 118,
+                "green": 78,
+                "blue": 34
+              },
+              "score": 0.040847212,
+              "pixelFraction": 0.049551047
+            },
+            {
+              "color": {
+                "red": 179,
+                "green": 156,
+                "blue": 100
+              },
+              "score": 0.039233394,
+              "pixelFraction": 0.03433655
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 311
+                },
+                {
+                  "x": 311,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 1,
+            "importanceFraction": 0.71
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/07262y",
+            "score": 9.70336,
+            "description": "Österreichische Galerie Belvedere"
+          },
+          {
+            "entityId": "/m/04f89v",
+            "score": 1.48292,
+            "description": "Friedrich von Amerling"
+          },
+          {
+            "entityId": "/m/02pb18",
+            "score": 0.70792,
+            "description": "Straw hat"
+          },
+          {
+            "entityId": "/m/01dv4h",
+            "score": 0.6891988,
+            "description": "Portrait"
+          },
+          {
+            "entityId": "/m/0fhp9",
+            "score": 0.57971203,
+            "description": "Vienna"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://nonjustice.files.wordpress.com/2013/08/friedrich-von-amerling-girl-in-yellow-hat.jpg?w=937"
+          },
+          {
+            "url": "http://i025.radikal.ru/1102/74/d377faa6b9c9.jpg"
+          },
+          {
+            "url": "http://www.sabercultural.com/template/pinacoteca/fotos/Sala-Verde-44-Foto05.jpg"
+          },
+          {
+            "url": "http://art-harmony.eu/gallery/1_c015q58t.jpg"
+          },
+          {
+            "url": "https://farm3.staticflickr.com/2946/15166776570_f10cb66b27_o.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://cache.pressmailing.net/content/8c465923-5ac5-4b4f-bc6f-79afd5f1cad8/image"
+          },
+          {
+            "url": "http://cp12.nevsepic.com.ua/1-4/1357933173-1053322-www.nevsepic.com.ua.jpg"
+          },
+          {
+            "url": "http://4.bp.blogspot.com/-a3LLsqFJOa0/VlUNtofTgOI/AAAAAAAAz-c/WGLiskrCxZk/s1600/1835%2B%2528%25D0%25BE%25D0%25BA%2529_%25D0%2594%25D0%25B5%25D0%25B2%25D1%2583%25D1%2588%25D0%25BA%25D0%25B0%2B%25D0%25B2%2B%25D1%2588%25D0%25B8%25D1%2580%25D0%25BE%25D0%25BA%25D0%25BE%25D0%25BF%25D0%25BE%25D0%25BB%25D0%25BE%25D0%25B9%2B%25D1%2588%25D0%25BB%25D1%258F%25D0%25BF%25D0%25B5%2B%2528Girl%2Bwith%2Bstraw%2Bhat%2529_58%2B%25D1%2585%2B46_%25D1%2585.%252C%25D0%25BC._%25D0%2592%25D0%25B5%25D0%25BD%25D0%25B0%252C%2B%25D0%259C%25D1%2583%25D0%25B7%25D0%25B5%25D0%25B9%2B%25D0%259B%25D0%25B8%25D1%2585%25D1%2582%25D0%25B5%25D0%25BD%25D1%2588%25D1%2582%25D0%25B5%25D0%25B9%25D0%25BD%25D0%25BE%25D0%25B2.jpg"
+          },
+          {
+            "url": "http://media.diepresse.com/images/uploads_1152/4/9/7/423063/amerling_GR20081016140936.jpg"
+          },
+          {
+            "url": "http://www.miesenbach.at/gauermannmuseum/images/pictures/w7de41e0a0a0f00273df4ce9d3c35bee/w7de5010c3233000e6d896b0d73431b4/friedrich-von-amerling"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.the-athenaeum.org/art/list.php?m=a&s=tu&aid=234"
+          },
+          {
+            "url": "http://www.tuttartpitturasculturapoesiamusica.com/2010/12/friedrich-von-amerling.html"
+          },
+          {
+            "url": "http://www.liechtensteincollections.at/en/pages/artbase_main.asp?module=browse&action=m_work&lang=en&sid=87294&oid=W-1610200812182697"
+          },
+          {
+            "url": "https://www.dorotheum.com/en/auctions/current-auctions/kataloge/list-lots-detail/auktion/74-19th-century-paintings/lotID/563/lot/2022058-friedrich-von-amerling.html"
+          },
+          {
+            "url": "http://www.zazzle.com/friedrich+von+amerling+gifts"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/30/51/82/3051828121be697ff4509d97a7078ec6.jpg"
+          },
+          {
+            "url": "http://www.jesuiscultive.com/IMG/jpg/Portrait_Amerling.jpg"
+          },
+          {
+            "url": "https://68.media.tumblr.com/24b5961dac98de0a289b3ffd98c28888/tumblr_n932d5Nqsl1rwahceo1_500.jpg"
+          },
+          {
+            "url": "http://3.bp.blogspot.com/-9z0aC-gWffc/UzT72Sv1-GI/AAAAAAABpiw/l8FYFUwm7QQ/s1600/Friedrich-Von-Amerling-Pensive-Girl.JPG"
+          },
+          {
+            "url": "http://www.artcyclopedia.org/art/friedrich-von-amerling-oriental.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,601 @@
+{
+  "responses": [
+    {
+      "faceAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 101,
+                "y": 95
+              },
+              {
+                "x": 210,
+                "y": 95
+              },
+              {
+                "x": 210,
+                "y": 221
+              },
+              {
+                "x": 101,
+                "y": 221
+              }
+            ]
+          },
+          "fdBoundingPoly": {
+            "vertices": [
+              {
+                "x": 120,
+                "y": 123
+              },
+              {
+                "x": 207,
+                "y": 123
+              },
+              {
+                "x": 207,
+                "y": 210
+              },
+              {
+                "x": 120,
+                "y": 210
+              }
+            ]
+          },
+          "landmarks": [
+            {
+              "type": "LEFT_EYE",
+              "position": {
+                "x": 148.51974,
+                "y": 151.3941,
+                "z": 1.2488667e-05
+              }
+            },
+            {
+              "type": "RIGHT_EYE",
+              "position": {
+                "x": 182.27579,
+                "y": 152.01883,
+                "z": 12.282354
+              }
+            },
+            {
+              "type": "LEFT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 137.68417,
+                "y": 144.7596,
+                "z": -0.06843373
+              }
+            },
+            {
+              "type": "RIGHT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 160.92046,
+                "y": 144.99026,
+                "z": -2.4558382
+              }
+            },
+            {
+              "type": "LEFT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 175.99101,
+                "y": 144.38593,
+                "z": 3.1162555
+              }
+            },
+            {
+              "type": "RIGHT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 190.94519,
+                "y": 144.1154,
+                "z": 18.912336
+              }
+            },
+            {
+              "type": "MIDPOINT_BETWEEN_EYES",
+              "position": {
+                "x": 168.80653,
+                "y": 151.60289,
+                "z": -0.13019852
+              }
+            },
+            {
+              "type": "NOSE_TIP",
+              "position": {
+                "x": 173.1082,
+                "y": 171.05911,
+                "z": -9.275804
+              }
+            },
+            {
+              "type": "UPPER_LIP",
+              "position": {
+                "x": 170.48729,
+                "y": 183.64194,
+                "z": -1.9794413
+              }
+            },
+            {
+              "type": "LOWER_LIP",
+              "position": {
+                "x": 170.07057,
+                "y": 191.98355,
+                "z": 0.07771698
+              }
+            },
+            {
+              "type": "MOUTH_LEFT",
+              "position": {
+                "x": 156.22813,
+                "y": 185.93503,
+                "z": 1.6518719
+              }
+            },
+            {
+              "type": "MOUTH_RIGHT",
+              "position": {
+                "x": 179.72012,
+                "y": 185.92392,
+                "z": 11.004768
+              }
+            },
+            {
+              "type": "MOUTH_CENTER",
+              "position": {
+                "x": 169.92946,
+                "y": 186.95709,
+                "z": 0.21453449
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_RIGHT",
+              "position": {
+                "x": 178.13306,
+                "y": 174.22214,
+                "z": 6.3481936
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_LEFT",
+              "position": {
+                "x": 160.76353,
+                "y": 173.82816,
+                "z": -0.4706146
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_CENTER",
+              "position": {
+                "x": 170.82831,
+                "y": 176.57727,
+                "z": -2.1301212
+              }
+            },
+            {
+              "type": "LEFT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 151.72563,
+                "y": 150.52655,
+                "z": -1.5075529
+              }
+            },
+            {
+              "type": "LEFT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 155.92233,
+                "y": 153.02747,
+                "z": 2.9001849
+              }
+            },
+            {
+              "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 149.14719,
+                "y": 154.43916,
+                "z": 0.20508473
+              }
+            },
+            {
+              "type": "LEFT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 142.64613,
+                "y": 152.73595,
+                "z": 1.2048692
+              }
+            },
+            {
+              "type": "LEFT_EYE_PUPIL",
+              "position": {
+                "x": 150.86455,
+                "y": 152.82413,
+                "z": -0.42455226
+              }
+            },
+            {
+              "type": "RIGHT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 182.57103,
+                "y": 149.78357,
+                "z": 10.015823
+              }
+            },
+            {
+              "type": "RIGHT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 187.47124,
+                "y": 152.17258,
+                "z": 17.470963
+              }
+            },
+            {
+              "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 182.77286,
+                "y": 154.48123,
+                "z": 11.943716
+              }
+            },
+            {
+              "type": "RIGHT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 175.92998,
+                "y": 153.22119,
+                "z": 9.982167
+              }
+            },
+            {
+              "type": "RIGHT_EYE_PUPIL",
+              "position": {
+                "x": 182.49481,
+                "y": 152.11429,
+                "z": 11.342171
+              }
+            },
+            {
+              "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 150.84552,
+                "y": 141.03455,
+                "z": -3.5806882
+              }
+            },
+            {
+              "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 184.23175,
+                "y": 140.21997,
+                "z": 8.91491
+              }
+            },
+            {
+              "type": "LEFT_EAR_TRAGION",
+              "position": {
+                "x": 117.75076,
+                "y": 169.86667,
+                "z": 31.212376
+              }
+            },
+            {
+              "type": "RIGHT_EAR_TRAGION",
+              "position": {
+                "x": 187.63919,
+                "y": 168.08798,
+                "z": 57.45074
+              }
+            },
+            {
+              "type": "FOREHEAD_GLABELLA",
+              "position": {
+                "x": 168.9855,
+                "y": 144.14621,
+                "z": -0.8789066
+              }
+            },
+            {
+              "type": "CHIN_GNATHION",
+              "position": {
+                "x": 169.32616,
+                "y": 207.96107,
+                "z": 4.2273765
+              }
+            },
+            {
+              "type": "CHIN_LEFT_GONION",
+              "position": {
+                "x": 126.32341,
+                "y": 190.69458,
+                "z": 19.966923
+              }
+            },
+            {
+              "type": "CHIN_RIGHT_GONION",
+              "position": {
+                "x": 189.40015,
+                "y": 189.0958,
+                "z": 43.60647
+              }
+            }
+          ],
+          "rollAngle": -1.5066007,
+          "panAngle": 20.531363,
+          "tiltAngle": 0.1350048,
+          "detectionConfidence": 0.9901061,
+          "landmarkingConfidence": 0.73663247,
+          "joyLikelihood": "VERY_UNLIKELY",
+          "sorrowLikelihood": "VERY_UNLIKELY",
+          "angerLikelihood": "VERY_UNLIKELY",
+          "surpriseLikelihood": "VERY_UNLIKELY",
+          "underExposedLikelihood": "VERY_UNLIKELY",
+          "blurredLikelihood": "VERY_UNLIKELY",
+          "headwearLikelihood": "VERY_UNLIKELY"
+        }
+      ],
+      "logoAnnotations": [
+        {
+          "description": "Portrait of an Unknown Woman in Russian Costume",
+          "score": 0.8304987,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 24,
+                "y": 67
+              },
+              {
+                "x": 281,
+                "y": 67
+              },
+              {
+                "x": 281,
+                "y": 391
+              },
+              {
+                "x": 24,
+                "y": 391
+              }
+            ]
+          }
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/09j2d",
+          "description": "clothing",
+          "score": 0.9070953
+        },
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.6955042
+        },
+        {
+          "mid": "/m/01dv4h",
+          "description": "portrait",
+          "score": 0.69295055
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 19,
+                "green": 8,
+                "blue": 17
+              },
+              "score": 0.25759083,
+              "pixelFraction": 0.30159643
+            },
+            {
+              "color": {
+                "red": 101,
+                "green": 79,
+                "blue": 52
+              },
+              "score": 0.075489886,
+              "pixelFraction": 0.05768598
+            },
+            {
+              "color": {
+                "red": 209,
+                "green": 189,
+                "blue": 149
+              },
+              "score": 0.046276856,
+              "pixelFraction": 0.042626727
+            },
+            {
+              "color": {
+                "red": 41,
+                "green": 19,
+                "blue": 26
+              },
+              "score": 0.1619696,
+              "pixelFraction": 0.11627716
+            },
+            {
+              "color": {
+                "red": 68,
+                "green": 38,
+                "blue": 39
+              },
+              "score": 0.11458866,
+              "pixelFraction": 0.07899934
+            },
+            {
+              "color": {
+                "red": 82,
+                "green": 48,
+                "blue": 38
+              },
+              "score": 0.07695311,
+              "pixelFraction": 0.05859118
+            },
+            {
+              "color": {
+                "red": 105,
+                "green": 69,
+                "blue": 51
+              },
+              "score": 0.05100741,
+              "pixelFraction": 0.058097433
+            },
+            {
+              "color": {
+                "red": 210,
+                "green": 190,
+                "blue": 139
+              },
+              "score": 0.03897327,
+              "pixelFraction": 0.049621463
+            },
+            {
+              "color": {
+                "red": 134,
+                "green": 117,
+                "blue": 84
+              },
+              "score": 0.037269194,
+              "pixelFraction": 0.030529954
+            },
+            {
+              "color": {
+                "red": 141,
+                "green": 116,
+                "blue": 70
+              },
+              "score": 0.023812799,
+              "pixelFraction": 0.02444042
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 315
+                },
+                {
+                  "x": 315,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 1,
+            "importanceFraction": 0.78999996
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/04mvvz",
+            "score": 5.81552,
+            "description": "Tretyakov Gallery"
+          },
+          {
+            "entityId": "/g/122sgsty",
+            "score": 1.23652,
+            "description": "Portrait of an Unknown Woman in Russian Costume"
+          },
+          {
+            "entityId": "/m/0250x",
+            "score": 1.0647,
+            "description": "Costume"
+          },
+          {
+            "entityId": "/m/01dv4h",
+            "score": 0.89711314,
+            "description": "Portrait"
+          },
+          {
+            "entityId": "/m/0f3cx6",
+            "score": 0.84764,
+            "description": "Ivan Argunov"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/72/cf/2c/72cf2ca53c71e2403b2acd89e3c869b5.jpg"
+          },
+          {
+            "url": "http://upload.wikimedia.org/wikipedia/commons/9/9f/Argunov_pt_neizv_krest.jpg"
+          },
+          {
+            "url": "https://aria-art.ru/0/R/Russkie/30.jpg"
+          },
+          {
+            "url": "http://4.bp.blogspot.com/-kb5fDZEfa_c/Uv_CZjJunRI/AAAAAAAAGS4/HPhn8W-X-RY/s1600/The+portrait+of+an+unknown+girl+in+the+Russian+costume+by+Ivan+Argunov%252C+1784%252C+showcasing+a+large+kokoshnik+head+dress.jpg"
+          },
+          {
+            "url": "http://2.bp.blogspot.com/-D9Bjh455jYE/VZbdIUsFmxI/AAAAAAAAEHA/tmx1cGmflh0/s1600/Argunov_pt_neizv_krest.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/72/cf/2c/72cf2ca53c71e2403b2acd89e3c869b5.jpg"
+          },
+          {
+            "url": "http://ambilive.ru/images/27-08-2015/5.jpg"
+          },
+          {
+            "url": "http://upload.wikimedia.org/wikipedia/commons/9/9f/Argunov_pt_neizv_krest.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/8f/1d/84/8f1d84d97179287052d288a3f995d27f.jpg"
+          },
+          {
+            "url": "https://aria-art.ru/0/R/Russkie/30.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Argunov_pt_neizv_krest.jpg"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/155444624618692824/"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/504755070714097596/"
+          },
+          {
+            "url": "http://www.artsunlight.com/artist-NA/N-A0025-Ivan-Argunov/N-A0025-0004-portrait-of-an-unknown-woman-in-russian-costume.html"
+          },
+          {
+            "url": "https://www.tumblr.com/tagged/Ivan-Petrovich-Argunov"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://68.media.tumblr.com/16cdf7f6ba9c24e7c6fa0d07896d9564/tumblr_nb6ux3uSMv1tdo940o1_500.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/f9/e4/e2/f9e4e29abc4825874e0505c615d8a90d.jpg"
+          },
+          {
+            "url": "https://render.fineartamerica.com/images/rendered/search/acrylic-print/metalposts/break/images-medium-5/portrait-of-an-unknown-woman-in-russian-costume-ivan-argunov.jpg"
+          },
+          {
+            "url": "http://2.bp.blogspot.com/-RDQyGrYCnoM/TyVoGaPl3SI/AAAAAAABsAo/O4Xl2BeINC4/s1600/The%2Bportrait%2Bof%2Ban%2Bunknown%2Bgirl%2Bin%2Bthe%2BRussian%2Bcostume%2Bby%2BIvan%2BArgunov%252C%2B1784%252C%2Bshowcasing%2Ba%2Blarge%2Bkokoshnik%2Bhead%2Bdress-.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/66/06/fb/6606fbef9c5b72b4945f8354496fc0f7.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,540 @@
+{
+  "responses": [
+    {
+      "logoAnnotations": [
+        {
+          "description": "Countryside of wood with Saint George fighting the dragon",
+          "score": 0.81822366,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 17,
+                "y": 20
+              },
+              {
+                "x": 384,
+                "y": 20
+              },
+              {
+                "x": 384,
+                "y": 364
+              },
+              {
+                "x": 17,
+                "y": 364
+              }
+            ]
+          }
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/05fblh",
+          "description": "habitat",
+          "score": 0.9655983
+        },
+        {
+          "mid": "/m/023bbt",
+          "description": "wilderness",
+          "score": 0.86822385
+        },
+        {
+          "mid": "/m/07j7r",
+          "description": "tree",
+          "score": 0.85986644
+        },
+        {
+          "mid": "/m/02py09",
+          "description": "natural environment",
+          "score": 0.8420366
+        },
+        {
+          "mid": "/m/02zr8",
+          "description": "forest",
+          "score": 0.7968689
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "es",
+          "description": "ese\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 247,
+                "y": 347
+              },
+              {
+                "x": 281,
+                "y": 347
+              },
+              {
+                "x": 281,
+                "y": 359
+              },
+              {
+                "x": 247,
+                "y": 359
+              }
+            ]
+          }
+        },
+        {
+          "description": "ese",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 247,
+                "y": 350
+              },
+              {
+                "x": 281,
+                "y": 348
+              },
+              {
+                "x": 281,
+                "y": 358
+              },
+              {
+                "x": 247,
+                "y": 360
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 232,
+                "green": 194,
+                "blue": 133
+              },
+              "score": 0.2011191,
+              "pixelFraction": 0.0024259114
+            },
+            {
+              "color": {
+                "red": 59,
+                "green": 45,
+                "blue": 39
+              },
+              "score": 0.113289565,
+              "pixelFraction": 0.24311566
+            },
+            {
+              "color": {
+                "red": 66,
+                "green": 48,
+                "blue": 34
+              },
+              "score": 0.0853235,
+              "pixelFraction": 0.18391031
+            },
+            {
+              "color": {
+                "red": 253,
+                "green": 219,
+                "blue": 153
+              },
+              "score": 0.06753572,
+              "pixelFraction": 0.0007212169
+            },
+            {
+              "color": {
+                "red": 191,
+                "green": 154,
+                "blue": 97
+              },
+              "score": 0.060816083,
+              "pixelFraction": 0.0013768686
+            },
+            {
+              "color": {
+                "red": 74,
+                "green": 46,
+                "blue": 30
+              },
+              "score": 0.054790948,
+              "pixelFraction": 0.082546555
+            },
+            {
+              "color": {
+                "red": 181,
+                "green": 155,
+                "blue": 118
+              },
+              "score": 0.04995953,
+              "pixelFraction": 0.007998951
+            },
+            {
+              "color": {
+                "red": 99,
+                "green": 78,
+                "blue": 60
+              },
+              "score": 0.048905447,
+              "pixelFraction": 0.14516129
+            },
+            {
+              "color": {
+                "red": 145,
+                "green": 116,
+                "blue": 88
+              },
+              "score": 0.0448766,
+              "pixelFraction": 0.043141883
+            },
+            {
+              "color": {
+                "red": 108,
+                "green": 77,
+                "blue": 56
+              },
+              "score": 0.043706942,
+              "pixelFraction": 0.08444794
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {
+                  "x": 163,
+                  "y": 66
+                },
+                {
+                  "x": 371,
+                  "y": 66
+                },
+                {
+                  "x": 371,
+                  "y": 299
+                },
+                {
+                  "x": 163,
+                  "y": 299
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 0.44
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "es"
+                }
+              ]
+            },
+            "width": 400,
+            "height": 396,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "es"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 247,
+                      "y": 360
+                    },
+                    {
+                      "x": 247,
+                      "y": 350
+                    },
+                    {
+                      "x": 280,
+                      "y": 348
+                    },
+                    {
+                      "x": 281,
+                      "y": 358
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "es"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 247,
+                          "y": 347
+                        },
+                        {
+                          "x": 281,
+                          "y": 347
+                        },
+                        {
+                          "x": 281,
+                          "y": 359
+                        },
+                        {
+                          "x": 247,
+                          "y": 359
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "es"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 247,
+                              "y": 350
+                            },
+                            {
+                              "x": 281,
+                              "y": 348
+                            },
+                            {
+                              "x": 281,
+                              "y": 358
+                            },
+                            {
+                              "x": 247,
+                              "y": 360
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "es"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 247,
+                                  "y": 353
+                                },
+                                {
+                                  "x": 257,
+                                  "y": 353
+                                },
+                                {
+                                  "x": 257,
+                                  "y": 360
+                                },
+                                {
+                                  "x": 247,
+                                  "y": 360
+                                }
+                              ]
+                            },
+                            "text": "e"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "es"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 258,
+                                  "y": 353
+                                },
+                                {
+                                  "x": 263,
+                                  "y": 353
+                                },
+                                {
+                                  "x": 263,
+                                  "y": 358
+                                },
+                                {
+                                  "x": 258,
+                                  "y": 358
+                                }
+                              ]
+                            },
+                            "text": "s"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "es"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 263,
+                                  "y": 349
+                                },
+                                {
+                                  "x": 281,
+                                  "y": 348
+                                },
+                                {
+                                  "x": 281,
+                                  "y": 358
+                                },
+                                {
+                                  "x": 263,
+                                  "y": 359
+                                }
+                              ]
+                            },
+                            "text": "e"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "ese\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/02qhv5b",
+            "score": 1.36776,
+            "description": "The Battle of Alexander at Issus"
+          },
+          {
+            "entityId": "/m/01l67q",
+            "score": 0.8213,
+            "description": "Saint George and the Dragon"
+          },
+          {
+            "entityId": "/g/121thj9z",
+            "score": 0.8213,
+            "description": "Countryside of Wood With Saint George Fighting the Dragon"
+          },
+          {
+            "entityId": "/m/06cvx",
+            "score": 0.75468,
+            "description": "Renaissance"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.46493,
+            "description": "Painting"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://www.gravity.org/mythology/altdorfer_softened_smaller.jpg"
+          },
+          {
+            "url": "https://luadesaojorge.files.wordpress.com/2011/09/01sgeorg.jpg"
+          },
+          {
+            "url": "https://www.arab-painting.com/pic/Oil%20Painting%20Masterpieces%20on%20Canvas/Alsloot%20Denys%20van_Belgium_1570-1626/5-Saint-George-In-The-Forest-Flemish-Denis-van-Alsloot.jpg"
+          },
+          {
+            "url": "https://4.bp.blogspot.com/-4xh--zZhavc/WLRaJyVoAPI/AAAAAAAAK8M/XnTW4OoLLqsj_3oG5yFMIsVjp82SH84uACLcB/s1600/Albrecht%2BAltdorfer%2B%25281510%2529.%2BS%25C3%25A3o%2BJorge%2Bna%2Bfloresta.%2BAlte%2BPinakothek%252C%2BM%25C3%25BCnchen..jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/f8/9c/74/f89c74a48565fddef1093c9535e220e8.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://image.hnol.net/c/2016-12/06/17/201612061732186231-513051.jpg"
+          },
+          {
+            "url": "http://www.malerei-meisterwerke.de/images_large/albrecht-altdorfer-waldlandschaft-mit-st.-georges-drachenkampf-00087.jpg"
+          },
+          {
+            "url": "http://virusdaarte.net/wp-content/uploads/2017/04/sajonaf.jpg"
+          },
+          {
+            "url": "http://www.gravity.org/mythology/altdorfer_softened_smaller.jpg"
+          },
+          {
+            "url": "https://images-na.ssl-images-amazon.com/images/I/A1UW1gGOMsL.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://www.ibiblio.org/wm/paint/auth/altdorfer/"
+          },
+          {
+            "url": "https://www.wikiart.org/en/albrecht-altdorfer"
+          },
+          {
+            "url": "https://en.wikipedia.org/wiki/The_Battle_of_Alexander_at_Issus"
+          },
+          {
+            "url": "http://www.the-athenaeum.org/art/list.php?m=a&s=tu&aid=601"
+          },
+          {
+            "url": "https://www.historisches-lexikon-bayerns.de/Lexikon/Donaustil"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://www.royal-painting.com/images/Altdorfer,%20Albrecht/20071-Altdorfer,%20Albrecht.jpg"
+          },
+          {
+            "url": "https://www.art-prints-on-demand.com/kunst/albrecht_altdorfer//thm_6249_v1.jpg"
+          },
+          {
+            "url": "http://www.fotosefotos.com/admin/foto_img/foto_big/albrecht_altdorfer_94b45b0f2400064a2f789deb6982bf59_Albrecht%20Altdorfer%2016.jpg"
+          },
+          {
+            "url": "https://achillesandaristotle.files.wordpress.com/2014/11/img_3149.png"
+          },
+          {
+            "url": "http://media.gettyimages.com/photos/saint-george-in-the-forest-by-albrecht-altdorfer-28x225-cm-monaco-picture-id148275377"
+          }
+        ]
+      }
+    }
+  ]
+}

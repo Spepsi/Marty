@@ -1,0 +1,533 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0hyb2",
+          "description": "altar",
+          "score": 0.80576164
+        },
+        {
+          "mid": "/m/06z37_",
+          "description": "picture frame",
+          "score": 0.7939054
+        },
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.7891321
+        },
+        {
+          "mid": "/m/0c_jw",
+          "description": "furniture",
+          "score": 0.7216289
+        },
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.667923
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "zh",
+          "description": "-兰\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 360,
+                "y": 174
+              },
+              {
+                "x": 370,
+                "y": 174
+              },
+              {
+                "x": 370,
+                "y": 201
+              },
+              {
+                "x": 360,
+                "y": 201
+              }
+            ]
+          }
+        },
+        {
+          "description": "-",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 369,
+                "y": 174
+              },
+              {
+                "x": 369,
+                "y": 176
+              },
+              {
+                "x": 360,
+                "y": 176
+              },
+              {
+                "x": 360,
+                "y": 174
+              }
+            ]
+          }
+        },
+        {
+          "description": "兰",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 370,
+                "y": 179
+              },
+              {
+                "x": 370,
+                "y": 201
+              },
+              {
+                "x": 361,
+                "y": 201
+              },
+              {
+                "x": 361,
+                "y": 179
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 170,
+                "green": 156,
+                "blue": 99
+              },
+              "score": 0.13456061,
+              "pixelFraction": 0.022058824
+            },
+            {
+              "color": {
+                "red": 94,
+                "green": 83,
+                "blue": 56
+              },
+              "score": 0.06463006,
+              "pixelFraction": 0.132432
+            },
+            {
+              "color": {
+                "red": 137,
+                "green": 121,
+                "blue": 65
+              },
+              "score": 0.10844811,
+              "pixelFraction": 0.024588868
+            },
+            {
+              "color": {
+                "red": 102,
+                "green": 85,
+                "blue": 33
+              },
+              "score": 0.05533251,
+              "pixelFraction": 0.014705882
+            },
+            {
+              "color": {
+                "red": 63,
+                "green": 50,
+                "blue": 26
+              },
+              "score": 0.05477946,
+              "pixelFraction": 0.074557245
+            },
+            {
+              "color": {
+                "red": 121,
+                "green": 74,
+                "blue": 36
+              },
+              "score": 0.050324246,
+              "pixelFraction": 0.0136780515
+            },
+            {
+              "color": {
+                "red": 127,
+                "green": 117,
+                "blue": 86
+              },
+              "score": 0.04835172,
+              "pixelFraction": 0.05479127
+            },
+            {
+              "color": {
+                "red": 114,
+                "green": 73,
+                "blue": 51
+              },
+              "score": 0.04672964,
+              "pixelFraction": 0.02909551
+            },
+            {
+              "color": {
+                "red": 203,
+                "green": 189,
+                "blue": 130
+              },
+              "score": 0.04383596,
+              "pixelFraction": 0.006087919
+            },
+            {
+              "color": {
+                "red": 155,
+                "green": 109,
+                "blue": 63
+              },
+              "score": 0.041174013,
+              "pixelFraction": 0.010041113
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 328
+                },
+                {
+                  "y": 328
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "zh-Hans"
+                }
+              ]
+            },
+            "width": 400,
+            "height": 329,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "zh-Hans"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 360,
+                      "y": 174
+                    },
+                    {
+                      "x": 370,
+                      "y": 174
+                    },
+                    {
+                      "x": 370,
+                      "y": 201
+                    },
+                    {
+                      "x": 360,
+                      "y": 201
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "zh-Hans"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 360,
+                          "y": 174
+                        },
+                        {
+                          "x": 370,
+                          "y": 174
+                        },
+                        {
+                          "x": 370,
+                          "y": 201
+                        },
+                        {
+                          "x": 360,
+                          "y": 201
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 369,
+                              "y": 174
+                            },
+                            {
+                              "x": 369,
+                              "y": 176
+                            },
+                            {
+                              "x": 360,
+                              "y": 176
+                            },
+                            {
+                              "x": 360,
+                              "y": 174
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "zh-Hans"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 369,
+                                  "y": 174
+                                },
+                                {
+                                  "x": 369,
+                                  "y": 176
+                                },
+                                {
+                                  "x": 360,
+                                  "y": 176
+                                },
+                                {
+                                  "x": 360,
+                                  "y": 174
+                                }
+                              ]
+                            },
+                            "text": "-"
+                          }
+                        ]
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "zh-Hans"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 370,
+                              "y": 179
+                            },
+                            {
+                              "x": 370,
+                              "y": 201
+                            },
+                            {
+                              "x": 361,
+                              "y": 201
+                            },
+                            {
+                              "x": 361,
+                              "y": 179
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "zh-Hans"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 370,
+                                  "y": 179
+                                },
+                                {
+                                  "x": 370,
+                                  "y": 201
+                                },
+                                {
+                                  "x": 361,
+                                  "y": 201
+                                },
+                                {
+                                  "x": 361,
+                                  "y": 179
+                                }
+                              ]
+                            },
+                            "text": "兰"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "-兰\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/05m4tw",
+            "score": 2.83328,
+            "description": "Annunciation"
+          },
+          {
+            "entityId": "/m/08pkmy",
+            "score": 1.24,
+            "description": "Cestello Annunciation"
+          },
+          {
+            "entityId": "/m/031y2",
+            "score": 0.79048,
+            "description": "Florence"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.611508,
+            "description": "Painting"
+          },
+          {
+            "entityId": "/m/06cvx",
+            "score": 0.5064,
+            "description": "Renaissance"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://ic.pics.livejournal.com/o_alexandr75/43813377/65981/65981_original.jpg"
+          },
+          {
+            "url": "http://ertekkereso.hu/doc/hittan/Kar%C3%A1csony/Festm%C3%A9nyek/Angyali%20%C3%BCdv%C3%B6zlet/The%20Annunciation04.jpg"
+          },
+          {
+            "url": "http://3.bp.blogspot.com/-9Ai-99KCpLs/UXGYYu8kchI/AAAAAAAAEvM/L9oK4pm1M7U/s1600/arcangelo+di+jacopo+del+sellaio+annunciazione.jpg"
+          },
+          {
+            "url": "http://www.ufoforum.it/public/data/Trystero/201153142442_JacopoDelSellaio_annunciazione.jpg"
+          },
+          {
+            "url": "http://it.wahooart.com/Art.nsf/O/8XZ9AJ/$File/Arcangelo-Di-Jacopo-Del-Sellaio-The-Annunciation.JPG"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://www.settemuse.it/pittori_opere_D/del_sellaio_jacopo/del_sellaio_jacopo_506_the_annunciation.jpg"
+          },
+          {
+            "url": "http://ertekkereso.hu/doc/hittan/Kar%C3%A1csony/Festm%C3%A9nyek/Angyali%20%C3%BCdv%C3%B6zlet/The%20Annunciation04.jpg"
+          },
+          {
+            "url": "http://3.bp.blogspot.com/-9Ai-99KCpLs/UXGYYu8kchI/AAAAAAAAEvM/L9oK4pm1M7U/s1600/arcangelo+di+jacopo+del+sellaio+annunciazione.jpg"
+          },
+          {
+            "url": "http://slideplayer.it/1016602/3/images/11/Arcangelo+di+Jacopo+del+Sellaio%2C+Collezione+privata.jpg"
+          },
+          {
+            "url": "http://www.ufoforum.it/public/data/Trystero/201153142442_JacopoDelSellaio_annunciazione.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://www.pinterest.com/pin/513551163731257449/"
+          },
+          {
+            "url": "http://www.the-athenaeum.org/art/list.php?m=a&s=tu&aid=6302"
+          },
+          {
+            "url": "http://it.allpaintingsstore.com/FamousPaintingsStore.nsf/A?Open&A=8XZ9AJ"
+          },
+          {
+            "url": "http://www.artnet.com/artists/jacopo-del-sellaio/past-auction-results"
+          },
+          {
+            "url": "http://www.the-athenaeum.org/art/list.php?s=tu&m=u&uid=57066&p=2"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://www.settemuse.it/pittori_opere_D/del_sellaio_jacopo/del_sellaio_jacopo_506_the_annunciation.jpg"
+          },
+          {
+            "url": "http://www.artfixdaily.com/images/pr/Jan5_arcangelo%20di%20jacopo.jpg"
+          },
+          {
+            "url": "http://www.travelingintuscany.com/images/art/botticelli/botticelliadoration700.jpg"
+          },
+          {
+            "url": "http://l7.alamy.com/zooms/f8ea55e22fbc4b4a9c288166f10d2f00/arcangelo-di-jacopo-del-sellaio-the-annunciation-wga00788-hkn0p5.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/b3/ec/4c/b3ec4c2e0aec985a022e1e1556246496.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

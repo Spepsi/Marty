@@ -1,0 +1,733 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09g5pq",
+          "description": "people",
+          "score": 0.89046127
+        },
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.6412031
+        },
+        {
+          "mid": "/m/05fc9mj",
+          "description": "christmas decoration",
+          "score": 0.5549955
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "la",
+          "description": "-r\nAB\"\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 274,
+                "y": 25
+              },
+              {
+                "x": 388,
+                "y": 25
+              },
+              {
+                "x": 388,
+                "y": 102
+              },
+              {
+                "x": 274,
+                "y": 102
+              }
+            ]
+          }
+        },
+        {
+          "description": "-r",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 274,
+                "y": 39
+              },
+              {
+                "x": 275,
+                "y": 26
+              },
+              {
+                "x": 284,
+                "y": 26
+              },
+              {
+                "x": 283,
+                "y": 39
+              }
+            ]
+          }
+        },
+        {
+          "description": "AB",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 370,
+                "y": 99
+              },
+              {
+                "x": 376,
+                "y": 86
+              },
+              {
+                "x": 385,
+                "y": 91
+              },
+              {
+                "x": 379,
+                "y": 103
+              }
+            ]
+          }
+        },
+        {
+          "description": "\"",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 377,
+                "y": 84
+              },
+              {
+                "x": 379,
+                "y": 79
+              },
+              {
+                "x": 388,
+                "y": 84
+              },
+              {
+                "x": 386,
+                "y": 88
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 29,
+                "green": 24,
+                "blue": 28
+              },
+              "score": 0.3351257,
+              "pixelFraction": 0.13998303
+            },
+            {
+              "color": {
+                "red": 112,
+                "green": 76,
+                "blue": 63
+              },
+              "score": 0.036760885,
+              "pixelFraction": 0.027419355
+            },
+            {
+              "color": {
+                "red": 218,
+                "green": 191,
+                "blue": 165
+              },
+              "score": 0.01699153,
+              "pixelFraction": 0.039983023
+            },
+            {
+              "color": {
+                "red": 52,
+                "green": 44,
+                "blue": 46
+              },
+              "score": 0.14717501,
+              "pixelFraction": 0.15297113
+            },
+            {
+              "color": {
+                "red": 22,
+                "green": 23,
+                "blue": 39
+              },
+              "score": 0.091748536,
+              "pixelFraction": 0.03336163
+            },
+            {
+              "color": {
+                "red": 40,
+                "green": 19,
+                "blue": 24
+              },
+              "score": 0.039068192,
+              "pixelFraction": 0.018251274
+            },
+            {
+              "color": {
+                "red": 76,
+                "green": 43,
+                "blue": 32
+              },
+              "score": 0.033244953,
+              "pixelFraction": 0.019354839
+            },
+            {
+              "color": {
+                "red": 92,
+                "green": 80,
+                "blue": 77
+              },
+              "score": 0.031142097,
+              "pixelFraction": 0.08387097
+            },
+            {
+              "color": {
+                "red": 145,
+                "green": 106,
+                "blue": 91
+              },
+              "score": 0.030023374,
+              "pixelFraction": 0.036672328
+            },
+            {
+              "color": {
+                "red": 71,
+                "green": 43,
+                "blue": 45
+              },
+              "score": 0.02567648,
+              "pixelFraction": 0.029626485
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 305
+                },
+                {
+                  "y": 305
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "la"
+                }
+              ]
+            },
+            "width": 400,
+            "height": 306,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "en"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 274,
+                      "y": 39
+                    },
+                    {
+                      "x": 275,
+                      "y": 26
+                    },
+                    {
+                      "x": 284,
+                      "y": 26
+                    },
+                    {
+                      "x": 283,
+                      "y": 39
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "en"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 274,
+                          "y": 25
+                        },
+                        {
+                          "x": 284,
+                          "y": 25
+                        },
+                        {
+                          "x": 284,
+                          "y": 38
+                        },
+                        {
+                          "x": 274,
+                          "y": 38
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 274,
+                              "y": 39
+                            },
+                            {
+                              "x": 275,
+                              "y": 26
+                            },
+                            {
+                              "x": 284,
+                              "y": 26
+                            },
+                            {
+                              "x": 283,
+                              "y": 39
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "la"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 274,
+                                  "y": 39
+                                },
+                                {
+                                  "x": 274,
+                                  "y": 34
+                                },
+                                {
+                                  "x": 283,
+                                  "y": 34
+                                },
+                                {
+                                  "x": 283,
+                                  "y": 39
+                                }
+                              ]
+                            },
+                            "text": "-"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "la"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 274,
+                                  "y": 32
+                                },
+                                {
+                                  "x": 274,
+                                  "y": 26
+                                },
+                                {
+                                  "x": 283,
+                                  "y": 26
+                                },
+                                {
+                                  "x": 283,
+                                  "y": 32
+                                }
+                              ]
+                            },
+                            "text": "r"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              },
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "la"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 370,
+                      "y": 99
+                    },
+                    {
+                      "x": 379,
+                      "y": 80
+                    },
+                    {
+                      "x": 388,
+                      "y": 84
+                    },
+                    {
+                      "x": 379,
+                      "y": 103
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "la"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 370,
+                          "y": 78
+                        },
+                        {
+                          "x": 388,
+                          "y": 78
+                        },
+                        {
+                          "x": 388,
+                          "y": 102
+                        },
+                        {
+                          "x": 370,
+                          "y": 102
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "la"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 370,
+                              "y": 99
+                            },
+                            {
+                              "x": 376,
+                              "y": 86
+                            },
+                            {
+                              "x": 385,
+                              "y": 91
+                            },
+                            {
+                              "x": 379,
+                              "y": 103
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "la"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 371,
+                                  "y": 99
+                                },
+                                {
+                                  "x": 374,
+                                  "y": 92
+                                },
+                                {
+                                  "x": 382,
+                                  "y": 95
+                                },
+                                {
+                                  "x": 378,
+                                  "y": 102
+                                }
+                              ]
+                            },
+                            "text": "A"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "la"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 374,
+                                  "y": 90
+                                },
+                                {
+                                  "x": 376,
+                                  "y": 86
+                                },
+                                {
+                                  "x": 385,
+                                  "y": 91
+                                },
+                                {
+                                  "x": 383,
+                                  "y": 94
+                                }
+                              ]
+                            },
+                            "text": "B"
+                          }
+                        ]
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 377,
+                              "y": 84
+                            },
+                            {
+                              "x": 379,
+                              "y": 79
+                            },
+                            {
+                              "x": 388,
+                              "y": 84
+                            },
+                            {
+                              "x": 386,
+                              "y": 88
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "la"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 377,
+                                  "y": 84
+                                },
+                                {
+                                  "x": 379,
+                                  "y": 79
+                                },
+                                {
+                                  "x": 388,
+                                  "y": 84
+                                },
+                                {
+                                  "x": 386,
+                                  "y": 88
+                                }
+                              ]
+                            },
+                            "text": "\""
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "-r\nAB\"\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0789yx",
+            "score": 5.2176,
+            "description": "Galleria Nazionale d'Arte Antica"
+          },
+          {
+            "entityId": "/m/01mqhm",
+            "score": 0.83907,
+            "description": "Nativity of Jesus"
+          },
+          {
+            "entityId": "/m/06cvx",
+            "score": 0.77824,
+            "description": "Renaissance"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.5546835,
+            "description": "Painting"
+          },
+          {
+            "entityId": "/m/01vq3",
+            "score": 0.44862,
+            "description": "Christmas Day"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://www.art-kingdom.com/upload/374310.jpg"
+          },
+          {
+            "url": "https://fathergregerson.files.wordpress.com/2016/12/nativity.jpg"
+          },
+          {
+            "url": "http://home.catholic.or.kr/gnbbs/ncbbs.dll/chinchang/-/b/1498/1130Nativity%20with%20Sts%20Lawrence%20and%20Andrew-ANTONIAZZO%20ROMANO.jpg"
+          },
+          {
+            "url": "http://2.bp.blogspot.com/-RThJRDPm0ug/UrpTVMgr0sI/AAAAAAAAJLs/k5bxz9MwRZA/s1600/Nativity5.jpg"
+          },
+          {
+            "url": "https://1.bp.blogspot.com/-eP_ZQK1gmAs/TtBBmOMSr6I/AAAAAAAAHEI/DuB3swlF5Lo/s1600/nativity+%25282%2529.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://image.jimcdn.com/app/cms/image/transf/dimension=1820x1280:format=jpg/path/se543976b62d9490a/image/if627faabb6b98dd8/version/1493642767/image.jpg"
+          },
+          {
+            "url": "http://www.davidmacchi.com/tourguide/Palazzo_Barberini_-_Galleria_Nazionale_dArte_Antica_files/Media/Romapedia%204%20DSC_4991/Romapedia%204%20DSC_4991.jpg?disposition=download"
+          },
+          {
+            "url": "http://i.huffpost.com/gadgets/slideshows/367934/slide_367934_4210912_free.jpg"
+          },
+          {
+            "url": "https://1.bp.blogspot.com/-7JlT2dgc1fY/VoZ8WAetqdI/AAAAAAAAFg8/3Z1AMVEc1kU/s1600/30d.jpg"
+          },
+          {
+            "url": "https://i.ytimg.com/vi/WL5Q9pfwVZ4/maxresdefault.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.the-athenaeum.org/art/list.php?m=a&s=tu&aid=6390"
+          },
+          {
+            "url": "http://www.wga.hu/html_m/a/antoniaz/nativity.html"
+          },
+          {
+            "url": "https://www.mutualart.com/Artist/Antoniazzo-Romano/A19100D85DD8C532"
+          },
+          {
+            "url": "https://www.artexpertswebsite.com/pages/artists/romano_a.php"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Antoniazzo_Romano_-_Nativity_with_Sts_Lawrence_and_Andrew_-_WGA00767.jpg"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/20/c9/22/20c9226a7aae4e1ecc81763227937293.jpg"
+          },
+          {
+            "url": "http://www.cinquequotidiano.it/wp-content/uploads/2013/11/Antoniazzo-Romano-Nativit%C3%A0-e-i-santi-Andrea-e-Lorenzo.jpg"
+          },
+          {
+            "url": "http://es.artsdot.com/ADC/Art-ImgThumb.nsf/O/A-A26KL4/$FILE/Antoniazzo_romano-annunciation-s.Jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Antoniazzo_romano%2C_storie_della_vera_croce%2C_1492_ca._14.jpg/640px-Antoniazzo_romano%2C_storie_della_vera_croce%2C_1492_ca._14.jpg"
+          },
+          {
+            "url": "https://www.art-prints-on-demand.com/kunst/domenico_ghirlandaio/thm_florentine_onlookers_cycle_fr__hi.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

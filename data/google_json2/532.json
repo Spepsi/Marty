@@ -1,0 +1,474 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0hyb2",
+          "description": "altar",
+          "score": 0.70916367
+        },
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.6739429
+        },
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.58972573
+        },
+        {
+          "mid": "/m/015r61",
+          "description": "modern art",
+          "score": 0.5423305
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "en",
+          "description": "WY\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 276,
+                "y": 355
+              },
+              {
+                "x": 306,
+                "y": 355
+              },
+              {
+                "x": 306,
+                "y": 368
+              },
+              {
+                "x": 276,
+                "y": 368
+              }
+            ]
+          }
+        },
+        {
+          "description": "WY",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 307,
+                "y": 367
+              },
+              {
+                "x": 277,
+                "y": 368
+              },
+              {
+                "x": 277,
+                "y": 356
+              },
+              {
+                "x": 306,
+                "y": 355
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 17,
+                "green": 9,
+                "blue": 11
+              },
+              "score": 0.2842944,
+              "pixelFraction": 0.26457816
+            },
+            {
+              "color": {
+                "red": 75,
+                "green": 40,
+                "blue": 26
+              },
+              "score": 0.08926981,
+              "pixelFraction": 0.060716502
+            },
+            {
+              "color": {
+                "red": 212,
+                "green": 190,
+                "blue": 165
+              },
+              "score": 0.019074174,
+              "pixelFraction": 0.018300248
+            },
+            {
+              "color": {
+                "red": 160,
+                "green": 42,
+                "blue": 36
+              },
+              "score": 0.01759227,
+              "pixelFraction": 0.0065136477
+            },
+            {
+              "color": {
+                "red": 110,
+                "green": 26,
+                "blue": 10
+              },
+              "score": 0.014613331,
+              "pixelFraction": 0.009150124
+            },
+            {
+              "color": {
+                "red": 37,
+                "green": 12,
+                "blue": 12
+              },
+              "score": 0.0734741,
+              "pixelFraction": 0.034429282
+            },
+            {
+              "color": {
+                "red": 52,
+                "green": 18,
+                "blue": 7
+              },
+              "score": 0.07096789,
+              "pixelFraction": 0.03264578
+            },
+            {
+              "color": {
+                "red": 17,
+                "green": 21,
+                "blue": 38
+              },
+              "score": 0.060640287,
+              "pixelFraction": 0.02582196
+            },
+            {
+              "color": {
+                "red": 111,
+                "green": 73,
+                "blue": 58
+              },
+              "score": 0.047481712,
+              "pixelFraction": 0.04916253
+            },
+            {
+              "color": {
+                "red": 62,
+                "green": 46,
+                "blue": 29
+              },
+              "score": 0.03729306,
+              "pixelFraction": 0.018377792
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 333
+                },
+                {
+                  "x": 333,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "en"
+                }
+              ]
+            },
+            "width": 334,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "en"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 306,
+                      "y": 355
+                    },
+                    {
+                      "x": 307,
+                      "y": 367
+                    },
+                    {
+                      "x": 277,
+                      "y": 368
+                    },
+                    {
+                      "x": 276,
+                      "y": 356
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "en"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 276,
+                          "y": 355
+                        },
+                        {
+                          "x": 306,
+                          "y": 355
+                        },
+                        {
+                          "x": 306,
+                          "y": 368
+                        },
+                        {
+                          "x": 276,
+                          "y": 368
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 307,
+                              "y": 367
+                            },
+                            {
+                              "x": 277,
+                              "y": 368
+                            },
+                            {
+                              "x": 277,
+                              "y": 356
+                            },
+                            {
+                              "x": 306,
+                              "y": 355
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 307,
+                                  "y": 367
+                                },
+                                {
+                                  "x": 293,
+                                  "y": 368
+                                },
+                                {
+                                  "x": 292,
+                                  "y": 356
+                                },
+                                {
+                                  "x": 306,
+                                  "y": 355
+                                }
+                              ]
+                            },
+                            "text": "W"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 292,
+                                  "y": 368
+                                },
+                                {
+                                  "x": 277,
+                                  "y": 369
+                                },
+                                {
+                                  "x": 276,
+                                  "y": 357
+                                },
+                                {
+                                  "x": 291,
+                                  "y": 356
+                                }
+                              ]
+                            },
+                            "text": "Y"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "WY\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/04p3xg",
+            "score": 12.94432,
+            "description": "Gallerie dell'Accademia"
+          },
+          {
+            "entityId": "/m/01h9f0",
+            "score": 12.8912,
+            "description": "Murano"
+          },
+          {
+            "entityId": "/m/01wqs5",
+            "score": 0.71023,
+            "description": "Polyptych"
+          },
+          {
+            "entityId": "/m/06cvx",
+            "score": 0.5635,
+            "description": "Renaissance"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.45235845,
+            "description": "Painting"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://www.wga.hu/art/a/andrea/murano/polyptyc.jpg"
+          },
+          {
+            "url": "https://labyrin6-wpengine.netdna-ssl.com/wp-content/uploads/2012/11/Andrea-da-Murano-St.-Pietro-da-Verona-polyptych.jpg"
+          },
+          {
+            "url": "http://farm4.static.flickr.com/3232/2945140775_3a5f811770.jpg"
+          },
+          {
+            "url": "https://dnq5fc8vfw3ev.cloudfront.net/thumbnail/258000/258360/small_aspect/Da-Murano/Polyptych.jpg?ts=1459229076"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/7a/65/32/7a65328875e57158e395c820782a0179.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://www.lib-art.com/imgpainting/2/8/50082-polyptych-andrea-da-murano.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/art/a/andrea/murano/polyptyc.jpg"
+          },
+          {
+            "url": "http://www.elite-paintings.com/w/10/AbyC/Italy/Murano-_Andrea_da_-Italian-_died_1512-_artist_painting_reproduction_handmade_oil_canvas_or_print_art_deco.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Andrea_da_murano%2C_polittico_di_s._vincenzo_ferrer%2C_da_s.pietro_martire_a_murano_01.JPG/859px-Andrea_da_murano%2C_polittico_di_s._vincenzo_ferrer%2C_da_s.pietro_martire_a_murano_01.JPG"
+          },
+          {
+            "url": "https://labyrin6-wpengine.netdna-ssl.com/wp-content/uploads/2012/11/Andrea-da-Murano-St.-Pietro-da-Verona-polyptych.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://www.labyrinthdesigners.org/alchemy-art/andrea-da-murano-a-painter-and-the-art-of-fire/"
+          },
+          {
+            "url": "http://www.wga.hu/html_m/a/andrea/murano/polyptic.html"
+          },
+          {
+            "url": "http://www.wikiwand.com/ca/Andrea_da_Murano"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Andrea_Da_Murano_-_Polyptych_-_WGA00314.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Andrea_da_murano,_polittico_di_s._vincenzo_ferrer,_da_s.pietro_martire_a_murano_01.JPG"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Andrea_Da_Murano_-_Polyptych_-_WGA00313.jpg/220px-Andrea_Da_Murano_-_Polyptych_-_WGA00313.jpg"
+          },
+          {
+            "url": "https://www.art-prints-on-demand.com/kunst/andrea_da_murano/saints_vincent_ferreri_and_roc_hi.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Andrea_da_murano%2C_polittico_di_s._vincenzo_ferrer%2C_da_s.pietro_martire_a_murano_01.JPG/201px-Andrea_da_murano%2C_polittico_di_s._vincenzo_ferrer%2C_da_s.pietro_martire_a_murano_01.JPG"
+          },
+          {
+            "url": "http://www.aloverofvenice.com/Accademia/daMurano-R.jpg"
+          },
+          {
+            "url": "http://www.settemuse.it/pittori_opere_D/_altri/da_murano_andrea_500_polyptych.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

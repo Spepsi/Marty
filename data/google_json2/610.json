@@ -1,0 +1,617 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09g5pq",
+          "description": "people",
+          "score": 0.8751023
+        },
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.7749404
+        },
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.6988165
+        },
+        {
+          "mid": "/m/0djmp",
+          "description": "ancient history",
+          "score": 0.631462
+        },
+        {
+          "mid": "/m/04rd7",
+          "description": "mural",
+          "score": 0.56286794
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "zh",
+          "description": "厂厦(\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 223,
+                "y": 36
+              },
+              {
+                "x": 272,
+                "y": 36
+              },
+              {
+                "x": 272,
+                "y": 65
+              },
+              {
+                "x": 223,
+                "y": 65
+              }
+            ]
+          }
+        },
+        {
+          "description": "厂",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 223,
+                "y": 43
+              },
+              {
+                "x": 238,
+                "y": 40
+              },
+              {
+                "x": 242,
+                "y": 62
+              },
+              {
+                "x": 227,
+                "y": 65
+              }
+            ]
+          }
+        },
+        {
+          "description": "厦",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 245,
+                "y": 40
+              },
+              {
+                "x": 265,
+                "y": 37
+              },
+              {
+                "x": 269,
+                "y": 59
+              },
+              {
+                "x": 249,
+                "y": 63
+              }
+            ]
+          }
+        },
+        {
+          "description": "(",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 266,
+                "y": 37
+              },
+              {
+                "x": 272,
+                "y": 36
+              },
+              {
+                "x": 272,
+                "y": 39
+              },
+              {
+                "x": 267,
+                "y": 40
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 174,
+                "green": 153,
+                "blue": 122
+              },
+              "score": 0.17462488,
+              "pixelFraction": 0.1730067
+            },
+            {
+              "color": {
+                "red": 191,
+                "green": 193,
+                "blue": 220
+              },
+              "score": 0.15342616,
+              "pixelFraction": 0.0769933
+            },
+            {
+              "color": {
+                "red": 77,
+                "green": 44,
+                "blue": 29
+              },
+              "score": 0.011712132,
+              "pixelFraction": 0.02221546
+            },
+            {
+              "color": {
+                "red": 207,
+                "green": 191,
+                "blue": 162
+              },
+              "score": 0.12829706,
+              "pixelFraction": 0.039485697
+            },
+            {
+              "color": {
+                "red": 153,
+                "green": 159,
+                "blue": 193
+              },
+              "score": 0.08211423,
+              "pixelFraction": 0.07052647
+            },
+            {
+              "color": {
+                "red": 199,
+                "green": 193,
+                "blue": 200
+              },
+              "score": 0.078247234,
+              "pixelFraction": 0.0448874
+            },
+            {
+              "color": {
+                "red": 219,
+                "green": 221,
+                "blue": 243
+              },
+              "score": 0.07003835,
+              "pixelFraction": 0.013770542
+            },
+            {
+              "color": {
+                "red": 224,
+                "green": 223,
+                "blue": 234
+              },
+              "score": 0.046853155,
+              "pixelFraction": 0.013009738
+            },
+            {
+              "color": {
+                "red": 142,
+                "green": 120,
+                "blue": 91
+              },
+              "score": 0.045169804,
+              "pixelFraction": 0.12598905
+            },
+            {
+              "color": {
+                "red": 179,
+                "green": 153,
+                "blue": 104
+              },
+              "score": 0.02897278,
+              "pixelFraction": 0.034996957
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 340
+                },
+                {
+                  "x": 340,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "zh-Hans"
+                }
+              ]
+            },
+            "width": 341,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "zh-Hans"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 223,
+                      "y": 43
+                    },
+                    {
+                      "x": 271,
+                      "y": 34
+                    },
+                    {
+                      "x": 275,
+                      "y": 58
+                    },
+                    {
+                      "x": 227,
+                      "y": 67
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "zh-Hans"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 223,
+                          "y": 36
+                        },
+                        {
+                          "x": 272,
+                          "y": 36
+                        },
+                        {
+                          "x": 272,
+                          "y": 65
+                        },
+                        {
+                          "x": 223,
+                          "y": 65
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "zh-Hans"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 223,
+                              "y": 43
+                            },
+                            {
+                              "x": 238,
+                              "y": 40
+                            },
+                            {
+                              "x": 242,
+                              "y": 62
+                            },
+                            {
+                              "x": 227,
+                              "y": 65
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "zh-Hans"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 223,
+                                  "y": 43
+                                },
+                                {
+                                  "x": 238,
+                                  "y": 40
+                                },
+                                {
+                                  "x": 242,
+                                  "y": 62
+                                },
+                                {
+                                  "x": 227,
+                                  "y": 65
+                                }
+                              ]
+                            },
+                            "text": "厂"
+                          }
+                        ]
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "zh-Hans"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 245,
+                              "y": 40
+                            },
+                            {
+                              "x": 265,
+                              "y": 37
+                            },
+                            {
+                              "x": 269,
+                              "y": 59
+                            },
+                            {
+                              "x": 249,
+                              "y": 63
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "zh-Hans"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 245,
+                                  "y": 40
+                                },
+                                {
+                                  "x": 265,
+                                  "y": 37
+                                },
+                                {
+                                  "x": 269,
+                                  "y": 59
+                                },
+                                {
+                                  "x": 249,
+                                  "y": 63
+                                }
+                              ]
+                            },
+                            "text": "厦"
+                          }
+                        ]
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 266,
+                              "y": 37
+                            },
+                            {
+                              "x": 272,
+                              "y": 36
+                            },
+                            {
+                              "x": 272,
+                              "y": 39
+                            },
+                            {
+                              "x": 267,
+                              "y": 40
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "zh-Hans"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 266,
+                                  "y": 37
+                                },
+                                {
+                                  "x": 272,
+                                  "y": 36
+                                },
+                                {
+                                  "x": 272,
+                                  "y": 39
+                                },
+                                {
+                                  "x": 267,
+                                  "y": 40
+                                }
+                              ]
+                            },
+                            "text": "("
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "厂厦(\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/g/120j31sb",
+            "score": 3.57528,
+            "description": "Villa Medicea"
+          },
+          {
+            "entityId": "/m/09c7b",
+            "score": 2.5468,
+            "description": "Metropolitan Museum of Art"
+          },
+          {
+            "entityId": "/g/120z6p96",
+            "score": 1.41638,
+            "description": "Triumph of Caesar"
+          },
+          {
+            "entityId": "/m/021848",
+            "score": 1.2734,
+            "description": "Frick Collection"
+          },
+          {
+            "entityId": "/m/06_g51",
+            "score": 1.2734,
+            "description": "Villa del Poggio Imperiale"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://eurocles.com/data/peinture/s/sarto/sarto%20-%20Triumph%20of%20Caesar%20(detail).%201520.%20Fresco.%20Villa%20Medici,%20Poggio%20a%20Caiano.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/art/a/andrea/sarto/2/caiano1.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/7d/71/37/7d713753b085f217d78008a19fa79f9a.jpg"
+          },
+          {
+            "url": "http://img0.liveinternet.ru/images/attach/c/9/106/307/106307476_Triumph_of_Caesar__detail_.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Andrea_del_Sarto_-_Triumph_of_Caesar_%28detail%29_-_WGA00383.jpg/513px-Andrea_del_Sarto_-_Triumph_of_Caesar_%28detail%29_-_WGA00383.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://upload.wikimedia.org/wikipedia/commons/6/6b/Villa_di_Poggio_a_Caiano%2C_sala_di_Leone_X%2C_Alessandro_Allori%2C_Siface_di_Numidia_che_riceve_Scipione.JPG"
+          },
+          {
+            "url": "https://oudemeesterschilderijen.files.wordpress.com/2013/10/schilderij-delsarto-triumph-of-caesar-c1520.jpg"
+          },
+          {
+            "url": "https://68.media.tumblr.com/28e1a990ee62b7ca5622f2586942f06f/tumblr_oqhh40Ivts1rb6373o1_1280.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Villa_di_Poggio_a_Caiano%2C_sala_di_Leone_X%2C_Alessandro_Allori%2C_Siface_di_Numidia_che_riceve_Scipione.JPG/1280px-Villa_di_Poggio_a_Caiano%2C_sala_di_Leone_X%2C_Alessandro_Allori%2C_Siface_di_Numidia_che_riceve_Scipione.JPG"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Villa_di_Poggio_a_Caiano%2C_sala_di_Leone_X%2C_Alessandro_Allori%2C_Siface_di_Numidia_che_riceve_Scipione.JPG/1200px-Villa_di_Poggio_a_Caiano%2C_sala_di_Leone_X%2C_Alessandro_Allori%2C_Siface_di_Numidia_che_riceve_Scipione.JPG"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.wga.hu/html_m/a/andrea/sarto/2/caiano.html"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Andrea_del_Sarto_-_Triumph_of_Caesar_-_WGA00382.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Andrea_del_Sarto_-_Triumph_of_Caesar_(detail)_-_WGA00383.jpg"
+          },
+          {
+            "url": "http://freebeacon.com/culture/electric-andrea-del-sarto/"
+          },
+          {
+            "url": "http://www.gettyimages.com/detail/illustration/the-triumph-of-caesar-by-andrea-del-sarto-and-alessandro-stock-graphic/173282800"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://en.wahooart.com/Art.nsf/O/8XZ8ZB/$File/Andrea-Del-Sarto-Triumph-of-Caesar-detail--S.JPG"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Andrea_del_Sarto_-_Triumph_of_Caesar_-_WGA00382.jpg"
+          },
+          {
+            "url": "http://media.gettyimages.com/photos/the-triumph-of-caesar-by-andrea-del-sarto-and-alessandro-allori-a-picture-id170914874"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Andrea_del_sarto%2C_tributo_a_cesare%2C_1519-21_%28con_aggiunte_dell%27allori_del_1578-82%29_07.JPG"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Andrea_del_sarto%2C_tributo_a_cesare%2C_1519-21_%28con_aggiunte_dell%27allori_del_1578-82%29_08.JPG"
+          }
+        ]
+      }
+    }
+  ]
+}

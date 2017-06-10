@@ -1,0 +1,490 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0cgh4",
+          "description": "building",
+          "score": 0.8416641
+        },
+        {
+          "mid": "/m/02nvjx",
+          "description": "place of worship",
+          "score": 0.76934195
+        },
+        {
+          "mid": "/m/01wb7",
+          "description": "church",
+          "score": 0.7472443
+        },
+        {
+          "mid": "/m/0f85g",
+          "description": "basilica",
+          "score": 0.7391352
+        },
+        {
+          "mid": "/m/0173tc",
+          "description": "chapel",
+          "score": 0.69190615
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "en",
+          "description": "SEN\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 133,
+                "y": 216
+              },
+              {
+                "x": 143,
+                "y": 216
+              },
+              {
+                "x": 143,
+                "y": 235
+              },
+              {
+                "x": 133,
+                "y": 235
+              }
+            ]
+          }
+        },
+        {
+          "description": "SEN",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 133,
+                "y": 216
+              },
+              {
+                "x": 143,
+                "y": 216
+              },
+              {
+                "x": 143,
+                "y": 235
+              },
+              {
+                "x": 133,
+                "y": 235
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 192,
+                "green": 145,
+                "blue": 93
+              },
+              "score": 0.22080477,
+              "pixelFraction": 0.0317892
+            },
+            {
+              "color": {
+                "red": 143,
+                "green": 117,
+                "blue": 90
+              },
+              "score": 0.08344336,
+              "pixelFraction": 0.13747187
+            },
+            {
+              "color": {
+                "red": 222,
+                "green": 227,
+                "blue": 231
+              },
+              "score": 0.03886842,
+              "pixelFraction": 0.031414103
+            },
+            {
+              "color": {
+                "red": 158,
+                "green": 114,
+                "blue": 68
+              },
+              "score": 0.15387665,
+              "pixelFraction": 0.068454616
+            },
+            {
+              "color": {
+                "red": 187,
+                "green": 151,
+                "blue": 97
+              },
+              "score": 0.12509027,
+              "pixelFraction": 0.017535634
+            },
+            {
+              "color": {
+                "red": 30,
+                "green": 16,
+                "blue": 11
+              },
+              "score": 0.0006652319,
+              "pixelFraction": 0.18023255
+            },
+            {
+              "color": {
+                "red": 172,
+                "green": 147,
+                "blue": 119
+              },
+              "score": 0.05671353,
+              "pixelFraction": 0.062265567
+            },
+            {
+              "color": {
+                "red": 227,
+                "green": 176,
+                "blue": 118
+              },
+              "score": 0.05600232,
+              "pixelFraction": 0.006470368
+            },
+            {
+              "color": {
+                "red": 146,
+                "green": 110,
+                "blue": 80
+              },
+              "score": 0.042953875,
+              "pixelFraction": 0.054857463
+            },
+            {
+              "color": {
+                "red": 115,
+                "green": 80,
+                "blue": 55
+              },
+              "score": 0.033318937,
+              "pixelFraction": 0.08767817
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 276
+                },
+                {
+                  "y": 276
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "en"
+                }
+              ]
+            },
+            "width": 400,
+            "height": 277,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "en"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 133,
+                      "y": 216
+                    },
+                    {
+                      "x": 143,
+                      "y": 216
+                    },
+                    {
+                      "x": 143,
+                      "y": 235
+                    },
+                    {
+                      "x": 133,
+                      "y": 235
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "en"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 133,
+                          "y": 216
+                        },
+                        {
+                          "x": 143,
+                          "y": 216
+                        },
+                        {
+                          "x": 143,
+                          "y": 235
+                        },
+                        {
+                          "x": 133,
+                          "y": 235
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 133,
+                              "y": 216
+                            },
+                            {
+                              "x": 143,
+                              "y": 216
+                            },
+                            {
+                              "x": 143,
+                              "y": 235
+                            },
+                            {
+                              "x": 133,
+                              "y": 235
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 133,
+                                  "y": 231
+                                },
+                                {
+                                  "x": 143,
+                                  "y": 231
+                                },
+                                {
+                                  "x": 143,
+                                  "y": 235
+                                },
+                                {
+                                  "x": 133,
+                                  "y": 235
+                                }
+                              ]
+                            },
+                            "text": "S"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 133,
+                                  "y": 225
+                                },
+                                {
+                                  "x": 143,
+                                  "y": 225
+                                },
+                                {
+                                  "x": 143,
+                                  "y": 230
+                                },
+                                {
+                                  "x": 133,
+                                  "y": 230
+                                }
+                              ]
+                            },
+                            "text": "E"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 133,
+                                  "y": 216
+                                },
+                                {
+                                  "x": 143,
+                                  "y": 216
+                                },
+                                {
+                                  "x": 143,
+                                  "y": 224
+                                },
+                                {
+                                  "x": 133,
+                                  "y": 224
+                                }
+                              ]
+                            },
+                            "text": "N"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "SEN\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/044bh6",
+            "score": 22.43072,
+            "description": "Palazzo Pitti"
+          },
+          {
+            "entityId": "/m/0nbdpr4",
+            "score": 11.87552,
+            "description": "Palatine Gallery"
+          },
+          {
+            "entityId": "/g/12283y5y",
+            "score": 5.13968,
+            "description": "Galleria del Costume"
+          },
+          {
+            "entityId": "/g/11csrr7md0",
+            "score": 1.997
+          },
+          {
+            "entityId": "/g/119v4ht49",
+            "score": 1.51476
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://www.olmastrello.it/wp-content/uploads/2015/06/Cappella-Palatina.jpg"
+          },
+          {
+            "url": "http://3.bp.blogspot.com/_OckRhvkw_3E/TAVxn3lQA6I/AAAAAAAAID4/Swplvl5zdXI/s1600/gpk.jpg"
+          },
+          {
+            "url": "http://www.sabercultural.com/template/pinacoteca/fotos/Sala-Ouro-44-Foto06.jpg"
+          },
+          {
+            "url": "http://it.wahooart.com/Art.nsf/O/8XZ8P6/$File/Luigi-Ademollo-View-of-the-Palatine-Chapel.JPG"
+          },
+          {
+            "url": "http://1.citynews-firenzetoday.stgy.ovh/~media/original-hi/42882343182615/cappella-palatina-2.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://en.wahooart.com/@@/8XZ8P6-Luigi-Ademollo-View-of-the-Palatine-Chapel"
+          },
+          {
+            "url": "http://www.sabercultural.com/template/pinacoteca/SalaOuro44.html"
+          },
+          {
+            "url": "https://github.com/xbaro/LibSUNAI/blob/master/data/artdb/old_Data/imagesData.txt"
+          },
+          {
+            "url": "https://www.pinterest.com/jennigrey1450/i-love-it/"
+          },
+          {
+            "url": "https://romancatholicimperialist.blogspot.com/2010/09/but-worship-of-god-is-abomination-to.html"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://www.sabercultural.com/template/pinacoteca/fotos/Sala-Ouro-44-Foto06.jpg"
+          },
+          {
+            "url": "http://www.thejoyofshards.co.uk/visits/sicily/palatina/images/263altar.jpg"
+          },
+          {
+            "url": "http://www.cruisetimetables.com/excursions/palermo-palantine-chapel.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/5b/58/38/5b5838185c013cd54e435b141c9db934.jpg"
+          },
+          {
+            "url": "http://www.holidayhomepalermo.com/wp-content/uploads/2013/12/palatina-2.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

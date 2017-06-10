@@ -1,0 +1,389 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/04zhd",
+          "description": "mythology",
+          "score": 0.72012997
+        },
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.700475
+        },
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.5721485
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "en",
+          "description": "m\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 102,
+                "y": 269
+              },
+              {
+                "x": 115,
+                "y": 269
+              },
+              {
+                "x": 115,
+                "y": 283
+              },
+              {
+                "x": 102,
+                "y": 283
+              }
+            ]
+          }
+        },
+        {
+          "description": "m",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 102,
+                "y": 269
+              },
+              {
+                "x": 115,
+                "y": 269
+              },
+              {
+                "x": 115,
+                "y": 283
+              },
+              {
+                "x": 102,
+                "y": 283
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "POSSIBLE",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 218,
+                "green": 188,
+                "blue": 157
+              },
+              "score": 0.19139877,
+              "pixelFraction": 0.14474127
+            },
+            {
+              "color": {
+                "red": 208,
+                "green": 146,
+                "blue": 58
+              },
+              "score": 0.11710811,
+              "pixelFraction": 0.0059643816
+            },
+            {
+              "color": {
+                "red": 238,
+                "green": 229,
+                "blue": 222
+              },
+              "score": 0.03577387,
+              "pixelFraction": 0.014196909
+            },
+            {
+              "color": {
+                "red": 96,
+                "green": 80,
+                "blue": 60
+              },
+              "score": 0.034030948,
+              "pixelFraction": 0.0921539
+            },
+            {
+              "color": {
+                "red": 226,
+                "green": 182,
+                "blue": 98
+              },
+              "score": 0.030841656,
+              "pixelFraction": 0.001344086
+            },
+            {
+              "color": {
+                "red": 222,
+                "green": 182,
+                "blue": 152
+              },
+              "score": 0.09113554,
+              "pixelFraction": 0.022849463
+            },
+            {
+              "color": {
+                "red": 223,
+                "green": 177,
+                "blue": 127
+              },
+              "score": 0.044524793,
+              "pixelFraction": 0.0041162632
+            },
+            {
+              "color": {
+                "red": 193,
+                "green": 151,
+                "blue": 122
+              },
+              "score": 0.040901393,
+              "pixelFraction": 0.027301747
+            },
+            {
+              "color": {
+                "red": 187,
+                "green": 158,
+                "blue": 128
+              },
+              "score": 0.03168815,
+              "pixelFraction": 0.061491936
+            },
+            {
+              "color": {
+                "red": 115,
+                "green": 74,
+                "blue": 53
+              },
+              "score": 0.030716117,
+              "pixelFraction": 0.057039652
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 308
+                },
+                {
+                  "x": 308,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "en"
+                }
+              ]
+            },
+            "width": 309,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "en"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 102,
+                      "y": 269
+                    },
+                    {
+                      "x": 115,
+                      "y": 269
+                    },
+                    {
+                      "x": 115,
+                      "y": 283
+                    },
+                    {
+                      "x": 102,
+                      "y": 283
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "en"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 102,
+                          "y": 269
+                        },
+                        {
+                          "x": 115,
+                          "y": 269
+                        },
+                        {
+                          "x": 115,
+                          "y": 283
+                        },
+                        {
+                          "x": 102,
+                          "y": 283
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 102,
+                              "y": 269
+                            },
+                            {
+                              "x": 115,
+                              "y": 269
+                            },
+                            {
+                              "x": 115,
+                              "y": 283
+                            },
+                            {
+                              "x": 102,
+                              "y": 283
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 102,
+                                  "y": 269
+                                },
+                                {
+                                  "x": 115,
+                                  "y": 269
+                                },
+                                {
+                                  "x": 115,
+                                  "y": 283
+                                },
+                                {
+                                  "x": 102,
+                                  "y": 283
+                                }
+                              ]
+                            },
+                            "text": "m"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "m\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/g/120j31sb",
+            "score": 5.92128,
+            "description": "Villa Medicea"
+          },
+          {
+            "entityId": "/g/1211j7_0",
+            "score": 0.78028,
+            "description": "An Allegory of Fortune"
+          },
+          {
+            "entityId": "/m/01y8xw",
+            "score": 0.70586,
+            "description": "Villa"
+          },
+          {
+            "entityId": "/m/02z929",
+            "score": 0.61074,
+            "description": "Lunette"
+          },
+          {
+            "entityId": "/g/121_j0wz",
+            "score": 0.5831
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://www.wga.hu/preview/a/allori/alessand/5poggio.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/be/eb/21/beeb21b21c5485b6327890d8ff5a5682.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/be/eb/21/beeb21b21c5485b6327890d8ff5a5682.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/be/eb/21/beeb21b21c5485b6327890d8ff5a5682.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/preview/a/allori/alessand/5poggio.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

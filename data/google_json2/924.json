@@ -1,0 +1,515 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.84348047
+        },
+        {
+          "mid": "/m/0c9ph5",
+          "description": "flower",
+          "score": 0.6116203
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "ja",
+          "description": "半%\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 260,
+                "y": 21
+              },
+              {
+                "x": 280,
+                "y": 21
+              },
+              {
+                "x": 280,
+                "y": 31
+              },
+              {
+                "x": 260,
+                "y": 31
+              }
+            ]
+          }
+        },
+        {
+          "description": "半",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 262,
+                "y": 21
+              },
+              {
+                "x": 270,
+                "y": 23
+              },
+              {
+                "x": 268,
+                "y": 29
+              },
+              {
+                "x": 260,
+                "y": 27
+              }
+            ]
+          }
+        },
+        {
+          "description": "%",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 274,
+                "y": 24
+              },
+              {
+                "x": 280,
+                "y": 26
+              },
+              {
+                "x": 278,
+                "y": 31
+              },
+              {
+                "x": 272,
+                "y": 30
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 16,
+                "green": 22,
+                "blue": 11
+              },
+              "score": 0.13330606,
+              "pixelFraction": 0.10933983
+            },
+            {
+              "color": {
+                "red": 46,
+                "green": 55,
+                "blue": 23
+              },
+              "score": 0.124511726,
+              "pixelFraction": 0.095273815
+            },
+            {
+              "color": {
+                "red": 204,
+                "green": 196,
+                "blue": 129
+              },
+              "score": 0.069193326,
+              "pixelFraction": 0.02944486
+            },
+            {
+              "color": {
+                "red": 151,
+                "green": 158,
+                "blue": 102
+              },
+              "score": 0.052695826,
+              "pixelFraction": 0.026725432
+            },
+            {
+              "color": {
+                "red": 223,
+                "green": 238,
+                "blue": 240
+              },
+              "score": 0.019113602,
+              "pixelFraction": 0.008627157
+            },
+            {
+              "color": {
+                "red": 168,
+                "green": 193,
+                "blue": 221
+              },
+              "score": 0.016096378,
+              "pixelFraction": 0.010127532
+            },
+            {
+              "color": {
+                "red": 47,
+                "green": 50,
+                "blue": 24
+              },
+              "score": 0.09916597,
+              "pixelFraction": 0.07211178
+            },
+            {
+              "color": {
+                "red": 26,
+                "green": 31,
+                "blue": 10
+              },
+              "score": 0.06694814,
+              "pixelFraction": 0.043417104
+            },
+            {
+              "color": {
+                "red": 73,
+                "green": 83,
+                "blue": 47
+              },
+              "score": 0.061068263,
+              "pixelFraction": 0.064422354
+            },
+            {
+              "color": {
+                "red": 150,
+                "green": 160,
+                "blue": 119
+              },
+              "score": 0.05258821,
+              "pixelFraction": 0.06367217
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 278
+                },
+                {
+                  "y": 278
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "ja"
+                }
+              ]
+            },
+            "width": 400,
+            "height": 279,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "ja"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 262,
+                      "y": 21
+                    },
+                    {
+                      "x": 279,
+                      "y": 26
+                    },
+                    {
+                      "x": 278,
+                      "y": 31
+                    },
+                    {
+                      "x": 260,
+                      "y": 27
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "ja"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 260,
+                          "y": 21
+                        },
+                        {
+                          "x": 280,
+                          "y": 21
+                        },
+                        {
+                          "x": 280,
+                          "y": 31
+                        },
+                        {
+                          "x": 260,
+                          "y": 31
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "ja"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 262,
+                              "y": 21
+                            },
+                            {
+                              "x": 270,
+                              "y": 23
+                            },
+                            {
+                              "x": 268,
+                              "y": 29
+                            },
+                            {
+                              "x": 260,
+                              "y": 27
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "ja"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 262,
+                                  "y": 21
+                                },
+                                {
+                                  "x": 270,
+                                  "y": 23
+                                },
+                                {
+                                  "x": 268,
+                                  "y": 29
+                                },
+                                {
+                                  "x": 260,
+                                  "y": 27
+                                }
+                              ]
+                            },
+                            "text": "半"
+                          }
+                        ]
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 274,
+                              "y": 24
+                            },
+                            {
+                              "x": 280,
+                              "y": 26
+                            },
+                            {
+                              "x": 278,
+                              "y": 31
+                            },
+                            {
+                              "x": 272,
+                              "y": 30
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "ja"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 274,
+                                  "y": 24
+                                },
+                                {
+                                  "x": 280,
+                                  "y": 26
+                                },
+                                {
+                                  "x": 278,
+                                  "y": 31
+                                },
+                                {
+                                  "x": 272,
+                                  "y": 30
+                                }
+                              ]
+                            },
+                            "text": "%"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "半%\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/g/1q6j9v534",
+            "score": 1.50832,
+            "description": "Triptych of the Temptation of St. Anthony"
+          },
+          {
+            "entityId": "/m/035p4y",
+            "score": 0.74564,
+            "description": "Christian monasticism"
+          },
+          {
+            "entityId": "/m/04yw6",
+            "score": 0.70778,
+            "description": "Monasticism"
+          },
+          {
+            "entityId": "/m/0719f",
+            "score": 0.7017,
+            "description": "Saint"
+          },
+          {
+            "entityId": "/g/11csr7712p",
+            "score": 0.688,
+            "description": "Saint Anthony Abbot Shunning the Mass of Gold"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://partigul.narod.ru/Zala2/Oleg2.jpg"
+          },
+          {
+            "url": "http://www.adolphus.nl/xus/antonius/vita/angelico.jpg"
+          },
+          {
+            "url": "http://www.adolphus.nl/xus/antonius/aland/usamusea/houstonangelico02.jpg"
+          },
+          {
+            "url": "http://upload.wikimedia.org/wikipedia/commons/c/c4/Angelico,_Sant'antonio_abate_tentato_dall'oro,_houston.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/art/a/angelico/13/04anthon.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Fra_Angelico_-_Saint_Anthony_Abbot_Shunning_the_Mass_of_Gold_%28MFAH%29.jpg"
+          },
+          {
+            "url": "http://arthistoryproject.com/site/assets/files/13903/fra-angelico-saint-anthony-tempted-by-a-lump-of-gold-1436-trivium-art-history.jpg"
+          },
+          {
+            "url": "http://artsandculturetx.com/wp-content/uploads/2014/03/Fra-Angelico1.jpg"
+          },
+          {
+            "url": "https://andrzejosinski.files.wordpress.com/2009/02/fraangelico-st-abbot-anthony-tempted-by-gold-1436.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Fra_Angelico_-_Saint_Anthony_Abbot_Shunning_the_Mass_of_Gold_%28MFAH%29.jpg/1280px-Fra_Angelico_-_Saint_Anthony_Abbot_Shunning_the_Mass_of_Gold_%28MFAH%29.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.silesiancollections.eu/Reading-Room/Objects-of-the-Month/November-2010-Fra-Angelico-Saint-Anthony-Shunning-the-Mass-of-Gold"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Fra_Angelico_-_Saint_Anthony_Abbot_Shunning_the_Mass_of_Gold_-_Google_Art_Project.jpg"
+          },
+          {
+            "url": "https://www.google.com/culturalinstitute/asset-viewer/saint-anthony-abbot-shunning-the-mass-of-gold/hQGu34YlqTKgNQ?hl=en"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Fra_Angelico_-_Saint_Anthony_Abbot_Shunning_the_Mass_of_Gold_(MFAH).jpg"
+          },
+          {
+            "url": "https://getcustomart.com/collections/angelico-fra/products/angelico-fra-saint-anthony-abbot-shunning-the-mass-of-gold"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://paintingandframe.com/uploadpic/fra_angelico/big/saint_anthony_abbot_shunning_the_mass_of_gold.jpg"
+          },
+          {
+            "url": "https://render.fineartamerica.com/images/rendered/medium/greeting-card/images-medium-5/saint-anthony-abbot-shunning-the-mass-of-gold-fra-angelico.jpg"
+          },
+          {
+            "url": "https://render.fineartamerica.com/images/rendered/search/framed-print/images/artworkimages/medium/1/1-saint-anthony-abbot-shunning-the-mass-of-gold-fra-angelico.jpg"
+          },
+          {
+            "url": "https://cdn.bestofpainting.com/images/nicholas_roerich/1931_st_panteleimon_the_healer_2k.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

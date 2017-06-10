@@ -1,0 +1,463 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.78518397
+        },
+        {
+          "mid": "/m/04zhd",
+          "description": "mythology",
+          "score": 0.684675
+        },
+        {
+          "mid": "/m/015r61",
+          "description": "modern art",
+          "score": 0.51512796
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "en",
+          "description": "ON\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 273,
+                "y": 133
+              },
+              {
+                "x": 287,
+                "y": 133
+              },
+              {
+                "x": 287,
+                "y": 152
+              },
+              {
+                "x": 273,
+                "y": 152
+              }
+            ]
+          }
+        },
+        {
+          "description": "ON",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 274,
+                "y": 133
+              },
+              {
+                "x": 288,
+                "y": 133
+              },
+              {
+                "x": 288,
+                "y": 152
+              },
+              {
+                "x": 274,
+                "y": 152
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "POSSIBLE"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 182,
+                "green": 97,
+                "blue": 72
+              },
+              "score": 0.14238137,
+              "pixelFraction": 0.0029032258
+            },
+            {
+              "color": {
+                "red": 179,
+                "green": 157,
+                "blue": 126
+              },
+              "score": 0.0858263,
+              "pixelFraction": 0.092258066
+            },
+            {
+              "color": {
+                "red": 162,
+                "green": 108,
+                "blue": 86
+              },
+              "score": 0.06585826,
+              "pixelFraction": 0.021935483
+            },
+            {
+              "color": {
+                "red": 192,
+                "green": 156,
+                "blue": 69
+              },
+              "score": 0.028359232,
+              "pixelFraction": 0.013870968
+            },
+            {
+              "color": {
+                "red": 142,
+                "green": 61,
+                "blue": 40
+              },
+              "score": 0.12706874,
+              "pixelFraction": 0.0057258066
+            },
+            {
+              "color": {
+                "red": 212,
+                "green": 187,
+                "blue": 159
+              },
+              "score": 0.06058622,
+              "pixelFraction": 0.022741936
+            },
+            {
+              "color": {
+                "red": 175,
+                "green": 99,
+                "blue": 83
+              },
+              "score": 0.05983985,
+              "pixelFraction": 0.002016129
+            },
+            {
+              "color": {
+                "red": 193,
+                "green": 142,
+                "blue": 121
+              },
+              "score": 0.05442993,
+              "pixelFraction": 0.014516129
+            },
+            {
+              "color": {
+                "red": 132,
+                "green": 59,
+                "blue": 47
+              },
+              "score": 0.051765446,
+              "pixelFraction": 0.009354839
+            },
+            {
+              "color": {
+                "red": 192,
+                "green": 138,
+                "blue": 89
+              },
+              "score": 0.03840857,
+              "pixelFraction": 0.006935484
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 321
+                },
+                {
+                  "x": 321,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "en"
+                }
+              ]
+            },
+            "width": 322,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "en"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 273,
+                      "y": 133
+                    },
+                    {
+                      "x": 287,
+                      "y": 133
+                    },
+                    {
+                      "x": 287,
+                      "y": 152
+                    },
+                    {
+                      "x": 273,
+                      "y": 152
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "en"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 273,
+                          "y": 133
+                        },
+                        {
+                          "x": 287,
+                          "y": 133
+                        },
+                        {
+                          "x": 287,
+                          "y": 152
+                        },
+                        {
+                          "x": 273,
+                          "y": 152
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 274,
+                              "y": 133
+                            },
+                            {
+                              "x": 288,
+                              "y": 133
+                            },
+                            {
+                              "x": 288,
+                              "y": 152
+                            },
+                            {
+                              "x": 274,
+                              "y": 152
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 274,
+                                  "y": 133
+                                },
+                                {
+                                  "x": 288,
+                                  "y": 133
+                                },
+                                {
+                                  "x": 288,
+                                  "y": 141
+                                },
+                                {
+                                  "x": 274,
+                                  "y": 141
+                                }
+                              ]
+                            },
+                            "text": "O"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 274,
+                                  "y": 143
+                                },
+                                {
+                                  "x": 288,
+                                  "y": 143
+                                },
+                                {
+                                  "x": 288,
+                                  "y": 152
+                                },
+                                {
+                                  "x": 274,
+                                  "y": 152
+                                }
+                              ]
+                            },
+                            "text": "N"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "ON\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/044bh6",
+            "score": 5.95888,
+            "description": "Palazzo Pitti"
+          },
+          {
+            "entityId": "/m/0nbdpr4",
+            "score": 2.67448,
+            "description": "Palatine Gallery"
+          },
+          {
+            "entityId": "/m/0bxyh0",
+            "score": 1.48252,
+            "description": "Madonna of the Harpies"
+          },
+          {
+            "entityId": "/g/12111y91",
+            "score": 0.8032,
+            "description": "Altarpiece Gambassi"
+          },
+          {
+            "entityId": "/m/06cvx",
+            "score": 0.73098,
+            "description": "Renaissance"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Andrea_del_Sarto_-_Virgin_and_Child_in_Glory_with_Six_Saints_-_WGA0406.jpg/260px-Andrea_del_Sarto_-_Virgin_and_Child_in_Glory_with_Six_Saints_-_WGA0406.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Andrea_del_Sarto_-_Virgin_and_Child_in_Glory_with_Six_Saints_-_WGA0406.jpg/220px-Andrea_del_Sarto_-_Virgin_and_Child_in_Glory_with_Six_Saints_-_WGA0406.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Andrea_del_Sarto_-_Virgin_and_Child_in_Glory_with_Six_Saints_-_WGA0406.jpg/150px-Andrea_del_Sarto_-_Virgin_and_Child_in_Glory_with_Six_Saints_-_WGA0406.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://i.ytimg.com/vi/j0GR1gRBbH8/maxresdefault.jpg"
+          },
+          {
+            "url": "https://bezkordonu.com/wp-content/uploads/2016/11/%D0%9C%D0%B0%D0%B4%D0%BE%D0%BD%D0%BD%D0%B0-%D1%81-%D0%BC%D0%BB%D0%B0%D0%B4%D0%B5%D0%BD%D1%86%D0%B5%D0%BC-%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B0-%D0%B4%D0%B5%D0%BB%D1%8C-%D0%A1%D0%B0%D1%80%D1%82%D0%BE.jpg"
+          },
+          {
+            "url": "https://2.bp.blogspot.com/-mDIgaA2bzzc/VLylYab1n8I/AAAAAAAAHpE/nMgaxSj56d4/s1600/DSCN9935.JPG"
+          },
+          {
+            "url": "http://www.wga.hu/art/a/andrea/sarto/3/madglory.jpg"
+          },
+          {
+            "url": "http://4.bp.blogspot.com/_sGeyduGngfo/TAEJRNNY3EI/AAAAAAAAISE/hxoBzKcbxrU/s1600/madglory.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://www.youtube.com/watch?v=l1pPiMKel-E"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=Qiw42N_qx_k"
+          },
+          {
+            "url": "http://www.the-athenaeum.org/art/list.php?m=a&s=tu&aid=6153"
+          },
+          {
+            "url": "http://www.wga.hu/html_m/a/andrea/sarto/3/madglory.html"
+          },
+          {
+            "url": "https://www.artexpertswebsite.com/pages/artists/delsarto.php"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Andrea_del_Sarto_-_Virgin_and_Child_in_Glory_with_Six_Saints_-_WGA0406.jpg/387px-Andrea_del_Sarto_-_Virgin_and_Child_in_Glory_with_Six_Saints_-_WGA0406.jpg"
+          },
+          {
+            "url": "https://farm5.staticflickr.com/4131/5041469935_f66e82c31f_b.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/f7/95/a5/f795a55c0327debbed226da86e977e71.jpg"
+          },
+          {
+            "url": "http://www.saleoilpaintings.com/paintings-image/andrea-del-sarto/andrea-del-sarto-virgin-with-four-saints-84949.jpg"
+          },
+          {
+            "url": "http://viatura.us/wp-content/uploads/2016/08/summary-of-andrea-del-sarto-sartore-sarto-del-andrea-of-summary-sartorius-muscle-origin-and-insertion-30310157-sartomer-sartori-sartorial-sartorialist-ag-belgium-intec-me-350x350.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

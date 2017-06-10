@@ -1,0 +1,434 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.6381949
+        },
+        {
+          "mid": "/m/04zhd",
+          "description": "mythology",
+          "score": 0.5280367
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "zh-Hant",
+          "description": "犀\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 222,
+                "y": 30
+              },
+              {
+                "x": 244,
+                "y": 30
+              },
+              {
+                "x": 244,
+                "y": 52
+              },
+              {
+                "x": 222,
+                "y": 52
+              }
+            ]
+          }
+        },
+        {
+          "description": "犀",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 241,
+                "y": 30
+              },
+              {
+                "x": 245,
+                "y": 49
+              },
+              {
+                "x": 227,
+                "y": 52
+              },
+              {
+                "x": 223,
+                "y": 34
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 113,
+                "green": 73,
+                "blue": 53
+              },
+              "score": 0.14322428,
+              "pixelFraction": 0.04666546
+            },
+            {
+              "color": {
+                "red": 156,
+                "green": 110,
+                "blue": 65
+              },
+              "score": 0.10377338,
+              "pixelFraction": 0.0130482055
+            },
+            {
+              "color": {
+                "red": 224,
+                "green": 193,
+                "blue": 132
+              },
+              "score": 0.07067835,
+              "pixelFraction": 0.0089706415
+            },
+            {
+              "color": {
+                "red": 29,
+                "green": 19,
+                "blue": 16
+              },
+              "score": 0.05920629,
+              "pixelFraction": 0.3764045
+            },
+            {
+              "color": {
+                "red": 120,
+                "green": 77,
+                "blue": 38
+              },
+              "score": 0.08510738,
+              "pixelFraction": 0.010782893
+            },
+            {
+              "color": {
+                "red": 78,
+                "green": 44,
+                "blue": 28
+              },
+              "score": 0.07180447,
+              "pixelFraction": 0.0614353
+            },
+            {
+              "color": {
+                "red": 192,
+                "green": 143,
+                "blue": 92
+              },
+              "score": 0.06831213,
+              "pixelFraction": 0.010148604
+            },
+            {
+              "color": {
+                "red": 184,
+                "green": 150,
+                "blue": 98
+              },
+              "score": 0.048469044,
+              "pixelFraction": 0.008698804
+            },
+            {
+              "color": {
+                "red": 149,
+                "green": 108,
+                "blue": 84
+              },
+              "score": 0.044176735,
+              "pixelFraction": 0.008608191
+            },
+            {
+              "color": {
+                "red": 68,
+                "green": 48,
+                "blue": 29
+              },
+              "score": 0.030951042,
+              "pixelFraction": 0.10556361
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 285
+                },
+                {
+                  "y": 285
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "zh-Hant"
+                }
+              ]
+            },
+            "width": 400,
+            "height": 286,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "zh-Hant"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 241,
+                      "y": 30
+                    },
+                    {
+                      "x": 245,
+                      "y": 49
+                    },
+                    {
+                      "x": 227,
+                      "y": 52
+                    },
+                    {
+                      "x": 223,
+                      "y": 34
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "zh-Hant"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 222,
+                          "y": 30
+                        },
+                        {
+                          "x": 244,
+                          "y": 30
+                        },
+                        {
+                          "x": 244,
+                          "y": 52
+                        },
+                        {
+                          "x": 222,
+                          "y": 52
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "zh-Hant"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 241,
+                              "y": 30
+                            },
+                            {
+                              "x": 245,
+                              "y": 49
+                            },
+                            {
+                              "x": 227,
+                              "y": 52
+                            },
+                            {
+                              "x": 223,
+                              "y": 34
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "zh-Hant"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 241,
+                                  "y": 30
+                                },
+                                {
+                                  "x": 245,
+                                  "y": 49
+                                },
+                                {
+                                  "x": 227,
+                                  "y": 52
+                                },
+                                {
+                                  "x": 223,
+                                  "y": 34
+                                }
+                              ]
+                            },
+                            "text": "犀"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "犀\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0bt_c3",
+            "score": 0.45131,
+            "description": "Book"
+          },
+          {
+            "entityId": "/m/051gpf",
+            "score": 0.37181,
+            "description": "Audiobook"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.34577,
+            "description": "Painting"
+          },
+          {
+            "entityId": "/m/01jpqs",
+            "score": 0.32065,
+            "description": "Healing"
+          },
+          {
+            "entityId": "/m/032l0v",
+            "score": 0.2996,
+            "description": "Visual impairment"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://www.netspirit.dk/od/images/healing/healing-tobias.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/9e/eb/ee/9eebee26537b2efe429adf7e7cb865a9.jpg"
+          },
+          {
+            "url": "http://ibosco.net/files/attach/images/237/785/029/73ec126439b9a38ad477e971a194f0fb.jpg"
+          },
+          {
+            "url": "http://www.mystudios.com/artgallery/paintings/85001-85500/85437/size1.jpg"
+          },
+          {
+            "url": "https://konst.files.wordpress.com/2008/03/a-gioachi.jpg?w=510"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://i.ytimg.com/vi/e8GU4IcpiAA/maxresdefault.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/d9/06/5b/d9065bc8df029ae5f2ff93c2d741054c.jpg"
+          },
+          {
+            "url": "https://blog-001.west.edge.storage-yahoo.jp/res/blog-9b-d4/makinomasaki2281/folder/1481576/77/47150077/img_0?1172232857"
+          },
+          {
+            "url": "http://www.netspirit.dk/od/images/healing/healing-tobias.jpg"
+          },
+          {
+            "url": "http://www.kfki.hu/~arthp/art/a/assereto/tobias.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://www.youtube.com/watch?v=hIL-TeIDev4"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=Syes63zhxII"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=9_wpkMos42s"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=9E4ulj2YaSo"
+          },
+          {
+            "url": "https://archive.org/details/tobit_ss_librivox"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://upload.wikimedia.org/wikipedia/commons/0/03/Antonio_de_Bellis_(attribuito)_-_Guarigione_di_Tobia_-_WGA4605.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Paul_Troger_-_Healing_of_Old_Tobit_-_WGA23072.jpg"
+          },
+          {
+            "url": "http://bible224.files.wordpress.com/2013/02/bernardostrozzi_thehealingoftobit.jpg"
+          },
+          {
+            "url": "http://www.harvardichthus.org/wp-content/uploads/2016/10/Matthias_Stomer__La_guarigione_di_Tobia-759x500.jpg"
+          },
+          {
+            "url": "http://image.b4in.net/resources/2013/09/18/1379528835-genezing+Tobit.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

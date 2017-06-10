@@ -1,0 +1,332 @@
+{
+  "responses": [
+    {
+      "logoAnnotations": [
+        {
+          "mid": "/m/0glpfxr",
+          "description": "Perugia Altarpiece (left panel)",
+          "score": 0.9612371,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 4,
+                "y": 4
+              },
+              {
+                "x": 275,
+                "y": 4
+              },
+              {
+                "x": 275,
+                "y": 395
+              },
+              {
+                "x": 4,
+                "y": 395
+              }
+            ]
+          }
+        },
+        {
+          "mid": "/m/0glpfxr",
+          "description": "Perugia Altarpiece",
+          "score": 0.6830036,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 25,
+                "y": 53
+              },
+              {
+                "x": 258,
+                "y": 53
+              },
+              {
+                "x": 258,
+                "y": 383
+              },
+              {
+                "x": 25,
+                "y": 383
+              }
+            ]
+          }
+        },
+        {
+          "mid": "/m/0glpfxr",
+          "description": "Perugia Altarpiece",
+          "score": 0.2937793,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 62,
+                "y": 110
+              },
+              {
+                "x": 212,
+                "y": 110
+              },
+              {
+                "x": 212,
+                "y": 374
+              },
+              {
+                "x": 62,
+                "y": 374
+              }
+            ]
+          }
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/01g317",
+          "description": "person",
+          "score": 0.93379605
+        },
+        {
+          "mid": "/m/027cqyf",
+          "description": "priesthood",
+          "score": 0.7625153
+        },
+        {
+          "mid": "/m/0db79",
+          "description": "clergy",
+          "score": 0.6831612
+        },
+        {
+          "mid": "/m/0jts3",
+          "description": "presbyter",
+          "score": 0.6809953
+        },
+        {
+          "mid": "/m/04rjz",
+          "description": "middle ages",
+          "score": 0.64843917
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 15,
+                "green": 11,
+                "blue": 12
+              },
+              "score": 0.13309643,
+              "pixelFraction": 0.16193919
+            },
+            {
+              "color": {
+                "red": 196,
+                "green": 197,
+                "blue": 193
+              },
+              "score": 0.09900108,
+              "pixelFraction": 0.062476825
+            },
+            {
+              "color": {
+                "red": 132,
+                "green": 112,
+                "blue": 87
+              },
+              "score": 0.092811465,
+              "pixelFraction": 0.14608824
+            },
+            {
+              "color": {
+                "red": 188,
+                "green": 155,
+                "blue": 99
+              },
+              "score": 0.08222995,
+              "pixelFraction": 0.045235448
+            },
+            {
+              "color": {
+                "red": 100,
+                "green": 82,
+                "blue": 62
+              },
+              "score": 0.08863625,
+              "pixelFraction": 0.08555803
+            },
+            {
+              "color": {
+                "red": 161,
+                "green": 156,
+                "blue": 150
+              },
+              "score": 0.07930719,
+              "pixelFraction": 0.04597701
+            },
+            {
+              "color": {
+                "red": 67,
+                "green": 52,
+                "blue": 35
+              },
+              "score": 0.059491754,
+              "pixelFraction": 0.03763441
+            },
+            {
+              "color": {
+                "red": 61,
+                "green": 52,
+                "blue": 49
+              },
+              "score": 0.058819022,
+              "pixelFraction": 0.08843159
+            },
+            {
+              "color": {
+                "red": 88,
+                "green": 78,
+                "blue": 72
+              },
+              "score": 0.05819111,
+              "pixelFraction": 0.06868743
+            },
+            {
+              "color": {
+                "red": 169,
+                "green": 150,
+                "blue": 120
+              },
+              "score": 0.052102588,
+              "pixelFraction": 0.057842046
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 280
+                },
+                {
+                  "x": 280,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/02vxg9d",
+            "score": 1.49556,
+            "description": "Galleria Nazionale dell'Umbria"
+          },
+          {
+            "entityId": "/m/0glpfxr",
+            "score": 1.4824,
+            "description": "Perugia Altarpiece"
+          },
+          {
+            "entityId": "/m/04rjz",
+            "score": 0.8583725,
+            "description": "Middle Ages"
+          },
+          {
+            "entityId": "/g/11c3tgnqrw",
+            "score": 0.72872,
+            "description": "Perugia Altarpiece (left panel)"
+          },
+          {
+            "entityId": "/m/02g_4",
+            "score": 0.70608,
+            "description": "Dominican Order"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://exurbe.com/wp-content/uploads/2011/12/san-nicola-e-san-domenico1.jpg"
+          },
+          {
+            "url": "http://chinese.fansshare.com/image/borgia/ver-borgia-1737710650.jpg"
+          },
+          {
+            "url": "http://4.bp.blogspot.com/-Rn6Nfy4L3LI/TrcjSrBYDZI/AAAAAAAAALA/2jZzHsQw48c/s1600/perugia2.jpg"
+          },
+          {
+            "url": "http://art.c-rover.com/ang/pict/angelico0770.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/art/a/angelico/06/perugia2.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://www.andrewklusman.com/blog/wp-content/uploads/2015/07/The_Perugia_Altarpiece_Side_Panel_Depicting_St._Dominic1-1170x1700.jpg"
+          },
+          {
+            "url": "http://l7.alamy.com/comp/J3143B/angelico-perugia-altarpiece-02-J3143B.jpg"
+          },
+          {
+            "url": "http://reader14.docslide.net/store14/html5/372015/55721146497959fc0b8eb194/bg6.png"
+          },
+          {
+            "url": "http://los40es00.epimg.net/los40/imagenes/2017/04/24/album/1493034089_811209_1493118118_album_normal.jpg"
+          },
+          {
+            "url": "http://exurbe.com/wp-content/uploads/2011/12/san-nicola-e-san-domenico1.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://catholicsaints.info/saint-dominic-de-guzman/"
+          },
+          {
+            "url": "http://sscrmnl.edu.ph/st-dominic/"
+          },
+          {
+            "url": "http://www.all-about-the-virgin-mary.com/saint-dominic.html"
+          },
+          {
+            "url": "https://orderofpreachersindependent.org/2014/09/25/commemoration-of-our-patriarch-saint-dominic-in-soriano/"
+          },
+          {
+            "url": "http://www.stmichaelcatholic.org/third_order"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Fra_Angelico_%28Guido_di_Pietro%2C_Fra_Giovanni_da_Fiesole%29_%28Italian_-_Saint_John_the_Baptist_and_Saint_Dominic_-_Google_Art_Project.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/84/d1/b8/84d1b8d20b363810ee7ef7fd115f6923.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/39/5b/21/395b213cf82a6a8f1e5d3536385f6f17.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/cf/31/14/cf3114dba29d392eedf9b02a6326919c.jpg"
+          },
+          {
+            "url": "http://exurbe.com/wp-content/uploads/2011/11/197_Benozzo_Gozzoli_Meeting.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

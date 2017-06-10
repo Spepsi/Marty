@@ -1,0 +1,446 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.71074337
+        },
+        {
+          "mid": "/m/0hyb2",
+          "description": "altar",
+          "score": 0.7084996
+        },
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.67587423
+        },
+        {
+          "mid": "/m/0lym8",
+          "description": "tapestry",
+          "score": 0.6253621
+        },
+        {
+          "mid": "/m/06z37_",
+          "description": "picture frame",
+          "score": 0.62009245
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "en",
+          "description": "C\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 160,
+                "y": 193
+              },
+              {
+                "x": 164,
+                "y": 193
+              },
+              {
+                "x": 164,
+                "y": 201
+              },
+              {
+                "x": 160,
+                "y": 201
+              }
+            ]
+          }
+        },
+        {
+          "description": "C",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 160,
+                "y": 201
+              },
+              {
+                "x": 160,
+                "y": 193
+              },
+              {
+                "x": 164,
+                "y": 193
+              },
+              {
+                "x": 164,
+                "y": 201
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 74,
+                "green": 42,
+                "blue": 30
+              },
+              "score": 0.16504046,
+              "pixelFraction": 0.13357344
+            },
+            {
+              "color": {
+                "red": 166,
+                "green": 157,
+                "blue": 118
+              },
+              "score": 0.11295556,
+              "pixelFraction": 0.03593799
+            },
+            {
+              "color": {
+                "red": 38,
+                "green": 26,
+                "blue": 23
+              },
+              "score": 0.10174073,
+              "pixelFraction": 0.06154087
+            },
+            {
+              "color": {
+                "red": 55,
+                "green": 40,
+                "blue": 36
+              },
+              "score": 0.090710245,
+              "pixelFraction": 0.047525838
+            },
+            {
+              "color": {
+                "red": 65,
+                "green": 41,
+                "blue": 40
+              },
+              "score": 0.08034467,
+              "pixelFraction": 0.030927029
+            },
+            {
+              "color": {
+                "red": 52,
+                "green": 22,
+                "blue": 11
+              },
+              "score": 0.07159415,
+              "pixelFraction": 0.037503913
+            },
+            {
+              "color": {
+                "red": 105,
+                "green": 73,
+                "blue": 58
+              },
+              "score": 0.065687895,
+              "pixelFraction": 0.16951144
+            },
+            {
+              "color": {
+                "red": 44,
+                "green": 22,
+                "blue": 22
+              },
+              "score": 0.057832055,
+              "pixelFraction": 0.026855621
+            },
+            {
+              "color": {
+                "red": 102,
+                "green": 40,
+                "blue": 19
+              },
+              "score": 0.0005323796,
+              "pixelFraction": 7.8296274e-05
+            },
+            {
+              "color": {
+                "red": 66,
+                "green": 47,
+                "blue": 32
+              },
+              "score": 0.05150947,
+              "pixelFraction": 0.038756654
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 331
+                },
+                {
+                  "x": 331,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "en"
+                }
+              ]
+            },
+            "width": 332,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "en"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 160,
+                      "y": 193
+                    },
+                    {
+                      "x": 164,
+                      "y": 193
+                    },
+                    {
+                      "x": 164,
+                      "y": 201
+                    },
+                    {
+                      "x": 160,
+                      "y": 201
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "en"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 160,
+                          "y": 193
+                        },
+                        {
+                          "x": 164,
+                          "y": 193
+                        },
+                        {
+                          "x": 164,
+                          "y": 201
+                        },
+                        {
+                          "x": 160,
+                          "y": 201
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 160,
+                              "y": 201
+                            },
+                            {
+                              "x": 160,
+                              "y": 193
+                            },
+                            {
+                              "x": 164,
+                              "y": 193
+                            },
+                            {
+                              "x": 164,
+                              "y": 201
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 160,
+                                  "y": 201
+                                },
+                                {
+                                  "x": 160,
+                                  "y": 193
+                                },
+                                {
+                                  "x": 164,
+                                  "y": 193
+                                },
+                                {
+                                  "x": 164,
+                                  "y": 201
+                                }
+                              ]
+                            },
+                            "text": "C"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "C\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/g/119vq7kbd",
+            "score": 1.29488
+          },
+          {
+            "entityId": "/m/08m3h7",
+            "score": 1.23404,
+            "description": "Adoration of the Shepherds"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.57901,
+            "description": "Painting"
+          },
+          {
+            "entityId": "/g/120_g0yq",
+            "score": 0.52012
+          },
+          {
+            "entityId": "/g/1203lphdw",
+            "score": 0.50466
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://www.wga.hu/art/a/aspertin/adoratio.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/45/3e/44/453e44269cdb4397368346e79b9df139.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/31/1a/6f/311a6fd58ce594e9050d7ab2b61838e6.jpg"
+          },
+          {
+            "url": "http://it.wahooart.com/Art.nsf/O/8Y327R/$File/Amico-Aspertini-Adoration-of-the-Shepherds-2-.JPG"
+          },
+          {
+            "url": "http://img0.liveinternet.ru/images/attach/c/4/82/780/82780404_400.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://www.wga.hu/art/a/aspertin/adoratio.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/45/3e/44/453e44269cdb4397368346e79b9df139.jpg"
+          },
+          {
+            "url": "https://blog-001.west.edge.storage-yahoo.jp/res/blog-1f-9f/mitosya/folder/813919/65/19412065/img_1?1226768345"
+          },
+          {
+            "url": "http://it.wahooart.com/Art.nsf/O/8Y327R/$File/Amico-Aspertini-Adoration-of-the-Shepherds-2-.JPG"
+          },
+          {
+            "url": "http://www.auroraz.com/images/amico-aspertini/painting-adoration-of-the-shepherds.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://www.pinterest.com/frequenti/amico-aspertini/"
+          },
+          {
+            "url": "https://www.pinterest.se/frequenti/amico-aspertini/"
+          },
+          {
+            "url": "http://it.wahooart.com/@@/A29SF9-Amico-Aspertini-L-Adorazione-dei-pastori"
+          },
+          {
+            "url": "http://it.wahooart.com/@@/8Y327R-Amico-Aspertini-Adorazione-dei-pastori"
+          },
+          {
+            "url": "http://danielerossi.it/index.php?lang=it&id=works&loc=fr&pos=uffizi&art=aspertini"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Amico_aspertini%2C_adorazione_dei_pastori%2C_1496_ca._01.JPG/452px-Amico_aspertini%2C_adorazione_dei_pastori%2C_1496_ca._01.JPG"
+          },
+          {
+            "url": "http://it.wahooart.com/Art.nsf/O/A29SFC/$File/Amico_Aspertini-The_Adoration_of_the_Shepherds.JPG"
+          },
+          {
+            "url": "http://www.danielerossi.it/opere/fr/uffizi/aspertini/tot.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Amico_aspertini%2C_adorazione_dei_pastori%2C_1496_ca._02.JPG/926px-Amico_aspertini%2C_adorazione_dei_pastori%2C_1496_ca._02.JPG"
+          },
+          {
+            "url": "https://lucamaggio.files.wordpress.com/2010/10/amico-aspertini-adorazione-dei-magi-pinacoteca-nazionale-bologna.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

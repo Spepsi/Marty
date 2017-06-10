@@ -1,0 +1,289 @@
+{
+  "responses": [
+    {
+      "logoAnnotations": [
+        {
+          "description": "The Virgin and Child Enthroned, detail of the Madonna delle Ombre, 1450 (fresco)",
+          "score": 0.89122504,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 10,
+                "y": 17
+              },
+              {
+                "x": 271,
+                "y": 17
+              },
+              {
+                "x": 271,
+                "y": 386
+              },
+              {
+                "x": 10,
+                "y": 386
+              }
+            ]
+          }
+        },
+        {
+          "description": "The Virgin and Child Enthroned, detail of the Madonna delle Ombre, 1450 (fresco)",
+          "score": 0.8828882,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 10,
+                "y": 17
+              },
+              {
+                "x": 271,
+                "y": 17
+              },
+              {
+                "x": 271,
+                "y": 386
+              },
+              {
+                "x": 10,
+                "y": 386
+              }
+            ]
+          }
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.8167588
+        },
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.68543893
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 35,
+                "green": 47,
+                "blue": 66
+              },
+              "score": 0.15981323,
+              "pixelFraction": 0.12209302
+            },
+            {
+              "color": {
+                "red": 117,
+                "green": 77,
+                "blue": 54
+              },
+              "score": 0.09437013,
+              "pixelFraction": 0.04735559
+            },
+            {
+              "color": {
+                "red": 180,
+                "green": 154,
+                "blue": 130
+              },
+              "score": 0.053219177,
+              "pixelFraction": 0.13362716
+            },
+            {
+              "color": {
+                "red": 147,
+                "green": 107,
+                "blue": 82
+              },
+              "score": 0.075548396,
+              "pixelFraction": 0.048012003
+            },
+            {
+              "color": {
+                "red": 137,
+                "green": 61,
+                "blue": 50
+              },
+              "score": 0.068055086,
+              "pixelFraction": 0.030101275
+            },
+            {
+              "color": {
+                "red": 211,
+                "green": 187,
+                "blue": 167
+              },
+              "score": 0.04758482,
+              "pixelFraction": 0.08223931
+            },
+            {
+              "color": {
+                "red": 20,
+                "green": 32,
+                "blue": 51
+              },
+              "score": 0.045613743,
+              "pixelFraction": 0.0572018
+            },
+            {
+              "color": {
+                "red": 104,
+                "green": 87,
+                "blue": 66
+              },
+              "score": 0.045093283,
+              "pixelFraction": 0.04135409
+            },
+            {
+              "color": {
+                "red": 152,
+                "green": 106,
+                "blue": 69
+              },
+              "score": 0.044503305,
+              "pixelFraction": 0.011721681
+            },
+            {
+              "color": {
+                "red": 48,
+                "green": 50,
+                "blue": 54
+              },
+              "score": 0.042885266,
+              "pixelFraction": 0.052231807
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 278
+                },
+                {
+                  "x": 278,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0272rmj",
+            "score": 4.74256,
+            "description": "San Marco, Florence"
+          },
+          {
+            "entityId": "/g/12100_zb",
+            "score": 2.44632,
+            "description": "Museo Nazionale di San Marco"
+          },
+          {
+            "entityId": "/m/026bfjy",
+            "score": 1.18292,
+            "description": "National Museum of Art, Osaka"
+          },
+          {
+            "entityId": "/m/05fmm4",
+            "score": 0.88648,
+            "description": "Sacra conversazione"
+          },
+          {
+            "entityId": "/g/121c532c",
+            "score": 0.8502
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://www.istitutosuperioredadda.it/joomla/materiale_didattico/Minonzio/ANGELICO/SAN%20MARCO/08madonna%20delle%20ombre.jpg"
+          },
+          {
+            "url": "http://veritas.catholic.or.kr/ko/ca-0811.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/7d/6e/2d/7d6e2d471041ded8412a2019342f4cbc.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/92/5e/5b/925e5b23b30fbc95cfdd0c9576e306ec.jpg"
+          },
+          {
+            "url": "http://www.adf.org.br/home/wp-content/uploads/2016/07/Natal_NossaSenhora_MeninoJesus_01-12.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://www.pliniocorreadeoliveira.info/Madonna%20con%20el%20Ni%C3%B1o%20Jes%C3%BAs%20%20Museo%20de%20San%20Marco%20%20Fra%20Ang%C3%A9lico_2.jpg"
+          },
+          {
+            "url": "https://illuminadomine.files.wordpress.com/2014/12/img_0911.jpg"
+          },
+          {
+            "url": "http://mathieu.mathieu.free.fr/pourunatlasdesfigures/_Media/fra-angelico-ombres-san.jpeg"
+          },
+          {
+            "url": "https://1.bp.blogspot.com/-2OfLQ1lyMSY/V8iMaS3spOI/AAAAAAAAAYU/IUNlv13CM2UyxsK75zoMYR5j34YuiVL0QCLcB/s1600/Madonna%2Bcon%2Bel%2BNi%25C3%25B1o%2BJes%25C3%25BAs%2B%2BMuseo%2Bde%2BSan%2BMarco%2B%2BFra%2BAng%25C3%25A9lico_2.jpg"
+          },
+          {
+            "url": "http://4.bp.blogspot.com/_-GckwoiyUlg/TJrC_h0NOII/AAAAAAAANxA/E7e6VXGoYvg/s1600/Madonna+con+el+Ni%C3%B1o+Jes%C3%BAs++Museo+de+San+Marco++Fra+Ang%C3%A9lico_2.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://www.pinterest.com/pin/502432902160895227/"
+          },
+          {
+            "url": "https://www.pinterest.com/explore/fra-angelico/"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Beato_angelico,_madonna_delle_ombre.jpg"
+          },
+          {
+            "url": "https://www.wikiart.org/en/fra-angelico/sacred-conversation-1443"
+          },
+          {
+            "url": "https://www.pinterest.se/danielgl2/fra-angelico-1390-1455/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/ba/7c/0e/ba7c0e5963c508e5f7484d5445f22671.jpg"
+          },
+          {
+            "url": "https://tanogabo.com/wp-content/uploads/2015/11/Beato-Angelico-Madonna-and-child-1.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/15/e4/6f/15e46fb9bbba20d55043038c3813feef.jpg"
+          },
+          {
+            "url": "http://static.flickr.com/32/68081535_816c60607a.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/18/b4/a4/18b4a4851fa949b485c2eafdf7126fc8.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

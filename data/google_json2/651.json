@@ -1,0 +1,954 @@
+{
+  "responses": [
+    {
+      "faceAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 120,
+                "y": 121
+              },
+              {
+                "x": 194,
+                "y": 121
+              },
+              {
+                "x": 194,
+                "y": 207
+              },
+              {
+                "x": 120,
+                "y": 207
+              }
+            ]
+          },
+          "fdBoundingPoly": {
+            "vertices": [
+              {
+                "x": 135,
+                "y": 148
+              },
+              {
+                "x": 187,
+                "y": 148
+              },
+              {
+                "x": 187,
+                "y": 200
+              },
+              {
+                "x": 135,
+                "y": 200
+              }
+            ]
+          },
+          "landmarks": [
+            {
+              "type": "LEFT_EYE",
+              "position": {
+                "x": 152.74513,
+                "y": 161.0202,
+                "z": -0.00052285497
+              }
+            },
+            {
+              "type": "RIGHT_EYE",
+              "position": {
+                "x": 172.85976,
+                "y": 164.79874,
+                "z": 4.490223
+              }
+            },
+            {
+              "type": "LEFT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 145.79138,
+                "y": 155.95241,
+                "z": -0.26374304
+              }
+            },
+            {
+              "type": "RIGHT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 159.79875,
+                "y": 158.71037,
+                "z": -3.642706
+              }
+            },
+            {
+              "type": "LEFT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 170.2244,
+                "y": 159.66861,
+                "z": -1.4183986
+              }
+            },
+            {
+              "type": "RIGHT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 181.9333,
+                "y": 160.48213,
+                "z": 7.616791
+              }
+            },
+            {
+              "type": "MIDPOINT_BETWEEN_EYES",
+              "position": {
+                "x": 164.0315,
+                "y": 163.49007,
+                "z": -2.264676
+              }
+            },
+            {
+              "type": "NOSE_TIP",
+              "position": {
+                "x": 162.8855,
+                "y": 178.39124,
+                "z": -7.0848756
+              }
+            },
+            {
+              "type": "UPPER_LIP",
+              "position": {
+                "x": 160.90889,
+                "y": 185.08304,
+                "z": -0.84824324
+              }
+            },
+            {
+              "type": "LOWER_LIP",
+              "position": {
+                "x": 159.61595,
+                "y": 191.01784,
+                "z": 1.5216881
+              }
+            },
+            {
+              "type": "MOUTH_LEFT",
+              "position": {
+                "x": 152.86111,
+                "y": 186.49174,
+                "z": 3.2035985
+              }
+            },
+            {
+              "type": "MOUTH_RIGHT",
+              "position": {
+                "x": 167.84328,
+                "y": 188.1217,
+                "z": 7.149028
+              }
+            },
+            {
+              "type": "MOUTH_CENTER",
+              "position": {
+                "x": 160.21991,
+                "y": 187.75935,
+                "z": 1.179912
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_RIGHT",
+              "position": {
+                "x": 167.03125,
+                "y": 178.91632,
+                "z": 2.7449355
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_LEFT",
+              "position": {
+                "x": 155.59532,
+                "y": 177.04861,
+                "z": 0.28605443
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_CENTER",
+              "position": {
+                "x": 161.58688,
+                "y": 181.10934,
+                "z": -1.4986898
+              }
+            },
+            {
+              "type": "LEFT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 152.8343,
+                "y": 160.76093,
+                "z": -1.5800623
+              }
+            },
+            {
+              "type": "LEFT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 157.10931,
+                "y": 162.6207,
+                "z": 1.100477
+              }
+            },
+            {
+              "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 152.3988,
+                "y": 162.7107,
+                "z": 0.015106398
+              }
+            },
+            {
+              "type": "LEFT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 147.76059,
+                "y": 161.10217,
+                "z": 1.1046813
+              }
+            },
+            {
+              "type": "LEFT_EYE_PUPIL",
+              "position": {
+                "x": 152.06616,
+                "y": 162.09589,
+                "z": -0.50841916
+              }
+            },
+            {
+              "type": "RIGHT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 174.68324,
+                "y": 163.7158,
+                "z": 3.0981414
+              }
+            },
+            {
+              "type": "RIGHT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 178.07112,
+                "y": 165.33228,
+                "z": 7.667225
+              }
+            },
+            {
+              "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 173.49286,
+                "y": 166.41078,
+                "z": 4.709501
+              }
+            },
+            {
+              "type": "RIGHT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 169.3725,
+                "y": 164.7503,
+                "z": 3.8860774
+              }
+            },
+            {
+              "type": "RIGHT_EYE_PUPIL",
+              "position": {
+                "x": 174.49907,
+                "y": 165.15869,
+                "z": 4.274527
+              }
+            },
+            {
+              "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 153.18254,
+                "y": 154.50592,
+                "z": -3.7047336
+              }
+            },
+            {
+              "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 176.89687,
+                "y": 157.66553,
+                "z": 1.3868985
+              }
+            },
+            {
+              "type": "LEFT_EAR_TRAGION",
+              "position": {
+                "x": 131.49995,
+                "y": 166.91206,
+                "z": 25.421371
+              }
+            },
+            {
+              "type": "RIGHT_EAR_TRAGION",
+              "position": {
+                "x": 181.08144,
+                "y": 173.54684,
+                "z": 35.95535
+              }
+            },
+            {
+              "type": "FOREHEAD_GLABELLA",
+              "position": {
+                "x": 165.11786,
+                "y": 158.85995,
+                "z": -3.374708
+              }
+            },
+            {
+              "type": "CHIN_GNATHION",
+              "position": {
+                "x": 157.3178,
+                "y": 201.23418,
+                "z": 6.102464
+              }
+            },
+            {
+              "type": "CHIN_LEFT_GONION",
+              "position": {
+                "x": 133.86508,
+                "y": 183.5045,
+                "z": 18.690584
+              }
+            },
+            {
+              "type": "CHIN_RIGHT_GONION",
+              "position": {
+                "x": 178.10666,
+                "y": 188.92242,
+                "z": 28.163298
+              }
+            }
+          ],
+          "rollAngle": 9.165025,
+          "panAngle": 12.075071,
+          "tiltAngle": -7.154215,
+          "detectionConfidence": 0.6501275,
+          "landmarkingConfidence": 0.5324025,
+          "joyLikelihood": "VERY_UNLIKELY",
+          "sorrowLikelihood": "VERY_UNLIKELY",
+          "angerLikelihood": "VERY_UNLIKELY",
+          "surpriseLikelihood": "VERY_UNLIKELY",
+          "underExposedLikelihood": "VERY_UNLIKELY",
+          "blurredLikelihood": "VERY_UNLIKELY",
+          "headwearLikelihood": "VERY_UNLIKELY"
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/06z37_",
+          "description": "picture frame",
+          "score": 0.84674656
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "ja",
+          "description": "負,-q\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 198,
+                "y": 301
+              },
+              {
+                "x": 205,
+                "y": 301
+              },
+              {
+                "x": 205,
+                "y": 318
+              },
+              {
+                "x": 198,
+                "y": 318
+              }
+            ]
+          }
+        },
+        {
+          "description": "負",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 203,
+                "y": 301
+              },
+              {
+                "x": 204,
+                "y": 305
+              },
+              {
+                "x": 200,
+                "y": 306
+              },
+              {
+                "x": 199,
+                "y": 302
+              }
+            ]
+          }
+        },
+        {
+          "description": ",",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 205,
+                "y": 310
+              },
+              {
+                "x": 205,
+                "y": 311
+              },
+              {
+                "x": 205,
+                "y": 311
+              },
+              {
+                "x": 205,
+                "y": 310
+              }
+            ]
+          }
+        },
+        {
+          "description": "-q",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 205,
+                "y": 313
+              },
+              {
+                "x": 206,
+                "y": 318
+              },
+              {
+                "x": 202,
+                "y": 318
+              },
+              {
+                "x": 201,
+                "y": 314
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 253,
+                "green": 253,
+                "blue": 251
+              },
+              "score": 0.18437932,
+              "pixelFraction": 0.29451612
+            },
+            {
+              "color": {
+                "red": 21,
+                "green": 17,
+                "blue": 14
+              },
+              "score": 0.09193873,
+              "pixelFraction": 0.08685484
+            },
+            {
+              "color": {
+                "red": 101,
+                "green": 82,
+                "blue": 58
+              },
+              "score": 0.069312245,
+              "pixelFraction": 0.037096772
+            },
+            {
+              "color": {
+                "red": 135,
+                "green": 113,
+                "blue": 86
+              },
+              "score": 0.0684476,
+              "pixelFraction": 0.045
+            },
+            {
+              "color": {
+                "red": 147,
+                "green": 115,
+                "blue": 64
+              },
+              "score": 0.06290988,
+              "pixelFraction": 0.03322581
+            },
+            {
+              "color": {
+                "red": 68,
+                "green": 50,
+                "blue": 29
+              },
+              "score": 0.043663923,
+              "pixelFraction": 0.020564517
+            },
+            {
+              "color": {
+                "red": 173,
+                "green": 152,
+                "blue": 122
+              },
+              "score": 0.04118416,
+              "pixelFraction": 0.039758064
+            },
+            {
+              "color": {
+                "red": 148,
+                "green": 107,
+                "blue": 53
+              },
+              "score": 0.039839037,
+              "pixelFraction": 0.025403226
+            },
+            {
+              "color": {
+                "red": 109,
+                "green": 75,
+                "blue": 52
+              },
+              "score": 0.03694619,
+              "pixelFraction": 0.028790323
+            },
+            {
+              "color": {
+                "red": 213,
+                "green": 190,
+                "blue": 162
+              },
+              "score": 0.036856767,
+              "pixelFraction": 0.036693547
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 323
+                },
+                {
+                  "x": 323,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 1,
+            "importanceFraction": 0.61
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "ja"
+                }
+              ]
+            },
+            "width": 324,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "ja"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 204,
+                      "y": 301
+                    },
+                    {
+                      "x": 206,
+                      "y": 318
+                    },
+                    {
+                      "x": 201,
+                      "y": 319
+                    },
+                    {
+                      "x": 199,
+                      "y": 302
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "ja"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 198,
+                          "y": 301
+                        },
+                        {
+                          "x": 205,
+                          "y": 301
+                        },
+                        {
+                          "x": 205,
+                          "y": 318
+                        },
+                        {
+                          "x": 198,
+                          "y": 318
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "ja"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 203,
+                              "y": 301
+                            },
+                            {
+                              "x": 204,
+                              "y": 305
+                            },
+                            {
+                              "x": 200,
+                              "y": 306
+                            },
+                            {
+                              "x": 199,
+                              "y": 302
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "ja"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 203,
+                                  "y": 301
+                                },
+                                {
+                                  "x": 204,
+                                  "y": 305
+                                },
+                                {
+                                  "x": 200,
+                                  "y": 306
+                                },
+                                {
+                                  "x": 199,
+                                  "y": 302
+                                }
+                              ]
+                            },
+                            "text": "負"
+                          }
+                        ]
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 205,
+                              "y": 310
+                            },
+                            {
+                              "x": 205,
+                              "y": 311
+                            },
+                            {
+                              "x": 205,
+                              "y": 311
+                            },
+                            {
+                              "x": 205,
+                              "y": 310
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "ja"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 205,
+                                  "y": 310
+                                },
+                                {
+                                  "x": 205,
+                                  "y": 311
+                                },
+                                {
+                                  "x": 205,
+                                  "y": 311
+                                },
+                                {
+                                  "x": 205,
+                                  "y": 310
+                                }
+                              ]
+                            },
+                            "text": ","
+                          }
+                        ]
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 205,
+                              "y": 313
+                            },
+                            {
+                              "x": 206,
+                              "y": 318
+                            },
+                            {
+                              "x": 202,
+                              "y": 318
+                            },
+                            {
+                              "x": 201,
+                              "y": 314
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "ja"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 205,
+                                  "y": 313
+                                },
+                                {
+                                  "x": 205,
+                                  "y": 315
+                                },
+                                {
+                                  "x": 201,
+                                  "y": 316
+                                },
+                                {
+                                  "x": 201,
+                                  "y": 314
+                                }
+                              ]
+                            },
+                            "text": "-"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "ja"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 205,
+                                  "y": 317
+                                },
+                                {
+                                  "x": 205,
+                                  "y": 318
+                                },
+                                {
+                                  "x": 201,
+                                  "y": 319
+                                },
+                                {
+                                  "x": 201,
+                                  "y": 318
+                                }
+                              ]
+                            },
+                            "text": "q"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "負,-q\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/g/1tgs7yxx",
+            "score": 3.14184,
+            "description": "Museum Ivan Bruschi Arezzo"
+          },
+          {
+            "entityId": "/m/0pbjg",
+            "score": 1.144368,
+            "description": "Arezzo"
+          },
+          {
+            "entityId": "/m/011wwz",
+            "score": 0.7164,
+            "description": "Madonna"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.706,
+            "description": "Painting"
+          },
+          {
+            "entityId": "/m/0czb4gs",
+            "score": 0.64058,
+            "description": "Madonna of humility"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://3.bp.blogspot.com/-ruF-fEnasgM/VkwSyckxbEI/AAAAAAAACY0/-umjmrPqg_I/s1600/andrea%2Bdi%2Bnerio.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/de/69/f0/de69f0bc027a4b98bb57a402349a3ff5.jpg"
+          },
+          {
+            "url": "http://3.bp.blogspot.com/_Jltzri1mh9o/SRIiEgswAnI/AAAAAAAAAFk/0MHbpTfYHz0/s320/Andrea+di+Nerio.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/de/69/f0/de69f0bc027a4b98bb57a402349a3ff5.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://www.agenziaimpress.it/wp-content/uploads/2015/11/1_-Mostra_ANDREA-DI-MERIO-Madonna-con-Bambino-.jpg"
+          },
+          {
+            "url": "http://www.coopfirenze.it/uploads/17486/original/28_segnalazioni5.jpg?1451290563"
+          },
+          {
+            "url": "http://www.adnkronos.com/rf/image/Pub/AdnKronos/Assets/Immagini/Ritagli/2015/11/madonna_sarti_arezzo-khWB--1280x960@Web.jpg"
+          },
+          {
+            "url": "http://arte.sky.it/wp-content/uploads/2015/12/ANDREA-DI-MERIO-Madonna-con-Bambino-arezzo-trecento-pittura-tavola.jpg"
+          },
+          {
+            "url": "http://cdn.illibraio.it/wp-content/uploads/2016/11/Madonna.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.ilgiornaledellarte.com/articoli/2015/11/125265.html"
+          },
+          {
+            "url": "http://www.arte.it/calendario-arte/arezzo/mostra-andrea-di-nerio-la-madonna-sarti-ad-arezzo-21677"
+          },
+          {
+            "url": "http://www.informagiovaniarezzo.org/evento/mostra-ritorni-andrea-di-nerio-la-madonna-sarti-ad-arezzo/"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/326229566743352588/"
+          },
+          {
+            "url": "http://www.agenziaimpress.it/news/ritorno-a-casa-madonna-sarti-ad-arezzo-lopera-di-andrea-di-nerio-in-mostra-nella-citta-natale/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://3.bp.blogspot.com/-ruF-fEnasgM/VkwSyckxbEI/AAAAAAAACY0/-umjmrPqg_I/s1600/andrea%2Bdi%2Bnerio.jpg"
+          },
+          {
+            "url": "http://it.wahooart.com/Art.nsf/O/8Y2USY/$File/Ugolino-Di-Nerio-Crucifixion-with-the-Virgin-and-St-John-the-Evangelist-S.JPG"
+          },
+          {
+            "url": "http://imgc.allpostersimages.com/images/P-473-488-90/36/3642/JMREF00Z/posters/andrea-di-nerio-annunciation.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/15/2d/57/152d57f9fd1a7ff98acf992dbc7e08e4.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/6e/5a/07/6e5a07714221a8e5d40e13998c17d6c5.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

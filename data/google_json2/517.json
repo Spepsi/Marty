@@ -1,0 +1,459 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05fc9mj",
+          "description": "christmas decoration",
+          "score": 0.7419844
+        },
+        {
+          "mid": "/m/0170gz",
+          "description": "nativity scene",
+          "score": 0.6007591
+        },
+        {
+          "mid": "/m/0djmp",
+          "description": "ancient history",
+          "score": 0.58964545
+        },
+        {
+          "mid": "/m/0f85g",
+          "description": "basilica",
+          "score": 0.5766311
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "en",
+          "description": "IT\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 20
+              },
+              {
+                "x": 47
+              },
+              {
+                "x": 47,
+                "y": 22
+              },
+              {
+                "x": 20,
+                "y": 22
+              }
+            ]
+          }
+        },
+        {
+          "description": "IT",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 48,
+                "y": 19
+              },
+              {
+                "x": 23,
+                "y": 22
+              },
+              {
+                "x": 21,
+                "y": 3
+              },
+              {
+                "x": 45
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 147,
+                "green": 110,
+                "blue": 91
+              },
+              "score": 0.13868308,
+              "pixelFraction": 0.10327783
+            },
+            {
+              "color": {
+                "red": 54,
+                "green": 49,
+                "blue": 50
+              },
+              "score": 0.01697286,
+              "pixelFraction": 0.076612905
+            },
+            {
+              "color": {
+                "red": 187,
+                "green": 148,
+                "blue": 130
+              },
+              "score": 0.11302014,
+              "pixelFraction": 0.030697191
+            },
+            {
+              "color": {
+                "red": 179,
+                "green": 153,
+                "blue": 130
+              },
+              "score": 0.11202433,
+              "pixelFraction": 0.030567117
+            },
+            {
+              "color": {
+                "red": 210,
+                "green": 187,
+                "blue": 164
+              },
+              "score": 0.105783224,
+              "pixelFraction": 0.009235172
+            },
+            {
+              "color": {
+                "red": 140,
+                "green": 114,
+                "blue": 91
+              },
+              "score": 0.097333364,
+              "pixelFraction": 0.10145681
+            },
+            {
+              "color": {
+                "red": 118,
+                "green": 81,
+                "blue": 63
+              },
+              "score": 0.06580245,
+              "pixelFraction": 0.09924558
+            },
+            {
+              "color": {
+                "red": 225,
+                "green": 185,
+                "blue": 164
+              },
+              "score": 0.047877017,
+              "pixelFraction": 0.004292404
+            },
+            {
+              "color": {
+                "red": 172,
+                "green": 154,
+                "blue": 149
+              },
+              "score": 0.03361853,
+              "pixelFraction": 0.022632673
+            },
+            {
+              "color": {
+                "red": 180,
+                "green": 150,
+                "blue": 145
+              },
+              "score": 0.028477307,
+              "pixelFraction": 0.010926119
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 199
+                },
+                {
+                  "y": 199
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "en"
+                }
+              ]
+            },
+            "width": 400,
+            "height": 200,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "en"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 45
+                    },
+                    {
+                      "x": 48,
+                      "y": 19
+                    },
+                    {
+                      "x": 23,
+                      "y": 22
+                    },
+                    {
+                      "x": 20,
+                      "y": 3
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "en"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 20
+                        },
+                        {
+                          "x": 47
+                        },
+                        {
+                          "x": 47,
+                          "y": 22
+                        },
+                        {
+                          "x": 20,
+                          "y": 22
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 48,
+                              "y": 19
+                            },
+                            {
+                              "x": 23,
+                              "y": 22
+                            },
+                            {
+                              "x": 21,
+                              "y": 3
+                            },
+                            {
+                              "x": 45
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 48,
+                                  "y": 19
+                                },
+                                {
+                                  "x": 36,
+                                  "y": 21
+                                },
+                                {
+                                  "x": 34,
+                                  "y": 2
+                                },
+                                {
+                                  "x": 45
+                                }
+                              ]
+                            },
+                            "text": "I"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 35,
+                                  "y": 20
+                                },
+                                {
+                                  "x": 23,
+                                  "y": 22
+                                },
+                                {
+                                  "x": 20,
+                                  "y": 2
+                                },
+                                {
+                                  "x": 32
+                                }
+                              ]
+                            },
+                            "text": "T"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "IT\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/01fsd9",
+            "score": 11.33712,
+            "description": "Santa Maria Novella"
+          },
+          {
+            "entityId": "/m/02qphqc",
+            "score": 2.21136,
+            "description": "Santa Maria del Carmine, Florence"
+          },
+          {
+            "entityId": "/m/02vl3bh",
+            "score": 1.48048,
+            "description": "The Resurrection"
+          },
+          {
+            "entityId": "/m/0crhsqw",
+            "score": 0.73881,
+            "description": "Resurrection of Jesus"
+          },
+          {
+            "entityId": "/m/06lcm",
+            "score": 0.70164,
+            "description": "Resurrection"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://bestiariusz.files.wordpress.com/2015/04/5vault1.jpg"
+          },
+          {
+            "url": "https://4.bp.blogspot.com/-iBJSl0up1fY/VvQKas6ry4I/AAAAAAAAAfo/jAhzwwKdMt4JAPIu4g2VdAaO3tOT1oSAw/s1600/Ressurrei%25C3%25A7%25C3%25A3o.jpg"
+          },
+          {
+            "url": "http://www.coupecouture.fr/images/Resurrection%20andrea%20da%20Firenze-W.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://www.cyberphoto.se/thomas/bild/italia/florens/L1002265.jpg"
+          },
+          {
+            "url": "http://img.over-blog-kiwi.com/0/55/26/24/20140607/ob_b56ecc_34-florence-1-sta-maria-novella-30.JPG"
+          },
+          {
+            "url": "http://4.bp.blogspot.com/-2NhUj_YI_kg/UoNUEpqyeiI/AAAAAAAAFeE/qxaC2WYqoxA/s1600/IMG_3155.JPG"
+          },
+          {
+            "url": "https://bestiariusz.files.wordpress.com/2015/04/5vault1.jpg"
+          },
+          {
+            "url": "https://anchaesmicasa.files.wordpress.com/2014/08/andrea-da-firenze-cappellone-degli-spagnoli-santa-maria-novella-firenze.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://counterlightsrantsandblather1.blogspot.com/2011/06/florence-disaster-and-reaction-art.html"
+          },
+          {
+            "url": "http://www.gettyimages.com/photos/chapel-of-s.-andrea"
+          },
+          {
+            "url": "http://www.gettyimages.fi/photos/church-of-santa-maria-novella?page=8"
+          },
+          {
+            "url": "http://www.gettyimages.ae/photos/chapel-of-s.-andrea"
+          },
+          {
+            "url": "http://counterlightsrantsandblather1.blogspot.com/2011/06/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/9c/45/8b/9c458b6d16efdbf9956f8a9311069e8a.jpg"
+          },
+          {
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/08/72/7e/f4/church-of-santa-maria.jpg"
+          },
+          {
+            "url": "http://c8.alamy.com/comp/CF541C/the-resurrection-by-andrea-di-bonaiuto-1365-1367-spanish-chapel-basilica-CF541C.jpg"
+          },
+          {
+            "url": "http://media.gettyimages.com/photos/militant-and-triumphant-church-by-andrea-di-bonaiuto-spanish-chapel-picture-id142746145?s=612x612"
+          },
+          {
+            "url": "http://2.bp.blogspot.com/-0jCtvAfWl_Y/TgOG8QHTZeI/AAAAAAAAJow/zjtDE0gcP5k/s400/Ascension.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

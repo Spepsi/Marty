@@ -1,0 +1,632 @@
+{
+  "responses": [
+    {
+      "faceAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 80,
+                "y": 35
+              },
+              {
+                "x": 238,
+                "y": 35
+              },
+              {
+                "x": 238,
+                "y": 218
+              },
+              {
+                "x": 80,
+                "y": 218
+              }
+            ]
+          },
+          "fdBoundingPoly": {
+            "vertices": [
+              {
+                "x": 85,
+                "y": 95
+              },
+              {
+                "x": 191,
+                "y": 95
+              },
+              {
+                "x": 191,
+                "y": 202
+              },
+              {
+                "x": 85,
+                "y": 202
+              }
+            ]
+          },
+          "landmarks": [
+            {
+              "type": "LEFT_EYE",
+              "position": {
+                "x": 109.014984,
+                "y": 120.935394,
+                "z": 9.568259e-05
+              }
+            },
+            {
+              "type": "RIGHT_EYE",
+              "position": {
+                "x": 126.38532,
+                "y": 127.12828,
+                "z": -42.79158
+              }
+            },
+            {
+              "type": "LEFT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 106.16421,
+                "y": 107.02362,
+                "z": 14.274052
+              }
+            },
+            {
+              "type": "RIGHT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 104.39576,
+                "y": 112.43586,
+                "z": -16.627653
+              }
+            },
+            {
+              "type": "LEFT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 113.34643,
+                "y": 115.60466,
+                "z": -37.7775
+              }
+            },
+            {
+              "type": "RIGHT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 136.78127,
+                "y": 117.9832,
+                "z": -58.484863
+              }
+            },
+            {
+              "type": "MIDPOINT_BETWEEN_EYES",
+              "position": {
+                "x": 109.07807,
+                "y": 123.451416,
+                "z": -25.746298
+              }
+            },
+            {
+              "type": "NOSE_TIP",
+              "position": {
+                "x": 98.03724,
+                "y": 155.11566,
+                "z": -25.90126
+              }
+            },
+            {
+              "type": "UPPER_LIP",
+              "position": {
+                "x": 109.23042,
+                "y": 168.52731,
+                "z": -18.90952
+              }
+            },
+            {
+              "type": "LOWER_LIP",
+              "position": {
+                "x": 113.29524,
+                "y": 183.85359,
+                "z": -14.814121
+              }
+            },
+            {
+              "type": "MOUTH_LEFT",
+              "position": {
+                "x": 114.099785,
+                "y": 170.91736,
+                "z": 4.121382
+              }
+            },
+            {
+              "type": "MOUTH_RIGHT",
+              "position": {
+                "x": 128.50166,
+                "y": 176.0531,
+                "z": -30.116308
+              }
+            },
+            {
+              "type": "MOUTH_CENTER",
+              "position": {
+                "x": 112.84146,
+                "y": 175.50783,
+                "z": -16.27789
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_RIGHT",
+              "position": {
+                "x": 120.322685,
+                "y": 153.931,
+                "z": -30.912281
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_LEFT",
+              "position": {
+                "x": 109.77677,
+                "y": 152.01257,
+                "z": -6.775781
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_CENTER",
+              "position": {
+                "x": 108.89261,
+                "y": 158.97005,
+                "z": -20.671507
+              }
+            },
+            {
+              "type": "LEFT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 105.81205,
+                "y": 118.029495,
+                "z": -1.750621
+              }
+            },
+            {
+              "type": "LEFT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 112.84114,
+                "y": 122.52295,
+                "z": -8.583707
+              }
+            },
+            {
+              "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 108.810265,
+                "y": 124.06073,
+                "z": 0.39635432
+              }
+            },
+            {
+              "type": "LEFT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 109.36052,
+                "y": 119.159546,
+                "z": 10.301382
+              }
+            },
+            {
+              "type": "LEFT_EYE_PUPIL",
+              "position": {
+                "x": 107.637474,
+                "y": 120.88907,
+                "z": 0.2666427
+              }
+            },
+            {
+              "type": "RIGHT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 124.11209,
+                "y": 124.60208,
+                "z": -45.29384
+              }
+            },
+            {
+              "type": "RIGHT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 134.96548,
+                "y": 128.32664,
+                "z": -50.541504
+              }
+            },
+            {
+              "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 126.96413,
+                "y": 130.8017,
+                "z": -43.0695
+              }
+            },
+            {
+              "type": "RIGHT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 123.7029,
+                "y": 126.747284,
+                "z": -34.61662
+              }
+            },
+            {
+              "type": "RIGHT_EYE_PUPIL",
+              "position": {
+                "x": 126.385544,
+                "y": 127.65213,
+                "z": -44.4435
+              }
+            },
+            {
+              "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 101.99248,
+                "y": 104.38738,
+                "z": -3.2147715
+              }
+            },
+            {
+              "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 121.860146,
+                "y": 111.50533,
+                "z": -50.455566
+              }
+            },
+            {
+              "type": "LEFT_EAR_TRAGION",
+              "position": {
+                "x": 153.06332,
+                "y": 132.37952,
+                "z": 53.49268
+              }
+            },
+            {
+              "type": "RIGHT_EAR_TRAGION",
+              "position": {
+                "x": 194.69629,
+                "y": 147.28883,
+                "z": -45.429756
+              }
+            },
+            {
+              "type": "FOREHEAD_GLABELLA",
+              "position": {
+                "x": 107.213936,
+                "y": 113.677765,
+                "z": -27.960762
+              }
+            },
+            {
+              "type": "CHIN_GNATHION",
+              "position": {
+                "x": 118.90687,
+                "y": 203.83109,
+                "z": -8.971255
+              }
+            },
+            {
+              "type": "CHIN_LEFT_GONION",
+              "position": {
+                "x": 139.06447,
+                "y": 165.59442,
+                "z": 46.891563
+              }
+            },
+            {
+              "type": "CHIN_RIGHT_GONION",
+              "position": {
+                "x": 176.67323,
+                "y": 179.04578,
+                "z": -42.50451
+              }
+            }
+          ],
+          "rollAngle": -3.6180768,
+          "panAngle": -67.98946,
+          "tiltAngle": -10.027508,
+          "detectionConfidence": 0.5855658,
+          "landmarkingConfidence": 0.22064328,
+          "joyLikelihood": "VERY_UNLIKELY",
+          "sorrowLikelihood": "VERY_UNLIKELY",
+          "angerLikelihood": "VERY_UNLIKELY",
+          "surpriseLikelihood": "VERY_UNLIKELY",
+          "underExposedLikelihood": "VERY_UNLIKELY",
+          "blurredLikelihood": "VERY_UNLIKELY",
+          "headwearLikelihood": "VERY_LIKELY"
+        }
+      ],
+      "logoAnnotations": [
+        {
+          "mid": "/m/0bx9g3b",
+          "description": "Spring",
+          "score": 0.9306394,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 54,
+                "y": 10
+              },
+              {
+                "x": 318,
+                "y": 10
+              },
+              {
+                "x": 318,
+                "y": 389
+              },
+              {
+                "x": 54,
+                "y": 389
+              }
+            ]
+          }
+        },
+        {
+          "mid": "/m/0bx9g3b",
+          "description": "Spring",
+          "score": 0.17701352,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 99,
+                "y": 40
+              },
+              {
+                "x": 287,
+                "y": 40
+              },
+              {
+                "x": 287,
+                "y": 281
+              },
+              {
+                "x": 99,
+                "y": 281
+              }
+            ]
+          }
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.92640775
+        },
+        {
+          "mid": "/m/01spzs",
+          "description": "still life",
+          "score": 0.7941032
+        },
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.7202466
+        },
+        {
+          "mid": "/m/0lym8",
+          "description": "tapestry",
+          "score": 0.6599101
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 22,
+                "green": 17,
+                "blue": 17
+              },
+              "score": 0.3178296,
+              "pixelFraction": 0.44207507
+            },
+            {
+              "color": {
+                "red": 65,
+                "green": 50,
+                "blue": 30
+              },
+              "score": 0.09273767,
+              "pixelFraction": 0.060716502
+            },
+            {
+              "color": {
+                "red": 139,
+                "green": 116,
+                "blue": 63
+              },
+              "score": 0.08364124,
+              "pixelFraction": 0.0507134
+            },
+            {
+              "color": {
+                "red": 97,
+                "green": 80,
+                "blue": 53
+              },
+              "score": 0.08874557,
+              "pixelFraction": 0.05862283
+            },
+            {
+              "color": {
+                "red": 54,
+                "green": 46,
+                "blue": 40
+              },
+              "score": 0.057008144,
+              "pixelFraction": 0.06273263
+            },
+            {
+              "color": {
+                "red": 104,
+                "green": 83,
+                "blue": 38
+              },
+              "score": 0.047777224,
+              "pixelFraction": 0.02558933
+            },
+            {
+              "color": {
+                "red": 77,
+                "green": 42,
+                "blue": 26
+              },
+              "score": 0.04385081,
+              "pixelFraction": 0.032025434
+            },
+            {
+              "color": {
+                "red": 134,
+                "green": 114,
+                "blue": 85
+              },
+              "score": 0.037806556,
+              "pixelFraction": 0.031327542
+            },
+            {
+              "color": {
+                "red": 175,
+                "green": 149,
+                "blue": 91
+              },
+              "score": 0.02824537,
+              "pixelFraction": 0.022797767
+            },
+            {
+              "color": {
+                "red": 175,
+                "green": 153,
+                "blue": 123
+              },
+              "score": 0.02627528,
+              "pixelFraction": 0.024271091
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 335
+                },
+                {
+                  "x": 335,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 1,
+            "importanceFraction": 2.6499999
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/030b1q",
+            "score": 18.8206,
+            "description": "Giuseppe Arcimboldo"
+          },
+          {
+            "entityId": "/m/04gdr",
+            "score": 2.70408,
+            "description": "The Louvre"
+          },
+          {
+            "entityId": "/m/01txr2",
+            "score": 0.70791,
+            "description": "Spring"
+          },
+          {
+            "entityId": "/m/02xwb",
+            "score": 0.68476,
+            "description": "Fruit"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.42469,
+            "description": "Painting"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://www.panoramadelart.com/sites/default/files/styles/grand/public/F193-d-arcimboldo-printemps.jpg?itok=_naljS8I"
+          },
+          {
+            "url": "https://i2.wp.com/sobiocoop.files.wordpress.com/2017/01/printemps.jpg"
+          },
+          {
+            "url": "http://2.bp.blogspot.com/-Ih9f594f-yE/TYcJOtd2VkI/AAAAAAAARCs/RduiNIR8_jg/s1600/aprimavera-GiuseppeArcimboldo-1573.jpg"
+          },
+          {
+            "url": "https://phototour.pro/content/gallery/photo_192.jpg"
+          },
+          {
+            "url": "http://i.imgur.com/lmEF2sn.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://www.panoramadelart.com/sites/default/files/styles/grand/public/F193-d-arcimboldo-printemps.jpg?itok=_naljS8I"
+          },
+          {
+            "url": "http://www.mangeurs-libres.fr/upload/41/PAGE_Bibliotheque_epicurienne/ARCIMBOLDO%20-%20Le%20printemps.jpg"
+          },
+          {
+            "url": "https://rs.1000museums.com/filestore/1/0/8/9/6_a90a477f22f9994/10896lpr_722e1e2a4da2b6a.jpg"
+          },
+          {
+            "url": "https://phototour.pro/content/gallery/photo_192.jpg"
+          },
+          {
+            "url": "http://i.imgur.com/lmEF2sn.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Giuseppe_Arcimboldo_-_Spring,_1573.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/Giuseppe_Arcimboldo"
+          },
+          {
+            "url": "http://theredlist.com/wiki-2-351-861-414-398-427-view-mannerism-profile-arcimboldo-giuseppe.html"
+          },
+          {
+            "url": "https://www.pinterest.com/ccpavon/giuseppe-arcimboldo/"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/37788084342923157/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://c300221.r21.cf1.rackcdn.com/guiseppe-arcimboldo-spring-1349480555_b.jpg"
+          },
+          {
+            "url": "http://www.oilpaintingfactory.com/pic/Oil%20Painting%20Styles%20on%20Canvas/Flowers/Classical%20Flowers/9-Printemps-Giuseppe-Arcimboldo-classical-flowers.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/36/41/0e/36410e147428e68707bd14c66513e505.jpg"
+          },
+          {
+            "url": "https://uploads5.wikiart.org/images/giuseppe-arcimboldo/summer.jpg"
+          },
+          {
+            "url": "http://www.art-kingdom.com/upload/350252.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}
