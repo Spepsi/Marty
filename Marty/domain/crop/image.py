@@ -22,14 +22,6 @@ class Image(object):
         return cropped_image
     
 
-    def _estimate_contours(self):
-        image = self._dilate()
-        _, contours, _ = cv2.findContours(image,
-                                          cv2.RETR_LIST,
-                                          cv2.CHAIN_APPROX_SIMPLE)
-
-        return contours
-
     def _find_best_bounding_box(self):
         """Returns the coordinate of the best bounding box (xmin, ymin, xmax, ymax).
         
@@ -64,8 +56,16 @@ class Image(object):
         ymin = bounding_box[1]
         xmax = bounding_box[2]
         ymax = bounding_box[3]
-        cropped = self.raw[ymin:ymax, xmin:xmax]
+        cropped = self.raw[ymin:ymax, xmin:xmax, :]
         return cropped
+
+    def _estimate_contours(self):
+        image = self._dilate()
+        _, contours, _ = cv2.findContours(image,
+                                          cv2.RETR_LIST,
+                                          cv2.CHAIN_APPROX_SIMPLE)
+
+        return contours
 
     
     def _dilate(self):
