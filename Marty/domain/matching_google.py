@@ -23,4 +23,3 @@ catalog_file = "/Users/nicolas/Projects/Marty/data/catalog/catalog.csv"
 catalog = pd.read_csv(catalog_file, sep=";", encoding="cp1250")
 
 class GoogleApiMatcher():
-    
