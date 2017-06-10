@@ -9,23 +9,16 @@ if __name__  == "__main__":
     MEDIA = Config(CONFIG)[SECTION]["media"]
 
 
+    reference = os.path.join(MEDIA, "20247.jpg")
+    centered2 = os.path.join(MEDIA, "centered2.jpg")
+    centred = os.path.join(MEDIA, "centred.jpg")
+    far = os.path.join(MEDIA, "far.jpg")
+    fromSide = os.path.join(MEDIA, "fromSide.jpg")
 
-    image1 = os.path.join(MEDIA, "967.jpg")
-    image2 = os.path.join(MEDIA, "968.jpg")
-    image3 = os.path.join(MEDIA, "969.jpg")
-    
-    distance = PHash(image1).distance_to(image2)
-    print("should be small: ", distance)
-
-    distance = PHash(image1).distance_to(image3)
-    print("should be high: ", distance)
-
-
-    
-    image1 = os.path.join(MEDIA, "982.jpg")
-    image2 = os.path.join(MEDIA, "981.jpg")
-    distance = PHash(image1).distance_to(image2)
-    print("should be small: ", distance)
-
-    
+    print(PHash(reference).distance_to(reference))
+    print(PHash(reference).distance_to(centred))
+    print(PHash(centered2).distance_to(centred))
+    print(PHash(reference).distance_to(fromSide))
+    print(PHash(reference).distance_to(far))
+    print()
 
