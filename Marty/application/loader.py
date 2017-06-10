@@ -4,7 +4,6 @@ from Marty.infrastructure.google_api import GoogleVisionApi
 import os
 config = Config(file='../../config.ini')
 
-
 labels = JSONLabels(config)
 url = JSONUrls(config)
 safe_search = JSONSafeSearch(config)
