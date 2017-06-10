@@ -61,63 +61,42 @@ class GoogleApiMatcher():
         labels_comparator = LabelsComparator(labels_second)
         database = os.listdir(config['DATA']['JSON'])
         database = [int(i.split('.')[0]) for i in database]
+
+        match = None
         for idx in database: # Refactor after ..
 
             try:
-                json_labels = JSONLabels(self.config)
+                json_labels = JSONLabels(config)
                 labels_to_compare = json_labels.load(idx)
                 res =  labels_comparator(labels_to_compare)
                 if res==True:
                     print(" It is idx : "+idx)
+                    match = idx
                     break
             except:
                 print("OULALA")
 
-config = Config()
-image = "/Users/nicolas/Projects/Marty/data/test_data/close.jpg"
-api = GoogleVisionApi(config, image)
-urls = api.get_full_matching_urls()
-partial_urls = api.get_partial_matching_urls()
-matcher = GoogleApiMatcher(config, image)
-match = matcher.find_perfect_match()
-from pdb import set_trace ; set_trace()
-labels_match = matcher.find_labels_match()
+        return match
 
-# OK
 
 
 config = Config()
-image_from_pic_far = "/Users/nicolas/Projects/Marty/data/test_data/far.jpg"
-matcher = GoogleApiMatcher(config)
-index_matching = matcher.find_perfect_match(image_from_pic_far)
-
-
-
 catalog_file = "/Users/nicolas/Projects/Marty/data/catalog/catalog.csv"
 catalog = pd.read_csv(catalog_file, sep=";", encoding="cp1250")
 
-print(catalog.loc[index_matching, "URL"])
-
-[url[0] for url in partial_urls if "wga" in url[0]]
 
 
 
 
-image = "/Users/nicolas/Projects/Marty/data/test_data2/898_close.jpg"
+
+
+image = "/Users/nicolas/Projects/Marty/data/test_data2/2468_close.jpg"
 api = GoogleVisionApi(config, image)
 urls = api.get_full_matching_urls()
 partial_urls = api.get_partial_matching_urls()
 matcher = GoogleApiMatcher(config, image)
 match = matcher.find_perfect_match()
-# KO
-
-
-image = "/Users/nicolas/Projects/Marty/data/test_data2/2_test.jpg"
-api = GoogleVisionApi(config, image)
-urls = api.get_full_matching_urls()
-partial_urls = api.get_partial_matching_urls()
-matcher = GoogleApiMatcher(config)
-match = matcher.find_perfect_match(image)
+labels_match = matcher.find_labels_match()
 # OK
 
 image = "/Users/nicolas/Projects/Marty/data/test_data2/1047_close.jpg"
