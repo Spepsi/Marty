@@ -1,0 +1,372 @@
+{
+  "responses": [
+    {
+      "logoAnnotations": [
+        {
+          "description": "Institution of the Eucharist",
+          "score": 0.94033563,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 8,
+                "y": 10
+              },
+              {
+                "x": 392,
+                "y": 10
+              },
+              {
+                "x": 392,
+                "y": 315
+              },
+              {
+                "x": 8,
+                "y": 315
+              }
+            ]
+          }
+        },
+        {
+          "description": "The Last Supper, 1442 (fresco)",
+          "score": 0.9237568,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 15,
+                "y": 29
+              },
+              {
+                "x": 390,
+                "y": 29
+              },
+              {
+                "x": 390,
+                "y": 305
+              },
+              {
+                "x": 15,
+                "y": 305
+              }
+            ]
+          }
+        },
+        {
+          "description": "The Last Supper, 1442 (fresco)",
+          "score": 0.9229259,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 15,
+                "y": 29
+              },
+              {
+                "x": 390,
+                "y": 29
+              },
+              {
+                "x": 390,
+                "y": 305
+              },
+              {
+                "x": 15,
+                "y": 305
+              }
+            ]
+          }
+        },
+        {
+          "description": "Detail from The Last Supper, 1442 (fresco)",
+          "score": 0.81974536,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 146,
+                "y": 57
+              },
+              {
+                "x": 339,
+                "y": 57
+              },
+              {
+                "x": 339,
+                "y": 184
+              },
+              {
+                "x": 146,
+                "y": 184
+              }
+            ]
+          }
+        },
+        {
+          "description": "Detail from The Last Supper, 1442 (fresco)",
+          "score": 0.8109552,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 146,
+                "y": 67
+              },
+              {
+                "x": 339,
+                "y": 67
+              },
+              {
+                "x": 339,
+                "y": 184
+              },
+              {
+                "x": 146,
+                "y": 184
+              }
+            ]
+          }
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/09g5pq",
+          "description": "people",
+          "score": 0.8754757
+        },
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.73756915
+        },
+        {
+          "mid": "/m/04rd7",
+          "description": "mural",
+          "score": 0.67322934
+        },
+        {
+          "mid": "/m/0djmp",
+          "description": "ancient history",
+          "score": 0.5748938
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 215,
+                "green": 191,
+                "blue": 165
+              },
+              "score": 0.36251503,
+              "pixelFraction": 0.22967742
+            },
+            {
+              "color": {
+                "red": 72,
+                "green": 40,
+                "blue": 19
+              },
+              "score": 0.054812863,
+              "pixelFraction": 0.029919354
+            },
+            {
+              "color": {
+                "red": 173,
+                "green": 151,
+                "blue": 126
+              },
+              "score": 0.15252346,
+              "pixelFraction": 0.090967745
+            },
+            {
+              "color": {
+                "red": 136,
+                "green": 118,
+                "blue": 92
+              },
+              "score": 0.10376977,
+              "pixelFraction": 0.054596774
+            },
+            {
+              "color": {
+                "red": 242,
+                "green": 224,
+                "blue": 201
+              },
+              "score": 0.06801054,
+              "pixelFraction": 0.07145161
+            },
+            {
+              "color": {
+                "red": 100,
+                "green": 82,
+                "blue": 57
+              },
+              "score": 0.05492901,
+              "pixelFraction": 0.018225806
+            },
+            {
+              "color": {
+                "red": 64,
+                "green": 47,
+                "blue": 27
+              },
+              "score": 0.034566447,
+              "pixelFraction": 0.008467742
+            },
+            {
+              "color": {
+                "red": 41,
+                "green": 27,
+                "blue": 11
+              },
+              "score": 0.023857241,
+              "pixelFraction": 0.0061290325
+            },
+            {
+              "color": {
+                "red": 106,
+                "green": 72,
+                "blue": 47
+              },
+              "score": 0.02017886,
+              "pixelFraction": 0.045483872
+            },
+            {
+              "color": {
+                "red": 50,
+                "green": 21,
+                "blue": 4
+              },
+              "score": 0.016927084,
+              "pixelFraction": 0.005403226
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 323
+                },
+                {
+                  "y": 323
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0272rmj",
+            "score": 5.18688,
+            "description": "San Marco, Florence"
+          },
+          {
+            "entityId": "/m/0jnz3",
+            "score": 2.52424,
+            "description": "The Last Supper"
+          },
+          {
+            "entityId": "/m/07k0l",
+            "score": 0.72947,
+            "description": "Last Supper"
+          },
+          {
+            "entityId": "/m/02np4",
+            "score": 0.71558,
+            "description": "Eucharist"
+          },
+          {
+            "entityId": "/g/122y5rrj",
+            "score": 0.64186,
+            "description": "Communion of the Apostles"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://1.bp.blogspot.com/-EctK9LC-WGI/Ups2iEpNvAI/AAAAAAAAAPQ/Nsdp1gdJiUk/s1600/BEATO.jpg"
+          },
+          {
+            "url": "http://2.bp.blogspot.com/-Ne0hHAgB68s/VLsbi6kf3oI/AAAAAAAADnU/pisKjmW0yTY/s1600/%C3%9ALTIMA%2BCENAdng.-FRA%2BANGELICO.-RENACIMIENTO.jpg"
+          },
+          {
+            "url": "https://i0.wp.com/christchurchwindsor.ca/wp-content/uploads/2015/04/FraAngelico_InstitutionOfTheEucharist.jpg"
+          },
+          {
+            "url": "http://laydomsouth.org/wp-content/uploads/2014/02/institution-of-the-eucharist-1442.jpg"
+          },
+          {
+            "url": "http://2.bp.blogspot.com/-_pzLMHNDEj8/Uhoi0HK2rUI/AAAAAAAABZM/YrThQnBhQbA/s1600/35_eucha.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://www.magnificat.com/lifeteen/images/hd/19.jpg"
+          },
+          {
+            "url": "http://www.viandanti.org/wp-content/uploads/2014/01/Comunione_degli_apostoli_cella_35-bis.jpg"
+          },
+          {
+            "url": "https://alessandrocortesi2012.files.wordpress.com/2012/03/comunione_degli_apostoli_cella_35.jpg"
+          },
+          {
+            "url": "http://1.bp.blogspot.com/-utHqHuUvOkY/U6Z6xBsuTJI/AAAAAAAAEIo/v-L_aYhwcKM/s1600/Comunione_degli_apostoli,_cella_35.jpg"
+          },
+          {
+            "url": "https://i2.wp.com/verbo.ive.org/wp-content/uploads/2014/01/the-last-supper-communion-big.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.wga.hu/html_m/a/angelico/09/cells/35_eucha.html"
+          },
+          {
+            "url": "https://www.wikiart.org/en/fra-angelico/institution-of-the-eucharist-1442"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Fra_Angelico_-_Institution_of_the_Eucharist_(Cell_35)_-_WGA00549.jpg"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/550916966893493227/"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/526499012661262077/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Fra_Angelico_-_Institution_of_the_Eucharist_%28Cell_35%29_-_WGA00549.jpg/296px-Fra_Angelico_-_Institution_of_the_Eucharist_%28Cell_35%29_-_WGA00549.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Comunione_degli_apostoli,_cella_35.jpg"
+          },
+          {
+            "url": "https://opeast.org/wp-content/uploads/sassetta-last-supper.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/ee/bb/ea/eebbeafa1cf8f73bf768819fbeb094f3.jpg"
+          },
+          {
+            "url": "https://lh5.googleusercontent.com/-TfRyOjN_64A/UriiWEacO_I/AAAAAAAAjJs/WSQyZn-HuME/s400/Fra_Angelico_Mocking_of_Christ_1450.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

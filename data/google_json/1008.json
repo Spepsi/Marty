@@ -1,0 +1,579 @@
+{
+  "responses": [
+    {
+      "faceAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 111,
+                "y": 92
+              },
+              {
+                "x": 249,
+                "y": 92
+              },
+              {
+                "x": 249,
+                "y": 252
+              },
+              {
+                "x": 111,
+                "y": 252
+              }
+            ]
+          },
+          "fdBoundingPoly": {
+            "vertices": [
+              {
+                "x": 146,
+                "y": 131
+              },
+              {
+                "x": 246,
+                "y": 131
+              },
+              {
+                "x": 246,
+                "y": 231
+              },
+              {
+                "x": 146,
+                "y": 231
+              }
+            ]
+          },
+          "landmarks": [
+            {
+              "type": "LEFT_EYE",
+              "position": {
+                "x": 182.42819,
+                "y": 158.40195,
+                "z": -0.00043707923
+              }
+            },
+            {
+              "type": "RIGHT_EYE",
+              "position": {
+                "x": 217.20322,
+                "y": 169.31883,
+                "z": 15.43303
+              }
+            },
+            {
+              "type": "LEFT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 169.2469,
+                "y": 145.52223,
+                "z": -1.0881492
+              }
+            },
+            {
+              "type": "RIGHT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 196.1884,
+                "y": 151.46397,
+                "z": -2.5090237
+              }
+            },
+            {
+              "type": "LEFT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 214.24078,
+                "y": 156.70477,
+                "z": 5.3560767
+              }
+            },
+            {
+              "type": "RIGHT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 231.32864,
+                "y": 163.53452,
+                "z": 25.933582
+              }
+            },
+            {
+              "type": "MIDPOINT_BETWEEN_EYES",
+              "position": {
+                "x": 203.41977,
+                "y": 162.67288,
+                "z": -0.22438891
+              }
+            },
+            {
+              "type": "NOSE_TIP",
+              "position": {
+                "x": 202.96361,
+                "y": 185.68925,
+                "z": -14.516491
+              }
+            },
+            {
+              "type": "UPPER_LIP",
+              "position": {
+                "x": 195.54347,
+                "y": 200.56813,
+                "z": -7.402935
+              }
+            },
+            {
+              "type": "LOWER_LIP",
+              "position": {
+                "x": 190.98813,
+                "y": 214.71832,
+                "z": -6.3842273
+              }
+            },
+            {
+              "type": "MOUTH_LEFT",
+              "position": {
+                "x": 174.98932,
+                "y": 202.52171,
+                "z": -4.1961765
+              }
+            },
+            {
+              "type": "MOUTH_RIGHT",
+              "position": {
+                "x": 204.20023,
+                "y": 211.0087,
+                "z": 8.516159
+              }
+            },
+            {
+              "type": "MOUTH_CENTER",
+              "position": {
+                "x": 192.72021,
+                "y": 207.20683,
+                "z": -5.3532004
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_RIGHT",
+              "position": {
+                "x": 206.23097,
+                "y": 192.42749,
+                "z": 4.4192057
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_LEFT",
+              "position": {
+                "x": 185.5705,
+                "y": 186.09592,
+                "z": -4.551943
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_CENTER",
+              "position": {
+                "x": 197.61754,
+                "y": 192.18251,
+                "z": -6.470375
+              }
+            },
+            {
+              "type": "LEFT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 182.83278,
+                "y": 155.76994,
+                "z": -2.6373305
+              }
+            },
+            {
+              "type": "LEFT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 188.5983,
+                "y": 161.18784,
+                "z": 2.9493945
+              }
+            },
+            {
+              "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 181.11057,
+                "y": 161.61661,
+                "z": -1.0596257
+              }
+            },
+            {
+              "type": "LEFT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 172.13168,
+                "y": 156.69296,
+                "z": -0.14043194
+              }
+            },
+            {
+              "type": "LEFT_EYE_PUPIL",
+              "position": {
+                "x": 180.84293,
+                "y": 158.44116,
+                "z": -1.6288648
+              }
+            },
+            {
+              "type": "RIGHT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 219.94475,
+                "y": 166.55524,
+                "z": 13.556368
+              }
+            },
+            {
+              "type": "RIGHT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 223.92876,
+                "y": 171.78642,
+                "z": 22.44684
+              }
+            },
+            {
+              "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 216.22578,
+                "y": 172.01761,
+                "z": 14.890809
+              }
+            },
+            {
+              "type": "RIGHT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 210.51732,
+                "y": 167.59454,
+                "z": 12.599445
+              }
+            },
+            {
+              "type": "RIGHT_EYE_PUPIL",
+              "position": {
+                "x": 218.96776,
+                "y": 169.5283,
+                "z": 14.9527235
+              }
+            },
+            {
+              "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 184.86147,
+                "y": 143.45847,
+                "z": -3.7444038
+              }
+            },
+            {
+              "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 225.18915,
+                "y": 155.17029,
+                "z": 13.82562
+              }
+            },
+            {
+              "type": "LEFT_EAR_TRAGION",
+              "position": {
+                "x": 132.68608,
+                "y": 172.78674,
+                "z": 33.71267
+              }
+            },
+            {
+              "type": "RIGHT_EAR_TRAGION",
+              "position": {
+                "x": 216.19511,
+                "y": 197.42857,
+                "z": 70.71709
+              }
+            },
+            {
+              "type": "FOREHEAD_GLABELLA",
+              "position": {
+                "x": 205.95796,
+                "y": 153.56876,
+                "z": 0.05733832
+              }
+            },
+            {
+              "type": "CHIN_GNATHION",
+              "position": {
+                "x": 184.39027,
+                "y": 233.05751,
+                "z": -3.3001153
+              }
+            },
+            {
+              "type": "CHIN_LEFT_GONION",
+              "position": {
+                "x": 136.76724,
+                "y": 199.73334,
+                "z": 16.723719
+              }
+            },
+            {
+              "type": "CHIN_RIGHT_GONION",
+              "position": {
+                "x": 213.02405,
+                "y": 221.80452,
+                "z": 49.94173
+              }
+            }
+          ],
+          "rollAngle": 13.163298,
+          "panAngle": 22.898924,
+          "tiltAngle": 7.186464,
+          "detectionConfidence": 0.5053943,
+          "landmarkingConfidence": 0.18002328,
+          "joyLikelihood": "VERY_UNLIKELY",
+          "sorrowLikelihood": "VERY_UNLIKELY",
+          "angerLikelihood": "VERY_UNLIKELY",
+          "surpriseLikelihood": "VERY_UNLIKELY",
+          "underExposedLikelihood": "VERY_UNLIKELY",
+          "blurredLikelihood": "VERY_UNLIKELY",
+          "headwearLikelihood": "VERY_UNLIKELY"
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.8823346
+        },
+        {
+          "mid": "/m/01dv4h",
+          "description": "portrait",
+          "score": 0.59421766
+        },
+        {
+          "mid": "/m/015r61",
+          "description": "modern art",
+          "score": 0.5668073
+        },
+        {
+          "mid": "/m/01kr8f",
+          "description": "illustration",
+          "score": 0.5429468
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "UNLIKELY",
+        "spoof": "UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 29,
+                "green": 20,
+                "blue": 22
+              },
+              "score": 0.23387314,
+              "pixelFraction": 0.27020285
+            },
+            {
+              "color": {
+                "red": 65,
+                "green": 35,
+                "blue": 37
+              },
+              "score": 0.18564528,
+              "pixelFraction": 0.1267875
+            },
+            {
+              "color": {
+                "red": 227,
+                "green": 186,
+                "blue": 95
+              },
+              "score": 0.034679208,
+              "pixelFraction": 0.015630197
+            },
+            {
+              "color": {
+                "red": 131,
+                "green": 119,
+                "blue": 92
+              },
+              "score": 0.011048509,
+              "pixelFraction": 0.007815098
+            },
+            {
+              "color": {
+                "red": 79,
+                "green": 39,
+                "blue": 30
+              },
+              "score": 0.14170602,
+              "pixelFraction": 0.11556368
+            },
+            {
+              "color": {
+                "red": 46,
+                "green": 23,
+                "blue": 26
+              },
+              "score": 0.13755782,
+              "pixelFraction": 0.09344862
+            },
+            {
+              "color": {
+                "red": 54,
+                "green": 42,
+                "blue": 38
+              },
+              "score": 0.024807323,
+              "pixelFraction": 0.024442967
+            },
+            {
+              "color": {
+                "red": 54,
+                "green": 22,
+                "blue": 15
+              },
+              "score": 0.021007895,
+              "pixelFraction": 0.011972065
+            },
+            {
+              "color": {
+                "red": 107,
+                "green": 67,
+                "blue": 51
+              },
+              "score": 0.015929936,
+              "pixelFraction": 0.030678418
+            },
+            {
+              "color": {
+                "red": 199,
+                "green": 160,
+                "blue": 76
+              },
+              "score": 0.014482768,
+              "pixelFraction": 0.010891254
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 313
+                },
+                {
+                  "x": 313,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 1,
+            "importanceFraction": 3.49
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/g/11byt799tt",
+            "score": 2.76152,
+            "description": "centraal museum"
+          },
+          {
+            "entityId": "/m/021bmf",
+            "score": 0.76207,
+            "description": "Jew's harp"
+          },
+          {
+            "entityId": "/g/11c1_wfmwh",
+            "score": 0.63678
+          },
+          {
+            "entityId": "/m/0d9s5",
+            "score": 0.601552,
+            "description": "Utrecht"
+          },
+          {
+            "entityId": "/m/03m5k",
+            "score": 0.38333,
+            "description": "Harp"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://2.bp.blogspot.com/-KHTzQwx5Rtk/UKs0hq3wWDI/AAAAAAAAHyM/xcV1KJ7Jnbo/s1600/jewsharp.jpg"
+          },
+          {
+            "url": "http://www.lib-art.com/imgpainting/8/7/20778-man-playing-a-jew-s-harp-baburen-dirck-van.jpg"
+          },
+          {
+            "url": "http://2.bp.blogspot.com/-KgPRg_TEUnY/T_RkoniME9I/AAAAAAAAADM/Y_G2AA7G6NE/s1600/Dirck_Van_Baburen_-_Jeune_Gar%C3%A7on_jouant_de_la_guimbarde.jpg"
+          },
+          {
+            "url": "http://4.bp.blogspot.com/-NgymxSjdTEc/VGXOjb8nfFI/AAAAAAAAM-s/6g93tFfYuWk/s1600/paris%2Btableau5.jpg"
+          },
+          {
+            "url": "https://i0.wp.com/tanogaboblog.it/wp-content/uploads/2015/02/Dirck-van-Baburen-Giovane-che-suona-il-marranzano.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Dirck_van_Baburen_-_Young_man_with_jew%27s_harp_-_Google_Art_Project.jpg"
+          },
+          {
+            "url": "http://centraalmuseum.nl/media/medialibrary/2016/04/Dirck_van_Baburen_-_Jongen_met_mondharp_-_1621.jpg"
+          },
+          {
+            "url": "http://www.sevanonurduman.com/wp-content/uploads/2016/05/Gubuz.jpg"
+          },
+          {
+            "url": "http://3.bp.blogspot.com/-z-ywkALfIfI/U4EhRWrunyI/AAAAAAAAAkA/ptC_y8-ZGCg/s1600/Dirck_van_Baburen_-_Young_man_with_jew's_harp_-_Google_Art_Project.jpg"
+          },
+          {
+            "url": "http://4.bp.blogspot.com/-8NxT85rHqYk/VIaZdKWQH7I/AAAAAAAAROQ/prc7bbHw2QM/s1600/1621_%D0%9C%D0%BE%D0%BB%D0%BE%D0%B4%D0%BE%D0%B9%2B%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA%2B%D1%81%2B%D0%B2%D0%B0%D1%80%D0%B3%D0%B0%D0%BD%D0%BE%D0%BC%2B(Young%2Bman%2Bwith%2Bjew's%2Bharp)_84%2B%D1%85%2B70.7_%D1%85.%2C%D0%BC._%D0%A3%D1%82%D1%80%D0%B5%D1%85%D1%82%2C%2B%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%2B%D0%BC%D1%83%D0%B7%D0%B5%D0%B9.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/Category:Dirck_van_Baburen"
+          },
+          {
+            "url": "http://www.wga.hu/frames-e.html?/html/b/baburen/index.html"
+          },
+          {
+            "url": "http://www.the-athenaeum.org/art/list.php?m=a&s=tu&aid=6325"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Dirck_van_Baburen_-_Young_man_with_jew%27s_harp_-_Google_Art_Project.jpg"
+          },
+          {
+            "url": "http://www.alamy.com/stock-photo/dirck-van-baburen.html"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://en.wahooart.com/Art.nsf/O/8Y32A8/$File/Dirck-Van-Baburen-Man-Playing-a-Jew_s-Harp-2--S.JPG"
+          },
+          {
+            "url": "http://www.artnet.fr/WebServices/images/ll00220lldNySGFgUNECfDrCWQFHPKcY0GC/dirck-van-baburen-a-musician-playing-the-flute.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Dirck_van_Baburen_-_The_Lute_Player_-_Google_Art_Project.jpg/634px-Dirck_van_Baburen_-_The_Lute_Player_-_Google_Art_Project.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/a7/f5/b8/a7f5b8c8bae0443f1f4cecd1b2589751.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/65/5d/18/655d183317331a9846c51f3901df5101.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

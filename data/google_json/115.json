@@ -1,0 +1,208 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0hyb2",
+          "description": "altar",
+          "score": 0.7080705
+        },
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.7044544
+        },
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.68499833
+        },
+        {
+          "mid": "/m/0djmp",
+          "description": "ancient history",
+          "score": 0.64266616
+        },
+        {
+          "mid": "/m/015r61",
+          "description": "modern art",
+          "score": 0.5515647
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 132,
+                "green": 111,
+                "blue": 88
+              },
+              "score": 0.2307964,
+              "pixelFraction": 0.091256365
+            },
+            {
+              "color": {
+                "red": 18,
+                "green": 11,
+                "blue": 6
+              },
+              "score": 0.09780981,
+              "pixelFraction": 0.06387946
+            },
+            {
+              "color": {
+                "red": 155,
+                "green": 152,
+                "blue": 155
+              },
+              "score": 0.08119822,
+              "pixelFraction": 0.15853141
+            },
+            {
+              "color": {
+                "red": 141,
+                "green": 106,
+                "blue": 83
+              },
+              "score": 0.14222755,
+              "pixelFraction": 0.019418506
+            },
+            {
+              "color": {
+                "red": 99,
+                "green": 81,
+                "blue": 61
+              },
+              "score": 0.08478171,
+              "pixelFraction": 0.11852717
+            },
+            {
+              "color": {
+                "red": 39,
+                "green": 25,
+                "blue": 8
+              },
+              "score": 0.07075776,
+              "pixelFraction": 0.016659593
+            },
+            {
+              "color": {
+                "red": 201,
+                "green": 191,
+                "blue": 186
+              },
+              "score": 0.046003982,
+              "pixelFraction": 0.07608234
+            },
+            {
+              "color": {
+                "red": 117,
+                "green": 84,
+                "blue": 60
+              },
+              "score": 0.04253744,
+              "pixelFraction": 0.019842954
+            },
+            {
+              "color": {
+                "red": 68,
+                "green": 52,
+                "blue": 31
+              },
+              "score": 0.030683467,
+              "pixelFraction": 0.09348472
+            },
+            {
+              "color": {
+                "red": 129,
+                "green": 122,
+                "blue": 121
+              },
+              "score": 0.030150728,
+              "pixelFraction": 0.12160441
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 245
+                },
+                {
+                  "y": 245
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/096g3",
+            "score": 45.10848,
+            "description": "Bologna"
+          },
+          {
+            "entityId": "/m/0dp2x8",
+            "score": 6.48224,
+            "description": "Bassano Romano"
+          },
+          {
+            "entityId": "/g/120j3mp3",
+            "score": 3.17552,
+            "description": "Odescalchi Palace"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.8465217,
+            "description": "Painting"
+          },
+          {
+            "entityId": "/m/0hyb2",
+            "score": 0.5668205,
+            "description": "Altar"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://www.wga.hu/art/a/albani/2/phaeton3.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://www.wga.hu/art/a/albani/2/phaeton3.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://m.blog.daum.net/kimkyoc/2407?categoryId=16"
+          },
+          {
+            "url": "http://blog.daum.net/kimkyoc/2407"
+          },
+          {
+            "url": "http://blog.daum.net/_blog/BlogTypeView.do?blogid=0OXNl&articleno=2407&categoryId=16&regdt=20170314093502"
+          }
+        ]
+      }
+    }
+  ]
+}

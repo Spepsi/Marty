@@ -1,0 +1,850 @@
+{
+  "responses": [
+    {
+      "faceAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 54,
+                "y": 30
+              },
+              {
+                "x": 212,
+                "y": 30
+              },
+              {
+                "x": 212,
+                "y": 214
+              },
+              {
+                "x": 54,
+                "y": 214
+              }
+            ]
+          },
+          "fdBoundingPoly": {
+            "vertices": [
+              {
+                "x": 50,
+                "y": 80
+              },
+              {
+                "x": 157,
+                "y": 80
+              },
+              {
+                "x": 157,
+                "y": 186
+              },
+              {
+                "x": 50,
+                "y": 186
+              }
+            ]
+          },
+          "landmarks": [
+            {
+              "type": "LEFT_EYE",
+              "position": {
+                "x": 92.008316,
+                "y": 109.14746,
+                "z": -0.0008536302
+              }
+            },
+            {
+              "type": "RIGHT_EYE",
+              "position": {
+                "x": 91.31548,
+                "y": 109.10527,
+                "z": -47.464794
+              }
+            },
+            {
+              "type": "LEFT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 97.76293,
+                "y": 98.16844,
+                "z": 15.748032
+              }
+            },
+            {
+              "type": "RIGHT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 83.70129,
+                "y": 97.10544,
+                "z": -12.225904
+              }
+            },
+            {
+              "type": "LEFT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 83.344505,
+                "y": 97.48007,
+                "z": -35.336353
+              }
+            },
+            {
+              "type": "RIGHT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 96.53422,
+                "y": 99.31415,
+                "z": -63.67708
+              }
+            },
+            {
+              "type": "MIDPOINT_BETWEEN_EYES",
+              "position": {
+                "x": 81.85762,
+                "y": 107.200485,
+                "z": -23.624493
+              }
+            },
+            {
+              "type": "NOSE_TIP",
+              "position": {
+                "x": 64.01765,
+                "y": 134.76761,
+                "z": -22.989855
+              }
+            },
+            {
+              "type": "UPPER_LIP",
+              "position": {
+                "x": 74.88758,
+                "y": 152.01204,
+                "z": -22.882372
+              }
+            },
+            {
+              "type": "LOWER_LIP",
+              "position": {
+                "x": 76.59285,
+                "y": 166.78378,
+                "z": -22.69141
+              }
+            },
+            {
+              "type": "MOUTH_LEFT",
+              "position": {
+                "x": 87.31834,
+                "y": 159.06363,
+                "z": -4.250231
+              }
+            },
+            {
+              "type": "MOUTH_RIGHT",
+              "position": {
+                "x": 86.7341,
+                "y": 159.1471,
+                "z": -41.684834
+              }
+            },
+            {
+              "type": "MOUTH_CENTER",
+              "position": {
+                "x": 77.53391,
+                "y": 158.84424,
+                "z": -22.817938
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_RIGHT",
+              "position": {
+                "x": 83.02121,
+                "y": 138.85184,
+                "z": -36.198746
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_LEFT",
+              "position": {
+                "x": 83.56636,
+                "y": 138.13332,
+                "z": -10.161863
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_CENTER",
+              "position": {
+                "x": 75.30376,
+                "y": 141.93257,
+                "z": -23.034393
+              }
+            },
+            {
+              "type": "LEFT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 89.19156,
+                "y": 105.57681,
+                "z": 0.04277297
+              }
+            },
+            {
+              "type": "LEFT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 92.10566,
+                "y": 109.657974,
+                "z": -9.464137
+              }
+            },
+            {
+              "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 91.386314,
+                "y": 112.279,
+                "z": 0.09308837
+              }
+            },
+            {
+              "type": "LEFT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 96.571884,
+                "y": 109.562126,
+                "z": 9.454277
+              }
+            },
+            {
+              "type": "LEFT_EYE_PUPIL",
+              "position": {
+                "x": 90.971436,
+                "y": 109.027115,
+                "z": 0.82538724
+              }
+            },
+            {
+              "type": "RIGHT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 88.47296,
+                "y": 106.25137,
+                "z": -47.532307
+              }
+            },
+            {
+              "type": "RIGHT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 96.008385,
+                "y": 110.28398,
+                "z": -57.15708
+              }
+            },
+            {
+              "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 90.646774,
+                "y": 112.69664,
+                "z": -47.43615
+              }
+            },
+            {
+              "type": "RIGHT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 91.625595,
+                "y": 110.070496,
+                "z": -37.966167
+              }
+            },
+            {
+              "type": "RIGHT_EYE_PUPIL",
+              "position": {
+                "x": 90.15735,
+                "y": 109.712585,
+                "z": -47.998413
+              }
+            },
+            {
+              "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 88.14652,
+                "y": 91.57762,
+                "z": 1.8878702
+              }
+            },
+            {
+              "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 87.353,
+                "y": 92.32375,
+                "z": -49.742287
+              }
+            },
+            {
+              "type": "LEFT_EAR_TRAGION",
+              "position": {
+                "x": 148.99686,
+                "y": 137.44992,
+                "z": 29.96395
+              }
+            },
+            {
+              "type": "RIGHT_EAR_TRAGION",
+              "position": {
+                "x": 148.53296,
+                "y": 140.19373,
+                "z": -79.05528
+              }
+            },
+            {
+              "type": "FOREHEAD_GLABELLA",
+              "position": {
+                "x": 81.78901,
+                "y": 96.53015,
+                "z": -23.779854
+              }
+            },
+            {
+              "type": "CHIN_GNATHION",
+              "position": {
+                "x": 82.77104,
+                "y": 189.56148,
+                "z": -22.450968
+              }
+            },
+            {
+              "type": "CHIN_LEFT_GONION",
+              "position": {
+                "x": 126.84816,
+                "y": 166.05196,
+                "z": 25.502945
+              }
+            },
+            {
+              "type": "CHIN_RIGHT_GONION",
+              "position": {
+                "x": 125.366264,
+                "y": 167.46634,
+                "z": -72.41263
+              }
+            }
+          ],
+          "rollAngle": 5.4143972,
+          "panAngle": -90.77538,
+          "tiltAngle": -0.89683455,
+          "detectionConfidence": 0.6032078,
+          "landmarkingConfidence": 0.28193983,
+          "joyLikelihood": "VERY_UNLIKELY",
+          "sorrowLikelihood": "VERY_UNLIKELY",
+          "angerLikelihood": "VERY_UNLIKELY",
+          "surpriseLikelihood": "VERY_UNLIKELY",
+          "underExposedLikelihood": "VERY_UNLIKELY",
+          "blurredLikelihood": "VERY_UNLIKELY",
+          "headwearLikelihood": "VERY_LIKELY"
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/01g317",
+          "description": "person",
+          "score": 0.8993497
+        },
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.71131516
+        },
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.58262455
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "zh-Hant",
+          "description": "凈,\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 18,
+                "y": 301
+              },
+              {
+                "x": 46,
+                "y": 301
+              },
+              {
+                "x": 46,
+                "y": 321
+              },
+              {
+                "x": 18,
+                "y": 321
+              }
+            ]
+          }
+        },
+        {
+          "description": "凈",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 47,
+                "y": 321
+              },
+              {
+                "x": 22,
+                "y": 321
+              },
+              {
+                "x": 22,
+                "y": 301
+              },
+              {
+                "x": 47,
+                "y": 301
+              }
+            ]
+          }
+        },
+        {
+          "description": ",",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 22,
+                "y": 318
+              },
+              {
+                "x": 19,
+                "y": 318
+              },
+              {
+                "x": 19,
+                "y": 312
+              },
+              {
+                "x": 22,
+                "y": 312
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 21,
+                "green": 13,
+                "blue": 13
+              },
+              "score": 0.33856407,
+              "pixelFraction": 0.2855024
+            },
+            {
+              "color": {
+                "red": 74,
+                "green": 42,
+                "blue": 29
+              },
+              "score": 0.083803535,
+              "pixelFraction": 0.073229514
+            },
+            {
+              "color": {
+                "red": 41,
+                "green": 13,
+                "blue": 13
+              },
+              "score": 0.14536066,
+              "pixelFraction": 0.06544308
+            },
+            {
+              "color": {
+                "red": 52,
+                "green": 18,
+                "blue": 10
+              },
+              "score": 0.07309566,
+              "pixelFraction": 0.039673712
+            },
+            {
+              "color": {
+                "red": 140,
+                "green": 31,
+                "blue": 19
+              },
+              "score": 0.0005878191,
+              "pixelFraction": 0.007044865
+            },
+            {
+              "color": {
+                "red": 107,
+                "green": 73,
+                "blue": 55
+              },
+              "score": 0.041497275,
+              "pixelFraction": 0.062013347
+            },
+            {
+              "color": {
+                "red": 57,
+                "green": 47,
+                "blue": 45
+              },
+              "score": 0.0401581,
+              "pixelFraction": 0.027994068
+            },
+            {
+              "color": {
+                "red": 101,
+                "green": 79,
+                "blue": 59
+              },
+              "score": 0.03689825,
+              "pixelFraction": 0.021134594
+            },
+            {
+              "color": {
+                "red": 90,
+                "green": 81,
+                "blue": 80
+              },
+              "score": 0.034774274,
+              "pixelFraction": 0.02437894
+            },
+            {
+              "color": {
+                "red": 67,
+                "green": 47,
+                "blue": 31
+              },
+              "score": 0.03007392,
+              "pixelFraction": 0.017055988
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 281
+                },
+                {
+                  "x": 281,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 1,
+            "importanceFraction": 2.61
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "zh-Hant"
+                }
+              ]
+            },
+            "width": 282,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "zh-Hant"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 18,
+                      "y": 301
+                    },
+                    {
+                      "x": 46,
+                      "y": 301
+                    },
+                    {
+                      "x": 46,
+                      "y": 321
+                    },
+                    {
+                      "x": 18,
+                      "y": 321
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "zh-Hant"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 18,
+                          "y": 301
+                        },
+                        {
+                          "x": 46,
+                          "y": 301
+                        },
+                        {
+                          "x": 46,
+                          "y": 321
+                        },
+                        {
+                          "x": 18,
+                          "y": 321
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "zh-Hant"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 47,
+                              "y": 321
+                            },
+                            {
+                              "x": 22,
+                              "y": 321
+                            },
+                            {
+                              "x": 22,
+                              "y": 301
+                            },
+                            {
+                              "x": 47,
+                              "y": 301
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "zh-Hant"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 47,
+                                  "y": 321
+                                },
+                                {
+                                  "x": 22,
+                                  "y": 321
+                                },
+                                {
+                                  "x": 22,
+                                  "y": 301
+                                },
+                                {
+                                  "x": 47,
+                                  "y": 301
+                                }
+                              ]
+                            },
+                            "text": "凈"
+                          }
+                        ]
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 22,
+                              "y": 318
+                            },
+                            {
+                              "x": 19,
+                              "y": 318
+                            },
+                            {
+                              "x": 19,
+                              "y": 312
+                            },
+                            {
+                              "x": 22,
+                              "y": 312
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "zh-Hant"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 22,
+                                  "y": 318
+                                },
+                                {
+                                  "x": 19,
+                                  "y": 318
+                                },
+                                {
+                                  "x": 19,
+                                  "y": 312
+                                },
+                                {
+                                  "x": 22,
+                                  "y": 312
+                                }
+                              ]
+                            },
+                            "text": ","
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "凈,\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0gjnmg",
+            "score": 6.50656,
+            "description": "Museo Correr"
+          },
+          {
+            "entityId": "/m/0b74qb7",
+            "score": 2.15444,
+            "description": "Portrait of a Young Man"
+          },
+          {
+            "entityId": "/m/0hnck25",
+            "score": 1.45816,
+            "description": "Baldassare Estense"
+          },
+          {
+            "entityId": "/m/02ry5zj",
+            "score": 1.23264,
+            "description": "Portrait of a Man (Self Portrait?)"
+          },
+          {
+            "entityId": "/m/06cvx",
+            "score": 0.79848,
+            "description": "Renaissance"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://www.wga.hu/art/a/antonio/crevalco/portrait.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/5b/16/16/5b16164875809afce867e18e14920144.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/detail_s/a/antonio/crevalco/portrait.jpg"
+          },
+          {
+            "url": "http://i.ebayimg.com/thumbs/images/m/mQGTduLsRUC8dNMzOhUrCtg/s-l225.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://68.media.tumblr.com/6919b0e65c3e08537adbf81d8f79648b/tumblr_onquumacEQ1ubw1fbo1_1280.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/art/a/antonio/crevalco/portrait.jpg"
+          },
+          {
+            "url": "http://www.outpost-art.org/images/Baldassare%20Estense/Portrait%20of%20a%20Young%20Man.jpg"
+          },
+          {
+            "url": "https://blog-001.west.edge.storage-yahoo.jp/res/blog-1f-9f/mitosya/folder/813919/83/30798783/img_4?1263285737"
+          },
+          {
+            "url": "http://www.antiquares.it/wp-content/uploads/2016/11/Articolo339-1.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Baldassare_Estense"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/Category:Baldassare_D%27_Este"
+          },
+          {
+            "url": "http://www.wga.hu/html_m/b/baldassa/manportr.html"
+          },
+          {
+            "url": "http://wikivisually.com/wiki/Baldassarre_d'Este"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Baldassare_D%27_Este_-_Portrait_of_a_Young_Man_-_WGA01169.jpg"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://en.artsdot.com/ADC/Art.nsf/O/9DGC38/$File/Baldassare+D'este-Portrait+Of+A+Young+Man-S.JPG"
+          },
+          {
+            "url": "https://www.repro-tableaux.com/kunst/baldassare_d_este/portrait_young_man_alg193581_hi.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Unknown_Master_%28active_around_1480-90_in_Ferrara%29_-_Family_of_Uberto_de%27_Sacrati_-_Alte_Pinakothek.jpg"
+          },
+          {
+            "url": "https://www.art-prints-on-demand.com/kunst/baldassare_d_este/portrait_borso_deste_prince_f_hi.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/f9/f2/36/f9f236600cdd88f0f348b1a509eff965.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

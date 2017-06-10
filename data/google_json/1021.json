@@ -1,0 +1,471 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09g5pq",
+          "description": "people",
+          "score": 0.91248953
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "en",
+          "description": "iso\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 179,
+                "y": 162
+              },
+              {
+                "x": 186,
+                "y": 162
+              },
+              {
+                "x": 186,
+                "y": 176
+              },
+              {
+                "x": 179,
+                "y": 176
+              }
+            ]
+          }
+        },
+        {
+          "description": "iso",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 186,
+                "y": 163
+              },
+              {
+                "x": 184,
+                "y": 176
+              },
+              {
+                "x": 179,
+                "y": 175
+              },
+              {
+                "x": 181,
+                "y": 162
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 163,
+                "green": 51,
+                "blue": 43
+              },
+              "score": 0.115251705,
+              "pixelFraction": 0.004942768
+            },
+            {
+              "color": {
+                "red": 138,
+                "green": 53,
+                "blue": 49
+              },
+              "score": 0.110266306,
+              "pixelFraction": 0.0100589665
+            },
+            {
+              "color": {
+                "red": 153,
+                "green": 110,
+                "blue": 91
+              },
+              "score": 0.060606178,
+              "pixelFraction": 0.053850155
+            },
+            {
+              "color": {
+                "red": 246,
+                "green": 218,
+                "blue": 129
+              },
+              "score": 0.013235156,
+              "pixelFraction": 0.0028616025
+            },
+            {
+              "color": {
+                "red": 191,
+                "green": 74,
+                "blue": 62
+              },
+              "score": 0.10128006,
+              "pixelFraction": 0.006503642
+            },
+            {
+              "color": {
+                "red": 148,
+                "green": 53,
+                "blue": 39
+              },
+              "score": 0.06697823,
+              "pixelFraction": 0.0063302116
+            },
+            {
+              "color": {
+                "red": 204,
+                "green": 89,
+                "blue": 88
+              },
+              "score": 0.04544881,
+              "pixelFraction": 0.0023413112
+            },
+            {
+              "color": {
+                "red": 186,
+                "green": 139,
+                "blue": 118
+              },
+              "score": 0.045053545,
+              "pixelFraction": 0.036593825
+            },
+            {
+              "color": {
+                "red": 183,
+                "green": 88,
+                "blue": 62
+              },
+              "score": 0.043078847,
+              "pixelFraction": 0.008671523
+            },
+            {
+              "color": {
+                "red": 117,
+                "green": 75,
+                "blue": 58
+              },
+              "score": 0.03693507,
+              "pixelFraction": 0.050554976
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 300
+                },
+                {
+                  "x": 300,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "en"
+                }
+              ]
+            },
+            "width": 301,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "en"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 181,
+                      "y": 162
+                    },
+                    {
+                      "x": 186,
+                      "y": 163
+                    },
+                    {
+                      "x": 184,
+                      "y": 176
+                    },
+                    {
+                      "x": 179,
+                      "y": 175
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "en"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 179,
+                          "y": 162
+                        },
+                        {
+                          "x": 186,
+                          "y": 162
+                        },
+                        {
+                          "x": 186,
+                          "y": 176
+                        },
+                        {
+                          "x": 179,
+                          "y": 176
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 186,
+                              "y": 163
+                            },
+                            {
+                              "x": 184,
+                              "y": 176
+                            },
+                            {
+                              "x": 179,
+                              "y": 175
+                            },
+                            {
+                              "x": 181,
+                              "y": 162
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 186,
+                                  "y": 163
+                                },
+                                {
+                                  "x": 185,
+                                  "y": 170
+                                },
+                                {
+                                  "x": 180,
+                                  "y": 169
+                                },
+                                {
+                                  "x": 181,
+                                  "y": 162
+                                }
+                              ]
+                            },
+                            "text": "i"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 185,
+                                  "y": 171
+                                },
+                                {
+                                  "x": 184,
+                                  "y": 174
+                                },
+                                {
+                                  "x": 181,
+                                  "y": 173
+                                },
+                                {
+                                  "x": 181,
+                                  "y": 170
+                                }
+                              ]
+                            },
+                            "text": "s"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 184,
+                                  "y": 174
+                                },
+                                {
+                                  "x": 184,
+                                  "y": 176
+                                },
+                                {
+                                  "x": 181,
+                                  "y": 175
+                                },
+                                {
+                                  "x": 181,
+                                  "y": 173
+                                }
+                              ]
+                            },
+                            "text": "o"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "iso\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/036_2f",
+            "score": 6.32112,
+            "description": "Galleria Borghese"
+          },
+          {
+            "entityId": "/m/031y2",
+            "score": 1.05556,
+            "description": "Florence"
+          },
+          {
+            "entityId": "/g/12240_sd",
+            "score": 0.75046
+          },
+          {
+            "entityId": "/m/0jg24",
+            "score": 0.37782,
+            "description": "Image"
+          },
+          {
+            "entityId": "/m/02cc4s",
+            "score": 0.31356,
+            "description": "Giclée"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://bibleartists.files.wordpress.com/2011/01/joseph-the-discovery-of-the-stolen-cup-bacchiacca.jpg"
+          },
+          {
+            "url": "http://www.eurocles.com/data/peinture/b/bacchiacca/bacchiacca%20-%20Scenes%20from%20the%20Story%20of%20Joseph-%20The%20Discovery%20of%20the%20Stolen%20Cup.%201515-1516.%20Oil%20on%20wood.%2026%20x%2014%20cm.%20Galleria%20Borghese,%20Rome,%20Italy.jpg"
+          },
+          {
+            "url": "https://itineraireiconographique.files.wordpress.com/2012/11/bacchiacca-the-discovery-of-the-stolen-cup.jpg"
+          },
+          {
+            "url": "http://cfile226.uf.daum.net/image/2761644554C8AFC5026CD6"
+          },
+          {
+            "url": "http://postfiles16.naver.net/20111102_15/wabool_1320192859533oCWJ9_JPEG/joseph41.jpg?type=w2"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://3.bp.blogspot.com/-GppMqiGx3xI/WID09LhPQtI/AAAAAAABE6c/xFPntdeg3Lw5D8F3Qjy8VX1gOm-F_H1GQCLcB/s1600/%25D0%2598%25D1%2581%25D1%2582%25D0%25BE%25D1%2580%25D0%25B8%25D1%258F%2B%25D0%2598%25D0%25BE%25D1%2581%25D0%25B8%25D1%2584%25D0%25B0%2B%2528The%2BStory%2Bof%2BJoseph%2529_5_%25D0%259D%25D0%25B0%25D1%2585%25D0%25BE%25D0%25B6%25D0%25B4%25D0%25B5%25D0%25BD%25D0%25B8%25D0%25B5%2B%25D1%2587%25D0%25B0%25D1%2588%25D0%25B8%2B%25D0%2598%25D0%25BE%25D1%2581%25D0%25B8%25D1%2584%25D0%25B0%2B%2528The%2BDiscovery%2Bof%2Bthe%2BStolen%2BCup%2529_%25D0%25BE%25D0%25BA.1515_26%2B%25D1%2585%2B14_%25D0%25B4.%252C%25D0%25BC._%25D0%25A0%25D0%25B8%25D0%25BC%252C%2B%25D0%2593%25D0%25B0%25D0%25BB%25D0%25B5%25D1%2580%25D0%25B5%25D1%258F%2B%25D0%2591%25D0%25BE%25D1%2580%25D0%25B3%25D0%25B5%25D0%25B7%25D0%25B5.jpg"
+          },
+          {
+            "url": "https://bibleartists.files.wordpress.com/2011/01/joseph-the-discovery-of-the-stolen-cup-bacchiacca.jpg"
+          },
+          {
+            "url": "http://4.bp.blogspot.com/-FGFOnSwbvfA/VGkyF6v1d_I/AAAAAAAD_sA/ynNDmpz3KgQ/s1600/Francesco%2BBacchiacca%2BTutt'Art%40%2B(18).jpg"
+          },
+          {
+            "url": "http://www.eurocles.com/data/peinture/b/bacchiacca/bacchiacca%20-%20Scenes%20from%20the%20Story%20of%20Joseph-%20The%20Discovery%20of%20the%20Stolen%20Cup.%201515-1516.%20Oil%20on%20wood.%2026%20x%2014%20cm.%20Galleria%20Borghese,%20Rome,%20Italy.jpg"
+          },
+          {
+            "url": "https://itineraireiconographique.files.wordpress.com/2012/11/bacchiacca-the-discovery-of-the-stolen-cup.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://en.wahooart.com/@@/9GZFWH-Francesco-D'ubertino-Verdi-(Bacchiacca)-Scenes-from-the-Story-of-Joseph:-The-Discovery-of-the-Stolen-Cup-(detail)"
+          },
+          {
+            "url": "http://en.wahooart.com/@@/8Y32AH-Francesco-D'ubertino-Verdi-(Bacchiacca)-Francesco-D'ubertino-Verdi-(Bacchiacca)--Scenes-from-the-Story-of-Joseph:-.."
+          },
+          {
+            "url": "http://www.wga.hu/frames-e.html?/html/b/bacchiac/index.html"
+          },
+          {
+            "url": "https://bibleartists.wordpress.com/tag/joseph/"
+          },
+          {
+            "url": "https://bibleartists.wordpress.com/tag/bacchiacca/"
+          }
+        ]
+      }
+    }
+  ]
+}

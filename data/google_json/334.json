@@ -1,0 +1,230 @@
+{
+  "responses": [
+    {
+      "logoAnnotations": [
+        {
+          "description": "The Virgin and Child with Ten Saints",
+          "score": 0.3957755,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 31,
+                "y": 58
+              },
+              {
+                "x": 222,
+                "y": 58
+              },
+              {
+                "x": 222,
+                "y": 198
+              },
+              {
+                "x": 31,
+                "y": 198
+              }
+            ]
+          }
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/01g317",
+          "description": "person",
+          "score": 0.91211885
+        },
+        {
+          "mid": "/m/0jts3",
+          "description": "presbyter",
+          "score": 0.7570597
+        },
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.68167007
+        },
+        {
+          "mid": "/m/0djmp",
+          "description": "ancient history",
+          "score": 0.63274074
+        },
+        {
+          "mid": "/m/0mf2",
+          "description": "abbot",
+          "score": 0.6280766
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 150,
+                "green": 117,
+                "blue": 58
+              },
+              "score": 0.24654597,
+              "pixelFraction": 0.18981704
+            },
+            {
+              "color": {
+                "red": 24,
+                "green": 27,
+                "blue": 24
+              },
+              "score": 0.14760447,
+              "pixelFraction": 0.061506983
+            },
+            {
+              "color": {
+                "red": 153,
+                "green": 64,
+                "blue": 45
+              },
+              "score": 0.098217756,
+              "pixelFraction": 0.034665383
+            },
+            {
+              "color": {
+                "red": 153,
+                "green": 109,
+                "blue": 57
+              },
+              "score": 0.0884116,
+              "pixelFraction": 0.07221955
+            },
+            {
+              "color": {
+                "red": 39,
+                "green": 42,
+                "blue": 36
+              },
+              "score": 0.043687936,
+              "pixelFraction": 0.043331727
+            },
+            {
+              "color": {
+                "red": 125,
+                "green": 77,
+                "blue": 39
+              },
+              "score": 0.03801928,
+              "pixelFraction": 0.02768416
+            },
+            {
+              "color": {
+                "red": 37,
+                "green": 28,
+                "blue": 12
+              },
+              "score": 0.03705979,
+              "pixelFraction": 0.010953298
+            },
+            {
+              "color": {
+                "red": 174,
+                "green": 139,
+                "blue": 77
+              },
+              "score": 0.036840495,
+              "pixelFraction": 0.18825229
+            },
+            {
+              "color": {
+                "red": 56,
+                "green": 44,
+                "blue": 22
+              },
+              "score": 0.0323768,
+              "pixelFraction": 0.024915744
+            },
+            {
+              "color": {
+                "red": 105,
+                "green": 81,
+                "blue": 52
+              },
+              "score": 0.030008836,
+              "pixelFraction": 0.033100627
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 215
+                },
+                {
+                  "y": 215
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0y535w9",
+            "score": 1.32264,
+            "description": "Virgin and Child"
+          },
+          {
+            "entityId": "/m/0jts3",
+            "score": 1.096692,
+            "description": "Presbyter"
+          },
+          {
+            "entityId": "/m/0djmp",
+            "score": 0.56782246,
+            "description": "Ancient history"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.5289479,
+            "description": "Painting"
+          },
+          {
+            "entityId": "/m/0719f",
+            "score": 0.48094,
+            "description": "Saint"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/fd/c8/cc/fdc8cc4b08c26b8c1610f5b861f9fb62.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/4e/03/0f/4e030fdb2916055b005adeb6a67502ee.jpg"
+          },
+          {
+            "url": "http://www.museumsinflorence.com/uffizi/13/image/cimabue.jpg"
+          },
+          {
+            "url": "https://www.antiquesandthearts.com/wp-content/uploads/2015/07//2010-07-09__14-10-54Image1.GIF"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/ff/79/b1/ff79b1d78480ba84f59d45483b6a382f.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

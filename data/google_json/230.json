@@ -1,0 +1,502 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.8403381
+        },
+        {
+          "mid": "/m/0170gz",
+          "description": "nativity scene",
+          "score": 0.83200574
+        },
+        {
+          "mid": "/m/05fc9mj",
+          "description": "christmas decoration",
+          "score": 0.7716341
+        },
+        {
+          "mid": "/m/0djmp",
+          "description": "ancient history",
+          "score": 0.67805356
+        },
+        {
+          "mid": "/m/04rjz",
+          "description": "middle ages",
+          "score": 0.6537375
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "cy",
+          "description": "iau\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 331,
+                "y": 13
+              },
+              {
+                "x": 344,
+                "y": 13
+              },
+              {
+                "x": 344,
+                "y": 18
+              },
+              {
+                "x": 331,
+                "y": 18
+              }
+            ]
+          }
+        },
+        {
+          "description": "iau",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 345,
+                "y": 17
+              },
+              {
+                "x": 332,
+                "y": 18
+              },
+              {
+                "x": 332,
+                "y": 14
+              },
+              {
+                "x": 345,
+                "y": 13
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 136,
+                "green": 118,
+                "blue": 92
+              },
+              "score": 0.21737973,
+              "pixelFraction": 0.16376053
+            },
+            {
+              "color": {
+                "red": 23,
+                "green": 20,
+                "blue": 15
+              },
+              "score": 0.023231594,
+              "pixelFraction": 0.034219705
+            },
+            {
+              "color": {
+                "red": 169,
+                "green": 151,
+                "blue": 122
+              },
+              "score": 0.2005585,
+              "pixelFraction": 0.13201104
+            },
+            {
+              "color": {
+                "red": 100,
+                "green": 83,
+                "blue": 60
+              },
+              "score": 0.15277235,
+              "pixelFraction": 0.14879395
+            },
+            {
+              "color": {
+                "red": 67,
+                "green": 51,
+                "blue": 31
+              },
+              "score": 0.08136066,
+              "pixelFraction": 0.06858471
+            },
+            {
+              "color": {
+                "red": 75,
+                "green": 43,
+                "blue": 23
+              },
+              "score": 0.062463056,
+              "pixelFraction": 0.034946237
+            },
+            {
+              "color": {
+                "red": 206,
+                "green": 187,
+                "blue": 157
+              },
+              "score": 0.041057732,
+              "pixelFraction": 0.05201976
+            },
+            {
+              "color": {
+                "red": 110,
+                "green": 77,
+                "blue": 52
+              },
+              "score": 0.02888654,
+              "pixelFraction": 0.029424585
+            },
+            {
+              "color": {
+                "red": 148,
+                "green": 112,
+                "blue": 87
+              },
+              "score": 0.027974589,
+              "pixelFraction": 0.017945364
+            },
+            {
+              "color": {
+                "red": 40,
+                "green": 27,
+                "blue": 11
+              },
+              "score": 0.020862032,
+              "pixelFraction": 0.012786981
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 358
+                },
+                {
+                  "x": 358,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "cy"
+                }
+              ]
+            },
+            "width": 359,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "cy"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 345,
+                      "y": 13
+                    },
+                    {
+                      "x": 345,
+                      "y": 17
+                    },
+                    {
+                      "x": 332,
+                      "y": 18
+                    },
+                    {
+                      "x": 332,
+                      "y": 14
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "cy"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 331,
+                          "y": 13
+                        },
+                        {
+                          "x": 344,
+                          "y": 13
+                        },
+                        {
+                          "x": 344,
+                          "y": 18
+                        },
+                        {
+                          "x": 331,
+                          "y": 18
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "cy"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 345,
+                              "y": 17
+                            },
+                            {
+                              "x": 332,
+                              "y": 18
+                            },
+                            {
+                              "x": 332,
+                              "y": 14
+                            },
+                            {
+                              "x": 345,
+                              "y": 13
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "cy"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 345,
+                                  "y": 17
+                                },
+                                {
+                                  "x": 345,
+                                  "y": 17
+                                },
+                                {
+                                  "x": 345,
+                                  "y": 14
+                                },
+                                {
+                                  "x": 345,
+                                  "y": 14
+                                }
+                              ]
+                            },
+                            "text": "i"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "cy"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 344,
+                                  "y": 17
+                                },
+                                {
+                                  "x": 336,
+                                  "y": 18
+                                },
+                                {
+                                  "x": 336,
+                                  "y": 14
+                                },
+                                {
+                                  "x": 344,
+                                  "y": 13
+                                }
+                              ]
+                            },
+                            "text": "a"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "cy"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 335,
+                                  "y": 17
+                                },
+                                {
+                                  "x": 332,
+                                  "y": 17
+                                },
+                                {
+                                  "x": 332,
+                                  "y": 14
+                                },
+                                {
+                                  "x": 335,
+                                  "y": 14
+                                }
+                              ]
+                            },
+                            "text": "u"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "iau\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0274ymm",
+            "score": 19.32352,
+            "description": "Basilica of Saint Anthony of Padua"
+          },
+          {
+            "entityId": "/m/05zs2ws",
+            "score": 11.37808,
+            "description": "St. George's Oratory, Padua"
+          },
+          {
+            "entityId": "/m/0gb3hc",
+            "score": 2.99264,
+            "description": "Zevio"
+          },
+          {
+            "entityId": "/g/119v4pnk3",
+            "score": 2.56256
+          },
+          {
+            "entityId": "/m/02dt8z",
+            "score": 1.16262,
+            "description": "Adoration of the Magi"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://img-fotki.yandex.ru/get/15542/109816945.9c/0_c3f0f_fa9226ed_XXL.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/51/b9/21/51b92148a6528a13f9591c4972bbee07.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/detail_s/a/altichie/1/2christ3.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://1.bp.blogspot.com/-Wsk0tsL2X5A/Uxodxd7ShWI/AAAAAAAAI9E/qLXlvrLY5-E/s1600/ALTICHIERO+da+Zevio,+Oratorio+di+San+Giorgio,+Padua+1380.jpg"
+          },
+          {
+            "url": "https://bibleartists.files.wordpress.com/2011/02/3d-adoration-of-the-magi-altichiero-medieval.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/art/a/altichie/1/2christ2.jpg"
+          },
+          {
+            "url": "https://saylingaway.files.wordpress.com/2014/04/adoration-of-the-magi-1380s.jpg"
+          },
+          {
+            "url": "https://farm6.static.flickr.com/5238/5908090605_b636ef5c36_b.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.wga.hu/html_m/a/altichie/1/2christ3.html"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/521995413036536823/"
+          },
+          {
+            "url": "https://www.pinterest.com/venetoculturaor/altichiero-da-zevio/"
+          },
+          {
+            "url": "http://www.encyclopedie.bseditions.fr/article.php?pArticleId=167&pChapitreId=32229&pSousChapitreId=32233&pArticleLib=Altichiero+da+Zevio+%5BLes+%AB%A0Primitifs%A0%BB+italiens+%28Histoire+de+l%27art%29-%3EL%92%E9cole+de+Padoue%5D"
+          },
+          {
+            "url": "http://www.houzz.com/photos/11231602/Altichiero-Da-Zevio-Adoration-of-the-Magi-16-x-20-Premium-Archival-Print-traditional-prints-and-posters"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://i1368.photobucket.com/albums/ag182/Trianarts7/-%20-%20780%20-%20Blog%20-%202%20-%20Altichiero%20de%20Zevio/780%20Altichiero%20da%20Zevio%20-%204%20Adoracioacuten%20de%20los%20magos_zpskputlr5g.jpg~original"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/14/2b/82/142b82385596994d78561f9a8c4bdb0a.jpg"
+          },
+          {
+            "url": "http://en.wahooart.com/Art.nsf/O/A25V7A/$File/Altichiero-da_Zevio_The_Execution_Of_Saint_George-S.JPG"
+          },
+          {
+            "url": "http://i1368.photobucket.com/albums/ag182/Trianarts7/-%20-%20780%20-%20Blog%20-%202%20-%20Altichiero%20de%20Zevio/780%20Altichiero%20da%20Zevio%20-%2018%20Decapitation%20of%20Saint%20George_zps3tiad4nz.jpg~original"
+          },
+          {
+            "url": "https://media1.britannica.com/eb-media/16/13516-004-045A8D17.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

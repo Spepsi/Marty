@@ -1,0 +1,475 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01gd91",
+          "description": "pasture",
+          "score": 0.8750916
+        },
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.7993161
+        },
+        {
+          "mid": "/m/02_fkk",
+          "description": "mustang horse",
+          "score": 0.7753693
+        },
+        {
+          "mid": "/m/03vd46",
+          "description": "herd",
+          "score": 0.7008835
+        },
+        {
+          "mid": "/m/03hh2k",
+          "description": "grazing",
+          "score": 0.61664826
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "en",
+          "description": "e54\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "y": 16
+              },
+              {
+                "x": 23,
+                "y": 16
+              },
+              {
+                "x": 23,
+                "y": 31
+              },
+              {
+                "y": 31
+              }
+            ]
+          }
+        },
+        {
+          "description": "e54",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "y": 21
+              },
+              {
+                "x": 20,
+                "y": 16
+              },
+              {
+                "x": 23,
+                "y": 25
+              },
+              {
+                "x": 3,
+                "y": 31
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 102,
+                "green": 84,
+                "blue": 24
+              },
+              "score": 0.21895534,
+              "pixelFraction": 0.13959293
+            },
+            {
+              "color": {
+                "red": 208,
+                "green": 194,
+                "blue": 162
+              },
+              "score": 0.078954995,
+              "pixelFraction": 0.057891704
+            },
+            {
+              "color": {
+                "red": 117,
+                "green": 71,
+                "blue": 23
+              },
+              "score": 0.13395268,
+              "pixelFraction": 0.019873273
+            },
+            {
+              "color": {
+                "red": 131,
+                "green": 115,
+                "blue": 57
+              },
+              "score": 0.092196204,
+              "pixelFraction": 0.08515745
+            },
+            {
+              "color": {
+                "red": 161,
+                "green": 155,
+                "blue": 122
+              },
+              "score": 0.05663364,
+              "pixelFraction": 0.049923196
+            },
+            {
+              "color": {
+                "red": 129,
+                "green": 123,
+                "blue": 88
+              },
+              "score": 0.04484306,
+              "pixelFraction": 0.03456221
+            },
+            {
+              "color": {
+                "red": 138,
+                "green": 61,
+                "blue": 21
+              },
+              "score": 0.040641326,
+              "pixelFraction": 0.0021121353
+            },
+            {
+              "color": {
+                "red": 174,
+                "green": 153,
+                "blue": 93
+              },
+              "score": 0.039854895,
+              "pixelFraction": 0.028513825
+            },
+            {
+              "color": {
+                "red": 137,
+                "green": 112,
+                "blue": 29
+              },
+              "score": 0.029819759,
+              "pixelFraction": 0.020065283
+            },
+            {
+              "color": {
+                "red": 75,
+                "green": 58,
+                "blue": 9
+              },
+              "score": 0.027773637,
+              "pixelFraction": 0.045986943
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 271
+                },
+                {
+                  "y": 271
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "en"
+                }
+              ]
+            },
+            "width": 400,
+            "height": 272,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "en"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "y": 21
+                    },
+                    {
+                      "x": 20,
+                      "y": 16
+                    },
+                    {
+                      "x": 23,
+                      "y": 25
+                    },
+                    {
+                      "x": 3,
+                      "y": 31
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "en"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "y": 16
+                        },
+                        {
+                          "x": 23,
+                          "y": 16
+                        },
+                        {
+                          "x": 23,
+                          "y": 31
+                        },
+                        {
+                          "y": 31
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "y": 21
+                            },
+                            {
+                              "x": 20,
+                              "y": 16
+                            },
+                            {
+                              "x": 23,
+                              "y": 25
+                            },
+                            {
+                              "x": 3,
+                              "y": 31
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "y": 21
+                                },
+                                {
+                                  "x": 3,
+                                  "y": 20
+                                },
+                                {
+                                  "x": 5,
+                                  "y": 27
+                                },
+                                {
+                                  "x": 2,
+                                  "y": 28
+                                }
+                              ]
+                            },
+                            "text": "e"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 10,
+                                  "y": 20
+                                },
+                                {
+                                  "x": 14,
+                                  "y": 19
+                                },
+                                {
+                                  "x": 16,
+                                  "y": 27
+                                },
+                                {
+                                  "x": 12,
+                                  "y": 28
+                                }
+                              ]
+                            },
+                            "text": "5"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 16,
+                                  "y": 19
+                                },
+                                {
+                                  "x": 21,
+                                  "y": 18
+                                },
+                                {
+                                  "x": 23,
+                                  "y": 25
+                                },
+                                {
+                                  "x": 18,
+                                  "y": 27
+                                }
+                              ]
+                            },
+                            "text": "4"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "e54\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/02_fkk",
+            "score": 2.5279136,
+            "description": "Mustang"
+          },
+          {
+            "entityId": "/m/0gz6g",
+            "score": 0.71599,
+            "description": "Auction"
+          },
+          {
+            "entityId": "/m/0k9yqrg",
+            "score": 0.63528,
+            "description": "Horses by a Stream"
+          },
+          {
+            "entityId": "/m/02r7hln",
+            "score": 0.38978,
+            "description": "Artnet"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.38708115,
+            "description": "Painting"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://images.arcadja.com/agasse_jacques_laurent-a_gentleman_with_horses_by_a_stream~OM7ef300~10000_20151210_l15037_195.jpg"
+          },
+          {
+            "url": "http://www.artnet.com/WebServices/images/ll00115lldV1PFFgbNECfDrCWQFHPKc20C/charles-towne-horses-watering-at-a-pond,-with-a-rider-and-his-dog-in-a-wooded-landscape.jpg"
+          },
+          {
+            "url": "http://www.artnet.com/WebServices/images/ll00195lldKTFJFgVeECfDrCWQFHPKc8RxE/jacques-laurent-agasse-a-gentleman-with-horses-by-a-stream.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.artnet.com/artists/jacques-laurent-agasse/past-auction-results"
+          },
+          {
+            "url": "http://www.artnet.com/artists/charles-towne-2/past-auction-results/8"
+          },
+          {
+            "url": "http://www.arcadja.com/auctions/en/agasse_jacques_laurent/artist/179/"
+          },
+          {
+            "url": "http://www.artnet.fr/artistes/jacques-laurent-agasse/r%C3%A9sultats-de-ventes"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/05/77/04/057704e2e4d4f01a1856b68468e23f50.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/3e/89/c2/3e89c2303eee9891a485ec734a2618d7.jpg"
+          },
+          {
+            "url": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/abdul-medschid-the-chestnut-arab-horse-carl-constantin-steffeck.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Orville_%28horse%29.JPG"
+          },
+          {
+            "url": "https://mimimatthews.files.wordpress.com/2015/12/a-bay-horse-approached-by-a-stable-lad-with-food-and-a-halter-by-george-garrard-1789.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

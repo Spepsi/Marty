@@ -1,0 +1,444 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.89099866
+        },
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.6898636
+        },
+        {
+          "mid": "/m/0by3l3",
+          "description": "high priest",
+          "score": 0.53002596
+        },
+        {
+          "mid": "/m/0hyb2",
+          "description": "altar",
+          "score": 0.52578944
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "en",
+          "description": "5\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 261,
+                "y": 79
+              },
+              {
+                "x": 267,
+                "y": 79
+              },
+              {
+                "x": 267,
+                "y": 91
+              },
+              {
+                "x": 261,
+                "y": 91
+              }
+            ]
+          }
+        },
+        {
+          "description": "5",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 263,
+                "y": 79
+              },
+              {
+                "x": 268,
+                "y": 79
+              },
+              {
+                "x": 267,
+                "y": 91
+              },
+              {
+                "x": 262,
+                "y": 91
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 193,
+                "green": 143,
+                "blue": 66
+              },
+              "score": 0.15582019,
+              "pixelFraction": 0.08701188
+            },
+            {
+              "color": {
+                "red": 147,
+                "green": 58,
+                "blue": 29
+              },
+              "score": 0.07101486,
+              "pixelFraction": 0.029541597
+            },
+            {
+              "color": {
+                "red": 23,
+                "green": 23,
+                "blue": 41
+              },
+              "score": 0.009424541,
+              "pixelFraction": 0.049320884
+            },
+            {
+              "color": {
+                "red": 40,
+                "green": 38,
+                "blue": 72
+              },
+              "score": 0.009177928,
+              "pixelFraction": 0.012308998
+            },
+            {
+              "color": {
+                "red": 163,
+                "green": 113,
+                "blue": 40
+              },
+              "score": 0.09393211,
+              "pixelFraction": 0.05500849
+            },
+            {
+              "color": {
+                "red": 193,
+                "green": 152,
+                "blue": 68
+              },
+              "score": 0.086189814,
+              "pixelFraction": 0.07020374
+            },
+            {
+              "color": {
+                "red": 196,
+                "green": 143,
+                "blue": 85
+              },
+              "score": 0.068318374,
+              "pixelFraction": 0.027419355
+            },
+            {
+              "color": {
+                "red": 163,
+                "green": 41,
+                "blue": 31
+              },
+              "score": 0.06587016,
+              "pixelFraction": 0.030050933
+            },
+            {
+              "color": {
+                "red": 164,
+                "green": 110,
+                "blue": 58
+              },
+              "score": 0.06514802,
+              "pixelFraction": 0.037011884
+            },
+            {
+              "color": {
+                "red": 178,
+                "green": 89,
+                "blue": 56
+              },
+              "score": 0.04328388,
+              "pixelFraction": 0.016213922
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 307
+                },
+                {
+                  "x": 307,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "en"
+                }
+              ]
+            },
+            "width": 308,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "en"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 268,
+                      "y": 79
+                    },
+                    {
+                      "x": 267,
+                      "y": 91
+                    },
+                    {
+                      "x": 262,
+                      "y": 91
+                    },
+                    {
+                      "x": 263,
+                      "y": 79
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "en"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 261,
+                          "y": 79
+                        },
+                        {
+                          "x": 267,
+                          "y": 79
+                        },
+                        {
+                          "x": 267,
+                          "y": 91
+                        },
+                        {
+                          "x": 261,
+                          "y": 91
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 263,
+                              "y": 79
+                            },
+                            {
+                              "x": 268,
+                              "y": 79
+                            },
+                            {
+                              "x": 267,
+                              "y": 91
+                            },
+                            {
+                              "x": 262,
+                              "y": 91
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 263,
+                                  "y": 79
+                                },
+                                {
+                                  "x": 268,
+                                  "y": 79
+                                },
+                                {
+                                  "x": 267,
+                                  "y": 91
+                                },
+                                {
+                                  "x": 262,
+                                  "y": 91
+                                }
+                              ]
+                            },
+                            "text": "5"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "5\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/01hfkb",
+            "score": 2.40776,
+            "description": "Vatican Museums"
+          },
+          {
+            "entityId": "/m/0k8bs0n",
+            "score": 1.22172,
+            "description": "Madonna of Humility"
+          },
+          {
+            "entityId": "/m/05zpzj5",
+            "score": 1.21976,
+            "description": "San Marco Altarpiece"
+          },
+          {
+            "entityId": "/m/06cvx",
+            "score": 0.72266,
+            "description": "Renaissance"
+          },
+          {
+            "entityId": "/m/011wwz",
+            "score": 0.70169,
+            "description": "Madonna"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://3.bp.blogspot.com/-_Zoj6Hr2KZI/UD4fJ9iw0jI/AAAAAAAANEY/9_JpDKB2_6Y/s1600/VIRGEN+CON+S.+DOMINGO+Y+SANTA+CATALINA+DE+ALEJANDRI%CC%81A.jpg"
+          },
+          {
+            "url": "http://i29.servimg.com/u/f29/11/29/17/81/fra-an10.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/83/36/b5/8336b563203e4a6366a566a133c79cc7.jpg"
+          },
+          {
+            "url": "https://68.media.tumblr.com/71279d219810afbdbf7bc2fbc9892643/tumblr_oqlks2FMiy1w3nqtho1_500.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/1b/cf/d0/1bcfd02d9cb0aef5de6e31a4ffbb50b3.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://estudosop2.files.wordpress.com/2010/03/0063.jpg"
+          },
+          {
+            "url": "http://press.sac.or.kr/_press/000-2012/20121208%20Ex_vaticani/vaticani%20pre/014.jpg"
+          },
+          {
+            "url": "https://media.timeout.com/images/103697992/image.jpg"
+          },
+          {
+            "url": "http://caccioppoli.com/Madonna%20and%20Child/Angelico%20madonna-with-child-surrounded-by-angels-and-saints-4930.jpg"
+          },
+          {
+            "url": "https://i.ytimg.com/vi/D1Pzmm5Ox1M/maxresdefault.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.wga.hu/frames-e.html?/html/a/angelico/13/index.html"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/355502964306909581/"
+          },
+          {
+            "url": "http://www.canvasreplicas.com/Angelico.htm"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/515591857310180082/"
+          },
+          {
+            "url": "http://www.museivaticani.va/content/museivaticani/en/collezioni/musei/la-pinacoteca/sala-iii---secolo-xv/beato-angelico--la-madonna-col-bambino-fra-s--domenico-e-s--cate.html"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://www.wga.hu/art/a/angelico/13/02virgin.jpg"
+          },
+          {
+            "url": "http://www.museivaticani.va/content/dam/museivaticani/immagini/collezioni/musei/pinacoteca/03_02_beato_angelico.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg"
+          },
+          {
+            "url": "http://3.bp.blogspot.com/-tIAXHSqhlOM/VnIvv3cvdrI/AAAAAAAAGqM/-hB4J-7NvhI/s1600/eAdvent2015%2BFraAngelico%2B56.32-S1.jpg"
+          },
+          {
+            "url": "http://tarotbythom.com/wp-content/uploads/photo-gallery/G-1-e_Angelico_madonna_dellumilt%C3%A0_washington.jpg"
+          },
+          {
+            "url": "http://farm3.static.flickr.com/2513/4186488940_60356bbca6_o.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

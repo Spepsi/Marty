@@ -1,0 +1,594 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.88704526
+        },
+        {
+          "mid": "/m/04rd7",
+          "description": "mural",
+          "score": 0.7780024
+        },
+        {
+          "mid": "/m/04zhd",
+          "description": "mythology",
+          "score": 0.60825694
+        },
+        {
+          "mid": "/m/015r61",
+          "description": "modern art",
+          "score": 0.5552341
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "ko",
+          "description": "일\nΦ\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 37,
+                "y": 90
+              },
+              {
+                "x": 119,
+                "y": 90
+              },
+              {
+                "x": 119,
+                "y": 257
+              },
+              {
+                "x": 37,
+                "y": 257
+              }
+            ]
+          }
+        },
+        {
+          "description": "일",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 119,
+                "y": 90
+              },
+              {
+                "x": 120,
+                "y": 120
+              },
+              {
+                "x": 84,
+                "y": 122
+              },
+              {
+                "x": 83,
+                "y": 92
+              }
+            ]
+          }
+        },
+        {
+          "description": "Φ",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 37,
+                "y": 249
+              },
+              {
+                "x": 47,
+                "y": 249
+              },
+              {
+                "x": 47,
+                "y": 257
+              },
+              {
+                "x": 37,
+                "y": 257
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 122,
+                "green": 70,
+                "blue": 29
+              },
+              "score": 0.122741774,
+              "pixelFraction": 0.07701613
+            },
+            {
+              "color": {
+                "red": 177,
+                "green": 93,
+                "blue": 89
+              },
+              "score": 0.042061318,
+              "pixelFraction": 0.0076612905
+            },
+            {
+              "color": {
+                "red": 52,
+                "green": 51,
+                "blue": 53
+              },
+              "score": 0.008044531,
+              "pixelFraction": 0.044919353
+            },
+            {
+              "color": {
+                "red": 64,
+                "green": 83,
+                "blue": 104
+              },
+              "score": 0.007612743,
+              "pixelFraction": 0.0075806454
+            },
+            {
+              "color": {
+                "red": 158,
+                "green": 106,
+                "blue": 62
+              },
+              "score": 0.111857526,
+              "pixelFraction": 0.051048387
+            },
+            {
+              "color": {
+                "red": 94,
+                "green": 44,
+                "blue": 9
+              },
+              "score": 0.0939824,
+              "pixelFraction": 0.090483874
+            },
+            {
+              "color": {
+                "red": 196,
+                "green": 143,
+                "blue": 96
+              },
+              "score": 0.066405624,
+              "pixelFraction": 0.021048388
+            },
+            {
+              "color": {
+                "red": 132,
+                "green": 55,
+                "blue": 23
+              },
+              "score": 0.056296222,
+              "pixelFraction": 0.038870968
+            },
+            {
+              "color": {
+                "red": 78,
+                "green": 39,
+                "blue": 19
+              },
+              "score": 0.05282394,
+              "pixelFraction": 0.102258064
+            },
+            {
+              "color": {
+                "red": 194,
+                "green": 145,
+                "blue": 118
+              },
+              "score": 0.04519094,
+              "pixelFraction": 0.016048387
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 321
+                },
+                {
+                  "y": 321
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "ko"
+                }
+              ]
+            },
+            "width": 400,
+            "height": 322,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "ko"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 119,
+                      "y": 90
+                    },
+                    {
+                      "x": 120,
+                      "y": 120
+                    },
+                    {
+                      "x": 84,
+                      "y": 122
+                    },
+                    {
+                      "x": 83,
+                      "y": 92
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "ko"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 82,
+                          "y": 90
+                        },
+                        {
+                          "x": 119,
+                          "y": 90
+                        },
+                        {
+                          "x": 119,
+                          "y": 122
+                        },
+                        {
+                          "x": 82,
+                          "y": 122
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "ko"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 119,
+                              "y": 90
+                            },
+                            {
+                              "x": 120,
+                              "y": 120
+                            },
+                            {
+                              "x": 84,
+                              "y": 122
+                            },
+                            {
+                              "x": 83,
+                              "y": 92
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "ko"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 119,
+                                  "y": 90
+                                },
+                                {
+                                  "x": 120,
+                                  "y": 120
+                                },
+                                {
+                                  "x": 84,
+                                  "y": 122
+                                },
+                                {
+                                  "x": 83,
+                                  "y": 92
+                                }
+                              ]
+                            },
+                            "text": "일"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              },
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "en"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 37,
+                      "y": 249
+                    },
+                    {
+                      "x": 47,
+                      "y": 249
+                    },
+                    {
+                      "x": 47,
+                      "y": 257
+                    },
+                    {
+                      "x": 37,
+                      "y": 257
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "en"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 37,
+                          "y": 249
+                        },
+                        {
+                          "x": 47,
+                          "y": 249
+                        },
+                        {
+                          "x": 47,
+                          "y": 257
+                        },
+                        {
+                          "x": 37,
+                          "y": 257
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 37,
+                              "y": 249
+                            },
+                            {
+                              "x": 47,
+                              "y": 249
+                            },
+                            {
+                              "x": 47,
+                              "y": 257
+                            },
+                            {
+                              "x": 37,
+                              "y": 257
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "ko"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 37,
+                                  "y": 249
+                                },
+                                {
+                                  "x": 47,
+                                  "y": 249
+                                },
+                                {
+                                  "x": 47,
+                                  "y": 257
+                                },
+                                {
+                                  "x": 37,
+                                  "y": 257
+                                }
+                              ]
+                            },
+                            "text": "Φ"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "일\nΦ\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/g/11bxfw2q50",
+            "score": 2.52568,
+            "description": "MMIPO - Museu da Misericórdia do Porto"
+          },
+          {
+            "entityId": "/g/11c3w55xxn",
+            "score": 0.7646,
+            "description": "Holy Family With The Infant Saint John The Baptist, Saint Elizabeth And Angels"
+          },
+          {
+            "entityId": "/g/11cjnnllj9",
+            "score": 0.61072,
+            "description": "The Penitent Magdalene comforted by angels"
+          },
+          {
+            "entityId": "/g/11bc5xmfmy",
+            "score": 0.59596,
+            "description": "Obidos"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.5043726,
+            "description": "Painting"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/1f/61/4a/1f614a97a36fbcd7078b312b133da3be.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Josefa_de_%C3%93bidos_-_A_Sagrada_Fam%C3%ADlia_com_S%C3%A3o_Jo%C3%A3o_Batista%2C_Santa_Isabel_e_Anjos.png"
+          },
+          {
+            "url": "http://anothercountry.edwardleigh.org.uk/wp-content/uploads/holyfami.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Josefa_de_%C3%93bidos_-_A_Sagrada_Fam%C3%ADlia_com_S%C3%A3o_Jo%C3%A3o_Batista%2C_Santa_Isabel_e_Anjos.png/1268px-Josefa_de_%C3%93bidos_-_A_Sagrada_Fam%C3%ADlia_com_S%C3%A3o_Jo%C3%A3o_Batista%2C_Santa_Isabel_e_Anjos.png"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Josefa_de_%C3%93bidos_-_A_Sagrada_Fam%C3%ADlia_com_S%C3%A3o_Jo%C3%A3o_Batista%2C_Santa_Isabel_e_Anjos.png/1200px-Josefa_de_%C3%93bidos_-_A_Sagrada_Fam%C3%ADlia_com_S%C3%A3o_Jo%C3%A3o_Batista%2C_Santa_Isabel_e_Anjos.png"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/1f/61/4a/1f614a97a36fbcd7078b312b133da3be.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Josefa_de_%C3%93bidos_-_A_Sagrada_Fam%C3%ADlia_com_S%C3%A3o_Jo%C3%A3o_Batista%2C_Santa_Isabel_e_Anjos.png"
+          },
+          {
+            "url": "http://anothercountry.edwardleigh.org.uk/wp-content/uploads/holyfami.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Josefa_de_%C3%93bidos_-_A_Sagrada_Fam%C3%ADlia_com_S%C3%A3o_Jo%C3%A3o_Batista%2C_Santa_Isabel_e_Anjos.png/1268px-Josefa_de_%C3%93bidos_-_A_Sagrada_Fam%C3%ADlia_com_S%C3%A3o_Jo%C3%A3o_Batista%2C_Santa_Isabel_e_Anjos.png"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Josefa_de_%C3%93bidos_-_A_Sagrada_Fam%C3%ADlia_com_S%C3%A3o_Jo%C3%A3o_Batista%2C_Santa_Isabel_e_Anjos.png/1200px-Josefa_de_%C3%93bidos_-_A_Sagrada_Fam%C3%ADlia_com_S%C3%A3o_Jo%C3%A3o_Batista%2C_Santa_Isabel_e_Anjos.png"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.sothebys.com/en/auctions/ecatalogue/lot.35.html/2016/master-paintings-evening-sale-n09460"
+          },
+          {
+            "url": "http://www.artnet.com/artists/josefa-de-obidos-ayala/past-auction-results"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Josefa_de_%C3%93bidos_-_A_Sagrada_Fam%C3%ADlia_com_S%C3%A3o_Jo%C3%A3o_Batista,_Santa_Isabel_e_Anjos.png"
+          },
+          {
+            "url": "http://www.sothebys.com/de/auctions/ecatalogue/2016/master-paintings-evening-sale-n09460/lot.35.html"
+          },
+          {
+            "url": "http://www.mutualart.com/Artist/Josefa-de-Obidos/DE2BD959201183FA"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://anothercountry.edwardleigh.org.uk/wp-content/uploads/holyfami.jpg"
+          },
+          {
+            "url": "http://www.dn.pt/storage/DN/2015/big/ng4235391.jpg?type=big&pos=0"
+          },
+          {
+            "url": "http://beardedroman.com/wp-content/uploads/2010/12/5281357138_00e490e6e2_b.jpg"
+          },
+          {
+            "url": "https://render.fineartamerica.com/images/rendered/medium/greeting-card/images/artworkimages/medium/1/the-penitent-magdalene-comforted-by-angels-josefa-de-obidos.jpg?&targetx=0&targety=-33&imagewidth=700&imageheight=567&modelwidth=700&modelheight=500&backgroundcolor=676052&orientation=0"
+          },
+          {
+            "url": "http://4.bp.blogspot.com/-_r0gfGK1pvY/TjFY6muzOLI/AAAAAAAAA48/NGzZmAVOzX4/s1600/josefa_anunciacao.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

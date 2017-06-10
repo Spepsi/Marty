@@ -1,0 +1,591 @@
+{
+  "responses": [
+    {
+      "faceAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 100,
+                "y": 30
+              },
+              {
+                "x": 159,
+                "y": 30
+              },
+              {
+                "x": 159,
+                "y": 99
+              },
+              {
+                "x": 100,
+                "y": 99
+              }
+            ]
+          },
+          "fdBoundingPoly": {
+            "vertices": [
+              {
+                "x": 96,
+                "y": 47
+              },
+              {
+                "x": 147,
+                "y": 47
+              },
+              {
+                "x": 147,
+                "y": 98
+              },
+              {
+                "x": 96,
+                "y": 98
+              }
+            ]
+          },
+          "landmarks": [
+            {
+              "type": "LEFT_EYE",
+              "position": {
+                "x": 111.66543,
+                "y": 67.589226,
+                "z": -0.00023599586
+              }
+            },
+            {
+              "type": "RIGHT_EYE",
+              "position": {
+                "x": 112.90219,
+                "y": 66.581406,
+                "z": -17.957218
+              }
+            },
+            {
+              "type": "LEFT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 111.639786,
+                "y": 63.324547,
+                "z": 6.2093334
+              }
+            },
+            {
+              "type": "RIGHT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 107.18367,
+                "y": 64.45444,
+                "z": -4.666391
+              }
+            },
+            {
+              "type": "LEFT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 107.577736,
+                "y": 64.12018,
+                "z": -13.359651
+              }
+            },
+            {
+              "type": "RIGHT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 112.997055,
+                "y": 62.21261,
+                "z": -23.67365
+              }
+            },
+            {
+              "type": "MIDPOINT_BETWEEN_EYES",
+              "position": {
+                "x": 108.29568,
+                "y": 67.96898,
+                "z": -9.106117
+              }
+            },
+            {
+              "type": "NOSE_TIP",
+              "position": {
+                "x": 105.87678,
+                "y": 79.862,
+                "z": -9.633782
+              }
+            },
+            {
+              "type": "UPPER_LIP",
+              "position": {
+                "x": 112.28582,
+                "y": 84.23257,
+                "z": -9.52866
+              }
+            },
+            {
+              "type": "LOWER_LIP",
+              "position": {
+                "x": 115.67469,
+                "y": 89.74152,
+                "z": -9.588443
+              }
+            },
+            {
+              "type": "MOUTH_LEFT",
+              "position": {
+                "x": 117.44903,
+                "y": 85.48471,
+                "z": -2.315765
+              }
+            },
+            {
+              "type": "MOUTH_RIGHT",
+              "position": {
+                "x": 118.341644,
+                "y": 84.767136,
+                "z": -16.429386
+              }
+            },
+            {
+              "type": "MOUTH_CENTER",
+              "position": {
+                "x": 114.64668,
+                "y": 86.45015,
+                "z": -9.51364
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_RIGHT",
+              "position": {
+                "x": 113.21282,
+                "y": 78.71798,
+                "z": -13.994604
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_LEFT",
+              "position": {
+                "x": 113.22069,
+                "y": 78.678566,
+                "z": -4.3702683
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_CENTER",
+              "position": {
+                "x": 110.740486,
+                "y": 81.17781,
+                "z": -9.458114
+              }
+            },
+            {
+              "type": "LEFT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 110.12615,
+                "y": 66.813644,
+                "z": -0.0032355033
+              }
+            },
+            {
+              "type": "LEFT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 111.922295,
+                "y": 67.59216,
+                "z": -3.5572813
+              }
+            },
+            {
+              "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 111.90331,
+                "y": 68.79634,
+                "z": -0.010120682
+              }
+            },
+            {
+              "type": "LEFT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 113.08256,
+                "y": 67.297325,
+                "z": 3.684981
+              }
+            },
+            {
+              "type": "LEFT_EYE_PUPIL",
+              "position": {
+                "x": 111.18565,
+                "y": 67.77589,
+                "z": 0.28585353
+              }
+            },
+            {
+              "type": "RIGHT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 110.95516,
+                "y": 66.13603,
+                "z": -17.891945
+              }
+            },
+            {
+              "type": "RIGHT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 114.24848,
+                "y": 66.33706,
+                "z": -21.344524
+              }
+            },
+            {
+              "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 112.9599,
+                "y": 68.03319,
+                "z": -17.900467
+              }
+            },
+            {
+              "type": "RIGHT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 112.43355,
+                "y": 67.19311,
+                "z": -14.271359
+              }
+            },
+            {
+              "type": "RIGHT_EYE_PUPIL",
+              "position": {
+                "x": 112.009514,
+                "y": 67.10028,
+                "z": -18.066021
+              }
+            },
+            {
+              "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 107.57571,
+                "y": 62.194588,
+                "z": 0.8171381
+              }
+            },
+            {
+              "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 108.45967,
+                "y": 61.472336,
+                "z": -18.5945
+              }
+            },
+            {
+              "type": "LEFT_EAR_TRAGION",
+              "position": {
+                "x": 134.82079,
+                "y": 69.65226,
+                "z": 12.406079
+              }
+            },
+            {
+              "type": "RIGHT_EAR_TRAGION",
+              "position": {
+                "x": 136.66719,
+                "y": 68.12497,
+                "z": -28.21107
+              }
+            },
+            {
+              "type": "FOREHEAD_GLABELLA",
+              "position": {
+                "x": 106.63628,
+                "y": 64.29932,
+                "z": -9.040036
+              }
+            },
+            {
+              "type": "CHIN_GNATHION",
+              "position": {
+                "x": 121.013824,
+                "y": 96.384964,
+                "z": -9.611439
+              }
+            },
+            {
+              "type": "CHIN_LEFT_GONION",
+              "position": {
+                "x": 131.51436,
+                "y": 82.74207,
+                "z": 9.805011
+              }
+            },
+            {
+              "type": "CHIN_RIGHT_GONION",
+              "position": {
+                "x": 133.17833,
+                "y": 81.37015,
+                "z": -26.89931
+              }
+            }
+          ],
+          "rollAngle": -17.93691,
+          "panAngle": -86.87056,
+          "tiltAngle": 1.238528,
+          "detectionConfidence": 0.5860043,
+          "landmarkingConfidence": 0.3274887,
+          "joyLikelihood": "VERY_UNLIKELY",
+          "sorrowLikelihood": "VERY_UNLIKELY",
+          "angerLikelihood": "VERY_UNLIKELY",
+          "surpriseLikelihood": "VERY_UNLIKELY",
+          "underExposedLikelihood": "VERY_UNLIKELY",
+          "blurredLikelihood": "VERY_UNLIKELY",
+          "headwearLikelihood": "VERY_UNLIKELY"
+        }
+      ],
+      "logoAnnotations": [
+        {
+          "description": "The Annunciation",
+          "score": 0.7899684,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 15,
+                "y": 15
+              },
+              {
+                "x": 321,
+                "y": 15
+              },
+              {
+                "x": 321,
+                "y": 376
+              },
+              {
+                "x": 15,
+                "y": 376
+              }
+            ]
+          }
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.5954784
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 13,
+                "green": 16,
+                "blue": 21
+              },
+              "score": 0.3413255,
+              "pixelFraction": 0.3471218
+            },
+            {
+              "color": {
+                "red": 79,
+                "green": 42,
+                "blue": 30
+              },
+              "score": 0.06691015,
+              "pixelFraction": 0.038306452
+            },
+            {
+              "color": {
+                "red": 240,
+                "green": 221,
+                "blue": 213
+              },
+              "score": 0.03121404,
+              "pixelFraction": 0.029824805
+            },
+            {
+              "color": {
+                "red": 162,
+                "green": 154,
+                "blue": 164
+              },
+              "score": 0.027609497,
+              "pixelFraction": 0.028156284
+            },
+            {
+              "color": {
+                "red": 54,
+                "green": 48,
+                "blue": 51
+              },
+              "score": 0.058031153,
+              "pixelFraction": 0.052836485
+            },
+            {
+              "color": {
+                "red": 44,
+                "green": 18,
+                "blue": 21
+              },
+              "score": 0.03865488,
+              "pixelFraction": 0.019952726
+            },
+            {
+              "color": {
+                "red": 14,
+                "green": 19,
+                "blue": 33
+              },
+              "score": 0.035832822,
+              "pixelFraction": 0.022385985
+            },
+            {
+              "color": {
+                "red": 86,
+                "green": 81,
+                "blue": 86
+              },
+              "score": 0.035723064,
+              "pixelFraction": 0.03295328
+            },
+            {
+              "color": {
+                "red": 70,
+                "green": 41,
+                "blue": 42
+              },
+              "score": 0.034881547,
+              "pixelFraction": 0.019883204
+            },
+            {
+              "color": {
+                "red": 57,
+                "green": 17,
+                "blue": 12
+              },
+              "score": 0.03352869,
+              "pixelFraction": 0.01397386
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 373
+                },
+                {
+                  "x": 373,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 1,
+            "importanceFraction": 0.45999998
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0cfjp",
+            "score": 11.95744,
+            "description": "Uffizi Gallery"
+          },
+          {
+            "entityId": "/m/05m4tw",
+            "score": 2.89168,
+            "description": "Annunciation"
+          },
+          {
+            "entityId": "/m/0nbdpr4",
+            "score": 2.76776,
+            "description": "Palatine Gallery"
+          },
+          {
+            "entityId": "/m/0d936",
+            "score": 1.67994,
+            "description": "Andrea del Sarto"
+          },
+          {
+            "entityId": "/g/122czzzl",
+            "score": 0.77498,
+            "description": "Annunciation"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://3.bp.blogspot.com/-0aROM3hkpdA/VMVNhSLspCI/AAAAAAAAOWs/zwrQ0wizv7A/s1600/Andrea_del_Sarto_-_Annunciation_(detail)_-_WGA0413.jpg"
+          },
+          {
+            "url": "https://oneintheirhearts.files.wordpress.com/2016/04/annunciation-detail-by-andrea-del-sarto-c-1528.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Andrea_del_Sarto_-_Annunciation_%28detail%29_-_WGA0413.jpg"
+          },
+          {
+            "url": "http://3.bp.blogspot.com/-AIodyF5I2Ac/VNyWB8PRQLI/AAAAAAAENq8/Q4UW5zRDWAY/s1600/Andrea%2BDel%2BSarto%2BTutt'Art%40%2B(64).jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/96/bc/9d/96bc9db954c8af787907f6ce78335172.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://artesenzaconfini.myblog.it/wp-content/uploads/sites/100855/2014/06/Fig.-1-bd1.jpg"
+          },
+          {
+            "url": "https://oudemeesterschilderijen.files.wordpress.com/2013/10/schilderij-delsarto-annunciation-1528.jpg"
+          },
+          {
+            "url": "http://3.bp.blogspot.com/-0aROM3hkpdA/VMVNhSLspCI/AAAAAAAAOWs/zwrQ0wizv7A/s1600/Andrea_del_Sarto_-_Annunciation_(detail)_-_WGA0413.jpg"
+          },
+          {
+            "url": "http://3.bp.blogspot.com/-AIodyF5I2Ac/VNyWB8PRQLI/AAAAAAAENq8/Q4UW5zRDWAY/s1600/Andrea%2BDel%2BSarto%2BTutt'Art%40%2B(64).jpg"
+          },
+          {
+            "url": "http://1.bp.blogspot.com/-VKDh2OUDTFk/U6G_Mjj03SI/AAAAAAAADDc/l1KEymqLd_4/s1600/Fig.+1.JPG"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://www.wikiart.org/en/andrea-del-sarto/the-annunciation"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Andrea_del_Sarto_-_Annunciation_(detail)_-_WGA0413.jpg"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/355080751849044606/"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/567383253035545164/"
+          },
+          {
+            "url": "http://en.wahooart.com/@@/8XXNCY-Andrea-Del-Sarto-The-Annunciation"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/96/bc/9d/96bc9db954c8af787907f6ce78335172.jpg"
+          },
+          {
+            "url": "https://uploads6.wikiart.org/images/andrea-del-sarto/sts-john-the-baptist-and-bernardo-degli-uberti.jpg"
+          },
+          {
+            "url": "http://www.lib-art.com/imgpaintingthumb/5/1/t41515-annunciation-vasari-giorgio.jpg"
+          },
+          {
+            "url": "http://theredlist.com/media/database/fine_arts/arthistory/painting/xix/manierisme/andrea_del_sarto/004-andrea-del-sarto-theredlist.jpg"
+          },
+          {
+            "url": "http://www.travelingintuscany.com/images/art/andreadelsarto/trinity700.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

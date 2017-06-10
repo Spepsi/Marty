@@ -1,0 +1,254 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.69900995
+        },
+        {
+          "mid": "/m/0f85g",
+          "description": "basilica",
+          "score": 0.68379754
+        },
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.6600098
+        },
+        {
+          "mid": "/m/0djmp",
+          "description": "ancient history",
+          "score": 0.57852197
+        },
+        {
+          "mid": "/m/0cfs8",
+          "description": "cathedral",
+          "score": 0.5661205
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 185,
+                "green": 144,
+                "blue": 122
+              },
+              "score": 0.111611255,
+              "pixelFraction": 0.02475619
+            },
+            {
+              "color": {
+                "red": 96,
+                "green": 82,
+                "blue": 79
+              },
+              "score": 0.051653977,
+              "pixelFraction": 0.095367596
+            },
+            {
+              "color": {
+                "red": 44,
+                "green": 48,
+                "blue": 74
+              },
+              "score": 0.027549427,
+              "pixelFraction": 0.045948986
+            },
+            {
+              "color": {
+                "red": 174,
+                "green": 95,
+                "blue": 65
+              },
+              "score": 0.024141168,
+              "pixelFraction": 0.0063765943
+            },
+            {
+              "color": {
+                "red": 150,
+                "green": 114,
+                "blue": 95
+              },
+              "score": 0.10818386,
+              "pixelFraction": 0.034133535
+            },
+            {
+              "color": {
+                "red": 138,
+                "green": 116,
+                "blue": 96
+              },
+              "score": 0.08993571,
+              "pixelFraction": 0.06695424
+            },
+            {
+              "color": {
+                "red": 174,
+                "green": 152,
+                "blue": 129
+              },
+              "score": 0.08802396,
+              "pixelFraction": 0.057951987
+            },
+            {
+              "color": {
+                "red": 212,
+                "green": 188,
+                "blue": 164
+              },
+              "score": 0.08756177,
+              "pixelFraction": 0.03957239
+            },
+            {
+              "color": {
+                "red": 207,
+                "green": 191,
+                "blue": 186
+              },
+              "score": 0.048645463,
+              "pixelFraction": 0.03704051
+            },
+            {
+              "color": {
+                "red": 166,
+                "green": 153,
+                "blue": 151
+              },
+              "score": 0.04063898,
+              "pixelFraction": 0.048855964
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 275
+                },
+                {
+                  "x": 275,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/01tk_r",
+            "score": 5.36512,
+            "description": "Apostolic Palace"
+          },
+          {
+            "entityId": "/m/02rbymb",
+            "score": 2.90552,
+            "description": "Niccoline Chapel"
+          },
+          {
+            "entityId": "/g/12151h91",
+            "score": 0.752
+          },
+          {
+            "entityId": "/g/11cktgt3yl",
+            "score": 0.6397,
+            "description": "St. Stephen Distributing Alms"
+          },
+          {
+            "entityId": "/m/0fd2m",
+            "score": 0.39847,
+            "description": "Deacon"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://www.wga.hu/art/a/angelico/10/1west/30west.jpg"
+          },
+          {
+            "url": "http://blogimg.hani.co.kr/editor/uploads/2016/08/04/61780_27600.jpg_M800.jpg"
+          },
+          {
+            "url": "http://rivagedeboheme.e-monsite.com/medias/images/fra-angelico-fresques-de-la-chapelle-nicoline-saint-etienne-faisant-l-aumone-1447-49.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/74/1a/93/741a933bc165c4c990da7a8cc5ebcfb4.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/19/a1/ed/19a1ed029c1728d980d22b64c5622ca5.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://www.braparencias.com.br/wp-content/uploads/2016/11/0079.jpg"
+          },
+          {
+            "url": "http://gemeinden.erzbistum-koeln.de/export/sites/gemeinden/pfarrgemeinde_papst_johannes_XXIII/_galerien/bilder/Weihe-zum-Diakon.jpg"
+          },
+          {
+            "url": "http://www.art-kingdom.com/upload/364518.jpg"
+          },
+          {
+            "url": "http://www.c-rover.narod.ru/ang/pict/angelico3710.jpg"
+          },
+          {
+            "url": "https://samuelclark77.files.wordpress.com/2013/11/choosing-of-the-seven.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.travelingintuscany.com/art/fraangelico/cappellaniccolina.htm"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Angelico,_niccolina_06.jpg"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/558305685032517309/"
+          },
+          {
+            "url": "https://it.pinterest.com/pin/48273027231681719/"
+          },
+          {
+            "url": "http://www.stbernadettelakewood.org/info/may-14th-5th-sunday-of-easter/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://www.travelingintuscany.com/images/art/fraangelico/cappellaniccolina/stephendistributingalms200.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/42/4a/da/424ada57078a7765f49d35d39f3025a3.jpg"
+          },
+          {
+            "url": "http://www.journeystoitaly.com/restyling/wp-content/uploads/2016/09/CappellaNiccolina_Vaticano.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/c5/f2/be/c5f2be75706346e264b144a0ece4d4f4.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Angelico%2C_niccolina_06.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

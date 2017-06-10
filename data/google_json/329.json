@@ -1,0 +1,437 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05fc9mj",
+          "description": "christmas decoration",
+          "score": 0.63849014
+        },
+        {
+          "mid": "/m/0f85g",
+          "description": "basilica",
+          "score": 0.6336169
+        },
+        {
+          "mid": "/m/0djmp",
+          "description": "ancient history",
+          "score": 0.5825808
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "ja",
+          "description": "う\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 249,
+                "y": 140
+              },
+              {
+                "x": 262,
+                "y": 140
+              },
+              {
+                "x": 262,
+                "y": 148
+              },
+              {
+                "x": 249,
+                "y": 148
+              }
+            ]
+          }
+        },
+        {
+          "description": "う",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 249,
+                "y": 140
+              },
+              {
+                "x": 262,
+                "y": 140
+              },
+              {
+                "x": 262,
+                "y": 148
+              },
+              {
+                "x": 249,
+                "y": 148
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 28,
+                "green": 25,
+                "blue": 28
+              },
+              "score": 0.3145488,
+              "pixelFraction": 0.112571806
+            },
+            {
+              "color": {
+                "red": 69,
+                "green": 38,
+                "blue": 24
+              },
+              "score": 0.049217705,
+              "pixelFraction": 0.055015467
+            },
+            {
+              "color": {
+                "red": 143,
+                "green": 108,
+                "blue": 89
+              },
+              "score": 0.03848107,
+              "pixelFraction": 0.071365446
+            },
+            {
+              "color": {
+                "red": 221,
+                "green": 193,
+                "blue": 170
+              },
+              "score": 0.011301608,
+              "pixelFraction": 0.0154661955
+            },
+            {
+              "color": {
+                "red": 52,
+                "green": 47,
+                "blue": 49
+              },
+              "score": 0.29888815,
+              "pixelFraction": 0.17498896
+            },
+            {
+              "color": {
+                "red": 49,
+                "green": 23,
+                "blue": 11
+              },
+              "score": 0.037333038,
+              "pixelFraction": 0.011157755
+            },
+            {
+              "color": {
+                "red": 25,
+                "green": 26,
+                "blue": 40
+              },
+              "score": 0.03110321,
+              "pixelFraction": 0.0046398584
+            },
+            {
+              "color": {
+                "red": 120,
+                "green": 85,
+                "blue": 66
+              },
+              "score": 0.030970477,
+              "pixelFraction": 0.09622183
+            },
+            {
+              "color": {
+                "red": 62,
+                "green": 46,
+                "blue": 32
+              },
+              "score": 0.03072957,
+              "pixelFraction": 0.060980998
+            },
+            {
+              "color": {
+                "red": 134,
+                "green": 111,
+                "blue": 95
+              },
+              "score": 0.02737039,
+              "pixelFraction": 0.0621962
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 235
+                },
+                {
+                  "y": 235
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "ja"
+                }
+              ]
+            },
+            "width": 400,
+            "height": 236,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "ja"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 249,
+                      "y": 140
+                    },
+                    {
+                      "x": 262,
+                      "y": 140
+                    },
+                    {
+                      "x": 262,
+                      "y": 148
+                    },
+                    {
+                      "x": 249,
+                      "y": 148
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "ja"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 249,
+                          "y": 140
+                        },
+                        {
+                          "x": 262,
+                          "y": 140
+                        },
+                        {
+                          "x": 262,
+                          "y": 148
+                        },
+                        {
+                          "x": 249,
+                          "y": 148
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "ja"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 249,
+                              "y": 140
+                            },
+                            {
+                              "x": 262,
+                              "y": 140
+                            },
+                            {
+                              "x": 262,
+                              "y": 148
+                            },
+                            {
+                              "x": 249,
+                              "y": 148
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "ja"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 249,
+                                  "y": 140
+                                },
+                                {
+                                  "x": 262,
+                                  "y": 140
+                                },
+                                {
+                                  "x": 262,
+                                  "y": 148
+                                },
+                                {
+                                  "x": 249,
+                                  "y": 148
+                                }
+                              ]
+                            },
+                            "text": "う"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "う\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/01fsd9",
+            "score": 6.09936,
+            "description": "Santa Maria Novella"
+          },
+          {
+            "entityId": "/g/1tp8fmj2",
+            "score": 0.79532
+          },
+          {
+            "entityId": "/m/0g3f9",
+            "score": 0.74586,
+            "description": "Ascension of Jesus"
+          },
+          {
+            "entityId": "/g/1210xp_x",
+            "score": 0.67596
+          },
+          {
+            "entityId": "/m/0gkzvnl",
+            "score": 0.64745,
+            "description": "Ascension Day"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://christchurchwindsor.ca/wp-content/uploads/2017/05/AndreaDaFirenze_Ascension.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/art/a/andrea/firenze/spanish/5vault4.jpg"
+          },
+          {
+            "url": "https://lh5.googleusercontent.com/proxy/zCnm5RMPcdWRiydHlckuLU6fPhwxev9NU9wxrTS6VPDva4bEIYDedLkIqBqW3JvfIXliedLfiObymwUGMu74oQFhs_sfMc7WWK0H-7-4=w1200-h630-p-k-no-nu"
+          },
+          {
+            "url": "https://2.bp.blogspot.com/-S9f4UwMfwi8/WG-1qfUjFPI/AAAAAAAAEkQ/0-YUT-nuPKI6Rd9ka1SbhgZgQ677sWzTQCLcB/s1600/ASCENSI%25C3%2593N%2BDE%2BCRISTO.-ANDREA%2BDA%2BFIRENZE.-G%25C3%2593TICO.jpg"
+          },
+          {
+            "url": "https://i2.wp.com/christchurchwindsor.ca/wp-content/uploads/2017/05/AndreaDaFirenze_Ascension.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://christchurchwindsor.ca/wp-content/uploads/2017/05/AndreaDaFirenze_Ascension.jpg"
+          },
+          {
+            "url": "https://lh5.googleusercontent.com/proxy/zCnm5RMPcdWRiydHlckuLU6fPhwxev9NU9wxrTS6VPDva4bEIYDedLkIqBqW3JvfIXliedLfiObymwUGMu74oQFhs_sfMc7WWK0H-7-4=w1200-h630-p-k-no-nu"
+          },
+          {
+            "url": "https://2.bp.blogspot.com/-S9f4UwMfwi8/WG-1qfUjFPI/AAAAAAAAEkQ/0-YUT-nuPKI6Rd9ka1SbhgZgQ677sWzTQCLcB/s1600/ASCENSI%25C3%2593N%2BDE%2BCRISTO.-ANDREA%2BDA%2BFIRENZE.-G%25C3%2593TICO.jpg"
+          },
+          {
+            "url": "https://i2.wp.com/christchurchwindsor.ca/wp-content/uploads/2017/05/AndreaDaFirenze_Ascension.jpg"
+          },
+          {
+            "url": "https://i2.wp.com/christchurchwindsor.ca/wp-content/uploads/2017/05/AndreaDaFirenze_Ascension.jpg?fit=991%2C585"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://romancatholicimperialist.blogspot.com/2014/06/whitsunday-gospel-st-john-1423-31_11.html"
+          },
+          {
+            "url": "http://christchurchwindsor.ca/category/prayers-and-liturgy/church-year/"
+          },
+          {
+            "url": "http://ecclesiaepatres.blogspot.com/"
+          },
+          {
+            "url": "http://christchurchwindsor.ca/category/sermons/"
+          },
+          {
+            "url": "http://romancatholicimperialist.blogspot.co.at/?view=magazine"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://blogimg.hani.co.kr/editor/uploads/2016/05/06/28090_59299.jpg_M800.jpg"
+          },
+          {
+            "url": "http://cfile7.uf.tistory.com/image/1164FD484F9306041C5378"
+          },
+          {
+            "url": "http://cfile238.uf.daum.net/image/21486349531AA2C32BD65C"
+          },
+          {
+            "url": "https://i.ytimg.com/vi/A8h4yfRhDcA/maxresdefault.jpg"
+          },
+          {
+            "url": "http://cfile221.uf.daum.net/image/2757C33D556040B3262C11"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,696 @@
+{
+  "responses": [
+    {
+      "logoAnnotations": [
+        {
+          "mid": "/m/0glpfxr",
+          "description": "Perugia Altarpiece",
+          "score": 0.96255577,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 2,
+                "y": 13
+              },
+              {
+                "x": 389,
+                "y": 13
+              },
+              {
+                "x": 389,
+                "y": 309
+              },
+              {
+                "x": 2,
+                "y": 309
+              }
+            ]
+          }
+        },
+        {
+          "mid": "/m/0glpfxr",
+          "description": "Perugia Altarpiece",
+          "score": 0.7824574,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 71,
+                "y": 125
+              },
+              {
+                "x": 332,
+                "y": 125
+              },
+              {
+                "x": 332,
+                "y": 237
+              },
+              {
+                "x": 71,
+                "y": 237
+              }
+            ]
+          }
+        },
+        {
+          "mid": "/m/0glpfxr",
+          "description": "Perugia Altarpiece (central panel)",
+          "score": 0.5754419,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 162,
+                "y": 112
+              },
+              {
+                "x": 221,
+                "y": 112
+              },
+              {
+                "x": 221,
+                "y": 233
+              },
+              {
+                "x": 162,
+                "y": 233
+              }
+            ]
+          }
+        },
+        {
+          "mid": "/m/0glpfxr",
+          "description": "Perugia Altarpiece (left panel)",
+          "score": 0.4627139,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 74,
+                "y": 143
+              },
+              {
+                "x": 128,
+                "y": 143
+              },
+              {
+                "x": 128,
+                "y": 238
+              },
+              {
+                "x": 74,
+                "y": 238
+              }
+            ]
+          }
+        },
+        {
+          "mid": "/m/0glpfxr",
+          "description": "Perugia Altarpiece (right panel)",
+          "score": 0.4344995,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 269,
+                "y": 160
+              },
+              {
+                "x": 326,
+                "y": 160
+              },
+              {
+                "x": 326,
+                "y": 233
+              },
+              {
+                "x": 269,
+                "y": 233
+              }
+            ]
+          }
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/0cgh4",
+          "description": "building",
+          "score": 0.8005564
+        },
+        {
+          "mid": "/m/0hyb2",
+          "description": "altar",
+          "score": 0.774586
+        },
+        {
+          "mid": "/m/02nvjx",
+          "description": "place of worship",
+          "score": 0.6111554
+        },
+        {
+          "mid": "/m/0f85g",
+          "description": "basilica",
+          "score": 0.54186857
+        },
+        {
+          "mid": "/m/0c_jw",
+          "description": "furniture",
+          "score": 0.51458234
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "sl",
+          "description": "EHICO\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 357,
+                "y": 272
+              },
+              {
+                "x": 371,
+                "y": 272
+              },
+              {
+                "x": 371,
+                "y": 310
+              },
+              {
+                "x": 357,
+                "y": 310
+              }
+            ]
+          }
+        },
+        {
+          "description": "EHICO",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 357,
+                "y": 272
+              },
+              {
+                "x": 371,
+                "y": 272
+              },
+              {
+                "x": 371,
+                "y": 310
+              },
+              {
+                "x": 357,
+                "y": 310
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 162,
+                "green": 111,
+                "blue": 62
+              },
+              "score": 0.17818154,
+              "pixelFraction": 0.0966959
+            },
+            {
+              "color": {
+                "red": 25,
+                "green": 49,
+                "blue": 74
+              },
+              "score": 0.078960806,
+              "pixelFraction": 0.004854369
+            },
+            {
+              "color": {
+                "red": 194,
+                "green": 142,
+                "blue": 89
+              },
+              "score": 0.1466028,
+              "pixelFraction": 0.12683997
+            },
+            {
+              "color": {
+                "red": 124,
+                "green": 75,
+                "blue": 30
+              },
+              "score": 0.06979421,
+              "pixelFraction": 0.0315534
+            },
+            {
+              "color": {
+                "red": 167,
+                "green": 110,
+                "blue": 40
+              },
+              "score": 0.04982831,
+              "pixelFraction": 0.019495772
+            },
+            {
+              "color": {
+                "red": 8,
+                "green": 28,
+                "blue": 50
+              },
+              "score": 0.046949994,
+              "pixelFraction": 0.0036799249
+            },
+            {
+              "color": {
+                "red": 195,
+                "green": 139,
+                "blue": 66
+              },
+              "score": 0.043094777,
+              "pixelFraction": 0.027168807
+            },
+            {
+              "color": {
+                "red": 186,
+                "green": 150,
+                "blue": 92
+              },
+              "score": 0.037722193,
+              "pixelFraction": 0.052223615
+            },
+            {
+              "color": {
+                "red": 118,
+                "green": 73,
+                "blue": 53
+              },
+              "score": 0.029754542,
+              "pixelFraction": 0.02857814
+            },
+            {
+              "color": {
+                "red": 229,
+                "green": 179,
+                "blue": 126
+              },
+              "score": 0.027639298,
+              "pixelFraction": 0.028499844
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 330
+                },
+                {
+                  "y": 330
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "sl"
+                }
+              ]
+            },
+            "width": 400,
+            "height": 331,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "sl"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 357,
+                      "y": 272
+                    },
+                    {
+                      "x": 371,
+                      "y": 272
+                    },
+                    {
+                      "x": 371,
+                      "y": 310
+                    },
+                    {
+                      "x": 357,
+                      "y": 310
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "sl"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 357,
+                          "y": 272
+                        },
+                        {
+                          "x": 371,
+                          "y": 272
+                        },
+                        {
+                          "x": 371,
+                          "y": 310
+                        },
+                        {
+                          "x": 357,
+                          "y": 310
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "sl"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 357,
+                              "y": 272
+                            },
+                            {
+                              "x": 371,
+                              "y": 272
+                            },
+                            {
+                              "x": 371,
+                              "y": 310
+                            },
+                            {
+                              "x": 357,
+                              "y": 310
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "sl"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 357,
+                                  "y": 272
+                                },
+                                {
+                                  "x": 371,
+                                  "y": 272
+                                },
+                                {
+                                  "x": 371,
+                                  "y": 278
+                                },
+                                {
+                                  "x": 357,
+                                  "y": 278
+                                }
+                              ]
+                            },
+                            "text": "E"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "sl"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 357,
+                                  "y": 279
+                                },
+                                {
+                                  "x": 371,
+                                  "y": 279
+                                },
+                                {
+                                  "x": 371,
+                                  "y": 285
+                                },
+                                {
+                                  "x": 357,
+                                  "y": 285
+                                }
+                              ]
+                            },
+                            "text": "H"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "sl"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 357,
+                                  "y": 286
+                                },
+                                {
+                                  "x": 371,
+                                  "y": 286
+                                },
+                                {
+                                  "x": 371,
+                                  "y": 292
+                                },
+                                {
+                                  "x": 357,
+                                  "y": 292
+                                }
+                              ]
+                            },
+                            "text": "I"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "sl"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 357,
+                                  "y": 293
+                                },
+                                {
+                                  "x": 371,
+                                  "y": 293
+                                },
+                                {
+                                  "x": 371,
+                                  "y": 301
+                                },
+                                {
+                                  "x": 357,
+                                  "y": 301
+                                }
+                              ]
+                            },
+                            "text": "C"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "sl"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 357,
+                                  "y": 302
+                                },
+                                {
+                                  "x": 371,
+                                  "y": 302
+                                },
+                                {
+                                  "x": 371,
+                                  "y": 310
+                                },
+                                {
+                                  "x": 357,
+                                  "y": 310
+                                }
+                              ]
+                            },
+                            "text": "O"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "EHICO\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/02vxg9d",
+            "score": 22.54784,
+            "description": "Galleria Nazionale dell'Umbria"
+          },
+          {
+            "entityId": "/m/0glpfxr",
+            "score": 2.82704,
+            "description": "Perugia Altarpiece"
+          },
+          {
+            "entityId": "/m/06cvx",
+            "score": 0.62188,
+            "description": "Renaissance"
+          },
+          {
+            "entityId": "/m/01bttc",
+            "score": 0.48169,
+            "description": "Altarpiece"
+          },
+          {
+            "entityId": "/m/01tm3n",
+            "score": 0.45278,
+            "description": "Triptych"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://www.artehistoria.com/v2/jpg/BET15207.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/c8/00/50/c80050d854c749f30ef5d669e1e9141d.jpg"
+          },
+          {
+            "url": "http://www.beach.jp/asset/circle/ae/30/240/images/comment/dff69e912147ee240780a82d353ea03a23836.jpg"
+          },
+          {
+            "url": "http://theredlist.com/media/.cache/database/fine-art2/15-16/quattrocento/fra-angelico/1468679918-039-fra-angelico-theredlist.jpg"
+          },
+          {
+            "url": "http://ja.wahooart.com/Art.nsf/O/8XZ94P/$File/Fra-Angelico-Perugia-Altarpiece-in-modern-frame--S.JPG"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://www.prestburychoral.uk/Images/15NovPoster.jpg"
+          },
+          {
+            "url": "http://art.c-rover.com/ang/pict/angelico0740.jpg"
+          },
+          {
+            "url": "http://jdalbera.free.fr/perugia/images/beato_angelico_r.jpg"
+          },
+          {
+            "url": "http://nobleza.org/wp-content/uploads/2014/12/Perugia_altarpiece_angel.jpg"
+          },
+          {
+            "url": "http://2.bp.blogspot.com/-A03-nbrxdyE/U48xaARlR2I/AAAAAAAALE8/aRWEBsP_k0M/s1600/galleria+piece.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.wga.hu/frames-e.html?/html/a/angelico/06/index.html"
+          },
+          {
+            "url": "http://www.travelingintuscany.com/art/fraangelico/perugiaaltarpiece.htm"
+          },
+          {
+            "url": "http://fraangelicostudio.yolasite.com/tvcaperugia.php"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Fra_Angelico_-_Perugia_Altarpiece_(in_modern_frame)_-_WGA00496.jpg"
+          },
+          {
+            "url": "https://www.wikiart.org/en/fra-angelico/perugia-altarpiece-1448-1"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://www.wga.hu/preview/a/angelico/06/perugia.jpg"
+          },
+          {
+            "url": "http://fraangelicostudio.yolasite.com/resources/200Perugia.gif?timestamp=1273517150559"
+          },
+          {
+            "url": "https://classconnection.s3.amazonaws.com/311/flashcards/4276311/jpg/orcagna__strozzi_altarpiece_florence__s_maria_novella_1354-57-1425C8B79FF23DE1CED.jpg"
+          },
+          {
+            "url": "https://rlv.zcache.com/perugia_altarpiece_fra_angelico_postcard-r814abd9ec2d24646961f5d3389fd6108_vgbaq_8byvr_324.jpg"
+          },
+          {
+            "url": "http://www.sabercultural.com/template/pintores/fotos/Fra-Angelico-2-Foto07.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

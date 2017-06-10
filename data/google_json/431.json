@@ -1,0 +1,513 @@
+{
+  "responses": [
+    {
+      "logoAnnotations": [
+        {
+          "description": "Assumption of the Virgin",
+          "score": 0.9513449,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 2,
+                "y": 1
+              },
+              {
+                "x": 241,
+                "y": 1
+              },
+              {
+                "x": 241,
+                "y": 393
+              },
+              {
+                "x": 2,
+                "y": 393
+              }
+            ]
+          }
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.7470384
+        },
+        {
+          "mid": "/m/0hyb2",
+          "description": "altar",
+          "score": 0.7441529
+        },
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.66339475
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "nl",
+          "description": "JNw\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "y": 9
+              },
+              {
+                "x": 6,
+                "y": 9
+              },
+              {
+                "x": 6,
+                "y": 17
+              },
+              {
+                "y": 17
+              }
+            ]
+          }
+        },
+        {
+          "description": "JNw",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 1,
+                "y": 18
+              },
+              {
+                "y": 11
+              },
+              {
+                "x": 5,
+                "y": 10
+              },
+              {
+                "x": 6,
+                "y": 17
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 16,
+                "green": 11,
+                "blue": 14
+              },
+              "score": 0.6397763,
+              "pixelFraction": 0.3229942
+            },
+            {
+              "color": {
+                "red": 172,
+                "green": 84,
+                "blue": 75
+              },
+              "score": 0.03930126,
+              "pixelFraction": 0.0029983458
+            },
+            {
+              "color": {
+                "red": 161,
+                "green": 59,
+                "blue": 45
+              },
+              "score": 0.035978254,
+              "pixelFraction": 0.0021712158
+            },
+            {
+              "color": {
+                "red": 73,
+                "green": 34,
+                "blue": 27
+              },
+              "score": 0.03280295,
+              "pixelFraction": 0.06296526
+            },
+            {
+              "color": {
+                "red": 186,
+                "green": 148,
+                "blue": 126
+              },
+              "score": 0.010748684,
+              "pixelFraction": 0.033602152
+            },
+            {
+              "color": {
+                "red": 38,
+                "green": 13,
+                "blue": 14
+              },
+              "score": 0.05915236,
+              "pixelFraction": 0.03618693
+            },
+            {
+              "color": {
+                "red": 152,
+                "green": 65,
+                "blue": 60
+              },
+              "score": 0.03385553,
+              "pixelFraction": 0.010132341
+            },
+            {
+              "color": {
+                "red": 177,
+                "green": 84,
+                "blue": 63
+              },
+              "score": 0.02893001,
+              "pixelFraction": 0.00051695615
+            },
+            {
+              "color": {
+                "red": 52,
+                "green": 41,
+                "blue": 40
+              },
+              "score": 0.026962321,
+              "pixelFraction": 0.074441686
+            },
+            {
+              "color": {
+                "red": 54,
+                "green": 19,
+                "blue": 12
+              },
+              "score": 0.025832262,
+              "pixelFraction": 0.01757651
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 250
+                },
+                {
+                  "x": 250,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "nl"
+                }
+              ]
+            },
+            "width": 251,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "nl"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 1,
+                      "y": 18
+                    },
+                    {
+                      "y": 11
+                    },
+                    {
+                      "x": 5,
+                      "y": 10
+                    },
+                    {
+                      "x": 6,
+                      "y": 17
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "nl"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "y": 9
+                        },
+                        {
+                          "x": 6,
+                          "y": 9
+                        },
+                        {
+                          "x": 6,
+                          "y": 17
+                        },
+                        {
+                          "y": 17
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "nl"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 1,
+                              "y": 18
+                            },
+                            {
+                              "y": 11
+                            },
+                            {
+                              "x": 5,
+                              "y": 10
+                            },
+                            {
+                              "x": 6,
+                              "y": 17
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "nl"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 1,
+                                  "y": 18
+                                },
+                                {
+                                  "x": 1,
+                                  "y": 16
+                                },
+                                {
+                                  "x": 6,
+                                  "y": 15
+                                },
+                                {
+                                  "x": 6,
+                                  "y": 17
+                                }
+                              ]
+                            },
+                            "text": "J"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "nl"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "y": 9
+                                },
+                                {
+                                  "x": 4,
+                                  "y": 9
+                                },
+                                {
+                                  "x": 4,
+                                  "y": 13
+                                },
+                                {
+                                  "y": 13
+                                }
+                              ]
+                            },
+                            "text": "N"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "nl"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "y": 2
+                                },
+                                {
+                                  "x": 2,
+                                  "y": 2
+                                },
+                                {
+                                  "x": 2,
+                                  "y": 8
+                                },
+                                {
+                                  "y": 8
+                                }
+                              ]
+                            },
+                            "text": "w"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "JNw\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/044bh6",
+            "score": 5.56304,
+            "description": "Palazzo Pitti"
+          },
+          {
+            "entityId": "/g/1216ff7n",
+            "score": 1.99752,
+            "description": "Passerini Assumption"
+          },
+          {
+            "entityId": "/m/02q6mrx",
+            "score": 1.4008,
+            "description": "Assumption of the Virgin"
+          },
+          {
+            "entityId": "/g/11csrr7md0",
+            "score": 0.7836
+          },
+          {
+            "entityId": "/m/01m73f",
+            "score": 0.70177,
+            "description": "Assumption of Mary"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://uploads7.wikiart.org/images/andrea-del-sarto/assumption-of-the-virgin-1529.jpg"
+          },
+          {
+            "url": "http://www.atelierdesarts.com/pittori/icone/A/andrea-del-sarto/Assumption%20of%20the%20Virgin-a.jpg"
+          },
+          {
+            "url": "http://1.bp.blogspot.com/_-_xegqBU0J4/S-GGJYyofwI/AAAAAAAAG_E/tsaXKeIWIyU/s1600/Wga_andrea_del_Sarto_assumption_of_the_virgin.jpg"
+          },
+          {
+            "url": "http://www.gestornoticias.com/archivos/religionenlibertad.com/image/Luis%20Antequera2/Asunci%C3%B3n%20de%20la%20Virgen_%20Andrea%20del%20Sarto%20(1529)_.jpg"
+          },
+          {
+            "url": "https://3.bp.blogspot.com/-VuP1rfMDjso/UA4pt4e_vkI/AAAAAAAAAWw/9x1CzLki-zM/s1600/Andrea_del_Sarto_-_Assumption_of_the_Virgin_-_WGA00400.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://www.catholictradition.org/Tradition/ubi-petrus22.jpg"
+          },
+          {
+            "url": "http://upyourpic.org/images/201405/4o4ohsrsrb.jpg"
+          },
+          {
+            "url": "http://s13.flog.pl/media/foto/9723980_andrea-del-sarto-assunzione-della-vergine-assunta-passerini-1526-olio-su-tavola-sala-delliliade-galleria-palatina-palazzo-pitti-firenze-28062014-.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Andrea_del_Sarto_-_Assumption_of_the_Virgin_-_WGA00400.jpg"
+          },
+          {
+            "url": "http://uploads7.wikiart.org/images/andrea-del-sarto/assumption-of-the-virgin-1529.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Passerini_Assumption"
+          },
+          {
+            "url": "https://www.wikiart.org/en/andrea-del-sarto/assumption-of-the-virgin-1529"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Andrea_del_Sarto_-_Assumption_of_the_Virgin_-_WGA00400.jpg"
+          },
+          {
+            "url": "http://theredlist.com/wiki-2-351-861-414-398-427-view-mannerism-profile-del-sarto-andrea.html"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/323062973242487596/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://3.bp.blogspot.com/-yLjKfcPRLwA/VACx08UN2nI/AAAAAAAEO-g/TZ6Bo93l2qI/s1600/Andrea%2Bdel%2BSarto%2B-%2BAssumption%2Bof%2Bthe%2BVirgin.jpg"
+          },
+          {
+            "url": "https://classconnection.s3.amazonaws.com/532/flashcards/2059532/jpg/andrea_20del_20sarto-323878-148C9A89447493171B8.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/2e/34/3b/2e343b41ae953f05b7e8ba9b235b47b7.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Andrea_del_Sarto_-_Assumption_of_the_Virgin_-_WGA0402.jpg/300px-Andrea_del_Sarto_-_Assumption_of_the_Virgin_-_WGA0402.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Andrea_del_Sarto_-_Assumption_of_the_Virgin_%28Poppi_Altarpiece%29_-_WGA0416.jpg/220px-Andrea_del_Sarto_-_Assumption_of_the_Virgin_%28Poppi_Altarpiece%29_-_WGA0416.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

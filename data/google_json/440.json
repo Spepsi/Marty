@@ -1,0 +1,595 @@
+{
+  "responses": [
+    {
+      "faceAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 109,
+                "y": 30
+              },
+              {
+                "x": 157,
+                "y": 30
+              },
+              {
+                "x": 157,
+                "y": 85
+              },
+              {
+                "x": 109,
+                "y": 85
+              }
+            ]
+          },
+          "fdBoundingPoly": {
+            "vertices": [
+              {
+                "x": 107,
+                "y": 38
+              },
+              {
+                "x": 157,
+                "y": 38
+              },
+              {
+                "x": 157,
+                "y": 88
+              },
+              {
+                "x": 107,
+                "y": 88
+              }
+            ]
+          },
+          "landmarks": [
+            {
+              "type": "LEFT_EYE",
+              "position": {
+                "x": 134.77267,
+                "y": 58.49874,
+                "z": 6.6738394e-05
+              }
+            },
+            {
+              "type": "RIGHT_EYE",
+              "position": {
+                "x": 147.11644,
+                "y": 58.626472,
+                "z": 7.6533837
+              }
+            },
+            {
+              "type": "LEFT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 130.71985,
+                "y": 54.392555,
+                "z": -1.9320194
+              }
+            },
+            {
+              "type": "RIGHT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 140.0791,
+                "y": 55.473053,
+                "z": -0.8589842
+              }
+            },
+            {
+              "type": "LEFT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 145.9694,
+                "y": 55.67131,
+                "z": 2.8459923
+              }
+            },
+            {
+              "type": "RIGHT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 151.03844,
+                "y": 55.122066,
+                "z": 10.808117
+              }
+            },
+            {
+              "type": "MIDPOINT_BETWEEN_EYES",
+              "position": {
+                "x": 142.74957,
+                "y": 58.51613,
+                "z": 1.2954876
+              }
+            },
+            {
+              "type": "NOSE_TIP",
+              "position": {
+                "x": 143.97443,
+                "y": 67.51102,
+                "z": -0.9218689
+              }
+            },
+            {
+              "type": "UPPER_LIP",
+              "position": {
+                "x": 141.39542,
+                "y": 71.92257,
+                "z": 2.7195745
+              }
+            },
+            {
+              "type": "LOWER_LIP",
+              "position": {
+                "x": 140.19432,
+                "y": 76.60417,
+                "z": 4.3923078
+              }
+            },
+            {
+              "type": "MOUTH_LEFT",
+              "position": {
+                "x": 134.34604,
+                "y": 73.03228,
+                "z": 3.2803009
+              }
+            },
+            {
+              "type": "MOUTH_RIGHT",
+              "position": {
+                "x": 143.89876,
+                "y": 73.3548,
+                "z": 9.266026
+              }
+            },
+            {
+              "type": "MOUTH_CENTER",
+              "position": {
+                "x": 140.53256,
+                "y": 73.984566,
+                "z": 3.991328
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_RIGHT",
+              "position": {
+                "x": 144.15883,
+                "y": 67.54066,
+                "z": 5.950817
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_LEFT",
+              "position": {
+                "x": 137.7397,
+                "y": 67.19927,
+                "z": 1.7867547
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_CENTER",
+              "position": {
+                "x": 141.7457,
+                "y": 69.005875,
+                "z": 2.212233
+              }
+            },
+            {
+              "type": "LEFT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 135.65685,
+                "y": 57.416557,
+                "z": -0.90113425
+              }
+            },
+            {
+              "type": "LEFT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 137.41296,
+                "y": 58.365913,
+                "z": 1.6524141
+              }
+            },
+            {
+              "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 134.82668,
+                "y": 59.174805,
+                "z": 0.105641164
+              }
+            },
+            {
+              "type": "LEFT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 131.9298,
+                "y": 57.878864,
+                "z": -0.34842402
+              }
+            },
+            {
+              "type": "LEFT_EYE_PUPIL",
+              "position": {
+                "x": 135.02676,
+                "y": 58.232788,
+                "z": -0.35067976
+              }
+            },
+            {
+              "type": "RIGHT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 147.82623,
+                "y": 57.813168,
+                "z": 6.727783
+              }
+            },
+            {
+              "type": "RIGHT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 148.9296,
+                "y": 58.434143,
+                "z": 10.308702
+              }
+            },
+            {
+              "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 147.18048,
+                "y": 59.53892,
+                "z": 7.7436314
+              }
+            },
+            {
+              "type": "RIGHT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 144.8241,
+                "y": 58.577938,
+                "z": 6.245248
+              }
+            },
+            {
+              "type": "RIGHT_EYE_PUPIL",
+              "position": {
+                "x": 147.52034,
+                "y": 58.64747,
+                "z": 7.4646306
+              }
+            },
+            {
+              "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 136.07384,
+                "y": 53.430805,
+                "z": -2.4869168
+              }
+            },
+            {
+              "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 149.26984,
+                "y": 53.867012,
+                "z": 5.788648
+              }
+            },
+            {
+              "type": "LEFT_EAR_TRAGION",
+              "position": {
+                "x": 117.24133,
+                "y": 61.187294,
+                "z": 11.089272
+              }
+            },
+            {
+              "type": "RIGHT_EAR_TRAGION",
+              "position": {
+                "x": 144.86957,
+                "y": 62.11999,
+                "z": 28.410475
+              }
+            },
+            {
+              "type": "FOREHEAD_GLABELLA",
+              "position": {
+                "x": 143.32544,
+                "y": 55.500343,
+                "z": 0.5159946
+              }
+            },
+            {
+              "type": "CHIN_GNATHION",
+              "position": {
+                "x": 138.32419,
+                "y": 82.48308,
+                "z": 7.1076145
+              }
+            },
+            {
+              "type": "CHIN_LEFT_GONION",
+              "position": {
+                "x": 120.383934,
+                "y": 71.4539,
+                "z": 8.509377
+              }
+            },
+            {
+              "type": "CHIN_RIGHT_GONION",
+              "position": {
+                "x": 145.35631,
+                "y": 72.26362,
+                "z": 24.167604
+              }
+            }
+          ],
+          "rollAngle": 7.617583,
+          "panAngle": 32.53587,
+          "tiltAngle": -9.08534,
+          "detectionConfidence": 0.5709349,
+          "landmarkingConfidence": 0.1542011,
+          "joyLikelihood": "VERY_UNLIKELY",
+          "sorrowLikelihood": "VERY_UNLIKELY",
+          "angerLikelihood": "VERY_UNLIKELY",
+          "surpriseLikelihood": "VERY_UNLIKELY",
+          "underExposedLikelihood": "VERY_UNLIKELY",
+          "blurredLikelihood": "VERY_UNLIKELY",
+          "headwearLikelihood": "VERY_UNLIKELY"
+        }
+      ],
+      "logoAnnotations": [
+        {
+          "description": "St. James with Two Children",
+          "score": 0.9437969,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 5,
+                "y": 14
+              },
+              {
+                "x": 202,
+                "y": 14
+              },
+              {
+                "x": 202,
+                "y": 395
+              },
+              {
+                "x": 5,
+                "y": 395
+              }
+            ]
+          }
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.572815
+        },
+        {
+          "mid": "/m/04zhd",
+          "description": "mythology",
+          "score": 0.5269767
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 169,
+                "green": 152,
+                "blue": 126
+              },
+              "score": 0.10376729,
+              "pixelFraction": 0.072336264
+            },
+            {
+              "color": {
+                "red": 195,
+                "green": 64,
+                "blue": 47
+              },
+              "score": 0.06060572,
+              "pixelFraction": 0.04044477
+            },
+            {
+              "color": {
+                "red": 137,
+                "green": 158,
+                "blue": 175
+              },
+              "score": 0.039090246,
+              "pixelFraction": 0.026515152
+            },
+            {
+              "color": {
+                "red": 226,
+                "green": 233,
+                "blue": 226
+              },
+              "score": 0.025307497,
+              "pixelFraction": 0.03005865
+            },
+            {
+              "color": {
+                "red": 133,
+                "green": 118,
+                "blue": 96
+              },
+              "score": 0.08552306,
+              "pixelFraction": 0.06390518
+            },
+            {
+              "color": {
+                "red": 94,
+                "green": 81,
+                "blue": 61
+              },
+              "score": 0.068188086,
+              "pixelFraction": 0.054740958
+            },
+            {
+              "color": {
+                "red": 210,
+                "green": 190,
+                "blue": 163
+              },
+              "score": 0.06183508,
+              "pixelFraction": 0.04728739
+            },
+            {
+              "color": {
+                "red": 66,
+                "green": 52,
+                "blue": 35
+              },
+              "score": 0.0578951,
+              "pixelFraction": 0.049120236
+            },
+            {
+              "color": {
+                "red": 85,
+                "green": 83,
+                "blue": 82
+              },
+              "score": 0.05692999,
+              "pixelFraction": 0.08027859
+            },
+            {
+              "color": {
+                "red": 77,
+                "green": 44,
+                "blue": 30
+              },
+              "score": 0.050422262,
+              "pixelFraction": 0.06573802
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 213
+                },
+                {
+                  "x": 213,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 1,
+            "importanceFraction": 0.51
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0cfjp",
+            "score": 13.14592,
+            "description": "Uffizi Gallery"
+          },
+          {
+            "entityId": "/m/0fq4gk",
+            "score": 2.45,
+            "description": "San Jacopo sopr'Arno"
+          },
+          {
+            "entityId": "/m/017199",
+            "score": 1.46244,
+            "description": "James, son of Zebedee"
+          },
+          {
+            "entityId": "/g/11ckthc_sf",
+            "score": 0.75138,
+            "description": "St. James with Two Children"
+          },
+          {
+            "entityId": "/g/120_g110",
+            "score": 0.7107
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://www.yipiaotuan.com/pic/20170408/12/article_4865762_450412dbb8e427c4889015.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/f6/87/2c/f6872c6873396951cc652091dafca9c4.jpg"
+          },
+          {
+            "url": "http://www.seckim.com/wp-content/gallery/andrea-del-sarto/st-james.jpg"
+          },
+          {
+            "url": "http://uploads0.wikiart.org/images/andrea-del-sarto/st-james-with-two-children-1529.jpg"
+          },
+          {
+            "url": "http://bbscache1.artron.net/forum/201303/31/162815hpr8eh89ti233t2z.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://img.4travel.jp/img/tcs/t/pict/src/37/30/28/src_37302850.jpg?1423132999"
+          },
+          {
+            "url": "http://www.yipiaotuan.com/pic/20170408/12/article_4865762_450412dbb8e427c4889015.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/f6/87/2c/f6872c6873396951cc652091dafca9c4.jpg"
+          },
+          {
+            "url": "http://www.seckim.com/wp-content/gallery/andrea-del-sarto/st-james.jpg"
+          },
+          {
+            "url": "http://uploads0.wikiart.org/images/andrea-del-sarto/st-james-with-two-children-1529.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://biblia.wiara.pl/doc/423004.Swiety-Jakub-Starszy-Apostol/2"
+          },
+          {
+            "url": "http://www.ekspedyt.org/2014/07/25/slowo-boze-na-dzis-25-lipca-2014r-piatek-sw-jakuba-apostola-swieto/"
+          },
+          {
+            "url": "http://swjozef.com/rok_sw_jakuba/symbole_sw_jakuba/979.html"
+          },
+          {
+            "url": "http://www.nowthenalliance.org/online_bible_blog/?y=2010&m=12"
+          },
+          {
+            "url": "http://www.nowthenalliance.org/online_bible_blog/%3Fy%3D2010"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://biblia.wiara.pl/files_upload/old/biblia.wiara.pl/elementy/js2.jpg"
+          },
+          {
+            "url": "http://www.parafia-sulecin.com/images/article/image/Swieci/jakub%20starszy.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/564x/61/c7/7c/61c77cb3830652e36e5d344662326f85.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/564x/0c/7b/6e/0c7b6e11f19a1ab431d09da76cefd9f3.jpg"
+          },
+          {
+            "url": "http://www.parafiasaczow.pl/fotki/duze//jakub2.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

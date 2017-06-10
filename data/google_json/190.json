@@ -1,0 +1,254 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05fblh",
+          "description": "habitat",
+          "score": 0.96039075
+        },
+        {
+          "mid": "/m/05sm1",
+          "description": "plain",
+          "score": 0.9069738
+        },
+        {
+          "mid": "/m/01gd91",
+          "description": "pasture",
+          "score": 0.8884232
+        },
+        {
+          "mid": "/m/0gs32y",
+          "description": "land lot",
+          "score": 0.8594684
+        },
+        {
+          "mid": "/m/01c7cq",
+          "description": "grassland",
+          "score": 0.8529415
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 176,
+                "green": 149,
+                "blue": 95
+              },
+              "score": 0.16538502,
+              "pixelFraction": 0.015850946
+            },
+            {
+              "color": {
+                "red": 220,
+                "green": 222,
+                "blue": 216
+              },
+              "score": 0.1534938,
+              "pixelFraction": 0.28225806
+            },
+            {
+              "color": {
+                "red": 56,
+                "green": 53,
+                "blue": 27
+              },
+              "score": 0.06513449,
+              "pixelFraction": 0.103726365
+            },
+            {
+              "color": {
+                "red": 144,
+                "green": 121,
+                "blue": 70
+              },
+              "score": 0.105637,
+              "pixelFraction": 0.01575825
+            },
+            {
+              "color": {
+                "red": 166,
+                "green": 146,
+                "blue": 116
+              },
+              "score": 0.08596495,
+              "pixelFraction": 0.020671116
+            },
+            {
+              "color": {
+                "red": 137,
+                "green": 119,
+                "blue": 88
+              },
+              "score": 0.08587508,
+              "pixelFraction": 0.024193548
+            },
+            {
+              "color": {
+                "red": 202,
+                "green": 205,
+                "blue": 206
+              },
+              "score": 0.060835093,
+              "pixelFraction": 0.12940304
+            },
+            {
+              "color": {
+                "red": 95,
+                "green": 83,
+                "blue": 52
+              },
+              "score": 0.049924932,
+              "pixelFraction": 0.06488691
+            },
+            {
+              "color": {
+                "red": 97,
+                "green": 86,
+                "blue": 37
+              },
+              "score": 0.036540546,
+              "pixelFraction": 0.030589543
+            },
+            {
+              "color": {
+                "red": 189,
+                "green": 157,
+                "blue": 77
+              },
+              "score": 0.023143042,
+              "pixelFraction": 0.0025027809
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 281
+                },
+                {
+                  "y": 281
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/09fvwy",
+            "score": 5.40032,
+            "description": "Prater"
+          },
+          {
+            "entityId": "/m/01fdmj",
+            "score": 4.51488,
+            "description": "St. Stephen's Cathedral, Vienna"
+          },
+          {
+            "entityId": "/g/11cktgs4gm",
+            "score": 0.51344
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.33004,
+            "description": "Painting"
+          },
+          {
+            "entityId": "/m/01gd91",
+            "score": 0.25729752,
+            "description": "Pasture"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://www.wga.hu/art/a/alt/viewvien.jpg"
+          },
+          {
+            "url": "http://www.sothebys.com/content/dam/stb/lots/N08/N08952/360N08952_5VVHR.jpg.thumb.500.500.png"
+          },
+          {
+            "url": "http://www.sothebys.com/content/dam/stb/lots/N08/N08952/360N08952_5VVHR.jpg.thumb.385.385.png"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Rudolph_von_Alt_A_View_of_Vienna_From_the_Prater_with_Figures_In_the_Foreground.jpg/320px-Rudolph_von_Alt_A_View_of_Vienna_From_the_Prater_with_Figures_In_the_Foreground.jpg"
+          },
+          {
+            "url": "http://www.artnet.com/WebServices/images/ll00317lldtz4GFgneECfDrCWQFHPKcYN0D/rudolf-von-alt-a-view-of-vienna-from-the-prater-with-figures-in-the-foreground.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Rudolph_von_Alt_A_View_of_Vienna_From_the_Prater_with_Figures_In_the_Foreground.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/art/a/alt/viewvien.jpg"
+          },
+          {
+            "url": "http://farm9.staticflickr.com/8120/29519048855_991a67d86c_o.jpg"
+          },
+          {
+            "url": "http://www.artvalue.com/image.aspx?PHOTO_ID=2530707&width=500&height=500"
+          },
+          {
+            "url": "http://www.artnet.com/WebServices/images/ll00317lldtz4GFgneECfDrCWQFHPKcYN0D/rudolf-von-alt-a-view-of-vienna-from-the-prater-with-figures-in-the-foreground.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://fiveminutehistory.com/30-glorious-paintings-of-19th-century-europe/"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Rudolph_von_Alt_A_View_of_Vienna_From_the_Prater_with_Figures_In_the_Foreground.jpg"
+          },
+          {
+            "url": "http://fiveminutehistory.com/RudolfvonAlt"
+          },
+          {
+            "url": "http://www.sothebys.com/en/auctions/ecatalogue/2013/old-master-paintings-n08952/lot.317.html"
+          },
+          {
+            "url": "http://www.sothebys.com/fr/auctions/ecatalogue/lot.317.html/2013/old-master-paintings-n08952"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://www.artnet.com/WebServices/images/ll00317lldtz4GFgneECfDrCWvaHBOcYN0D/rudolf-von-alt-a-view-of-vienna-from-the-prater-with-figures-in-the-foreground.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Rudolf_von_Alt_-_Aussicht_von_der_Rosalienkapelle_-1837.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Rudolf_von_Alt-_Partie_aus_dem_Tal_von_Altaussee_1832.jpg"
+          },
+          {
+            "url": "http://www.albertina.at/jart/prj3/albertina/images/cache/cd5b86fd383deb0a0d56856691f2671e/0xFF2D5F30694C66864BF95D4AF0CF596F.jpeg"
+          },
+          {
+            "url": "http://www.art-port.cc/resources/cache/aa/1e/131240-sgsg-52006.l.jpeg.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

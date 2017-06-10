@@ -1,0 +1,449 @@
+{
+  "responses": [
+    {
+      "logoAnnotations": [
+        {
+          "mid": "/m/0bx9g4k",
+          "description": "Autumn",
+          "score": 0.9294234,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 29,
+                "y": 55
+              },
+              {
+                "x": 249,
+                "y": 55
+              },
+              {
+                "x": 249,
+                "y": 394
+              },
+              {
+                "x": 29,
+                "y": 394
+              }
+            ]
+          }
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "ko",
+          "description": "췰\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 100,
+                "y": 181
+              },
+              {
+                "x": 120,
+                "y": 181
+              },
+              {
+                "x": 120,
+                "y": 197
+              },
+              {
+                "x": 100,
+                "y": 197
+              }
+            ]
+          }
+        },
+        {
+          "description": "췰",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 120,
+                "y": 181
+              },
+              {
+                "x": 121,
+                "y": 196
+              },
+              {
+                "x": 102,
+                "y": 197
+              },
+              {
+                "x": 101,
+                "y": 182
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 79,
+                "green": 41,
+                "blue": 24
+              },
+              "score": 0.16085948,
+              "pixelFraction": 0.028849352
+            },
+            {
+              "color": {
+                "red": 176,
+                "green": 148,
+                "blue": 94
+              },
+              "score": 0.088207945,
+              "pixelFraction": 0.0042401063
+            },
+            {
+              "color": {
+                "red": 150,
+                "green": 110,
+                "blue": 65
+              },
+              "score": 0.07771244,
+              "pixelFraction": 0.004406385
+            },
+            {
+              "color": {
+                "red": 110,
+                "green": 72,
+                "blue": 51
+              },
+              "score": 0.1316017,
+              "pixelFraction": 0.04298304
+            },
+            {
+              "color": {
+                "red": 150,
+                "green": 119,
+                "blue": 68
+              },
+              "score": 0.07550298,
+              "pixelFraction": 0.0049883607
+            },
+            {
+              "color": {
+                "red": 115,
+                "green": 75,
+                "blue": 36
+              },
+              "score": 0.073821105,
+              "pixelFraction": 0.0064848685
+            },
+            {
+              "color": {
+                "red": 102,
+                "green": 82,
+                "blue": 58
+              },
+              "score": 0.06632632,
+              "pixelFraction": 0.042068508
+            },
+            {
+              "color": {
+                "red": 52,
+                "green": 17,
+                "blue": 5
+              },
+              "score": 0.052563902,
+              "pixelFraction": 0.012969737
+            },
+            {
+              "color": {
+                "red": 140,
+                "green": 115,
+                "blue": 90
+              },
+              "score": 0.048132382,
+              "pixelFraction": 0.03134353
+            },
+            {
+              "color": {
+                "red": 143,
+                "green": 105,
+                "blue": 80
+              },
+              "score": 0.03966439,
+              "pixelFraction": 0.015297639
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 312
+                },
+                {
+                  "x": 312,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "ko"
+                }
+              ]
+            },
+            "width": 313,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "ko"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 120,
+                      "y": 181
+                    },
+                    {
+                      "x": 121,
+                      "y": 196
+                    },
+                    {
+                      "x": 102,
+                      "y": 197
+                    },
+                    {
+                      "x": 101,
+                      "y": 182
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "ko"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 100,
+                          "y": 181
+                        },
+                        {
+                          "x": 120,
+                          "y": 181
+                        },
+                        {
+                          "x": 120,
+                          "y": 197
+                        },
+                        {
+                          "x": 100,
+                          "y": 197
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "ko"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 120,
+                              "y": 181
+                            },
+                            {
+                              "x": 121,
+                              "y": 196
+                            },
+                            {
+                              "x": 102,
+                              "y": 197
+                            },
+                            {
+                              "x": 101,
+                              "y": 182
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "ko"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 120,
+                                  "y": 181
+                                },
+                                {
+                                  "x": 121,
+                                  "y": 196
+                                },
+                                {
+                                  "x": 102,
+                                  "y": 197
+                                },
+                                {
+                                  "x": 101,
+                                  "y": 182
+                                }
+                              ]
+                            },
+                            "text": "췰"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "췰\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/04fmnq",
+            "score": 1.4804,
+            "description": "Denver Art Museum"
+          },
+          {
+            "entityId": "/m/0134l",
+            "score": 0.72018,
+            "description": "Autumn"
+          },
+          {
+            "entityId": "/m/0p9xx",
+            "score": 0.63318,
+            "description": "Visual arts"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.48712,
+            "description": "Painting"
+          },
+          {
+            "entityId": "/m/0754v",
+            "score": 0.40912,
+            "description": "Season"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://phototour.pro/content/gallery/photo_198.jpg"
+          },
+          {
+            "url": "https://pitturesogni.files.wordpress.com/2013/12/autunno-1572-olio-su-tela-93-x-72-cm-art-museum-denver.jpg"
+          },
+          {
+            "url": "http://2.bp.blogspot.com/-247E1pkFmPg/T-A4Qj65_fI/AAAAAAAAM7k/jWZWvTQ7gPg/s1600/1572+Autumn+oil+on+canvas+93+x+72+cm.jpg"
+          },
+          {
+            "url": "https://uploads5.wikiart.org/images/giuseppe-arcimboldo/autumn.jpg"
+          },
+          {
+            "url": "https://pitturesogni.files.wordpress.com/2013/12/autunno-1572-olio-su-tela-93-x-72-cm-art-museum-denver.jpg?w=1020&h=1300&crop=1"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://www.rai.tv/dl/img/2014/09/1411276756234_Arcimboldo_Autumn_1572__private_.jpg"
+          },
+          {
+            "url": "http://blog.giallozafferano.it/lericettedielenuar/wp-content/uploads/2016/11/IMG_6368.jpg"
+          },
+          {
+            "url": "https://i1.wp.com/unartemaestra.files.wordpress.com/2015/04/3-arcimboldo_autumn_1572_private.jpg"
+          },
+          {
+            "url": "http://i.imgur.com/a15CFw2.jpg"
+          },
+          {
+            "url": "http://4.bp.blogspot.com/-X1ryEUmr4ZQ/UpTfXEwe2AI/AAAAAAAAltY/GTTLf8TViis/s1600/Arcimboldo_Autumn_1572_(private).jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://www.wikiart.org/en/giuseppe-arcimboldo/autumn"
+          },
+          {
+            "url": "http://www.wga.hu/html_m/a/arcimbol/3allegor/3seaso3.html"
+          },
+          {
+            "url": "https://www.zazzle.com/giuseppe+arcimboldo+autumn+gifts"
+          },
+          {
+            "url": "https://www.zazzle.com/giuseppe+arcimboldo+autumn+cards"
+          },
+          {
+            "url": "https://biblioklept.org/2015/09/23/autumn-giuseppe-arcimboldo-4/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://i1.wp.com/uploads5.wikipaintings.org/images/giuseppe-arcimboldo/autumn.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/3c/82/48/3c8248be84dfddbc69b829c733daf958.jpg"
+          },
+          {
+            "url": "http://l7.alamy.com/zooms/ce9f0da7f83246d8b80379716cdc9163/autumn-giuseppe-arcimboldo-1572-fa2my2.jpg"
+          },
+          {
+            "url": "http://www.lib-art.com/imgpaintingthumb/4/9/t3394-autumn-giuseppe-arcimboldo.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/c0/2b/07/c02b0709505657849df06b82278db0ec.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

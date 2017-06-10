@@ -1,0 +1,496 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.87488097
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "en",
+          "description": "«u\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 211,
+                "y": 162
+              },
+              {
+                "x": 231,
+                "y": 162
+              },
+              {
+                "x": 231,
+                "y": 187
+              },
+              {
+                "x": 211,
+                "y": 187
+              }
+            ]
+          }
+        },
+        {
+          "description": "«",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 231,
+                "y": 187
+              },
+              {
+                "x": 212,
+                "y": 188
+              },
+              {
+                "x": 212,
+                "y": 177
+              },
+              {
+                "x": 231,
+                "y": 176
+              }
+            ]
+          }
+        },
+        {
+          "description": "u",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 230,
+                "y": 174
+              },
+              {
+                "x": 211,
+                "y": 175
+              },
+              {
+                "x": 211,
+                "y": 164
+              },
+              {
+                "x": 230,
+                "y": 163
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 82,
+                "green": 41,
+                "blue": 27
+              },
+              "score": 0.124594666,
+              "pixelFraction": 0.07087896
+            },
+            {
+              "color": {
+                "red": 125,
+                "green": 72,
+                "blue": 33
+              },
+              "score": 0.07983232,
+              "pixelFraction": 0.029520568
+            },
+            {
+              "color": {
+                "red": 239,
+                "green": 183,
+                "blue": 128
+              },
+              "score": 0.06274496,
+              "pixelFraction": 0.013613495
+            },
+            {
+              "color": {
+                "red": 132,
+                "green": 112,
+                "blue": 106
+              },
+              "score": 0.03727002,
+              "pixelFraction": 0.012429713
+            },
+            {
+              "color": {
+                "red": 254,
+                "green": 216,
+                "blue": 158
+              },
+              "score": 0.0069085034,
+              "pixelFraction": 0.0025895236
+            },
+            {
+              "color": {
+                "red": 159,
+                "green": 105,
+                "blue": 60
+              },
+              "score": 0.068794146,
+              "pixelFraction": 0.05260432
+            },
+            {
+              "color": {
+                "red": 96,
+                "green": 32,
+                "blue": 26
+              },
+              "score": 0.059149183,
+              "pixelFraction": 0.011097958
+            },
+            {
+              "color": {
+                "red": 112,
+                "green": 72,
+                "blue": 52
+              },
+              "score": 0.05382491,
+              "pixelFraction": 0.04032258
+            },
+            {
+              "color": {
+                "red": 202,
+                "green": 145,
+                "blue": 95
+              },
+              "score": 0.053498197,
+              "pixelFraction": 0.015019236
+            },
+            {
+              "color": {
+                "red": 96,
+                "green": 45,
+                "blue": 10
+              },
+              "score": 0.036074746,
+              "pixelFraction": 0.009544244
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 350
+                },
+                {
+                  "y": 350
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "en"
+                }
+              ]
+            },
+            "width": 400,
+            "height": 351,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "en"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 212,
+                      "y": 188
+                    },
+                    {
+                      "x": 211,
+                      "y": 164
+                    },
+                    {
+                      "x": 230,
+                      "y": 163
+                    },
+                    {
+                      "x": 231,
+                      "y": 187
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "en"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 211,
+                          "y": 162
+                        },
+                        {
+                          "x": 231,
+                          "y": 162
+                        },
+                        {
+                          "x": 231,
+                          "y": 187
+                        },
+                        {
+                          "x": 211,
+                          "y": 187
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 231,
+                              "y": 187
+                            },
+                            {
+                              "x": 212,
+                              "y": 188
+                            },
+                            {
+                              "x": 212,
+                              "y": 177
+                            },
+                            {
+                              "x": 231,
+                              "y": 176
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 231,
+                                  "y": 187
+                                },
+                                {
+                                  "x": 212,
+                                  "y": 188
+                                },
+                                {
+                                  "x": 212,
+                                  "y": 177
+                                },
+                                {
+                                  "x": 231,
+                                  "y": 176
+                                }
+                              ]
+                            },
+                            "text": "«"
+                          }
+                        ]
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 230,
+                              "y": 174
+                            },
+                            {
+                              "x": 211,
+                              "y": 175
+                            },
+                            {
+                              "x": 211,
+                              "y": 164
+                            },
+                            {
+                              "x": 230,
+                              "y": 163
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 230,
+                                  "y": 174
+                                },
+                                {
+                                  "x": 211,
+                                  "y": 175
+                                },
+                                {
+                                  "x": 211,
+                                  "y": 164
+                                },
+                                {
+                                  "x": 230,
+                                  "y": 163
+                                }
+                              ]
+                            },
+                            "text": "u"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "«u\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/07tbqj",
+            "score": 1.56032,
+            "description": "Nationalmuseum"
+          },
+          {
+            "entityId": "/m/03nqyy8",
+            "score": 1.55712,
+            "description": "The Tribute Money"
+          },
+          {
+            "entityId": "/g/1x5fbyz0",
+            "score": 1.45908,
+            "description": "St. Josemaria Institute"
+          },
+          {
+            "entityId": "/m/011l9q1d",
+            "score": 0.72562,
+            "description": "Luke 16"
+          },
+          {
+            "entityId": "/m/01tx9m",
+            "score": 0.63636,
+            "description": "Baylor University"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://blogs.baylor.edu/truettpulpit/files/2016/08/tributex-127m5ev.jpg"
+          },
+          {
+            "url": "http://www.lending-for-europe.eu/typo3temp/pics/JBacker_Stockholm_01_4805337e04.jpg"
+          },
+          {
+            "url": "https://holstshop.com/media/large/jacob-adriaensz-backer/274026.jpg"
+          },
+          {
+            "url": "http://www.lhpk.fi/wp-content/uploads/2017/02/lamppu_1_2017_kansi.jpg"
+          },
+          {
+            "url": "http://img0.liveinternet.ru/images/attach/c/5/87/213/87213372_4000579_2.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://blogs.baylor.edu/truettpulpit/2016/08/30/luke-161-13/"
+          },
+          {
+            "url": "https://blogs.baylor.edu/truettpulpit/category/contributors-2/brett-younger/"
+          },
+          {
+            "url": "http://www.lending-for-europe.eu/about-us/good-practices/"
+          },
+          {
+            "url": "http://stjosemaria.org/ipray-podcasts/"
+          },
+          {
+            "url": "http://stjosemaria.org/audio/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://blogs.baylor.edu/truettpulpit/files/2016/08/tributex-127m5ev.jpg"
+          },
+          {
+            "url": "https://8406c24de5442685c57b-57fa5852527c9e8686bcd34c9fdc4763.ssl.cf5.rackcdn.com/emmaus_road_3-1-250x193.jpg"
+          },
+          {
+            "url": "http://newchristianbiblestudy.org/bundles/ncbsw/media/Reymerswaele_Two_tax_collectors.jpg"
+          },
+          {
+            "url": "http://www.workingpreacher.org/controls_media/header/tool_wp_feature_picture_readings/feature_images/Flemish_Rich_and_Poor_710.jpg"
+          },
+          {
+            "url": "http://truthbook.com/images/site_images/Rembrandt_The_Rich_Man_from_the_Parable_525.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

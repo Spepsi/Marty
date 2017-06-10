@@ -1,0 +1,449 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07j7r",
+          "description": "tree",
+          "score": 0.87423223
+        },
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.86984926
+        },
+        {
+          "mid": "/m/02ym4x",
+          "description": "impressionist",
+          "score": 0.7533799
+        },
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.7028891
+        },
+        {
+          "mid": "/m/0lym8",
+          "description": "tapestry",
+          "score": 0.6261271
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "zh",
+          "description": "和\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 170,
+                "y": 185
+              },
+              {
+                "x": 182,
+                "y": 185
+              },
+              {
+                "x": 182,
+                "y": 198
+              },
+              {
+                "x": 170,
+                "y": 198
+              }
+            ]
+          }
+        },
+        {
+          "description": "和",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 172,
+                "y": 185
+              },
+              {
+                "x": 183,
+                "y": 185
+              },
+              {
+                "x": 182,
+                "y": 198
+              },
+              {
+                "x": 171,
+                "y": 198
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 207,
+                "green": 196,
+                "blue": 164
+              },
+              "score": 0.1611728,
+              "pixelFraction": 0.12759611
+            },
+            {
+              "color": {
+                "red": 168,
+                "green": 155,
+                "blue": 119
+              },
+              "score": 0.13816862,
+              "pixelFraction": 0.12571807
+            },
+            {
+              "color": {
+                "red": 131,
+                "green": 119,
+                "blue": 83
+              },
+              "score": 0.124467775,
+              "pixelFraction": 0.14924878
+            },
+            {
+              "color": {
+                "red": 134,
+                "green": 121,
+                "blue": 72
+              },
+              "score": 0.11740334,
+              "pixelFraction": 0.06330093
+            },
+            {
+              "color": {
+                "red": 235,
+                "green": 226,
+                "blue": 199
+              },
+              "score": 0.11095782,
+              "pixelFraction": 0.040654
+            },
+            {
+              "color": {
+                "red": 96,
+                "green": 83,
+                "blue": 52
+              },
+              "score": 0.10747338,
+              "pixelFraction": 0.14626601
+            },
+            {
+              "color": {
+                "red": 164,
+                "green": 151,
+                "blue": 101
+              },
+              "score": 0.054220732,
+              "pixelFraction": 0.023199294
+            },
+            {
+              "color": {
+                "red": 66,
+                "green": 54,
+                "blue": 26
+              },
+              "score": 0.051757865,
+              "pixelFraction": 0.085174546
+            },
+            {
+              "color": {
+                "red": 103,
+                "green": 88,
+                "blue": 42
+              },
+              "score": 0.04843545,
+              "pixelFraction": 0.036235087
+            },
+            {
+              "color": {
+                "red": 230,
+                "green": 228,
+                "blue": 218
+              },
+              "score": 0.037378944,
+              "pixelFraction": 0.028833408
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 236
+                },
+                {
+                  "x": 236,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "zh-Hans"
+                }
+              ]
+            },
+            "width": 237,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "zh-Hans"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 183,
+                      "y": 185
+                    },
+                    {
+                      "x": 182,
+                      "y": 198
+                    },
+                    {
+                      "x": 171,
+                      "y": 198
+                    },
+                    {
+                      "x": 172,
+                      "y": 185
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "zh-Hans"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 170,
+                          "y": 185
+                        },
+                        {
+                          "x": 182,
+                          "y": 185
+                        },
+                        {
+                          "x": 182,
+                          "y": 198
+                        },
+                        {
+                          "x": 170,
+                          "y": 198
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "zh-Hans"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 172,
+                              "y": 185
+                            },
+                            {
+                              "x": 183,
+                              "y": 185
+                            },
+                            {
+                              "x": 182,
+                              "y": 198
+                            },
+                            {
+                              "x": 171,
+                              "y": 198
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "zh-Hans"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 172,
+                                  "y": 185
+                                },
+                                {
+                                  "x": 183,
+                                  "y": 185
+                                },
+                                {
+                                  "x": 182,
+                                  "y": 198
+                                },
+                                {
+                                  "x": 171,
+                                  "y": 198
+                                }
+                              ]
+                            },
+                            "text": "和"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "和\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0k3p",
+            "score": 1.20136,
+            "description": "Amsterdam"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 1.0631769,
+            "description": "Painting"
+          },
+          {
+            "entityId": "/m/0118zz5h",
+            "score": 0.59472,
+            "description": "1780s"
+          },
+          {
+            "entityId": "/m/0jjw",
+            "score": 0.38461,
+            "description": "Art"
+          },
+          {
+            "entityId": "/m/025s3q0",
+            "score": 0.38269,
+            "description": "Landscape"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/b4/9f/0d/b49f0d42fdf8b9f9f5b53d783389a872.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/6a/54/3a/6a543ac0fc8969342650d1d6550b1fce.jpg"
+          },
+          {
+            "url": "http://www.celebslight.club/images/jurriaan-andriessen-02.jpg"
+          },
+          {
+            "url": "http://www.handelforever.com/castrati/domenicogizzi/bucolico.jpg"
+          },
+          {
+            "url": "http://www.schilderijen.nu/schilderij/jurriaan-andriessen-arcadische-landschap-i1411.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://i.ytimg.com/vi/K-qwwn1b9jY/maxresdefault.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/b4/9f/0d/b49f0d42fdf8b9f9f5b53d783389a872.jpg"
+          },
+          {
+            "url": "http://www.settemuse.it/pittori_opere_A/_altri/andriessen_jurriaan_500_arcadian_landscape.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/6a/54/3a/6a543ac0fc8969342650d1d6550b1fce.jpg"
+          },
+          {
+            "url": "http://www.celebslight.club/images/jurriaan-andriessen-02.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Jurriaan_Andriessen_(artist)"
+          },
+          {
+            "url": "http://www.artnet.com/artists/jurriaan-andriessen/past-auction-results"
+          },
+          {
+            "url": "http://www.invaluable.com/artist/andriessen-jurriaan-b0vvz3d8u0"
+          },
+          {
+            "url": "http://www.muncharoo.com/topic/Jurriaan%20Andriessen%20(artist)"
+          },
+          {
+            "url": "http://www.mystudios.com/artgallery/J/Jurriaan-Andriessen/Arcadian-Landscape-1780-2.html"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Andriessen%2C_Jurriaen_-_Arcadian_Landscape_-_1780s.jpg/172px-Andriessen%2C_Jurriaen_-_Arcadian_Landscape_-_1780s.jpg"
+          },
+          {
+            "url": "http://en.wahooart.com/Art.nsf/O/9CWCSS/$File/Jurriaan+Andriessen-Arcadian+Landscape+(2)-S.JPG"
+          },
+          {
+            "url": "http://www.artnet.com/WebServices/images/ll00139lldJTFJFgPNECfDrCWQFHPKcpOxE/jurriaan-andriessen-a-bacchanal-in-a-wooded-landscape,-a-temple-with-an-offer-to-bacchus-beyond,-in-a-trompe-loeil.jpg"
+          },
+          {
+            "url": "http://www.artvalue.com/photos/auction/0/39/39454/circle-of-andriessen-jurriaan-bergers-devant-un-paysage-de-r-1437915.jpg"
+          },
+          {
+            "url": "http://www.oceansbridge.com/paintings/museums/rijks-museum/big/Three-wall-hangings-with-a-Dutch-landscape-1776-ZZ-Jurriaan-Andriessen.1009.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

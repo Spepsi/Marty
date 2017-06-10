@@ -1,0 +1,446 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0cgh4",
+          "description": "building",
+          "score": 0.84870946
+        },
+        {
+          "mid": "/m/01sqnx",
+          "description": "byzantine architecture",
+          "score": 0.7405022
+        },
+        {
+          "mid": "/m/0dpvm",
+          "description": "arch",
+          "score": 0.66987574
+        },
+        {
+          "mid": "/m/02nvjx",
+          "description": "place of worship",
+          "score": 0.6649128
+        },
+        {
+          "mid": "/m/0f85g",
+          "description": "basilica",
+          "score": 0.64794475
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "ko",
+          "description": "초\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 263,
+                "y": 285
+              },
+              {
+                "x": 275,
+                "y": 285
+              },
+              {
+                "x": 275,
+                "y": 297
+              },
+              {
+                "x": 263,
+                "y": 297
+              }
+            ]
+          }
+        },
+        {
+          "description": "초",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 264,
+                "y": 285
+              },
+              {
+                "x": 275,
+                "y": 286
+              },
+              {
+                "x": 274,
+                "y": 297
+              },
+              {
+                "x": 263,
+                "y": 296
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 129,
+                "green": 113,
+                "blue": 109
+              },
+              "score": 0.17971306,
+              "pixelFraction": 0.09985035
+            },
+            {
+              "color": {
+                "red": 98,
+                "green": 83,
+                "blue": 82
+              },
+              "score": 0.15932801,
+              "pixelFraction": 0.17808446
+            },
+            {
+              "color": {
+                "red": 61,
+                "green": 49,
+                "blue": 54
+              },
+              "score": 0.117674485,
+              "pixelFraction": 0.2553209
+            },
+            {
+              "color": {
+                "red": 136,
+                "green": 113,
+                "blue": 98
+              },
+              "score": 0.08299858,
+              "pixelFraction": 0.04572664
+            },
+            {
+              "color": {
+                "red": 142,
+                "green": 109,
+                "blue": 91
+              },
+              "score": 0.07667757,
+              "pixelFraction": 0.023279015
+            },
+            {
+              "color": {
+                "red": 110,
+                "green": 80,
+                "blue": 64
+              },
+              "score": 0.06639256,
+              "pixelFraction": 0.023694713
+            },
+            {
+              "color": {
+                "red": 106,
+                "green": 84,
+                "blue": 71
+              },
+              "score": 0.06477544,
+              "pixelFraction": 0.030428998
+            },
+            {
+              "color": {
+                "red": 164,
+                "green": 148,
+                "blue": 142
+              },
+              "score": 0.05797773,
+              "pixelFraction": 0.032756902
+            },
+            {
+              "color": {
+                "red": 31,
+                "green": 22,
+                "blue": 27
+              },
+              "score": 0.05459366,
+              "pixelFraction": 0.15039907
+            },
+            {
+              "color": {
+                "red": 174,
+                "green": 150,
+                "blue": 132
+              },
+              "score": 0.045753513,
+              "pixelFraction": 0.04190223
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 313
+                },
+                {
+                  "x": 313,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "ko"
+                }
+              ]
+            },
+            "width": 314,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "ko"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 264,
+                      "y": 285
+                    },
+                    {
+                      "x": 275,
+                      "y": 286
+                    },
+                    {
+                      "x": 274,
+                      "y": 297
+                    },
+                    {
+                      "x": 263,
+                      "y": 296
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "ko"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 263,
+                          "y": 285
+                        },
+                        {
+                          "x": 275,
+                          "y": 285
+                        },
+                        {
+                          "x": 275,
+                          "y": 297
+                        },
+                        {
+                          "x": 263,
+                          "y": 297
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "ko"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 264,
+                              "y": 285
+                            },
+                            {
+                              "x": 275,
+                              "y": 286
+                            },
+                            {
+                              "x": 274,
+                              "y": 297
+                            },
+                            {
+                              "x": 263,
+                              "y": 296
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "ko"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 264,
+                                  "y": 285
+                                },
+                                {
+                                  "x": 275,
+                                  "y": 286
+                                },
+                                {
+                                  "x": 274,
+                                  "y": 297
+                                },
+                                {
+                                  "x": 263,
+                                  "y": 296
+                                }
+                              ]
+                            },
+                            "text": "초"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "초\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0274ymm",
+            "score": 45.53024,
+            "description": "Basilica of Saint Anthony of Padua"
+          },
+          {
+            "entityId": "/m/0gb3hc",
+            "score": 3.1752,
+            "description": "Zevio"
+          },
+          {
+            "entityId": "/g/119v4pnk3",
+            "score": 2.2404
+          },
+          {
+            "entityId": "/g/1th098kg",
+            "score": 2.20752
+          },
+          {
+            "entityId": "/g/12240psb",
+            "score": 0.76294
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://www.lib-art.com/imgpainting/6/6/3466-view-of-the-cappella-di-san-giacomo-jacopo-avanzi.jpg"
+          },
+          {
+            "url": "http://image02.seesaawiki.jp/w/o/western-art-memo/368110b844426941.jpg"
+          },
+          {
+            "url": "http://www.lib-art.com/imgpainting/8/3/3338-view-of-the-cappella-di-san-giacomo-altichiero-da-zevio.jpg"
+          },
+          {
+            "url": "http://4.bp.blogspot.com/-m1YLYWTcBqg/UzHFFrZbZkI/AAAAAAAADYw/9-CpmUzPSSE/s1600/1view.jpg"
+          },
+          {
+            "url": "https://4.bp.blogspot.com/-nlK4_AibfLo/UuoNHvbJmaI/AAAAAAAAC24/O1KBCo4AjTg/s1600/13+Jacopo+Avanzi+(active+1363-1384)+-+View+of+the+Cappella+di+San+Giacomo+%E2%80%93+1370%E2%80%99s+%E2%80%93+Fresco.+Basilica+di+Sant'Antonio,+Padua.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://www.lib-art.com/imgpainting/6/6/3466-view-of-the-cappella-di-san-giacomo-jacopo-avanzi.jpg"
+          },
+          {
+            "url": "http://image02.seesaawiki.jp/w/o/western-art-memo/368110b844426941.jpg"
+          },
+          {
+            "url": "http://www.lib-art.com/imgpainting/8/3/3338-view-of-the-cappella-di-san-giacomo-altichiero-da-zevio.jpg"
+          },
+          {
+            "url": "http://4.bp.blogspot.com/-m1YLYWTcBqg/UzHFFrZbZkI/AAAAAAAADYw/9-CpmUzPSSE/s1600/1view.jpg"
+          },
+          {
+            "url": "https://4.bp.blogspot.com/-nlK4_AibfLo/UuoNHvbJmaI/AAAAAAAAC24/O1KBCo4AjTg/s1600/13+Jacopo+Avanzi+(active+1363-1384)+-+View+of+the+Cappella+di+San+Giacomo+%E2%80%93+1370%E2%80%99s+%E2%80%93+Fresco.+Basilica+di+Sant'Antonio,+Padua.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.wga.hu/html_m/a/altichie/2/1view.html"
+          },
+          {
+            "url": "https://www.pinterest.com/giamtrov/altichiero-da-zevio/"
+          },
+          {
+            "url": "http://www.encyclopedie.bseditions.fr/article.php?pArticleId=167&pChapitreId=32229&pSousChapitreId=32233&pArticleLib=Altichiero+da+Zevio+%5BLes+%AB%A0Primitifs%A0%BB+italiens+%28Histoire+de+l%27art%29-%3EL%92%E9cole+de+Padoue%5D"
+          },
+          {
+            "url": "https://www.pinterest.com/maricarjimeperi/altichiero-da-zevio/"
+          },
+          {
+            "url": "http://www.encyclopedie.bseditions.fr/article.php?pArticleId=167&pChapitreId=32229&pSousChapitreId=32233&pArticleLib=Altichiero+da+Zevio+%5BLes+%AB%A0Primitifs%A0%BB+italiens+%28Histoire+de+l%27art%29-%3ELes+%AB%A0Primitifs%A0%BB+italiens%5D"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://4.bp.blogspot.com/-m1YLYWTcBqg/UzHFFrZbZkI/AAAAAAAADYw/9-CpmUzPSSE/s1600/1view.jpg"
+          },
+          {
+            "url": "http://media.gettyimages.com/illustrations/view-of-the-san-giacomo-chapel-by-avanzi-jacopo-altichiero-da-zevio-illustration-id115625175?s=170667a"
+          },
+          {
+            "url": "http://media.gettyimages.com/illustrations/the-crucifixion-by-altichiero-da-zevio-1376-1379-about-14th-century-illustration-id132700948?s=170667a"
+          },
+          {
+            "url": "http://c8.alamy.com/comp/ECM7YP/chapel-of-st-james-with-frescoes-by-altichiero-da-zevio-basilica-of-ECM7YP.jpg"
+          },
+          {
+            "url": "https://pbs.twimg.com/media/C9ZsB5CXcAEFMYn.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

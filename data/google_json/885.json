@@ -1,0 +1,524 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.8768135
+        },
+        {
+          "mid": "/m/027_ny3",
+          "description": "still life photography",
+          "score": 0.8683289
+        },
+        {
+          "mid": "/m/01spzs",
+          "description": "still life",
+          "score": 0.84052074
+        },
+        {
+          "mid": "/m/0c9ph5",
+          "description": "flower",
+          "score": 0.7806381
+        },
+        {
+          "mid": "/m/019sc6",
+          "description": "lighting",
+          "score": 0.6471731
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "zh",
+          "description": "牟彝\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 128,
+                "y": 248
+              },
+              {
+                "x": 139,
+                "y": 248
+              },
+              {
+                "x": 139,
+                "y": 270
+              },
+              {
+                "x": 128,
+                "y": 270
+              }
+            ]
+          }
+        },
+        {
+          "description": "牟",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 139,
+                "y": 249
+              },
+              {
+                "x": 139,
+                "y": 253
+              },
+              {
+                "x": 132,
+                "y": 252
+              },
+              {
+                "x": 132,
+                "y": 248
+              }
+            ]
+          }
+        },
+        {
+          "description": "彝",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 136,
+                "y": 261
+              },
+              {
+                "x": 135,
+                "y": 270
+              },
+              {
+                "x": 128,
+                "y": 269
+              },
+              {
+                "x": 129,
+                "y": 260
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 248,
+                "green": 236,
+                "blue": 209
+              },
+              "score": 0.113276266,
+              "pixelFraction": 0.011544991
+            },
+            {
+              "color": {
+                "red": 133,
+                "green": 117,
+                "blue": 88
+              },
+              "score": 0.090429455,
+              "pixelFraction": 0.013667232
+            },
+            {
+              "color": {
+                "red": 80,
+                "green": 44,
+                "blue": 27
+              },
+              "score": 0.056577962,
+              "pixelFraction": 0.027928693
+            },
+            {
+              "color": {
+                "red": 170,
+                "green": 153,
+                "blue": 124
+              },
+              "score": 0.081822865,
+              "pixelFraction": 0.009847199
+            },
+            {
+              "color": {
+                "red": 208,
+                "green": 192,
+                "blue": 163
+              },
+              "score": 0.07491425,
+              "pixelFraction": 0.008234295
+            },
+            {
+              "color": {
+                "red": 96,
+                "green": 81,
+                "blue": 55
+              },
+              "score": 0.07004532,
+              "pixelFraction": 0.018081494
+            },
+            {
+              "color": {
+                "red": 64,
+                "green": 50,
+                "blue": 28
+              },
+              "score": 0.048891816,
+              "pixelFraction": 0.07368421
+            },
+            {
+              "color": {
+                "red": 112,
+                "green": 72,
+                "blue": 53
+              },
+              "score": 0.043513738,
+              "pixelFraction": 0.012308998
+            },
+            {
+              "color": {
+                "red": 176,
+                "green": 156,
+                "blue": 99
+              },
+              "score": 0.040402178,
+              "pixelFraction": 0.0033955858
+            },
+            {
+              "color": {
+                "red": 149,
+                "green": 107,
+                "blue": 85
+              },
+              "score": 0.036239035,
+              "pixelFraction": 0.006451613
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 306
+                },
+                {
+                  "x": 306,
+                  "y": 375
+                },
+                {
+                  "y": 375
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "zh-Hans"
+                }
+              ]
+            },
+            "width": 307,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "zh-Hans"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 130,
+                      "y": 248
+                    },
+                    {
+                      "x": 139,
+                      "y": 249
+                    },
+                    {
+                      "x": 137,
+                      "y": 270
+                    },
+                    {
+                      "x": 128,
+                      "y": 269
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "zh-Hans"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 128,
+                          "y": 248
+                        },
+                        {
+                          "x": 139,
+                          "y": 248
+                        },
+                        {
+                          "x": 139,
+                          "y": 270
+                        },
+                        {
+                          "x": 128,
+                          "y": 270
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "zh-Hans"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 139,
+                              "y": 249
+                            },
+                            {
+                              "x": 139,
+                              "y": 253
+                            },
+                            {
+                              "x": 132,
+                              "y": 252
+                            },
+                            {
+                              "x": 132,
+                              "y": 248
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "zh-Hans"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 139,
+                                  "y": 249
+                                },
+                                {
+                                  "x": 139,
+                                  "y": 253
+                                },
+                                {
+                                  "x": 132,
+                                  "y": 252
+                                },
+                                {
+                                  "x": 132,
+                                  "y": 248
+                                }
+                              ]
+                            },
+                            "text": "牟"
+                          }
+                        ]
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "zh-Hans"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 136,
+                              "y": 261
+                            },
+                            {
+                              "x": 135,
+                              "y": 270
+                            },
+                            {
+                              "x": 128,
+                              "y": 269
+                            },
+                            {
+                              "x": 129,
+                              "y": 260
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "zh-Hans"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 136,
+                                  "y": 261
+                                },
+                                {
+                                  "x": 135,
+                                  "y": 270
+                                },
+                                {
+                                  "x": 128,
+                                  "y": 269
+                                },
+                                {
+                                  "x": 129,
+                                  "y": 260
+                                }
+                              ]
+                            },
+                            "text": "彝"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "牟彝\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/059_frr",
+            "score": 1.50432,
+            "description": "Vase of Flowers"
+          },
+          {
+            "entityId": "/m/01spzs",
+            "score": 1.0609999,
+            "description": "Still life"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.7139,
+            "description": "Painting"
+          },
+          {
+            "entityId": "/m/0c9ph5",
+            "score": 0.52753353,
+            "description": "Flower"
+          },
+          {
+            "entityId": "/m/05nmd",
+            "score": 0.45803,
+            "description": "Oil painting"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://www.wga.hu/detail_s/a/arellano/03arella.jpg"
+          },
+          {
+            "url": "http://wahooart.com/ADC/Art-ImgThumb.nsf/O/A-8BWTPA/$FILE/Juan_de_arellano-vase_of_flowers-s.Jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://1.bp.blogspot.com/-5h59euoTIas/VM5p4AvyAWI/AAAAAAAAAmU/f_UWtUkRiQc/s1600/Juan%2Bde%2BArellano%2B-%2BFlorero%2B5.jpg"
+          },
+          {
+            "url": "http://www.book530.com/paintingpic/0820a/12192091512473.jpg"
+          },
+          {
+            "url": "http://upload.wikimedia.org/wikipedia/commons/9/99/Juan_de_Arellano_-_Vase_of_Flowers_-_WGA0935.jpg"
+          },
+          {
+            "url": "http://www.pixic.ru/i/x0s1C041o210k5Q8.jpg"
+          },
+          {
+            "url": "http://svistanet.com/wp-content/uploads/2016/01/xudozhnik_Juan_de_Arellano_11.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.the-athenaeum.org/art/list.php?m=a&s=tu&aid=6021"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/Category:Still_life_paintings_by_Juan_de_Arellano"
+          },
+          {
+            "url": "http://www.wga.hu/html/a/arellano/"
+          },
+          {
+            "url": "http://www.wga.hu/html_m/a/arellano/03arella.html"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Juan_de_Arellano_-_Vase_of_Flowers_(15415800058).jpg"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://svistanet.com/wp-content/uploads/2016/01/xudozhnik_Juan_de_Arellano_11-e1452682065833.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Juan_de_Arellano_-_Vase_of_Flowers_-_WGA0934.jpg"
+          },
+          {
+            "url": "http://www.abalartesubastas.com/imagenes/subastas/7/med/13712.jpg"
+          },
+          {
+            "url": "http://4.bp.blogspot.com/-maydhw1ShV4/VM5p3s_kO7I/AAAAAAAAAmI/djpg4G6AalM/s1600/Juan%2Bde%2BArellano%2B-%2BFlorero%2B4.JPG"
+          },
+          {
+            "url": "http://3.bp.blogspot.com/-2mv-TK-Ceac/UCN9eo9e2GI/AAAAAAAANuQ/D3CGWPQY9Ns/s1600/juan+de+arellano%252C+flores+%25288%2529.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

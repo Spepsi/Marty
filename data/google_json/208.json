@@ -1,0 +1,422 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.8006045
+        },
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.67419046
+        },
+        {
+          "mid": "/m/0djmp",
+          "description": "ancient history",
+          "score": 0.54275215
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "ja",
+          "description": "む\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 58,
+                "y": 302
+              },
+              {
+                "x": 66,
+                "y": 302
+              },
+              {
+                "x": 66,
+                "y": 310
+              },
+              {
+                "x": 58,
+                "y": 310
+              }
+            ]
+          }
+        },
+        {
+          "description": "む",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 59,
+                "y": 305
+              },
+              {
+                "x": 64,
+                "y": 302
+              },
+              {
+                "x": 67,
+                "y": 307
+              },
+              {
+                "x": 61,
+                "y": 310
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 105,
+                "green": 80,
+                "blue": 51
+              },
+              "score": 0.21180955,
+              "pixelFraction": 0.16096117
+            },
+            {
+              "color": {
+                "red": 140,
+                "green": 113,
+                "blue": 79
+              },
+              "score": 0.15437417,
+              "pixelFraction": 0.09084924
+            },
+            {
+              "color": {
+                "red": 140,
+                "green": 110,
+                "blue": 69
+              },
+              "score": 0.1468604,
+              "pixelFraction": 0.07241606
+            },
+            {
+              "color": {
+                "red": 114,
+                "green": 85,
+                "blue": 46
+              },
+              "score": 0.10836864,
+              "pixelFraction": 0.05793285
+            },
+            {
+              "color": {
+                "red": 71,
+                "green": 50,
+                "blue": 27
+              },
+              "score": 0.09697075,
+              "pixelFraction": 0.19782752
+            },
+            {
+              "color": {
+                "red": 108,
+                "green": 76,
+                "blue": 47
+              },
+              "score": 0.08084838,
+              "pixelFraction": 0.045589205
+            },
+            {
+              "color": {
+                "red": 111,
+                "green": 77,
+                "blue": 39
+              },
+              "score": 0.05969677,
+              "pixelFraction": 0.02271231
+            },
+            {
+              "color": {
+                "red": 76,
+                "green": 47,
+                "blue": 22
+              },
+              "score": 0.052134357,
+              "pixelFraction": 0.046576694
+            },
+            {
+              "color": {
+                "red": 141,
+                "green": 106,
+                "blue": 74
+              },
+              "score": 0.022422934,
+              "pixelFraction": 0.023041476
+            },
+            {
+              "color": {
+                "red": 143,
+                "green": 106,
+                "blue": 67
+              },
+              "score": 0.020297704,
+              "pixelFraction": 0.009052007
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 156
+                },
+                {
+                  "x": 156,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "ja"
+                }
+              ]
+            },
+            "width": 157,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "ja"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 64,
+                      "y": 302
+                    },
+                    {
+                      "x": 66,
+                      "y": 307
+                    },
+                    {
+                      "x": 61,
+                      "y": 309
+                    },
+                    {
+                      "x": 59,
+                      "y": 305
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "ja"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 58,
+                          "y": 302
+                        },
+                        {
+                          "x": 66,
+                          "y": 302
+                        },
+                        {
+                          "x": 66,
+                          "y": 310
+                        },
+                        {
+                          "x": 58,
+                          "y": 310
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "ja"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 59,
+                              "y": 305
+                            },
+                            {
+                              "x": 64,
+                              "y": 302
+                            },
+                            {
+                              "x": 67,
+                              "y": 307
+                            },
+                            {
+                              "x": 61,
+                              "y": 310
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "ja"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 59,
+                                  "y": 305
+                                },
+                                {
+                                  "x": 64,
+                                  "y": 302
+                                },
+                                {
+                                  "x": 67,
+                                  "y": 307
+                                },
+                                {
+                                  "x": 61,
+                                  "y": 310
+                                }
+                              ]
+                            },
+                            "text": "む"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "む\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/01v8c",
+            "score": 4.01616,
+            "description": "Cologne"
+          },
+          {
+            "entityId": "/m/022ch",
+            "score": 0.67611,
+            "description": "Cross"
+          },
+          {
+            "entityId": "/m/06cvx",
+            "score": 0.47542,
+            "description": "Renaissance"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.4661994,
+            "description": "Painting"
+          },
+          {
+            "entityId": "/m/09hm0",
+            "score": 0.41437,
+            "description": "Crucifixion"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://veritas.catholic.or.kr/ko/ca-0680.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/48/0e/c9/480ec981a09bb629f39ec6916643aa33.jpg"
+          },
+          {
+            "url": "http://cfile204.uf.daum.net/image/2134143A5171D79619A3D3"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/48/0e/c9/480ec981a09bb629f39ec6916643aa33.jpg"
+          },
+          {
+            "url": "http://l450v.alamy.com/450v/hyhk1t/albrecht-altdorfer-christ-on-the-cross-between-mary-and-st-john-detail-hyhk1t.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.alamy.com/stock-photo-christ-on-the-cross-between-mary-and-john-152324-matthias-grnewald-66977265.html"
+          },
+          {
+            "url": "http://www.alamy.com/stock-photo-christ-on-the-cross-between-mary-and-john-with-the-holy-dorothea-and-66977489.html"
+          },
+          {
+            "url": "http://www.alamy.com/stock-photo-christ-on-the-cross-between-mary-and-st-john-adolphus-and-ambrosius-125104667.html"
+          },
+          {
+            "url": "http://www.alamy.com/stock-photo-christ-on-the-cross-between-mary-and-john-1458-cologne-german-germany-81029053.html"
+          },
+          {
+            "url": "http://www.alamy.com/stock-photo-albrecht-altdorfer-christ-on-the-cross-between-mary-and-st-john-wga00214-132615228.html"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://en.most-famous-paintings.com/Art.nsf/O/8XZ8UF/$File/Albrecht-Altdorfer-Christ-on-the-Cross-between-Mary-and-St-John-detail--S.JPG"
+          },
+          {
+            "url": "http://l7.alamy.com/zooms/a4607827bd934e15b712d05a55546b48/christ-on-the-cross-inside-the-jeronimos-monastery-in-belem-lisbon-c3pp0c.jpg"
+          },
+          {
+            "url": "http://l450v.alamy.com/450v/cyh510/wooden-way-of-the-cross-jesus-christ-carry-the-cross-in-a-roman-catholic-cyh510.jpg"
+          },
+          {
+            "url": "https://images.travelpod.com/tripwow/photos4/ta-057a-ea44-2afb/michelangelo-christ-carrying-the-cross-rome-italy+1152_13386707409-tpweb14w-432.jpg"
+          },
+          {
+            "url": "http://1.bp.blogspot.com/-uYl_MEa1qoU/TayU7mzTD6I/AAAAAAAAAIg/sNhgvxV-ZDE/s1600/2.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

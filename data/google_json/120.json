@@ -1,0 +1,157 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.8101184
+        },
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.6864911
+        },
+        {
+          "mid": "/m/04zhd",
+          "description": "mythology",
+          "score": 0.66667825
+        },
+        {
+          "mid": "/m/015r61",
+          "description": "modern art",
+          "score": 0.50093734
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "UNLIKELY",
+        "spoof": "UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 200,
+                "green": 191,
+                "blue": 190
+              },
+              "score": 0.16090949,
+              "pixelFraction": 0.07938508
+            },
+            {
+              "color": {
+                "red": 185,
+                "green": 150,
+                "blue": 127
+              },
+              "score": 0.14901276,
+              "pixelFraction": 0.029737903
+            },
+            {
+              "color": {
+                "red": 165,
+                "green": 157,
+                "blue": 159
+              },
+              "score": 0.124605685,
+              "pixelFraction": 0.1015625
+            },
+            {
+              "color": {
+                "red": 179,
+                "green": 152,
+                "blue": 133
+              },
+              "score": 0.116582,
+              "pixelFraction": 0.033938173
+            },
+            {
+              "color": {
+                "red": 151,
+                "green": 116,
+                "blue": 95
+              },
+              "score": 0.0836334,
+              "pixelFraction": 0.03561828
+            },
+            {
+              "color": {
+                "red": 212,
+                "green": 184,
+                "blue": 163
+              },
+              "score": 0.0721362,
+              "pixelFraction": 0.015625
+            },
+            {
+              "color": {
+                "red": 127,
+                "green": 121,
+                "blue": 122
+              },
+              "score": 0.0564529,
+              "pixelFraction": 0.16011424
+            },
+            {
+              "color": {
+                "red": 215,
+                "green": 179,
+                "blue": 157
+              },
+              "score": 0.053240232,
+              "pixelFraction": 0.0050403224
+            },
+            {
+              "color": {
+                "red": 141,
+                "green": 118,
+                "blue": 100
+              },
+              "score": 0.0438455,
+              "pixelFraction": 0.039482526
+            },
+            {
+              "color": {
+                "red": 232,
+                "green": 220,
+                "blue": 215
+              },
+              "score": 0.031354062,
+              "pixelFraction": 0.030577958
+            }
+          ]
+        }
+      },
+      "error": {
+        "code": 13,
+        "message": "image-annotator::Web detection error.: Image processing error!"
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 310
+                },
+                {
+                  "x": 310,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      }
+    }
+  ]
+}

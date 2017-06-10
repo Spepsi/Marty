@@ -1,0 +1,162 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.82545143
+        },
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.70564765
+        },
+        {
+          "mid": "/m/0lym8",
+          "description": "tapestry",
+          "score": 0.59981275
+        },
+        {
+          "mid": "/m/015r61",
+          "description": "modern art",
+          "score": 0.56223303
+        },
+        {
+          "mid": "/m/06bvp",
+          "description": "religion",
+          "score": 0.5029596
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 143,
+                "green": 116,
+                "blue": 59
+              },
+              "score": 0.15387847,
+              "pixelFraction": 0.108669356
+            },
+            {
+              "color": {
+                "red": 30,
+                "green": 48,
+                "blue": 72
+              },
+              "score": 0.10612357,
+              "pixelFraction": 0.013306452
+            },
+            {
+              "color": {
+                "red": 177,
+                "green": 151,
+                "blue": 124
+              },
+              "score": 0.09266448,
+              "pixelFraction": 0.048387095
+            },
+            {
+              "color": {
+                "red": 120,
+                "green": 80,
+                "blue": 25
+              },
+              "score": 0.0644771,
+              "pixelFraction": 0.10302419
+            },
+            {
+              "color": {
+                "red": 183,
+                "green": 146,
+                "blue": 121
+              },
+              "score": 0.059411082,
+              "pixelFraction": 0.012096774
+            },
+            {
+              "color": {
+                "red": 112,
+                "green": 85,
+                "blue": 32
+              },
+              "score": 0.048158366,
+              "pixelFraction": 0.106451616
+            },
+            {
+              "color": {
+                "red": 144,
+                "green": 117,
+                "blue": 39
+              },
+              "score": 0.047285933,
+              "pixelFraction": 0.015020161
+            },
+            {
+              "color": {
+                "red": 147,
+                "green": 106,
+                "blue": 50
+              },
+              "score": 0.04667697,
+              "pixelFraction": 0.024092741
+            },
+            {
+              "color": {
+                "red": 139,
+                "green": 117,
+                "blue": 87
+              },
+              "score": 0.04234472,
+              "pixelFraction": 0.056350805
+            },
+            {
+              "color": {
+                "red": 20,
+                "green": 50,
+                "blue": 93
+              },
+              "score": 0.034955777,
+              "pixelFraction": 0.0021169356
+            }
+          ]
+        }
+      },
+      "error": {
+        "code": 13,
+        "message": "image-annotator::Web detection error.: Image processing error!"
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 258
+                },
+                {
+                  "x": 258,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,433 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.6745121
+        },
+        {
+          "mid": "/m/0557q",
+          "description": "musical theatre",
+          "score": 0.58024347
+        },
+        {
+          "mid": "/m/04zhd",
+          "description": "mythology",
+          "score": 0.5474865
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "zh",
+          "description": "电\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 371,
+                "y": 275
+              },
+              {
+                "x": 383,
+                "y": 275
+              },
+              {
+                "x": 383,
+                "y": 286
+              },
+              {
+                "x": 371,
+                "y": 286
+              }
+            ]
+          }
+        },
+        {
+          "description": "电",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 384,
+                "y": 277
+              },
+              {
+                "x": 382,
+                "y": 286
+              },
+              {
+                "x": 372,
+                "y": 284
+              },
+              {
+                "x": 373,
+                "y": 275
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 102,
+                "green": 82,
+                "blue": 62
+              },
+              "score": 0.1227754,
+              "pixelFraction": 0.03286507
+            },
+            {
+              "color": {
+                "red": 145,
+                "green": 108,
+                "blue": 83
+              },
+              "score": 0.11485975,
+              "pixelFraction": 0.00945196
+            },
+            {
+              "color": {
+                "red": 113,
+                "green": 78,
+                "blue": 54
+              },
+              "score": 0.08936627,
+              "pixelFraction": 0.008237947
+            },
+            {
+              "color": {
+                "red": 135,
+                "green": 114,
+                "blue": 92
+              },
+              "score": 0.07907054,
+              "pixelFraction": 0.024800556
+            },
+            {
+              "color": {
+                "red": 67,
+                "green": 50,
+                "blue": 32
+              },
+              "score": 0.06817681,
+              "pixelFraction": 0.029656608
+            },
+            {
+              "color": {
+                "red": 172,
+                "green": 151,
+                "blue": 128
+              },
+              "score": 0.05222858,
+              "pixelFraction": 0.015608741
+            },
+            {
+              "color": {
+                "red": 186,
+                "green": 142,
+                "blue": 117
+              },
+              "score": 0.05026438,
+              "pixelFraction": 0.0039889
+            },
+            {
+              "color": {
+                "red": 77,
+                "green": 42,
+                "blue": 28
+              },
+              "score": 0.04949313,
+              "pixelFraction": 0.013961151
+            },
+            {
+              "color": {
+                "red": 115,
+                "green": 76,
+                "blue": 39
+              },
+              "score": 0.049386747,
+              "pixelFraction": 0.001907735
+            },
+            {
+              "color": {
+                "red": 58,
+                "green": 50,
+                "blue": 44
+              },
+              "score": 0.03774114,
+              "pixelFraction": 0.14203954
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 298
+                },
+                {
+                  "y": 298
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "zh-Hans"
+                }
+              ]
+            },
+            "width": 400,
+            "height": 299,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "zh-Hans"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 384,
+                      "y": 277
+                    },
+                    {
+                      "x": 382,
+                      "y": 286
+                    },
+                    {
+                      "x": 372,
+                      "y": 284
+                    },
+                    {
+                      "x": 373,
+                      "y": 275
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "zh-Hans"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 371,
+                          "y": 275
+                        },
+                        {
+                          "x": 383,
+                          "y": 275
+                        },
+                        {
+                          "x": 383,
+                          "y": 286
+                        },
+                        {
+                          "x": 371,
+                          "y": 286
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "zh-Hans"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 384,
+                              "y": 277
+                            },
+                            {
+                              "x": 382,
+                              "y": 286
+                            },
+                            {
+                              "x": 372,
+                              "y": 284
+                            },
+                            {
+                              "x": 373,
+                              "y": 275
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "zh-Hans"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 384,
+                                  "y": 277
+                                },
+                                {
+                                  "x": 382,
+                                  "y": 286
+                                },
+                                {
+                                  "x": 372,
+                                  "y": 284
+                                },
+                                {
+                                  "x": 373,
+                                  "y": 275
+                                }
+                              ]
+                            },
+                            "text": "电"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "电\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/025yg",
+            "score": 1.57268,
+            "description": "Church of the Holy Sepulchre"
+          },
+          {
+            "entityId": "/m/06lcm",
+            "score": 0.88729,
+            "description": "Resurrection"
+          },
+          {
+            "entityId": "/m/011b8615",
+            "score": 0.8212,
+            "description": "Tomb of Jesus"
+          },
+          {
+            "entityId": "/m/012hz26w",
+            "score": 0.777,
+            "description": "The Three Marys at the Tomb"
+          },
+          {
+            "entityId": "/m/026tdyd",
+            "score": 0.63334,
+            "description": "The Three Marys"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://i2.wp.com/www.wga.hu/art/b/baciccio/threemar.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/art/b/baciccio/threemar.jpg"
+          },
+          {
+            "url": "https://2.bp.blogspot.com/-o9ZPHH67fp4/V7UWUzXCTII/AAAAAAABiCI/x1rdRSojkrM-Xl9Z12pSaM9bvGOc9BWuACLcB/s1600/Gaulli-Giovanni-Battista-Three-Marys-at-the-Sepulchre-1684-85-canvas-Fitzwilliam-Museum-Cambridge-Italian.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://i2.wp.com/www.wga.hu/art/b/baciccio/threemar.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/art/b/baciccio/threemar.jpg"
+          },
+          {
+            "url": "https://2.bp.blogspot.com/-o9ZPHH67fp4/V7UWUzXCTII/AAAAAAABiCI/x1rdRSojkrM-Xl9Z12pSaM9bvGOc9BWuACLcB/s1600/Gaulli-Giovanni-Battista-Three-Marys-at-the-Sepulchre-1684-85-canvas-Fitzwilliam-Museum-Cambridge-Italian.jpg"
+          },
+          {
+            "url": "https://i.ytimg.com/vi/4A12IuINE7o/maxresdefault.jpg"
+          },
+          {
+            "url": "http://www.rsi.ch/rete-due/programmi/cultura/quilisma/106600.jpg-4229516.html/ALTERNATES/FREE_1080/106600.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.wga.hu/frames-e.html?/html/b/baciccio/index.html"
+          },
+          {
+            "url": "https://artuk.org/discover/artists/gaulli-giovanni-battista-16391709"
+          },
+          {
+            "url": "https://www.artuk.org/discover/artists/gaulli-giovanni-battista-16391709/search/keyword:Baroque/sort_by/agent.lifecycle.birth.date.value/order/desc/page/3/view_as/grid"
+          },
+          {
+            "url": "https://www.artuk.org/discover/artists/gaulli-giovanni-battista-16391709/search/nationality:italian/page/31/sort_by/agent.summary_title_sort/order/desc/view_as/grid"
+          },
+          {
+            "url": "https://www.artuk.org/discover/artists/gaulli-giovanni-battista-16391709/search/keyword:Baroque/sort_by/agent.lifecycle.birth.date.value/order/desc/page/6/view_as/grid"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://2.bp.blogspot.com/-o9ZPHH67fp4/V7UWUzXCTII/AAAAAAABiCI/x1rdRSojkrM-Xl9Z12pSaM9bvGOc9BWuACLcB/s1600/Gaulli-Giovanni-Battista-Three-Marys-at-the-Sepulchre-1684-85-canvas-Fitzwilliam-Museum-Cambridge-Italian.jpg"
+          },
+          {
+            "url": "http://www.culturainliguria.it/cultura/download/fstore/1418815630179/Gaulli_adorazionePastori_palSpinola_part1.jpg"
+          },
+          {
+            "url": "http://www.askart.com/photos2/2014/SNY20140130_81710/47_1.jpg"
+          },
+          {
+            "url": "http://www.giovanetto.com/burghley/gaulli.jpg"
+          },
+          {
+            "url": "http://www.askart.com/photos2/2014/FSM20070516_4561/28.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

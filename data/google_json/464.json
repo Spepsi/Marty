@@ -1,0 +1,673 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.8766283
+        },
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.7317153
+        },
+        {
+          "mid": "/m/0lym8",
+          "description": "tapestry",
+          "score": 0.6677432
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "zh",
+          "description": "擎\n喽.\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 49,
+                "y": 34
+              },
+              {
+                "x": 158,
+                "y": 34
+              },
+              {
+                "x": 158,
+                "y": 133
+              },
+              {
+                "x": 49,
+                "y": 133
+              }
+            ]
+          }
+        },
+        {
+          "description": "擎",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 136,
+                "y": 34
+              },
+              {
+                "x": 158,
+                "y": 34
+              },
+              {
+                "x": 158,
+                "y": 52
+              },
+              {
+                "x": 136,
+                "y": 52
+              }
+            ]
+          }
+        },
+        {
+          "description": "喽",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 49,
+                "y": 118
+              },
+              {
+                "x": 61,
+                "y": 118
+              },
+              {
+                "x": 61,
+                "y": 133
+              },
+              {
+                "x": 49,
+                "y": 133
+              }
+            ]
+          }
+        },
+        {
+          "description": ".",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 62,
+                "y": 122
+              },
+              {
+                "x": 64,
+                "y": 122
+              },
+              {
+                "x": 64,
+                "y": 126
+              },
+              {
+                "x": 62,
+                "y": 126
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 131,
+                "green": 116,
+                "blue": 82
+              },
+              "score": 0.15916018,
+              "pixelFraction": 0.16894478
+            },
+            {
+              "color": {
+                "red": 207,
+                "green": 194,
+                "blue": 163
+              },
+              "score": 0.14260277,
+              "pixelFraction": 0.13627665
+            },
+            {
+              "color": {
+                "red": 100,
+                "green": 84,
+                "blue": 53
+              },
+              "score": 0.11031353,
+              "pixelFraction": 0.12684527
+            },
+            {
+              "color": {
+                "red": 171,
+                "green": 157,
+                "blue": 123
+              },
+              "score": 0.10927934,
+              "pixelFraction": 0.124931656
+            },
+            {
+              "color": {
+                "red": 137,
+                "green": 121,
+                "blue": 71
+              },
+              "score": 0.10578201,
+              "pixelFraction": 0.050164025
+            },
+            {
+              "color": {
+                "red": 239,
+                "green": 227,
+                "blue": 199
+              },
+              "score": 0.09410127,
+              "pixelFraction": 0.04565336
+            },
+            {
+              "color": {
+                "red": 101,
+                "green": 85,
+                "blue": 40
+              },
+              "score": 0.08356736,
+              "pixelFraction": 0.046200108
+            },
+            {
+              "color": {
+                "red": 168,
+                "green": 152,
+                "blue": 99
+              },
+              "score": 0.0722188,
+              "pixelFraction": 0.024193548
+            },
+            {
+              "color": {
+                "red": 69,
+                "green": 53,
+                "blue": 27
+              },
+              "score": 0.046839394,
+              "pixelFraction": 0.09185347
+            },
+            {
+              "color": {
+                "red": 237,
+                "green": 231,
+                "blue": 223
+              },
+              "score": 0.027901331,
+              "pixelFraction": 0.035265174
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 190
+                },
+                {
+                  "x": 190,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "zh-Hans"
+                }
+              ]
+            },
+            "width": 191,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "zh-Hans"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 136,
+                      "y": 34
+                    },
+                    {
+                      "x": 158,
+                      "y": 34
+                    },
+                    {
+                      "x": 158,
+                      "y": 52
+                    },
+                    {
+                      "x": 136,
+                      "y": 52
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "zh-Hans"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 136,
+                          "y": 34
+                        },
+                        {
+                          "x": 158,
+                          "y": 34
+                        },
+                        {
+                          "x": 158,
+                          "y": 52
+                        },
+                        {
+                          "x": 136,
+                          "y": 52
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "zh-Hans"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 136,
+                              "y": 34
+                            },
+                            {
+                              "x": 158,
+                              "y": 34
+                            },
+                            {
+                              "x": 158,
+                              "y": 52
+                            },
+                            {
+                              "x": 136,
+                              "y": 52
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "zh-Hans"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 136,
+                                  "y": 34
+                                },
+                                {
+                                  "x": 158,
+                                  "y": 34
+                                },
+                                {
+                                  "x": 158,
+                                  "y": 52
+                                },
+                                {
+                                  "x": 136,
+                                  "y": 52
+                                }
+                              ]
+                            },
+                            "text": "擎"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              },
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "zh-Hans"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 49,
+                      "y": 118
+                    },
+                    {
+                      "x": 64,
+                      "y": 118
+                    },
+                    {
+                      "x": 64,
+                      "y": 133
+                    },
+                    {
+                      "x": 49,
+                      "y": 133
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "zh-Hans"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 49,
+                          "y": 118
+                        },
+                        {
+                          "x": 64,
+                          "y": 118
+                        },
+                        {
+                          "x": 64,
+                          "y": 133
+                        },
+                        {
+                          "x": 49,
+                          "y": 133
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "zh-Hans"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 49,
+                              "y": 118
+                            },
+                            {
+                              "x": 61,
+                              "y": 118
+                            },
+                            {
+                              "x": 61,
+                              "y": 133
+                            },
+                            {
+                              "x": 49,
+                              "y": 133
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "zh-Hans"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 49,
+                                  "y": 118
+                                },
+                                {
+                                  "x": 61,
+                                  "y": 118
+                                },
+                                {
+                                  "x": 61,
+                                  "y": 133
+                                },
+                                {
+                                  "x": 49,
+                                  "y": 133
+                                }
+                              ]
+                            },
+                            "text": "喽"
+                          }
+                        ]
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 62,
+                              "y": 122
+                            },
+                            {
+                              "x": 64,
+                              "y": 122
+                            },
+                            {
+                              "x": 64,
+                              "y": 126
+                            },
+                            {
+                              "x": 62,
+                              "y": 126
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "zh-Hans"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 62,
+                                  "y": 122
+                                },
+                                {
+                                  "x": 64,
+                                  "y": 122
+                                },
+                                {
+                                  "x": 64,
+                                  "y": 126
+                                },
+                                {
+                                  "x": 62,
+                                  "y": 126
+                                }
+                              ]
+                            },
+                            "text": "."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "擎\n喽.\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0k3p",
+            "score": 1.24208,
+            "description": "Amsterdam"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.7217721,
+            "description": "Painting"
+          },
+          {
+            "entityId": "/m/0gz6g",
+            "score": 0.37352,
+            "description": "Auction"
+          },
+          {
+            "entityId": "/m/02r7hln",
+            "score": 0.37309,
+            "description": "Artnet"
+          },
+          {
+            "entityId": "/m/0jg24",
+            "score": 0.37233,
+            "description": "Image"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://www.handelforever.com/castrati/domenicogizzi/arcadia2.jpg"
+          },
+          {
+            "url": "http://www.rivistazetesis.it/arcadia2.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/b9/f4/91/b9f491b1e62e18b86dc89f8efaffaebe.jpg"
+          },
+          {
+            "url": "http://2.bp.blogspot.com/-8Z-8U1bSSx8/Tf4-CSzRYCI/AAAAAAAAApc/ubENkyuWCSQ/s1600/Arcadian+Landscape.jpg"
+          },
+          {
+            "url": "http://4.bp.blogspot.com/-tdwb_biMhYM/T6Uk7QvBYuI/AAAAAAAADS0/BNPXgJswtSk/s640/256px-Jurriaan_Andriessen_-_Arcadian_Landscape_-_WGA0431.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://i.ytimg.com/vi/CsHVdcC_Nx4/maxresdefault.jpg"
+          },
+          {
+            "url": "http://img.desmotivaciones.es/201105/3454arcadianlandscapejurriaanandriessen.jpg"
+          },
+          {
+            "url": "http://www.handelforever.com/castrati/domenicogizzi/arcadia2.jpg"
+          },
+          {
+            "url": "http://www.rivistazetesis.it/arcadia2.jpg"
+          },
+          {
+            "url": "https://image.invaluable.com/housePhotos/sothebys/52/109252/H0046-L03130272.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.artnet.com/artists/jurriaan-andriessen/past-auction-results"
+          },
+          {
+            "url": "http://www.invaluable.com/artist/andriessen-jurriaan-b0vvz3d8u0"
+          },
+          {
+            "url": "http://www.alamy.com/stock-photo/jurriaan-andriessen.html"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Jurriaan_Andriessen_-_Arcadian_Landscape_-_WGA0431.jpg"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/415105290627329483/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://www.lib-art.com/imgpaintingthumb/4/5/t3454-arcadian-landscape-jurriaan-andriessen.jpg"
+          },
+          {
+            "url": "http://www.schilderijen.nu/schilderij/jurriaan-andriessen-arcadische-landschap-i1411.jpg"
+          },
+          {
+            "url": "http://www.artnet.com/WebServices/images/ll00139lldJTFJFgPNECfDrCWQFHPKcpOxE/jurriaan-andriessen-a-bacchanal-in-a-wooded-landscape,-a-temple-with-an-offer-to-bacchus-beyond,-in-a-trompe-loeil.jpg"
+          },
+          {
+            "url": "http://www.artnet.com/WebServices/images/ll00044lldX09GFg9MECfDrCWQFHPKc8KbE/jurriaan-andriessen-the-tomb-of-pha%C3%ABton.jpg"
+          },
+          {
+            "url": "http://www.artvalue.com/photos/auction/0/39/39454/circle-of-andriessen-jurriaan-bergers-devant-un-paysage-de-r-1437915.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}
