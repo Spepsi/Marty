@@ -27,7 +27,7 @@ labels_second = vision_second.get_labels()
 labels_comparator = LabelsComparator(labels_second)
 database = os.listdir(config['DATA']['JSON'])
 database = [int(i.split('.')[0]) for i in database]
-for idx in database:
+for idx in database: # Refactor after ..
     labels_to_compare = JSONLabels(config, idx)
     res =  labels_comparator(labels_to_compare)
     if res==True:
