@@ -11,7 +11,7 @@ safe_search = JSONSafeSearch(config)
 
 
 from pdb import set_trace; set_trace()
-image_source = "https://2.bp.blogspot.com/-C6qwZKrvxB0/UMjVf5cN_7I/AAAAAAAAIjE/aNuiUQc2sDY/s1600/chimney1.jpg"
+image_source = config['DATA']['TEST']
 vision = GoogleVisionApi(config, image_source=image_source)
 
 labels = vision.get_labels()
