@@ -1,8 +1,8 @@
 import sys
 
-sys.path.append('../') # Pour avoir accès à l'API
+sys.path.append('../infrastructure') # Pour avoir accès à l'API
 
-from infrastructure.wiki.wiki import hello_world
+from wiki.wiki import hello_world
 hello_world()
 from pdb import set_trace; set_trace()
 
