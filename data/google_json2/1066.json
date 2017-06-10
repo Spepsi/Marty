@@ -1,0 +1,488 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.70230114
+        },
+        {
+          "mid": "/m/0lym8",
+          "description": "tapestry",
+          "score": 0.5904655
+        },
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.5680003
+        },
+        {
+          "mid": "/m/0djmp",
+          "description": "ancient history",
+          "score": 0.53312624
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "it",
+          "description": "sia\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 69,
+                "y": 137
+              },
+              {
+                "x": 81,
+                "y": 137
+              },
+              {
+                "x": 81,
+                "y": 143
+              },
+              {
+                "x": 69,
+                "y": 143
+              }
+            ]
+          }
+        },
+        {
+          "description": "sia",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 69,
+                "y": 138
+              },
+              {
+                "x": 81,
+                "y": 139
+              },
+              {
+                "x": 81,
+                "y": 144
+              },
+              {
+                "x": 69,
+                "y": 143
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 209,
+                "green": 191,
+                "blue": 167
+              },
+              "score": 0.18008584,
+              "pixelFraction": 0.14442815
+            },
+            {
+              "color": {
+                "red": 165,
+                "green": 155,
+                "blue": 158
+              },
+              "score": 0.1151498,
+              "pixelFraction": 0.09842376
+            },
+            {
+              "color": {
+                "red": 87,
+                "green": 75,
+                "blue": 104
+              },
+              "score": 0.047735244,
+              "pixelFraction": 0.017961876
+            },
+            {
+              "color": {
+                "red": 177,
+                "green": 158,
+                "blue": 137
+              },
+              "score": 0.105734915,
+              "pixelFraction": 0.07569648
+            },
+            {
+              "color": {
+                "red": 199,
+                "green": 190,
+                "blue": 190
+              },
+              "score": 0.097664416,
+              "pixelFraction": 0.085777126
+            },
+            {
+              "color": {
+                "red": 128,
+                "green": 118,
+                "blue": 121
+              },
+              "score": 0.06942935,
+              "pixelFraction": 0.056634896
+            },
+            {
+              "color": {
+                "red": 94,
+                "green": 85,
+                "blue": 92
+              },
+              "score": 0.042172793,
+              "pixelFraction": 0.03079179
+            },
+            {
+              "color": {
+                "red": 108,
+                "green": 43,
+                "blue": 15
+              },
+              "score": 0.00040437988,
+              "pixelFraction": 0.0005498534
+            },
+            {
+              "color": {
+                "red": 105,
+                "green": 79,
+                "blue": 87
+              },
+              "score": 0.038009293,
+              "pixelFraction": 0.02254399
+            },
+            {
+              "color": {
+                "red": 231,
+                "green": 226,
+                "blue": 221
+              },
+              "score": 0.03656084,
+              "pixelFraction": 0.035923753
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 142
+                },
+                {
+                  "x": 142,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "it"
+                }
+              ]
+            },
+            "width": 143,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "it"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 69,
+                      "y": 143
+                    },
+                    {
+                      "x": 69,
+                      "y": 138
+                    },
+                    {
+                      "x": 81,
+                      "y": 139
+                    },
+                    {
+                      "x": 81,
+                      "y": 144
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "it"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 69,
+                          "y": 137
+                        },
+                        {
+                          "x": 81,
+                          "y": 137
+                        },
+                        {
+                          "x": 81,
+                          "y": 143
+                        },
+                        {
+                          "x": 69,
+                          "y": 143
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "it"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 69,
+                              "y": 138
+                            },
+                            {
+                              "x": 81,
+                              "y": 139
+                            },
+                            {
+                              "x": 81,
+                              "y": 144
+                            },
+                            {
+                              "x": 69,
+                              "y": 143
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "it"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 69,
+                                  "y": 138
+                                },
+                                {
+                                  "x": 73,
+                                  "y": 138
+                                },
+                                {
+                                  "x": 73,
+                                  "y": 143
+                                },
+                                {
+                                  "x": 69,
+                                  "y": 143
+                                }
+                              ]
+                            },
+                            "text": "s"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "it"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 74,
+                                  "y": 138
+                                },
+                                {
+                                  "x": 78,
+                                  "y": 138
+                                },
+                                {
+                                  "x": 78,
+                                  "y": 143
+                                },
+                                {
+                                  "x": 74,
+                                  "y": 143
+                                }
+                              ]
+                            },
+                            "text": "i"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "it"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 79,
+                                  "y": 140
+                                },
+                                {
+                                  "x": 81,
+                                  "y": 140
+                                },
+                                {
+                                  "x": 81,
+                                  "y": 141
+                                },
+                                {
+                                  "x": 79,
+                                  "y": 141
+                                }
+                              ]
+                            },
+                            "text": "a"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "sia\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/g/113qbhdjx",
+            "score": 14.96864,
+            "description": "Atri Cathedral"
+          },
+          {
+            "entityId": "/g/119vfrxm3",
+            "score": 2.75168
+          },
+          {
+            "entityId": "/g/122tc9yq",
+            "score": 2.05312,
+            "description": "San Nicola"
+          },
+          {
+            "entityId": "/g/1yg57_mkf",
+            "score": 0.50018,
+            "description": "L'Aquila"
+          },
+          {
+            "entityId": "/m/02_3k",
+            "score": 0.39846,
+            "description": "Fresco"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/5d/fd/01/5dfd010ecb2f982c5f3c22647a1aba82.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://ctl.s6img.com/society6/img/I1MHfxecxY11niLTeOFzk-BwhWI/h_550,w_550/prints/~artwork/s6-0036/a/16599636_6816023/~~/antonio-da-atri-trinity-with-three-faces-prints.jpg"
+          },
+          {
+            "url": "https://ctl.s6img.com/society6/img/mHxZQLB-HBw8OMlUGaleOoky5no/h_125,w_125/biker-tanks/women/greybg/white/~artwork,bg_FFFFFFFF/s6-0036/a/16599746_1894503/~~/antonio-da-atri-trinity-with-three-faces-biker-tanks.jpg"
+          },
+          {
+            "url": "https://ctl.s6img.com/society6/img/-24CaEknix2aHXmITlhofRDUeKA/h_125,w_125/tshirts/men/greybg/white/~artwork,bg_FFFFFFFF/s6-0036/a/16599746_1894503/~~/antonio-da-atri-trinity-with-three-faces-tshirts.jpg"
+          },
+          {
+            "url": "https://ctl.s6img.com/society6/img/JyhJr9rcWtAp5JWGBEg3aJle96s/h_125,w_125/artwork/~artwork/s6-0036/a/16599636_6816023/~~/antonio-da-atri-trinity-with-three-faces-prints.jpg"
+          },
+          {
+            "url": "https://ctl.s6img.com/society6/img/E046tSA-VnqZqW8LhDUnnc1bots/h_125,w_125/canvas/~artwork/s6-0036/a/16599636_6816023/~~/antonio-da-atri-trinity-with-three-faces-canvas.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://smecsundaymorningforum.org/tag/trinity-with-three-faces/"
+          },
+          {
+            "url": "https://society6.com/product/antonio-da-atri-trinity-with-three-faces_stretched-canvas"
+          },
+          {
+            "url": "https://society6.com/product/antonio-da-atri-trinity-with-three-faces_print"
+          },
+          {
+            "url": "https://smecsundaymorningforum.org/2016/05/18/trinity-with-three-faces-art-for-trinity-c/"
+          },
+          {
+            "url": "https://romancatholicimperialist.blogspot.com/2016/05/trinity-sunday-gospel-mat-28-v18.html"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://68.media.tumblr.com/abe04d30c23ad26f7d33a99a9403b762/tumblr_np8ltdrKP61syzcjgo2_1280.jpg"
+          },
+          {
+            "url": "https://ctl.s6img.com/society6/img/XBHkKJM6h4oAvyGIEuvaiOkHHl0/h_550,w_550/tapestries/standard/~artwork,fw_6500,fh_5525,fy_-488/s6-0036/a/16599766_12796480/~~/antonio-da-atri-trinity-with-three-faces-tapestries.jpg"
+          },
+          {
+            "url": "https://ctl.s6img.com/society6/img/gf8QjO8BcuSN_rOKkWPlHsJayZQ/h_550,w_550/canvas/~artwork/s6-0036/a/16599636_6816023/~~/antonio-da-atri-trinity-with-three-faces-canvas.jpg"
+          },
+          {
+            "url": "https://ctl.s6img.com/society6/img/JyhJr9rcWtAp5JWGBEg3aJle96s/h_125,w_125/artwork/~artwork/s6-0036/a/16599636_6816023/~~/antonio-da-atri-trinity-with-three-faces-prints.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

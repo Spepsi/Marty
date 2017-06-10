@@ -1,0 +1,428 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/016br2",
+          "description": "dome",
+          "score": 0.8468611
+        },
+        {
+          "mid": "/m/0cgh4",
+          "description": "building",
+          "score": 0.8042701
+        },
+        {
+          "mid": "/m/01sqnx",
+          "description": "byzantine architecture",
+          "score": 0.7234356
+        },
+        {
+          "mid": "/m/0f85g",
+          "description": "basilica",
+          "score": 0.7181088
+        },
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.6909282
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "zh-Hant",
+          "description": "罷\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 229,
+                "y": 289
+              },
+              {
+                "x": 238,
+                "y": 289
+              },
+              {
+                "x": 238,
+                "y": 296
+              },
+              {
+                "x": 229,
+                "y": 296
+              }
+            ]
+          }
+        },
+        {
+          "description": "罷",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 229,
+                "y": 289
+              },
+              {
+                "x": 238,
+                "y": 289
+              },
+              {
+                "x": 238,
+                "y": 296
+              },
+              {
+                "x": 229,
+                "y": 296
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 165,
+                "green": 154,
+                "blue": 133
+              },
+              "score": 0.1748207,
+              "pixelFraction": 0.079266615
+            },
+            {
+              "color": {
+                "red": 80,
+                "green": 89,
+                "blue": 117
+              },
+              "score": 0.069805816,
+              "pixelFraction": 0.0038599393
+            },
+            {
+              "color": {
+                "red": 131,
+                "green": 119,
+                "blue": 98
+              },
+              "score": 0.13781394,
+              "pixelFraction": 0.17335263
+            },
+            {
+              "color": {
+                "red": 204,
+                "green": 193,
+                "blue": 166
+              },
+              "score": 0.13072237,
+              "pixelFraction": 0.02164323
+            },
+            {
+              "color": {
+                "red": 163,
+                "green": 155,
+                "blue": 151
+              },
+              "score": 0.09539825,
+              "pixelFraction": 0.06940998
+            },
+            {
+              "color": {
+                "red": 197,
+                "green": 188,
+                "blue": 180
+              },
+              "score": 0.05892133,
+              "pixelFraction": 0.026123518
+            },
+            {
+              "color": {
+                "red": 128,
+                "green": 121,
+                "blue": 119
+              },
+              "score": 0.05706,
+              "pixelFraction": 0.102426246
+            },
+            {
+              "color": {
+                "red": 97,
+                "green": 85,
+                "blue": 65
+              },
+              "score": 0.050609544,
+              "pixelFraction": 0.25337744
+            },
+            {
+              "color": {
+                "red": 111,
+                "green": 118,
+                "blue": 146
+              },
+              "score": 0.038795114,
+              "pixelFraction": 0.002688172
+            },
+            {
+              "color": {
+                "red": 148,
+                "green": 151,
+                "blue": 177
+              },
+              "score": 0.03811018,
+              "pixelFraction": 0.0023435345
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 377
+                },
+                {
+                  "y": 377
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "zh-Hant"
+                }
+              ]
+            },
+            "width": 400,
+            "height": 378,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "zh-Hant"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 229,
+                      "y": 289
+                    },
+                    {
+                      "x": 238,
+                      "y": 289
+                    },
+                    {
+                      "x": 238,
+                      "y": 296
+                    },
+                    {
+                      "x": 229,
+                      "y": 296
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "zh-Hant"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 229,
+                          "y": 289
+                        },
+                        {
+                          "x": 238,
+                          "y": 289
+                        },
+                        {
+                          "x": 238,
+                          "y": 296
+                        },
+                        {
+                          "x": 229,
+                          "y": 296
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "zh-Hant"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 229,
+                              "y": 289
+                            },
+                            {
+                              "x": 238,
+                              "y": 289
+                            },
+                            {
+                              "x": 238,
+                              "y": 296
+                            },
+                            {
+                              "x": 229,
+                              "y": 296
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "zh-Hant"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 229,
+                                  "y": 289
+                                },
+                                {
+                                  "x": 238,
+                                  "y": 289
+                                },
+                                {
+                                  "x": 238,
+                                  "y": 296
+                                },
+                                {
+                                  "x": 229,
+                                  "y": 296
+                                }
+                              ]
+                            },
+                            "text": "罷"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "罷\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0gvr6pn",
+            "score": 6.42752,
+            "description": "Basilica of San Giacomo Maggiore"
+          },
+          {
+            "entityId": "/g/11b6g8q60v",
+            "score": 6.33984
+          },
+          {
+            "entityId": "/g/121slh9v",
+            "score": 2.77632,
+            "description": "Palazzo Corsini, Florence"
+          },
+          {
+            "entityId": "/g/11b8z_n65k",
+            "score": 1.50504,
+            "description": "Dl Bologna"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.71848,
+            "description": "Painting"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://www.wga.hu/art/a/albani/1/6corsini.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/f7/e8/f4/f7e8f44211fb06b030a8b83b44b86b23.jpg"
+          },
+          {
+            "url": "https://lh3.googleusercontent.com/-zDc-IsBAa8A/VLK0oxBtklI/AAAAAAAAVTk/PvXnFUQ8bJU/s200/Ganimedes%2520junto%2520a%2520Zeus-Frencesco%2520Albani-Villa%2520Corsini%2520a%2520Mezzomonte-Impruneta.jpg"
+          },
+          {
+            "url": "https://imageth.uloz.to/7/3/2/732fb7c9493dd72d5d095ff5b196b779.160x120.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://www.pinterest.com/tam_gde_to/%D0%BC%D1%83%D0%B7%D0%B5%D0%B9%D0%BD%D0%B0%D1%8F-%D0%B6%D0%B8%D0%B2%D0%BE%D0%BF%D0%B8%D1%81%D1%8C/"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/515943701039253035/"
+          },
+          {
+            "url": "https://uloz.to/hledej?q=jupiter%20uto%C4%8Di"
+          },
+          {
+            "url": "https://uloz.to/hledej?q=pablo%5C+s+villa"
+          },
+          {
+            "url": "https://sites.google.com/site/iconografiaclasica/home/los-amorios-de-zeus/relaciones-con-humanas/ganimedes"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://www.wga.hu/art/a/albani/1/6corsini.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/fd/84/87/fd84879468c79f6b34a7d7964535376d.jpg"
+          },
+          {
+            "url": "http://photos.wikimapia.org/p/00/03/12/78/75_big.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/3c/c7/35/3cc735edb2a39bf4aee23aa01eea770e.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Chiesa_di_Santa_Maria_della_vita%2C_Bologna_05.JPG"
+          }
+        ]
+      }
+    }
+  ]
+}

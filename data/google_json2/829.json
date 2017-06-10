@@ -1,0 +1,557 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0cgh4",
+          "description": "building",
+          "score": 0.82144946
+        },
+        {
+          "mid": "/m/0dpvm",
+          "description": "arch",
+          "score": 0.7835668
+        },
+        {
+          "mid": "/m/01jf71",
+          "description": "arcade",
+          "score": 0.7378168
+        },
+        {
+          "mid": "/m/01rlnn",
+          "description": "hacienda",
+          "score": 0.56042033
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "en",
+          "description": "/14\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 268,
+                "y": 151
+              },
+              {
+                "x": 294,
+                "y": 151
+              },
+              {
+                "x": 294,
+                "y": 195
+              },
+              {
+                "x": 268,
+                "y": 195
+              }
+            ]
+          }
+        },
+        {
+          "description": "/",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 276,
+                "y": 151
+              },
+              {
+                "x": 285,
+                "y": 176
+              },
+              {
+                "x": 277,
+                "y": 179
+              },
+              {
+                "x": 268,
+                "y": 154
+              }
+            ]
+          }
+        },
+        {
+          "description": "14",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 290,
+                "y": 181
+              },
+              {
+                "x": 294,
+                "y": 191
+              },
+              {
+                "x": 282,
+                "y": 195
+              },
+              {
+                "x": 279,
+                "y": 185
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 170,
+                "green": 152,
+                "blue": 119
+              },
+              "score": 0.22086631,
+              "pixelFraction": 0.091205835
+            },
+            {
+              "color": {
+                "red": 245,
+                "green": 237,
+                "blue": 211
+              },
+              "score": 0.114761576,
+              "pixelFraction": 0.052227344
+            },
+            {
+              "color": {
+                "red": 149,
+                "green": 107,
+                "blue": 64
+              },
+              "score": 0.05174545,
+              "pixelFraction": 0.01468894
+            },
+            {
+              "color": {
+                "red": 148,
+                "green": 160,
+                "blue": 89
+              },
+              "score": 0.011035809,
+              "pixelFraction": 0.007776498
+            },
+            {
+              "color": {
+                "red": 139,
+                "green": 120,
+                "blue": 90
+              },
+              "score": 0.108987525,
+              "pixelFraction": 0.0858295
+            },
+            {
+              "color": {
+                "red": 203,
+                "green": 189,
+                "blue": 158
+              },
+              "score": 0.091130204,
+              "pixelFraction": 0.04589094
+            },
+            {
+              "color": {
+                "red": 100,
+                "green": 82,
+                "blue": 56
+              },
+              "score": 0.07843398,
+              "pixelFraction": 0.090437785
+            },
+            {
+              "color": {
+                "red": 106,
+                "green": 73,
+                "blue": 46
+              },
+              "score": 0.06981804,
+              "pixelFraction": 0.024289554
+            },
+            {
+              "color": {
+                "red": 67,
+                "green": 51,
+                "blue": 30
+              },
+              "score": 0.046204448,
+              "pixelFraction": 0.094662055
+            },
+            {
+              "color": {
+                "red": 80,
+                "green": 48,
+                "blue": 29
+              },
+              "score": 0.04589019,
+              "pixelFraction": 0.054435484
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 269
+                },
+                {
+                  "y": 269
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "en"
+                }
+              ]
+            },
+            "width": 400,
+            "height": 270,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "en"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 268,
+                      "y": 154
+                    },
+                    {
+                      "x": 279,
+                      "y": 150
+                    },
+                    {
+                      "x": 294,
+                      "y": 191
+                    },
+                    {
+                      "x": 283,
+                      "y": 195
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "en"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 268,
+                          "y": 151
+                        },
+                        {
+                          "x": 294,
+                          "y": 151
+                        },
+                        {
+                          "x": 294,
+                          "y": 195
+                        },
+                        {
+                          "x": 268,
+                          "y": 195
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 276,
+                              "y": 151
+                            },
+                            {
+                              "x": 285,
+                              "y": 176
+                            },
+                            {
+                              "x": 277,
+                              "y": 179
+                            },
+                            {
+                              "x": 268,
+                              "y": 154
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 276,
+                                  "y": 151
+                                },
+                                {
+                                  "x": 285,
+                                  "y": 176
+                                },
+                                {
+                                  "x": 277,
+                                  "y": 179
+                                },
+                                {
+                                  "x": 268,
+                                  "y": 154
+                                }
+                              ]
+                            },
+                            "text": "/"
+                          }
+                        ]
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 290,
+                              "y": 181
+                            },
+                            {
+                              "x": 294,
+                              "y": 191
+                            },
+                            {
+                              "x": 282,
+                              "y": 195
+                            },
+                            {
+                              "x": 279,
+                              "y": 185
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 290,
+                                  "y": 181
+                                },
+                                {
+                                  "x": 292,
+                                  "y": 186
+                                },
+                                {
+                                  "x": 280,
+                                  "y": 190
+                                },
+                                {
+                                  "x": 279,
+                                  "y": 185
+                                }
+                              ]
+                            },
+                            "text": "1"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 288,
+                                  "y": 188
+                                },
+                                {
+                                  "x": 290,
+                                  "y": 194
+                                },
+                                {
+                                  "x": 283,
+                                  "y": 196
+                                },
+                                {
+                                  "x": 281,
+                                  "y": 190
+                                }
+                              ]
+                            },
+                            "text": "4"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "/14\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0272rmj",
+            "score": 48.7168,
+            "description": "San Marco, Florence"
+          },
+          {
+            "entityId": "/g/121g0yqm",
+            "score": 8.32352,
+            "description": "Piazza San Marco, Florence"
+          },
+          {
+            "entityId": "/g/119thd4hg",
+            "score": 2.50392
+          },
+          {
+            "entityId": "/m/02r9hlf",
+            "score": 1.04948,
+            "description": "Convento de San Marcos"
+          },
+          {
+            "entityId": "/m/0_ch6",
+            "score": 0.70808,
+            "description": "Convent"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://www.italian-museum-tickets.com/images/39/055/chostro_san_marco.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/6b/9a/d3/6b9ad33f3e90b8259ee9f64bc884d507.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/29/b4/cc/29b4cc836111db2286db5590ae34407e.jpg"
+          },
+          {
+            "url": "https://viciodapoesia.files.wordpress.com/2012/08/claustro-do-convento-de-san-marco-florenc3a7a.jpg"
+          },
+          {
+            "url": "http://www.paullouiscourier.fr/images/abbaye_san_marco.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://www.italian-museum-tickets.com/images/39/055/chostro_san_marco.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/6b/9a/d3/6b9ad33f3e90b8259ee9f64bc884d507.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/29/b4/cc/29b4cc836111db2286db5590ae34407e.jpg"
+          },
+          {
+            "url": "https://viciodapoesia.files.wordpress.com/2012/08/claustro-do-convento-de-san-marco-florenc3a7a.jpg"
+          },
+          {
+            "url": "http://www.paullouiscourier.fr/images/abbaye_san_marco.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.wga.hu/html_m/a/angelico/09/marco2.html"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/476255729326536151/"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/298856125248579599/"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/437764026262694874/"
+          },
+          {
+            "url": "http://en.wahooart.com/@@/8XZ96Y-Fra-Angelico-View-of-the-Convent-of-San-Marco"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://img.artsdot.com/Art.nsf/O/8XZ96X/$File/Fra-Angelico-View-of-the-Convent-of-San-Marco-S.JPG"
+          },
+          {
+            "url": "http://static.panoramio.com/photos/original/32768087.jpg"
+          },
+          {
+            "url": "http://www.lib-art.com/imgpainting/3/0/18903-view-of-the-convent-of-san-marco-fra-angelico.jpg"
+          },
+          {
+            "url": "https://flashmomentcontinued.files.wordpress.com/2015/02/sm-2.jpg"
+          },
+          {
+            "url": "https://baileyart102.files.wordpress.com/2012/04/sanmarconagy1.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

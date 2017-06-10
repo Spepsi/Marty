@@ -1,0 +1,546 @@
+{
+  "responses": [
+    {
+      "faceAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 104,
+                "y": 32
+              },
+              {
+                "x": 215,
+                "y": 32
+              },
+              {
+                "x": 215,
+                "y": 161
+              },
+              {
+                "x": 104,
+                "y": 161
+              }
+            ]
+          },
+          "fdBoundingPoly": {
+            "vertices": [
+              {
+                "x": 124,
+                "y": 70
+              },
+              {
+                "x": 198,
+                "y": 70
+              },
+              {
+                "x": 198,
+                "y": 145
+              },
+              {
+                "x": 124,
+                "y": 145
+              }
+            ]
+          },
+          "landmarks": [
+            {
+              "type": "LEFT_EYE",
+              "position": {
+                "x": 149.61815,
+                "y": 93.88341,
+                "z": -0.00014604314
+              }
+            },
+            {
+              "type": "RIGHT_EYE",
+              "position": {
+                "x": 179.3778,
+                "y": 96.303375,
+                "z": 4.5778418
+              }
+            },
+            {
+              "type": "LEFT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 137.37064,
+                "y": 85.88435,
+                "z": 0.15469363
+              }
+            },
+            {
+              "type": "RIGHT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 159.59248,
+                "y": 87.92825,
+                "z": -6.4714713
+              }
+            },
+            {
+              "type": "LEFT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 174.4563,
+                "y": 88.71829,
+                "z": -4.0402913
+              }
+            },
+            {
+              "type": "RIGHT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 192.90839,
+                "y": 88.23232,
+                "z": 8.3034315
+              }
+            },
+            {
+              "type": "MIDPOINT_BETWEEN_EYES",
+              "position": {
+                "x": 165.73549,
+                "y": 94.010284,
+                "z": -4.802263
+              }
+            },
+            {
+              "type": "NOSE_TIP",
+              "position": {
+                "x": 166.03038,
+                "y": 116.45755,
+                "z": -11.463702
+              }
+            },
+            {
+              "type": "UPPER_LIP",
+              "position": {
+                "x": 163.82832,
+                "y": 127.809395,
+                "z": -1.754214
+              }
+            },
+            {
+              "type": "LOWER_LIP",
+              "position": {
+                "x": 163.24022,
+                "y": 137.53535,
+                "z": 2.1698425
+              }
+            },
+            {
+              "type": "MOUTH_LEFT",
+              "position": {
+                "x": 151.4517,
+                "y": 129.70303,
+                "z": 5.452646
+              }
+            },
+            {
+              "type": "MOUTH_RIGHT",
+              "position": {
+                "x": 174.78648,
+                "y": 131.30392,
+                "z": 9.373095
+              }
+            },
+            {
+              "type": "MOUTH_CENTER",
+              "position": {
+                "x": 163.47015,
+                "y": 131.9567,
+                "z": 1.4252332
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_RIGHT",
+              "position": {
+                "x": 173.1377,
+                "y": 117.19465,
+                "z": 2.9171324
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_LEFT",
+              "position": {
+                "x": 156.19072,
+                "y": 117.035324,
+                "z": 0.17459807
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_CENTER",
+              "position": {
+                "x": 164.38914,
+                "y": 121.04094,
+                "z": -2.955208
+              }
+            },
+            {
+              "type": "LEFT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 148.76341,
+                "y": 92.66556,
+                "z": -2.536897
+              }
+            },
+            {
+              "type": "LEFT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 154.98267,
+                "y": 95.03217,
+                "z": 1.1204995
+              }
+            },
+            {
+              "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 148.88069,
+                "y": 96.568344,
+                "z": 0.040598374
+              }
+            },
+            {
+              "type": "LEFT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 142.13539,
+                "y": 93.90828,
+                "z": 1.8861421
+              }
+            },
+            {
+              "type": "LEFT_EYE_PUPIL",
+              "position": {
+                "x": 147.86696,
+                "y": 94.73427,
+                "z": -0.8090935
+              }
+            },
+            {
+              "type": "RIGHT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 182.06151,
+                "y": 94.17894,
+                "z": 2.3371525
+              }
+            },
+            {
+              "type": "RIGHT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 187.73573,
+                "y": 96.06923,
+                "z": 8.854122
+              }
+            },
+            {
+              "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 179.89987,
+                "y": 98.89784,
+                "z": 4.8703127
+              }
+            },
+            {
+              "type": "RIGHT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 173.31181,
+                "y": 96.76915,
+                "z": 3.9515748
+              }
+            },
+            {
+              "type": "RIGHT_EYE_PUPIL",
+              "position": {
+                "x": 182.07002,
+                "y": 96.32941,
+                "z": 4.15098
+              }
+            },
+            {
+              "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 148.27177,
+                "y": 83.17652,
+                "z": -5.840305
+              }
+            },
+            {
+              "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 184.44255,
+                "y": 84.79765,
+                "z": -0.5482098
+              }
+            },
+            {
+              "type": "LEFT_EAR_TRAGION",
+              "position": {
+                "x": 120.39688,
+                "y": 103.58084,
+                "z": 39.987076
+              }
+            },
+            {
+              "type": "RIGHT_EAR_TRAGION",
+              "position": {
+                "x": 196.0808,
+                "y": 106.96963,
+                "z": 51.045116
+              }
+            },
+            {
+              "type": "FOREHEAD_GLABELLA",
+              "position": {
+                "x": 166.62967,
+                "y": 88.16682,
+                "z": -6.456746
+              }
+            },
+            {
+              "type": "CHIN_GNATHION",
+              "position": {
+                "x": 161.45021,
+                "y": 152.24652,
+                "z": 9.313897
+              }
+            },
+            {
+              "type": "CHIN_LEFT_GONION",
+              "position": {
+                "x": 124.87942,
+                "y": 127.28561,
+                "z": 30.109438
+              }
+            },
+            {
+              "type": "CHIN_RIGHT_GONION",
+              "position": {
+                "x": 192.90381,
+                "y": 130.42062,
+                "z": 40.109066
+              }
+            }
+          ],
+          "rollAngle": 3.8143096,
+          "panAngle": 8.406095,
+          "tiltAngle": -8.504603,
+          "detectionConfidence": 0.9992053,
+          "landmarkingConfidence": 0.55089384,
+          "joyLikelihood": "VERY_UNLIKELY",
+          "sorrowLikelihood": "VERY_UNLIKELY",
+          "angerLikelihood": "VERY_UNLIKELY",
+          "surpriseLikelihood": "VERY_UNLIKELY",
+          "underExposedLikelihood": "VERY_UNLIKELY",
+          "blurredLikelihood": "VERY_UNLIKELY",
+          "headwearLikelihood": "VERY_UNLIKELY"
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/01g317",
+          "description": "person",
+          "score": 0.90623116
+        },
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.8104476
+        },
+        {
+          "mid": "/m/01dv4h",
+          "description": "portrait",
+          "score": 0.7055842
+        },
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.70115733
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 56,
+                "green": 53,
+                "blue": 26
+              },
+              "score": 0.21089904,
+              "pixelFraction": 0.19491935
+            },
+            {
+              "color": {
+                "red": 97,
+                "green": 78,
+                "blue": 24
+              },
+              "score": 0.20587395,
+              "pixelFraction": 0.14580645
+            },
+            {
+              "color": {
+                "red": 22,
+                "green": 23,
+                "blue": 13
+              },
+              "score": 0.07456052,
+              "pixelFraction": 0.14701612
+            },
+            {
+              "color": {
+                "red": 150,
+                "green": 66,
+                "blue": 6
+              },
+              "score": 0.014952115,
+              "pixelFraction": 0.014354839
+            },
+            {
+              "color": {
+                "red": 84,
+                "green": 82,
+                "blue": 50
+              },
+              "score": 0.1169115,
+              "pixelFraction": 0.10935484
+            },
+            {
+              "color": {
+                "red": 75,
+                "green": 58,
+                "blue": 9
+              },
+              "score": 0.09137681,
+              "pixelFraction": 0.058790322
+            },
+            {
+              "color": {
+                "red": 113,
+                "green": 68,
+                "blue": 13
+              },
+              "score": 0.060912278,
+              "pixelFraction": 0.04830645
+            },
+            {
+              "color": {
+                "red": 132,
+                "green": 115,
+                "blue": 63
+              },
+              "score": 0.045465823,
+              "pixelFraction": 0.063387096
+            },
+            {
+              "color": {
+                "red": 88,
+                "green": 51,
+                "blue": 6
+              },
+              "score": 0.039539717,
+              "pixelFraction": 0.027258065
+            },
+            {
+              "color": {
+                "red": 33,
+                "green": 30,
+                "blue": 9
+              },
+              "score": 0.030943708,
+              "pixelFraction": 0.034112904
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 322
+                },
+                {
+                  "x": 322,
+                  "y": 375
+                },
+                {
+                  "y": 375
+                }
+              ]
+            },
+            "confidence": 1,
+            "importanceFraction": 2.4299998
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0gjb203",
+            "score": 14.8598,
+            "description": "Claude Arnulphy"
+          },
+          {
+            "entityId": "/m/0knfs",
+            "score": 1.49536,
+            "description": "Aix-en-Provence"
+          },
+          {
+            "entityId": "/m/01dv4h",
+            "score": 1.0094632,
+            "description": "Portrait"
+          },
+          {
+            "entityId": "/m/0641k",
+            "score": 0.754,
+            "description": "Paper"
+          },
+          {
+            "entityId": "/m/08b33",
+            "score": 0.65014,
+            "description": "18th century"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://www.sothebys.com/content/dam/stb/lots/N09/N09363/078N09363_7ZB63.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/ec/7d/fe/ec7dfecd1e005547980a760a19eb30a7.jpg"
+          },
+          {
+            "url": "http://images.arcadja.com/arnulphy_claude-portrait_of_a_gentleman_seated_at_a_d~OMbb8300~10000_20150604_n09363_122.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/ec/7d/fe/ec7dfecd1e005547980a760a19eb30a7.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/6d/3e/9b/6d3e9b840bee3fec7e0a89061ed3ce90.jpg"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/%27Portrait_of_a_Gentleman_Seated_at_a_Desk_with_Books%2C_Papers_Music%27_by_Claude_Arnulphy.jpg/193px-%27Portrait_of_a_Gentleman_Seated_at_a_Desk_with_Books%2C_Papers_Music%27_by_Claude_Arnulphy.jpg"
+          },
+          {
+            "url": "http://images.arcadja.com/arnulphy_claude-portrait_d_homme_%C3%A0_la_canne_portant_u~OM832300~10157_19981212_1024_61.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/bf/c0/bc/bfc0bccff4a0f4339add9b875c816927.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Arnulphy.jpg/260px-Arnulphy.jpg"
+          },
+          {
+            "url": "http://images.arcadja.com/arnulphy_claude-portrait_d_un_homme_de_qualit%C3%A9~OM9a7300~10529_20110624_17060_70.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

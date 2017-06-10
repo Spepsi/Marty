@@ -1,0 +1,436 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01g317",
+          "description": "person",
+          "score": 0.90565073
+        },
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.6494879
+        },
+        {
+          "mid": "/m/04rjz",
+          "description": "middle ages",
+          "score": 0.6395218
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "zh",
+          "description": "亨\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 39,
+                "y": 390
+              },
+              {
+                "x": 48,
+                "y": 390
+              },
+              {
+                "x": 48,
+                "y": 395
+              },
+              {
+                "x": 39,
+                "y": 395
+              }
+            ]
+          }
+        },
+        {
+          "description": "亨",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 48,
+                "y": 396
+              },
+              {
+                "x": 39,
+                "y": 396
+              },
+              {
+                "x": 39,
+                "y": 391
+              },
+              {
+                "x": 48,
+                "y": 391
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 55,
+                "green": 48,
+                "blue": 43
+              },
+              "score": 0.09024324,
+              "pixelFraction": 0.06931859
+            },
+            {
+              "color": {
+                "red": 81,
+                "green": 75,
+                "blue": 109
+              },
+              "score": 0.0771199,
+              "pixelFraction": 0.022381298
+            },
+            {
+              "color": {
+                "red": 213,
+                "green": 190,
+                "blue": 158
+              },
+              "score": 0.05175629,
+              "pixelFraction": 0.07756434
+            },
+            {
+              "color": {
+                "red": 188,
+                "green": 149,
+                "blue": 63
+              },
+              "score": 0.003208446,
+              "pixelFraction": 0.0010873505
+            },
+            {
+              "color": {
+                "red": 59,
+                "green": 55,
+                "blue": 90
+              },
+              "score": 0.07138685,
+              "pixelFraction": 0.019662922
+            },
+            {
+              "color": {
+                "red": 54,
+                "green": 57,
+                "blue": 84
+              },
+              "score": 0.056574848,
+              "pixelFraction": 0.019028634
+            },
+            {
+              "color": {
+                "red": 61,
+                "green": 51,
+                "blue": 33
+              },
+              "score": 0.054345135,
+              "pixelFraction": 0.027727438
+            },
+            {
+              "color": {
+                "red": 78,
+                "green": 41,
+                "blue": 30
+              },
+              "score": 0.052547496,
+              "pixelFraction": 0.04748097
+            },
+            {
+              "color": {
+                "red": 92,
+                "green": 80,
+                "blue": 58
+              },
+              "score": 0.04820511,
+              "pixelFraction": 0.02781805
+            },
+            {
+              "color": {
+                "red": 76,
+                "green": 77,
+                "blue": 106
+              },
+              "score": 0.04530312,
+              "pixelFraction": 0.015404132
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 287
+                },
+                {
+                  "x": 287,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "zh-Hans"
+                }
+              ]
+            },
+            "width": 288,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "zh-Hans"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 39,
+                      "y": 396
+                    },
+                    {
+                      "x": 39,
+                      "y": 391
+                    },
+                    {
+                      "x": 48,
+                      "y": 391
+                    },
+                    {
+                      "x": 48,
+                      "y": 396
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "zh-Hans"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 39,
+                          "y": 390
+                        },
+                        {
+                          "x": 48,
+                          "y": 390
+                        },
+                        {
+                          "x": 48,
+                          "y": 395
+                        },
+                        {
+                          "x": 39,
+                          "y": 395
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "zh-Hans"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 48,
+                              "y": 396
+                            },
+                            {
+                              "x": 39,
+                              "y": 396
+                            },
+                            {
+                              "x": 39,
+                              "y": 391
+                            },
+                            {
+                              "x": 48,
+                              "y": 391
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "zh-Hans"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 48,
+                                  "y": 396
+                                },
+                                {
+                                  "x": 39,
+                                  "y": 396
+                                },
+                                {
+                                  "x": 39,
+                                  "y": 391
+                                },
+                                {
+                                  "x": 48,
+                                  "y": 391
+                                }
+                              ]
+                            },
+                            "text": "亨"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "亨\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0272rmj",
+            "score": 6.13936,
+            "description": "San Marco, Florence"
+          },
+          {
+            "entityId": "/g/12100_zb",
+            "score": 2.472,
+            "description": "Museo Nazionale di San Marco"
+          },
+          {
+            "entityId": "/g/12353np6",
+            "score": 1.40138,
+            "description": "The Naming of Saint John the Baptist"
+          },
+          {
+            "entityId": "/g/11c3tf_f5r",
+            "score": 0.62636,
+            "description": "The Naming of St. John the Baptist"
+          },
+          {
+            "entityId": "/m/08ccfj",
+            "score": 0.40542,
+            "description": "Luke 1"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://www.wga.hu/art/a/angelico/13/03prede21.jpg"
+          },
+          {
+            "url": "http://veritas.catholic.or.kr/ko/ca-0789.jpg"
+          },
+          {
+            "url": "http://es.wahooart.com/Art.nsf/O/8XZ96D/$File/Fra-Angelico-The-Naming-of-St-John-the-Baptist-detail--S.JPG"
+          },
+          {
+            "url": "http://www.wga.hu/preview/a/angelico/13/03prede21.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://upload.wikimedia.org/wikipedia/commons/5/59/Fra_Angelico_002.jpg"
+          },
+          {
+            "url": "http://www.devoir-de-philosophie.com/images_dissertations/172741.jpg"
+          },
+          {
+            "url": "https://1.bp.blogspot.com/-nyA2zZMk3GE/V0dNlAywuLI/AAAAAAAB2Q4/zL_V1LtPu3onP18_qrrtjmMsvt47gMUdQCLcB/s1600/imposi%25C3%25A7%25C3%25A3o%2Bdo%2Bnome%2Bao%2BBatista.jpg"
+          },
+          {
+            "url": "https://ci6.googleusercontent.com/proxy/Cle3LjFONDFrsC-DLC_oBZOVW5wUM6LQ9QY6mBwpOUXYbkW47xlZtWM5-yPgWijE1g-3eayv4wh69XQc0GFuYCUokoBt5OMxsEI_2iStucyPwQYEuj8UzP3EefrNkKms805hDCR7_EeM_z_C0xl3qV4FMWVnMF480evG=s0-d-e1-ft"
+          },
+          {
+            "url": "http://www.descubrirelarte.es/wp-content/uploads/2016/01/El-nombre-de-San-Juan-Bautista-1434-1435.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.artbible.info/art/large/15.html"
+          },
+          {
+            "url": "https://catholicismpure.wordpress.com/2015/06/24/the-naming-of-john-the-baptist/"
+          },
+          {
+            "url": "http://iconsandimagery.blogspot.com/2010/12/naming-of-st-john-baptist.html"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/555561304012426702/"
+          },
+          {
+            "url": "http://artunframed.com/Gallery/shop/the-naming-of-john-the-baptist/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://www.wga.hu/art/a/angelico/13/03prede21.jpg"
+          },
+          {
+            "url": "http://wp.patheos.com.s3.amazonaws.com/blogs/deaconsbench/files/2012/06/naming-575x636.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/art/a/angelico/13/03prede22.jpg"
+          },
+          {
+            "url": "http://media.gettyimages.com/photos/gothic-art-flanders-rogier-van-der-weyden-or-roger-de-la-pasture-picture-id170920237"
+          },
+          {
+            "url": "http://d16452122.u206.worldispnetwork.com/images/Research/WoRwomen/full/11.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

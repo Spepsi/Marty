@@ -1,0 +1,474 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09j2d",
+          "description": "clothing",
+          "score": 0.92898184
+        },
+        {
+          "mid": "/m/01d40f",
+          "description": "dress",
+          "score": 0.85448486
+        },
+        {
+          "mid": "/m/0bp_2p",
+          "description": "gown",
+          "score": 0.8070861
+        },
+        {
+          "mid": "/m/032tl",
+          "description": "fashion",
+          "score": 0.6089996
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "oc",
+          "description": "ES\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 46,
+                "y": 64
+              },
+              {
+                "x": 54,
+                "y": 64
+              },
+              {
+                "x": 54,
+                "y": 74
+              },
+              {
+                "x": 46,
+                "y": 74
+              }
+            ]
+          }
+        },
+        {
+          "description": "ES",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 46,
+                "y": 64
+              },
+              {
+                "x": 54,
+                "y": 64
+              },
+              {
+                "x": 54,
+                "y": 74
+              },
+              {
+                "x": 46,
+                "y": 74
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 82,
+                "green": 74,
+                "blue": 70
+              },
+              "score": 0.19512206,
+              "pixelFraction": 0.026647966
+            },
+            {
+              "color": {
+                "red": 104,
+                "green": 84,
+                "blue": 66
+              },
+              "score": 0.16249685,
+              "pixelFraction": 0.044763908
+            },
+            {
+              "color": {
+                "red": 137,
+                "green": 115,
+                "blue": 91
+              },
+              "score": 0.15175533,
+              "pixelFraction": 0.028284244
+            },
+            {
+              "color": {
+                "red": 112,
+                "green": 74,
+                "blue": 56
+              },
+              "score": 0.13009138,
+              "pixelFraction": 0.036115006
+            },
+            {
+              "color": {
+                "red": 144,
+                "green": 106,
+                "blue": 84
+              },
+              "score": 0.10154927,
+              "pixelFraction": 0.029803647
+            },
+            {
+              "color": {
+                "red": 172,
+                "green": 145,
+                "blue": 118
+              },
+              "score": 0.05774191,
+              "pixelFraction": 0.0061944835
+            },
+            {
+              "color": {
+                "red": 181,
+                "green": 148,
+                "blue": 98
+              },
+              "score": 0.04677258,
+              "pixelFraction": 0.003038803
+            },
+            {
+              "color": {
+                "red": 75,
+                "green": 64,
+                "blue": 62
+              },
+              "score": 0.029859476,
+              "pixelFraction": 0.25537634
+            },
+            {
+              "color": {
+                "red": 157,
+                "green": 114,
+                "blue": 72
+              },
+              "score": 0.019924454,
+              "pixelFraction": 0.002571295
+            },
+            {
+              "color": {
+                "red": 158,
+                "green": 126,
+                "blue": 80
+              },
+              "score": 0.015973615,
+              "pixelFraction": 0.0010518935
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 220
+                },
+                {
+                  "x": 220,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "oc"
+                }
+              ]
+            },
+            "width": 221,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "oc"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 46,
+                      "y": 64
+                    },
+                    {
+                      "x": 54,
+                      "y": 64
+                    },
+                    {
+                      "x": 54,
+                      "y": 74
+                    },
+                    {
+                      "x": 46,
+                      "y": 74
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "oc"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 46,
+                          "y": 64
+                        },
+                        {
+                          "x": 54,
+                          "y": 64
+                        },
+                        {
+                          "x": 54,
+                          "y": 74
+                        },
+                        {
+                          "x": 46,
+                          "y": 74
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "oc"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 46,
+                              "y": 64
+                            },
+                            {
+                              "x": 54,
+                              "y": 64
+                            },
+                            {
+                              "x": 54,
+                              "y": 74
+                            },
+                            {
+                              "x": 46,
+                              "y": 74
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "oc"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 46,
+                                  "y": 71
+                                },
+                                {
+                                  "x": 54,
+                                  "y": 71
+                                },
+                                {
+                                  "x": 54,
+                                  "y": 74
+                                },
+                                {
+                                  "x": 46,
+                                  "y": 74
+                                }
+                              ]
+                            },
+                            "text": "E"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "oc"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 46,
+                                  "y": 64
+                                },
+                                {
+                                  "x": 53,
+                                  "y": 64
+                                },
+                                {
+                                  "x": 53,
+                                  "y": 69
+                                },
+                                {
+                                  "x": 46,
+                                  "y": 69
+                                }
+                              ]
+                            },
+                            "text": "S"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "ES\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/g/1212grrb",
+            "score": 5.62712,
+            "description": "Galleria D'Arte Moderna"
+          },
+          {
+            "entityId": "/m/0bbtmwx",
+            "score": 1.28088,
+            "description": "Portrait of a Lady"
+          },
+          {
+            "entityId": "/m/0bh9y4q",
+            "score": 1.23052,
+            "description": "Portrait of a Woman"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.73391,
+            "description": "Painting"
+          },
+          {
+            "entityId": "/m/01dv4h",
+            "score": 0.7029,
+            "description": "Portrait"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://68.media.tumblr.com/40382343df2f9c0aa31a0ac2dfadb5e1/tumblr_mkwvhpPAeO1r29g9xo1_1280.jpg"
+          },
+          {
+            "url": "http://4.bp.blogspot.com/-XXL0TcdPh9o/VpU9ve2wGVI/AAAAAAAACK4/ZftjCsRlo5k/s1600/abbati4.jpg"
+          },
+          {
+            "url": "http://www.outpost-art.org/images/Giuseppe%20Abbati/Portrait%20of%20a%20Woman.jpg"
+          },
+          {
+            "url": "https://creativeprojectformedarte.files.wordpress.com/2013/12/abbati-ritratto-di-donna-1865-66-firenze-galleria-darte-moderna-palazzo-pitti.jpg"
+          },
+          {
+            "url": "http://artifex.ru/wp-content/uploads/2017/02/%D0%96%D0%B8%D0%B2%D0%BE%D0%BF%D0%B8%D1%81%D1%8C_%D0%94%D0%B6%D1%83%D0%B7%D0%B5%D0%BF%D0%BF%D0%B5-%D0%90%D0%B1%D0%B1%D0%B0%D1%82%D0%B8_%D0%96%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B8-%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82-1865-66.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://68.media.tumblr.com/40382343df2f9c0aa31a0ac2dfadb5e1/tumblr_mkwvhpPAeO1r29g9xo1_1280.jpg"
+          },
+          {
+            "url": "http://4.bp.blogspot.com/-XXL0TcdPh9o/VpU9ve2wGVI/AAAAAAAACK4/ZftjCsRlo5k/s1600/abbati4.jpg"
+          },
+          {
+            "url": "http://www.outpost-art.org/images/Giuseppe%20Abbati/Portrait%20of%20a%20Woman.jpg"
+          },
+          {
+            "url": "https://creativeprojectformedarte.files.wordpress.com/2013/12/abbati-ritratto-di-donna-1865-66-firenze-galleria-darte-moderna-palazzo-pitti.jpg"
+          },
+          {
+            "url": "https://creativeprojectformedarte.files.wordpress.com/2013/12/abbati-ritratto-di-donna-1865-66-firenze-galleria-darte-moderna-palazzo-pitti.jpg?w=471"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.the-athenaeum.org/art/list.php?s=tu&m=y&y=1866&p=5"
+          },
+          {
+            "url": "https://www.pinterest.com/mommaherbst/civil-war-era-paintings/"
+          },
+          {
+            "url": "http://www.the-athenaeum.org/art/list.php?m=a&s=tu&aid=5872"
+          },
+          {
+            "url": "http://www.the-athenaeum.org/art/list.php?s=du&m=o&oid=0&p=22"
+          },
+          {
+            "url": "https://www.pinterest.com/texasfarmerwife/sewing-patterns/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/9c/1c/9d/9c1c9d0711ee432cbfb5e4db702a5e0c.jpg"
+          },
+          {
+            "url": "https://www.cutlermiles.com/media/catalog/product/cache/1/small_image/262x330/b38cf51ec77170b109c5e310157197eb/p/o/portrait-of-a-woman_giuseppe-abbati.jpg"
+          },
+          {
+            "url": "https://www.paintingstar.com/static/gallery/2007/08/08/528ea61bdc9b2_thumb.jpg?Prayer+Artwork+by+Giuseppe+Abbati"
+          },
+          {
+            "url": "http://www.sulromanzo.it/sites/default/files/images/gerardo-perrotta/i_9_uomini_che_fecero_la_fortuna_dei_macchiaioli_30.jpg"
+          },
+          {
+            "url": "http://images.arcadja.com/abbati_giuseppe-la_supplica~OMbda300~10348_20170519_394_2472.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

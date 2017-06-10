@@ -1,13 +1,69 @@
+import os
+import glob
+import pandas as pd
+import cv2
+import functools
 from PIL import Image
 import imagehash
 
 
-class PHash(object):
-    def __init__(self, image):
-        self.image = image
+from Marty.domain.crop.image import Image as ImageCropper
 
-    def distance_to(self, image2):
-        hash1 = imagehash.average_hash(Image.open(self.image))
-        hash2 = imagehash.average_hash(Image.open(image2))
-        return hash1 - hash2
-         
+
+#@functools.lru_cache(maxsize=None, typed=False)
+def get_image_hash(path):
+    return imagehash.phash(Image.open(path), hash_size=16)
+
+
+
+
+
+
+
+
+    
+class PHash(object):
+    DATABASE = "/Users/ldocao/Google Drive/Documents/Professionnel/2015 10 26 Quantmetry/Externe/01 Missions/2017 06 10 Hackathon Marty/Marty/data/pict2"
+    
+    def __init__(self, image):
+        """
+        Parameters
+        ----------
+        image: str
+            Path to file
+        """
+        self.image = image
+        self.hash = get_image_hash(image)
+
+        
+    def closest_from_database(self, n=1):
+        """
+        Parameters
+        ----------
+        n: int
+            Top N closest images found in database (default:1)
+        """
+        distances = self.get_distances()
+        distances.sort_values("distance", ascending=True, inplace=True)
+        return distances.index[0:n+1]
+    
+        
+    def get_distances(self):
+        image_list = self._find_images()
+        primary_key = [i.split("/")[-1:][0] for i in image_list]
+        distances = pd.DataFrame(columns=["distance"], index=primary_key)
+        for i in image_list:
+            index = i.split("/")[-1:][0]
+            i_hash = get_image_hash(i)
+            distances.loc[index]["distance"] = i_hash - self.hash
+
+        return distances
+            
+    @classmethod
+    def _find_images(cls):
+        directory = cls.DATABASE
+        regexp = "*.jpg"
+        lookup = os.path.join(directory, regexp)
+        image_list = glob.glob(lookup)
+        return image_list
+        

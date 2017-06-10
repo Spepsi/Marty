@@ -1,0 +1,405 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02wtjj",
+          "description": "stone carving",
+          "score": 0.8951354
+        },
+        {
+          "mid": "/m/02nnps",
+          "description": "relief",
+          "score": 0.79503727
+        },
+        {
+          "mid": "/m/0jwzhtg",
+          "description": "carving",
+          "score": 0.78084594
+        },
+        {
+          "mid": "/m/0djmp",
+          "description": "ancient history",
+          "score": 0.5557553
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "en",
+          "description": "e\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 63,
+                "y": 32
+              },
+              {
+                "x": 103,
+                "y": 32
+              },
+              {
+                "x": 103,
+                "y": 72
+              },
+              {
+                "x": 63,
+                "y": 72
+              }
+            ]
+          }
+        },
+        {
+          "description": "e",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 102,
+                "y": 32
+              },
+              {
+                "x": 104,
+                "y": 70
+              },
+              {
+                "x": 66,
+                "y": 72
+              },
+              {
+                "x": 64,
+                "y": 34
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 142,
+                "green": 117,
+                "blue": 59
+              },
+              "score": 0.39844725,
+              "pixelFraction": 0.13360731
+            },
+            {
+              "color": {
+                "red": 240,
+                "green": 229,
+                "blue": 222
+              },
+              "score": 0.006657053,
+              "pixelFraction": 0.055831265
+            },
+            {
+              "color": {
+                "red": 106,
+                "green": 82,
+                "blue": 28
+              },
+              "score": 0.26114395,
+              "pixelFraction": 0.08816687
+            },
+            {
+              "color": {
+                "red": 172,
+                "green": 145,
+                "blue": 82
+              },
+              "score": 0.14635772,
+              "pixelFraction": 0.07227047
+            },
+            {
+              "color": {
+                "red": 78,
+                "green": 55,
+                "blue": 8
+              },
+              "score": 0.07411979,
+              "pixelFraction": 0.025046526
+            },
+            {
+              "color": {
+                "red": 182,
+                "green": 152,
+                "blue": 71
+              },
+              "score": 0.017058043,
+              "pixelFraction": 0.005738213
+            },
+            {
+              "color": {
+                "red": 171,
+                "green": 153,
+                "blue": 125
+              },
+              "score": 0.011058458,
+              "pixelFraction": 0.112205334
+            },
+            {
+              "color": {
+                "red": 134,
+                "green": 115,
+                "blue": 83
+              },
+              "score": 0.010943782,
+              "pixelFraction": 0.059398264
+            },
+            {
+              "color": {
+                "red": 209,
+                "green": 193,
+                "blue": 167
+              },
+              "score": 0.010825929,
+              "pixelFraction": 0.13709678
+            },
+            {
+              "color": {
+                "red": 100,
+                "green": 81,
+                "blue": 48
+              },
+              "score": 0.009783432,
+              "pixelFraction": 0.033653848
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 333
+                },
+                {
+                  "y": 333
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "en"
+                }
+              ]
+            },
+            "width": 400,
+            "height": 334,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "en"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 102,
+                      "y": 32
+                    },
+                    {
+                      "x": 104,
+                      "y": 70
+                    },
+                    {
+                      "x": 66,
+                      "y": 72
+                    },
+                    {
+                      "x": 64,
+                      "y": 34
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "en"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 63,
+                          "y": 32
+                        },
+                        {
+                          "x": 103,
+                          "y": 32
+                        },
+                        {
+                          "x": 103,
+                          "y": 72
+                        },
+                        {
+                          "x": 63,
+                          "y": 72
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 102,
+                              "y": 32
+                            },
+                            {
+                              "x": 104,
+                              "y": 70
+                            },
+                            {
+                              "x": 66,
+                              "y": 72
+                            },
+                            {
+                              "x": 64,
+                              "y": 34
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 102,
+                                  "y": 32
+                                },
+                                {
+                                  "x": 104,
+                                  "y": 70
+                                },
+                                {
+                                  "x": 66,
+                                  "y": 72
+                                },
+                                {
+                                  "x": 64,
+                                  "y": 34
+                                }
+                              ]
+                            },
+                            "text": "e"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "e\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/03dr6n",
+            "score": 11.51664,
+            "description": "Brenta"
+          },
+          {
+            "entityId": "/m/02vwsl4",
+            "score": 5.90504,
+            "description": "Villa Widmann – Foscari"
+          },
+          {
+            "entityId": "/g/122dm09b",
+            "score": 1.75248
+          },
+          {
+            "entityId": "/m/02wtjj",
+            "score": 0.4803319,
+            "description": "Stone carving"
+          },
+          {
+            "entityId": "/m/0djmp",
+            "score": 0.44524503,
+            "description": "Ancient history"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://www.venise-balades-visites-culture.com/_/rsrc/1473956678280/guides-en-photos-de-palais-musees-scuole/villa-widmann-rezzonico-foscari/20bal20%20%20P1100579.JPG?height=212&width=320"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.venise-balades-visites-culture.com/guides-en-photos-de-palais-musees-scuole/villa-widmann-rezzonico-foscari?tmpl=%2Fsystem%2Fapp%2Ftemplates%2Fprint%2F&showPrintDialog=1"
+          },
+          {
+            "url": "http://www.venise-balades-visites-culture.com/guides-en-photos-de-palais-musees-scuole/villa-widmann-rezzonico-foscari"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://us.123rf.com/450wm/joserpizarro/joserpizarro1604/joserpizarro160400245/58494774-roman-marble-relief-ana-river-museum-of-roman-art-in-merida-extremadura-spain.jpg?ver=6"
+          },
+          {
+            "url": "http://l450v.alamy.com/450v/df0fxr/europe-albania-durres-archaeological-museum-architectural-relief-with-df0fxr.jpg"
+          },
+          {
+            "url": "https://thumb1.shutterstock.com/display_pic_with_logo/4085668/403729888/stock-photo-myanmar-temple-carving-403729888.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/c5/9e/05/c59e05f7d56eb250afced63f207176d7.jpg"
+          },
+          {
+            "url": "http://l7.alamy.com/zooms/cc95a3709e5c4f7bb7da045e7684dedb/carving-of-two-women-in-a-temple-at-chittorgarha-12th-century-fort-c2cbjx.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

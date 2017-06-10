@@ -1,0 +1,869 @@
+{
+  "responses": [
+    {
+      "faceAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 99,
+                "y": 51
+              },
+              {
+                "x": 227,
+                "y": 51
+              },
+              {
+                "x": 227,
+                "y": 200
+              },
+              {
+                "x": 99,
+                "y": 200
+              }
+            ]
+          },
+          "fdBoundingPoly": {
+            "vertices": [
+              {
+                "x": 103,
+                "y": 88
+              },
+              {
+                "x": 202,
+                "y": 88
+              },
+              {
+                "x": 202,
+                "y": 187
+              },
+              {
+                "x": 103,
+                "y": 187
+              }
+            ]
+          },
+          "landmarks": [
+            {
+              "type": "LEFT_EYE",
+              "position": {
+                "x": 132.05423,
+                "y": 120.658394,
+                "z": 0.0005688912
+              }
+            },
+            {
+              "type": "RIGHT_EYE",
+              "position": {
+                "x": 171.24657,
+                "y": 118.72905,
+                "z": -13.57326
+              }
+            },
+            {
+              "type": "LEFT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 121.12403,
+                "y": 112.48848,
+                "z": 7.2175174
+              }
+            },
+            {
+              "type": "RIGHT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 139.04494,
+                "y": 112.17648,
+                "z": -10.959069
+              }
+            },
+            {
+              "type": "LEFT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 156.69025,
+                "y": 111.44009,
+                "z": -17.241037
+              }
+            },
+            {
+              "type": "RIGHT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 182.7929,
+                "y": 110.43597,
+                "z": -14.211148
+              }
+            },
+            {
+              "type": "MIDPOINT_BETWEEN_EYES",
+              "position": {
+                "x": 147.80186,
+                "y": 119.7999,
+                "z": -14.323311
+              }
+            },
+            {
+              "type": "NOSE_TIP",
+              "position": {
+                "x": 145.8771,
+                "y": 143.17096,
+                "z": -24.0966
+              }
+            },
+            {
+              "type": "UPPER_LIP",
+              "position": {
+                "x": 149.48276,
+                "y": 158.10364,
+                "z": -14.891481
+              }
+            },
+            {
+              "type": "LOWER_LIP",
+              "position": {
+                "x": 151.28525,
+                "y": 167.75714,
+                "z": -11.957841
+              }
+            },
+            {
+              "type": "MOUTH_LEFT",
+              "position": {
+                "x": 138.81575,
+                "y": 161.80182,
+                "z": 0.12283518
+              }
+            },
+            {
+              "type": "MOUTH_RIGHT",
+              "position": {
+                "x": 166.87508,
+                "y": 161.62564,
+                "z": -10.058726
+              }
+            },
+            {
+              "type": "MOUTH_CENTER",
+              "position": {
+                "x": 150.18803,
+                "y": 162.38902,
+                "z": -12.038669
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_RIGHT",
+              "position": {
+                "x": 158.62173,
+                "y": 144.85808,
+                "z": -13.512313
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_LEFT",
+              "position": {
+                "x": 140.15704,
+                "y": 146.00977,
+                "z": -6.210263
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_CENTER",
+              "position": {
+                "x": 147.86134,
+                "y": 148.78423,
+                "z": -15.494013
+              }
+            },
+            {
+              "type": "LEFT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 131.62253,
+                "y": 118.83586,
+                "z": -2.697103
+              }
+            },
+            {
+              "type": "LEFT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 139.58592,
+                "y": 122.06789,
+                "z": -2.4531293
+              }
+            },
+            {
+              "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 131.79008,
+                "y": 123.71513,
+                "z": -0.22302045
+              }
+            },
+            {
+              "type": "LEFT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 126.5407,
+                "y": 121.550995,
+                "z": 5.838072
+              }
+            },
+            {
+              "type": "LEFT_EYE_PUPIL",
+              "position": {
+                "x": 131.71733,
+                "y": 121.48129,
+                "z": -0.79766095
+              }
+            },
+            {
+              "type": "RIGHT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 168.25104,
+                "y": 117.47487,
+                "z": -15.6032
+              }
+            },
+            {
+              "type": "RIGHT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 177.86674,
+                "y": 119.64714,
+                "z": -12.213786
+              }
+            },
+            {
+              "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 170.92055,
+                "y": 122.146576,
+                "z": -13.303741
+              }
+            },
+            {
+              "type": "RIGHT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 163.14421,
+                "y": 120.45188,
+                "z": -10.375085
+              }
+            },
+            {
+              "type": "RIGHT_EYE_PUPIL",
+              "position": {
+                "x": 169.25584,
+                "y": 120.09424,
+                "z": -14.091117
+              }
+            },
+            {
+              "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 128.84212,
+                "y": 107.8139,
+                "z": -4.4423604
+              }
+            },
+            {
+              "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 168.50291,
+                "y": 106.356575,
+                "z": -18.440899
+              }
+            },
+            {
+              "type": "LEFT_EAR_TRAGION",
+              "position": {
+                "x": 126.20508,
+                "y": 138.6795,
+                "z": 53.9786
+              }
+            },
+            {
+              "type": "RIGHT_EAR_TRAGION",
+              "position": {
+                "x": 209.23418,
+                "y": 135.59917,
+                "z": 24.663816
+              }
+            },
+            {
+              "type": "FOREHEAD_GLABELLA",
+              "position": {
+                "x": 147.36755,
+                "y": 111.49645,
+                "z": -15.497024
+              }
+            },
+            {
+              "type": "CHIN_GNATHION",
+              "position": {
+                "x": 153.54756,
+                "y": 186.68866,
+                "z": -5.9047985
+              }
+            },
+            {
+              "type": "CHIN_LEFT_GONION",
+              "position": {
+                "x": 126.267494,
+                "y": 164.16217,
+                "z": 38.670918
+              }
+            },
+            {
+              "type": "CHIN_RIGHT_GONION",
+              "position": {
+                "x": 201.24496,
+                "y": 161.40819,
+                "z": 12.183333
+              }
+            }
+          ],
+          "rollAngle": -2.9241977,
+          "panAngle": -19.452929,
+          "tiltAngle": -2.279117,
+          "detectionConfidence": 0.95420957,
+          "landmarkingConfidence": 0.7051398,
+          "joyLikelihood": "VERY_UNLIKELY",
+          "sorrowLikelihood": "VERY_UNLIKELY",
+          "angerLikelihood": "VERY_UNLIKELY",
+          "surpriseLikelihood": "VERY_UNLIKELY",
+          "underExposedLikelihood": "VERY_UNLIKELY",
+          "blurredLikelihood": "VERY_UNLIKELY",
+          "headwearLikelihood": "VERY_UNLIKELY"
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/01g317",
+          "description": "person",
+          "score": 0.89827776
+        },
+        {
+          "mid": "/m/01dv4h",
+          "description": "portrait",
+          "score": 0.76780623
+        },
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.75864315
+        },
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.68778294
+        },
+        {
+          "mid": "/m/06msq",
+          "description": "sculpture",
+          "score": 0.675085
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "en",
+          "description": "80UZ\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 11,
+                "y": 381
+              },
+              {
+                "x": 37,
+                "y": 381
+              },
+              {
+                "x": 37,
+                "y": 391
+              },
+              {
+                "x": 11,
+                "y": 391
+              }
+            ]
+          }
+        },
+        {
+          "description": "80UZ",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 38,
+                "y": 389
+              },
+              {
+                "x": 13,
+                "y": 391
+              },
+              {
+                "x": 12,
+                "y": 383
+              },
+              {
+                "x": 37,
+                "y": 381
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 29,
+                "green": 17,
+                "blue": 18
+              },
+              "score": 0.28722084,
+              "pixelFraction": 0.36608252
+            },
+            {
+              "color": {
+                "red": 111,
+                "green": 70,
+                "blue": 25
+              },
+              "score": 0.10228287,
+              "pixelFraction": 0.07645781
+            },
+            {
+              "color": {
+                "red": 73,
+                "green": 42,
+                "blue": 20
+              },
+              "score": 0.10058978,
+              "pixelFraction": 0.074674316
+            },
+            {
+              "color": {
+                "red": 232,
+                "green": 191,
+                "blue": 110
+              },
+              "score": 0.022546548,
+              "pixelFraction": 0.024038462
+            },
+            {
+              "color": {
+                "red": 37,
+                "green": 18,
+                "blue": 20
+              },
+              "score": 0.12098001,
+              "pixelFraction": 0.106544666
+            },
+            {
+              "color": {
+                "red": 51,
+                "green": 23,
+                "blue": 12
+              },
+              "score": 0.055523686,
+              "pixelFraction": 0.038306452
+            },
+            {
+              "color": {
+                "red": 89,
+                "green": 50,
+                "blue": 14
+              },
+              "score": 0.05473956,
+              "pixelFraction": 0.033886477
+            },
+            {
+              "color": {
+                "red": 67,
+                "green": 45,
+                "blue": 25
+              },
+              "score": 0.039552975,
+              "pixelFraction": 0.029699132
+            },
+            {
+              "color": {
+                "red": 99,
+                "green": 70,
+                "blue": 27
+              },
+              "score": 0.03920472,
+              "pixelFraction": 0.023960918
+            },
+            {
+              "color": {
+                "red": 45,
+                "green": 28,
+                "blue": 17
+              },
+              "score": 0.03132635,
+              "pixelFraction": 0.025666874
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 335
+                },
+                {
+                  "x": 335,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 1,
+            "importanceFraction": 1.39
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "en"
+                }
+              ]
+            },
+            "width": 336,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "en"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 37,
+                      "y": 381
+                    },
+                    {
+                      "x": 38,
+                      "y": 389
+                    },
+                    {
+                      "x": 13,
+                      "y": 391
+                    },
+                    {
+                      "x": 12,
+                      "y": 383
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "en"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 11,
+                          "y": 381
+                        },
+                        {
+                          "x": 37,
+                          "y": 381
+                        },
+                        {
+                          "x": 37,
+                          "y": 391
+                        },
+                        {
+                          "x": 11,
+                          "y": 391
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 38,
+                              "y": 389
+                            },
+                            {
+                              "x": 13,
+                              "y": 391
+                            },
+                            {
+                              "x": 12,
+                              "y": 383
+                            },
+                            {
+                              "x": 37,
+                              "y": 381
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 38,
+                                  "y": 389
+                                },
+                                {
+                                  "x": 33,
+                                  "y": 389
+                                },
+                                {
+                                  "x": 32,
+                                  "y": 381
+                                },
+                                {
+                                  "x": 37,
+                                  "y": 381
+                                }
+                              ]
+                            },
+                            "text": "8"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 32,
+                                  "y": 390
+                                },
+                                {
+                                  "x": 27,
+                                  "y": 390
+                                },
+                                {
+                                  "x": 26,
+                                  "y": 382
+                                },
+                                {
+                                  "x": 31,
+                                  "y": 382
+                                }
+                              ]
+                            },
+                            "text": "0"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 25,
+                                  "y": 389
+                                },
+                                {
+                                  "x": 20,
+                                  "y": 389
+                                },
+                                {
+                                  "x": 19,
+                                  "y": 382
+                                },
+                                {
+                                  "x": 24,
+                                  "y": 382
+                                }
+                              ]
+                            },
+                            "text": "U"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 19,
+                                  "y": 390
+                                },
+                                {
+                                  "x": 13,
+                                  "y": 391
+                                },
+                                {
+                                  "x": 12,
+                                  "y": 384
+                                },
+                                {
+                                  "x": 18,
+                                  "y": 383
+                                }
+                              ]
+                            },
+                            "text": "Z"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "80UZ\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/09f8q",
+            "score": 5.97568,
+            "description": "Augsburg"
+          },
+          {
+            "entityId": "/m/017qyk",
+            "score": 2.89224,
+            "description": "Hermitage Museum"
+          },
+          {
+            "entityId": "/m/0bbtmwx",
+            "score": 1.52456,
+            "description": "Portrait of a Lady"
+          },
+          {
+            "entityId": "/m/05wt9s",
+            "score": 1.41228,
+            "description": "Christoph Amberger"
+          },
+          {
+            "entityId": "/m/01dv4h",
+            "score": 1.1673454,
+            "description": "Portrait"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://www.oceansbridge.ca/paintings/museums/new-hermitage/small/Amberger_Christoph-ZZZ-Portrait_of_a_Woman.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/73/d2/e9/73d2e92c2b2bf4ee3b60f6a3d96b341d.jpg"
+          },
+          {
+            "url": "http://img-fotki.yandex.ru/get/5600/n0bility.2b/0_47cc9_a8fa8d66_XXXL"
+          },
+          {
+            "url": "http://2.bp.blogspot.com/-SfQJlQpAG20/UwyBt_FHD0I/AAAAAAAAAxg/YfI9kTueJGM/s1600/Amberger+-+Portrait.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/art/a/amberger/youngwom.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://www.zeno.org/Kunstwerke.images/I/1460033a.jpg"
+          },
+          {
+            "url": "https://cs3.livemaster.ru/zhurnalfoto/7/8/9/160114193720789f350ef40e1b5d4b0df6e16316434d140593x971419.jpg"
+          },
+          {
+            "url": "http://fr.academic.ru/pictures/frwiki/67/Christoph_Amberger_004.jpg"
+          },
+          {
+            "url": "http://www.oceansbridge.ca/paintings/museums/new-hermitage/small/Amberger_Christoph-ZZZ-Portrait_of_a_Woman.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/73/d2/e9/73d2e92c2b2bf4ee3b60f6a3d96b341d.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/Category:Christoph_Amberger"
+          },
+          {
+            "url": "http://www.the-athenaeum.org/art/list.php?m=a&s=tu&aid=7339"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Christoph_Amberger_004.jpg"
+          },
+          {
+            "url": "https://www.pinterest.com/dieudorian/christoph-amberger/"
+          },
+          {
+            "url": "http://www.wikigallery.org/wiki/painting_6998/Christoph-Amberger/Portrait-Of--The-Cosmographer-Sebastien-M%FCnster-1552"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://2.bp.blogspot.com/-SfQJlQpAG20/UwyBt_FHD0I/AAAAAAAAAxg/YfI9kTueJGM/s1600/Amberger+-+Portrait.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/f5/fa/96/f5fa967222e46afb4197cd386bfefaee.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Christoph_Amberger_-_Portrait_of_a_Young_Man_-_WGA0259.jpg/655px-Christoph_Amberger_-_Portrait_of_a_Young_Man_-_WGA0259.jpg"
+          },
+          {
+            "url": "http://www.oceansbridge.com/paintings/artists/a/amberger_christoph/thumb-oil/portrait_of_felicitas_seiler_1537_XX_alte_pinakothek_munich.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/c0/0c/2f/c00c2f0dc27e9521313562dbf5284262.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

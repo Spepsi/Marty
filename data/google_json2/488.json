@@ -1,0 +1,426 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09g5pq",
+          "description": "people",
+          "score": 0.878006
+        },
+        {
+          "mid": "/m/0djmp",
+          "description": "ancient history",
+          "score": 0.5583446
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "ko",
+          "description": "걺\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 389,
+                "y": 101
+              },
+              {
+                "x": 396,
+                "y": 101
+              },
+              {
+                "x": 396,
+                "y": 107
+              },
+              {
+                "x": 389,
+                "y": 107
+              }
+            ]
+          }
+        },
+        {
+          "description": "걺",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 396,
+                "y": 108
+              },
+              {
+                "x": 389,
+                "y": 108
+              },
+              {
+                "x": 389,
+                "y": 102
+              },
+              {
+                "x": 396,
+                "y": 102
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 24,
+                "green": 14,
+                "blue": 13
+              },
+              "score": 0.3731399,
+              "pixelFraction": 0.24580961
+            },
+            {
+              "color": {
+                "red": 175,
+                "green": 152,
+                "blue": 130
+              },
+              "score": 0.073225565,
+              "pixelFraction": 0.04704301
+            },
+            {
+              "color": {
+                "red": 114,
+                "green": 77,
+                "blue": 58
+              },
+              "score": 0.03959985,
+              "pixelFraction": 0.04135041
+            },
+            {
+              "color": {
+                "red": 137,
+                "green": 115,
+                "blue": 96
+              },
+              "score": 0.063639,
+              "pixelFraction": 0.07163188
+            },
+            {
+              "color": {
+                "red": 211,
+                "green": 186,
+                "blue": 165
+              },
+              "score": 0.05627059,
+              "pixelFraction": 0.02443074
+            },
+            {
+              "color": {
+                "red": 38,
+                "green": 19,
+                "blue": 17
+              },
+              "score": 0.041165434,
+              "pixelFraction": 0.010910816
+            },
+            {
+              "color": {
+                "red": 102,
+                "green": 82,
+                "blue": 64
+              },
+              "score": 0.039109755,
+              "pixelFraction": 0.079063885
+            },
+            {
+              "color": {
+                "red": 149,
+                "green": 111,
+                "blue": 91
+              },
+              "score": 0.03843089,
+              "pixelFraction": 0.035104364
+            },
+            {
+              "color": {
+                "red": 67,
+                "green": 49,
+                "blue": 33
+              },
+              "score": 0.03785721,
+              "pixelFraction": 0.052577484
+            },
+            {
+              "color": {
+                "red": 58,
+                "green": 46,
+                "blue": 41
+              },
+              "score": 0.03486189,
+              "pixelFraction": 0.09123972
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 329
+                },
+                {
+                  "y": 329
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "ko"
+                }
+              ]
+            },
+            "width": 400,
+            "height": 330,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "ko"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 389,
+                      "y": 108
+                    },
+                    {
+                      "x": 389,
+                      "y": 102
+                    },
+                    {
+                      "x": 396,
+                      "y": 102
+                    },
+                    {
+                      "x": 396,
+                      "y": 108
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "ko"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 389,
+                          "y": 101
+                        },
+                        {
+                          "x": 396,
+                          "y": 101
+                        },
+                        {
+                          "x": 396,
+                          "y": 107
+                        },
+                        {
+                          "x": 389,
+                          "y": 107
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "ko"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 396,
+                              "y": 108
+                            },
+                            {
+                              "x": 389,
+                              "y": 108
+                            },
+                            {
+                              "x": 389,
+                              "y": 102
+                            },
+                            {
+                              "x": 396,
+                              "y": 102
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "ko"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 396,
+                                  "y": 108
+                                },
+                                {
+                                  "x": 389,
+                                  "y": 108
+                                },
+                                {
+                                  "x": 389,
+                                  "y": 102
+                                },
+                                {
+                                  "x": 396,
+                                  "y": 102
+                                }
+                              ]
+                            },
+                            "text": "걺"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "걺\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/g/122njbm3",
+            "score": 10.09184,
+            "description": "Brunelleschi's dome"
+          },
+          {
+            "entityId": "/g/11c57pw6np",
+            "score": 4.24528
+          },
+          {
+            "entityId": "/m/07k95s1",
+            "score": 3.03024,
+            "description": "Firenze Campo di Marte railway station"
+          },
+          {
+            "entityId": "/g/1v387g88",
+            "score": 1.54976,
+            "description": "Piazza del Duomo"
+          },
+          {
+            "entityId": "/g/1210xp_x",
+            "score": 0.52962
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://c1.staticflickr.com/4/3717/11979800053_ae6e451612.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/detail_s/a/andrea/firenze/spanish/1north3.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/preview/a/andrea/firenze/spanish/1north3.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://sharingmyitaly.files.wordpress.com/2012/04/p1010651.jpg"
+          },
+          {
+            "url": "http://1.bp.blogspot.com/-dlMOqbB1QsY/Uxw5mvkxtPI/AAAAAAAAMgI/HJHWp5SGWbk/s1600/IMG_9790.JPG"
+          },
+          {
+            "url": "http://4.bp.blogspot.com/_42httbVcpHI/TToAKobfMkI/AAAAAAAAAG0/6FGyjLIoOFI/s1600/Crucifiction+right+detail.jpg"
+          },
+          {
+            "url": "https://1.bp.blogspot.com/-4RIJ7dy_z7g/UrgHH2zfi2I/AAAAAAAAC2w/GAyc8xWtfdE/w1200-h630-p-k-no-nu/13+Andrea+da+Firenze+(active+1343-1377)+%E2%80%93+Cappella+Spagnuolo,+Santa+Maria+Novella+-+Crucifixion+(1365-68)+%E2%80%93+Fresco.+Florence.+a.jpg"
+          },
+          {
+            "url": "https://c1.staticflickr.com/4/3717/11979800053_ae6e451612.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.wga.hu/html_m/a/andrea/firenze/spanish/1north3.html"
+          },
+          {
+            "url": "http://www.wga.hu/frames-e.html?/html/a/andrea/firenze/spanish/index.html"
+          },
+          {
+            "url": "http://viatura.us/author/bartholomeus-spranger/page/144/"
+          },
+          {
+            "url": "http://viatura.us/2016/9/page/717/"
+          },
+          {
+            "url": "http://www.scalarchives.com/web/ricerca_risultati.asp?nRisPag=24&prmset=on&ANDOR=and&xesearch=porta+and+pia&ricerca_s=Porta+Pia&SC_PROV=RR&SC_Lang=fra&Sort=9&SC_NDD=G03051&language=eng"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://www.wga.hu/detail_s/a/andrea/firenze/spanish/1north3.jpg"
+          },
+          {
+            "url": "https://farm8.staticflickr.com/7698/16562102594_eca2f67bd5_b.jpg"
+          },
+          {
+            "url": "http://www.coupecouture.fr/images/Resurrection%20andrea%20da%20Firenze-W.jpg"
+          },
+          {
+            "url": "http://www.parafia.trzcianka.com.pl/obrazki/wielkanoc/triduum/resurrection-andrea_firenze-big.jpg"
+          },
+          {
+            "url": "http://blogimg.hani.co.kr/editor/uploads/2016/05/06/28090_59299.jpg_M800.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

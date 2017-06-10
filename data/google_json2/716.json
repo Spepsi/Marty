@@ -1,0 +1,513 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/06msq",
+          "description": "sculpture",
+          "score": 0.6052987
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "en",
+          "description": "h!\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 22,
+                "y": 159
+              },
+              {
+                "x": 27,
+                "y": 159
+              },
+              {
+                "x": 27,
+                "y": 165
+              },
+              {
+                "x": 22,
+                "y": 165
+              }
+            ]
+          }
+        },
+        {
+          "description": "h",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 27,
+                "y": 166
+              },
+              {
+                "x": 22,
+                "y": 166
+              },
+              {
+                "x": 22,
+                "y": 164
+              },
+              {
+                "x": 27,
+                "y": 164
+              }
+            ]
+          }
+        },
+        {
+          "description": "!",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 27,
+                "y": 162
+              },
+              {
+                "x": 22,
+                "y": 162
+              },
+              {
+                "x": 22,
+                "y": 160
+              },
+              {
+                "x": 27,
+                "y": 160
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 22,
+                "green": 20,
+                "blue": 13
+              },
+              "score": 0.22718349,
+              "pixelFraction": 0.18921745
+            },
+            {
+              "color": {
+                "red": 126,
+                "green": 118,
+                "blue": 96
+              },
+              "score": 0.13722415,
+              "pixelFraction": 0.06959379
+            },
+            {
+              "color": {
+                "red": 90,
+                "green": 84,
+                "blue": 64
+              },
+              "score": 0.13612406,
+              "pixelFraction": 0.08109319
+            },
+            {
+              "color": {
+                "red": 57,
+                "green": 51,
+                "blue": 33
+              },
+              "score": 0.11891201,
+              "pixelFraction": 0.07287933
+            },
+            {
+              "color": {
+                "red": 53,
+                "green": 50,
+                "blue": 41
+              },
+              "score": 0.105519466,
+              "pixelFraction": 0.14097969
+            },
+            {
+              "color": {
+                "red": 162,
+                "green": 150,
+                "blue": 131
+              },
+              "score": 0.07895253,
+              "pixelFraction": 0.06989247
+            },
+            {
+              "color": {
+                "red": 88,
+                "green": 83,
+                "blue": 73
+              },
+              "score": 0.04945324,
+              "pixelFraction": 0.08258662
+            },
+            {
+              "color": {
+                "red": 34,
+                "green": 30,
+                "blue": 13
+              },
+              "score": 0.048240095,
+              "pixelFraction": 0.019862605
+            },
+            {
+              "color": {
+                "red": 124,
+                "green": 116,
+                "blue": 107
+              },
+              "score": 0.030054023,
+              "pixelFraction": 0.055555556
+            },
+            {
+              "color": {
+                "red": 162,
+                "green": 154,
+                "blue": 145
+              },
+              "score": 0.02401088,
+              "pixelFraction": 0.044354837
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 174
+                },
+                {
+                  "x": 174,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "en"
+                }
+              ]
+            },
+            "width": 175,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "en"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 22,
+                      "y": 159
+                    },
+                    {
+                      "x": 27,
+                      "y": 159
+                    },
+                    {
+                      "x": 27,
+                      "y": 165
+                    },
+                    {
+                      "x": 22,
+                      "y": 165
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "en"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 22,
+                          "y": 159
+                        },
+                        {
+                          "x": 27,
+                          "y": 159
+                        },
+                        {
+                          "x": 27,
+                          "y": 165
+                        },
+                        {
+                          "x": 22,
+                          "y": 165
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 27,
+                              "y": 166
+                            },
+                            {
+                              "x": 22,
+                              "y": 166
+                            },
+                            {
+                              "x": 22,
+                              "y": 164
+                            },
+                            {
+                              "x": 27,
+                              "y": 164
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 27,
+                                  "y": 166
+                                },
+                                {
+                                  "x": 22,
+                                  "y": 166
+                                },
+                                {
+                                  "x": 22,
+                                  "y": 164
+                                },
+                                {
+                                  "x": 27,
+                                  "y": 164
+                                }
+                              ]
+                            },
+                            "text": "h"
+                          }
+                        ]
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 27,
+                              "y": 162
+                            },
+                            {
+                              "x": 22,
+                              "y": 162
+                            },
+                            {
+                              "x": 22,
+                              "y": 160
+                            },
+                            {
+                              "x": 27,
+                              "y": 160
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 27,
+                                  "y": 162
+                                },
+                                {
+                                  "x": 22,
+                                  "y": 162
+                                },
+                                {
+                                  "x": 22,
+                                  "y": 160
+                                },
+                                {
+                                  "x": 27,
+                                  "y": 160
+                                }
+                              ]
+                            },
+                            "text": "!"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "h!\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/01hlq3",
+            "score": 1.75352,
+            "description": "Museo Nacional Del Prado"
+          },
+          {
+            "entityId": "/m/05m4tw",
+            "score": 1.68344,
+            "description": "Annunciation"
+          },
+          {
+            "entityId": "/m/0c3wz3_",
+            "score": 0.83828,
+            "description": "Annunciation"
+          },
+          {
+            "entityId": "/m/06cvx",
+            "score": 0.75918,
+            "description": "Renaissance"
+          },
+          {
+            "entityId": "/m/0bxywk",
+            "score": 0.74148,
+            "description": "Expulsion from the Garden of Eden"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://www.artspecialday.com/9art/wp-content/uploads/2017/05/dettaglio-annunciazione.jpg"
+          },
+          {
+            "url": "http://2.bp.blogspot.com/--MGE0MO0aWo/TvL7wfeLjvI/AAAAAAAA1hY/60JY0NiYBxI/s1600/Beato+Angelico+-+Tutt%2527Art%2540+-+%252815%2529.jpg"
+          },
+          {
+            "url": "http://2.bp.blogspot.com/-cJ5GhT47aE8/UW6jVVLImuI/AAAAAAAAEo8/sDxoTxDqBBI/s1600/4prado+dettaglio+grande.jpg"
+          },
+          {
+            "url": "http://www.lib-art.com/imgpainting/4/4/18844-the-annunciation-fra-angelico.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/ec/cc/26/eccc268b0bab2835b5e0c441dc1ed854.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://blog-001.west.edge.storage-yahoo.jp/res/blog-00-40/htanakaakanath/folder/501861/45/12093045/img_0"
+          },
+          {
+            "url": "http://www.artspecialday.com/9art/wp-content/uploads/2017/05/Lezioni-d%E2%80%99Arte-%E2%80%93-Beato-Angelico-l%E2%80%99Angelicus-pictor-che-irradi%C3%B2-l%E2%80%99arte-di-spiritualit%C3%A0.jpg"
+          },
+          {
+            "url": "https://s3.amazonaws.com/classconnection/84/flashcards/12406084/jpg/la_anunciaci_c3_b3n__de_fra_angelico-15A237F9B4C30A510CC.jpg"
+          },
+          {
+            "url": "https://historiaenestudio.files.wordpress.com/2016/10/fra-angelico-1425-la-anunciacion-prado.jpg"
+          },
+          {
+            "url": "https://ci5.googleusercontent.com/proxy/ru_RTjGEo7Kx5sNYSJfwSvvbN1dQR9gzM5N6ef3UJAzvHqK0_xx482YA3uN6Qs6X6_Stmy0sKYtkqHFqM6B1JSKlZiMGcrUve2NXR2B90B-qCf09AuxIeQ9poX-UYYj3i8VMd0WINg=s0-d-e1-ft"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://www.pinterest.com/explore/fra-angelico/"
+          },
+          {
+            "url": "https://www.thegreatcoursesplus.com/great-artists-of-the-italian-renaissance/fra-angelico-and-fra-filippo-lippi"
+          },
+          {
+            "url": "https://uk.pinterest.com/explore/fra-angelico/"
+          },
+          {
+            "url": "https://www.wikiart.org/en/fra-angelico/annunciation-1432"
+          },
+          {
+            "url": "http://www.wga.hu/html_m/a/angelico/01/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/ca/1d/70/ca1d700a8a2b4004dd7c6c39611ea1c4.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/1b/a5/8f/1ba58f831f5b1f2c02f6d760c03cd336.jpg"
+          },
+          {
+            "url": "http://areuserious.org/wp-content/uploads/2009/09/fra-angelico-Adam-Eve-e1378750470717.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/f0/c3/9a/f0c39a8062bf7380afda7a8b67c87cd4.jpg"
+          },
+          {
+            "url": "http://hoocher.com/Fra_Angelico/Coronation_of_the_Virgin_(Detail)_1434_35.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,449 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.88406295
+        },
+        {
+          "mid": "/m/0hyb2",
+          "description": "altar",
+          "score": 0.83212507
+        },
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.6736331
+        },
+        {
+          "mid": "/m/0lym8",
+          "description": "tapestry",
+          "score": 0.5579361
+        },
+        {
+          "mid": "/m/0by3l3",
+          "description": "high priest",
+          "score": 0.53002596
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "ja",
+          "description": "痴\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 50,
+                "y": 351
+              },
+              {
+                "x": 83,
+                "y": 351
+              },
+              {
+                "x": 83,
+                "y": 386
+              },
+              {
+                "x": 50,
+                "y": 386
+              }
+            ]
+          }
+        },
+        {
+          "description": "痴",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 50,
+                "y": 385
+              },
+              {
+                "x": 51,
+                "y": 351
+              },
+              {
+                "x": 83,
+                "y": 352
+              },
+              {
+                "x": 82,
+                "y": 386
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 69,
+                "green": 78,
+                "blue": 133
+              },
+              "score": 0.16919318,
+              "pixelFraction": 0.011822737
+            },
+            {
+              "color": {
+                "red": 68,
+                "green": 81,
+                "blue": 111
+              },
+              "score": 0.10495293,
+              "pixelFraction": 0.013701848
+            },
+            {
+              "color": {
+                "red": 212,
+                "green": 193,
+                "blue": 162
+              },
+              "score": 0.057184342,
+              "pixelFraction": 0.06028813
+            },
+            {
+              "color": {
+                "red": 157,
+                "green": 110,
+                "blue": 66
+              },
+              "score": 0.036411628,
+              "pixelFraction": 0.082837455
+            },
+            {
+              "color": {
+                "red": 151,
+                "green": 148,
+                "blue": 187
+              },
+              "score": 0.001080001,
+              "pixelFraction": 0.00015659255
+            },
+            {
+              "color": {
+                "red": 44,
+                "green": 55,
+                "blue": 105
+              },
+              "score": 0.07551201,
+              "pixelFraction": 0.005167554
+            },
+            {
+              "color": {
+                "red": 42,
+                "green": 57,
+                "blue": 86
+              },
+              "score": 0.064518936,
+              "pixelFraction": 0.010804886
+            },
+            {
+              "color": {
+                "red": 173,
+                "green": 153,
+                "blue": 124
+              },
+              "score": 0.041365072,
+              "pixelFraction": 0.055981833
+            },
+            {
+              "color": {
+                "red": 63,
+                "green": 80,
+                "blue": 126
+              },
+              "score": 0.03701077,
+              "pixelFraction": 0.002896962
+            },
+            {
+              "color": {
+                "red": 242,
+                "green": 228,
+                "blue": 199
+              },
+              "score": 0.031149019,
+              "pixelFraction": 0.03217977
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 331
+                },
+                {
+                  "x": 331,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "ja"
+                }
+              ]
+            },
+            "width": 332,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "ja"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 51,
+                      "y": 351
+                    },
+                    {
+                      "x": 83,
+                      "y": 352
+                    },
+                    {
+                      "x": 81,
+                      "y": 386
+                    },
+                    {
+                      "x": 50,
+                      "y": 385
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "ja"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 50,
+                          "y": 351
+                        },
+                        {
+                          "x": 83,
+                          "y": 351
+                        },
+                        {
+                          "x": 83,
+                          "y": 386
+                        },
+                        {
+                          "x": 50,
+                          "y": 386
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "ja"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 50,
+                              "y": 385
+                            },
+                            {
+                              "x": 51,
+                              "y": 351
+                            },
+                            {
+                              "x": 83,
+                              "y": 352
+                            },
+                            {
+                              "x": 82,
+                              "y": 386
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "ja"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 50,
+                                  "y": 385
+                                },
+                                {
+                                  "x": 51,
+                                  "y": 351
+                                },
+                                {
+                                  "x": 83,
+                                  "y": 352
+                                },
+                                {
+                                  "x": 82,
+                                  "y": 386
+                                }
+                              ]
+                            },
+                            "text": "痴"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "痴\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0272rmj",
+            "score": 6.16672,
+            "description": "San Marco, Florence"
+          },
+          {
+            "entityId": "/g/12100_zb",
+            "score": 2.516,
+            "description": "Museo Nazionale di San Marco"
+          },
+          {
+            "entityId": "/g/1230jwk2",
+            "score": 1.43862,
+            "description": "Bosco ai Frati Altarpiece"
+          },
+          {
+            "entityId": "/g/120l2t44",
+            "score": 0.78452,
+            "description": "Convento Bosco ai Frati"
+          },
+          {
+            "entityId": "/m/05fmm4",
+            "score": 0.73372,
+            "description": "Sacra conversazione"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://www.wga.hu/art/a/angelico/12/60bosco.jpg"
+          },
+          {
+            "url": "http://3.bp.blogspot.com/-aR4yA0_N8rQ/UD4Q85PjORI/AAAAAAAAM-g/GGKwyI6fNrs/s1600/RETABLO+BOSCO+AI+FRATI.jpg"
+          },
+          {
+            "url": "http://i888.photobucket.com/albums/ac89/das_gift/Fra%20Angelico/60bosco.jpg"
+          },
+          {
+            "url": "http://s3.sinaimg.cn/mw690/a7f562f3gd2fa42dd8f72&690"
+          },
+          {
+            "url": "http://mblogthumb1.phinf.naver.net/20111124_256/wabool_1322114289318TqUBO_JPEG/6.bosco1.jpg?type=w2"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://www.outpost-art.org/images/Angelico%20Fra/Bosco%20ai%20Frati%20Altarpiece.jpg"
+          },
+          {
+            "url": "http://3.bp.blogspot.com/-nMxEQxAt6Cs/UGSqbMUeQZI/AAAAAAAAD7o/GoJNI7b1DyI/s1600/virgen+con+San+Cosme+y+Damian.jpg"
+          },
+          {
+            "url": "http://www.catholictradition.org/Saints/saints9-20.jpg"
+          },
+          {
+            "url": "http://upyourpic.org/images/201405/glyn2uy1p9.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/art/a/angelico/12/60bosco.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Fra_Angelico_-_Bosco_ai_Frati_Altarpiece_-_WGA00636.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/Category:Bosco_ai_Frati_Altarpiece_(Angelico)"
+          },
+          {
+            "url": "http://fraangelicostudio.yolasite.com/tvcabosco.php"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/496944140111793240/"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/423831014917420233/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://atesgulcugil.files.wordpress.com/2016/04/bosco-ai-frati-altarpiece-fra-angelico.jpg"
+          },
+          {
+            "url": "http://media.gettyimages.com/photos/bosco-ai-frati-altarpiece-by-fra-angelico-picture-id541243374?s=612x612"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/d2/7f/09/d27f09a22bdd4fc4134e2f1c639cbe3f.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Fra_Angelico_-_Bosco_ai_Frati_Altarpiece_-_WGA00636.jpg/240px-Fra_Angelico_-_Bosco_ai_Frati_Altarpiece_-_WGA00636.jpg"
+          },
+          {
+            "url": "http://m6.i.pbase.com/t9/48/619748/4/160675546.0AzTbIFG.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

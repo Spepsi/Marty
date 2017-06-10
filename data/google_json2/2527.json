@@ -1,0 +1,209 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.9404678
+        },
+        {
+          "mid": "/m/01spzs",
+          "description": "still life",
+          "score": 0.9366268
+        },
+        {
+          "mid": "/m/027_ny3",
+          "description": "still life photography",
+          "score": 0.88198423
+        },
+        {
+          "mid": "/m/02hcw1",
+          "description": "floristry",
+          "score": 0.688401
+        },
+        {
+          "mid": "/m/0ggjrhd",
+          "description": "flower arranging",
+          "score": 0.6795219
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 224,
+                "green": 197,
+                "blue": 144
+              },
+              "score": 0.14958866,
+              "pixelFraction": 0.005114083
+            },
+            {
+              "color": {
+                "red": 63,
+                "green": 48,
+                "blue": 26
+              },
+              "score": 0.14307685,
+              "pixelFraction": 0.13099921
+            },
+            {
+              "color": {
+                "red": 173,
+                "green": 158,
+                "blue": 126
+              },
+              "score": 0.08957214,
+              "pixelFraction": 0.02675059
+            },
+            {
+              "color": {
+                "red": 74,
+                "green": 42,
+                "blue": 26
+              },
+              "score": 0.08489225,
+              "pixelFraction": 0.037077103
+            },
+            {
+              "color": {
+                "red": 206,
+                "green": 190,
+                "blue": 154
+              },
+              "score": 0.08340213,
+              "pixelFraction": 0.0058025178
+            },
+            {
+              "color": {
+                "red": 186,
+                "green": 154,
+                "blue": 101
+              },
+              "score": 0.0665702,
+              "pixelFraction": 0.002458694
+            },
+            {
+              "color": {
+                "red": 93,
+                "green": 78,
+                "blue": 53
+              },
+              "score": 0.06267534,
+              "pixelFraction": 0.17633753
+            },
+            {
+              "color": {
+                "red": 131,
+                "green": 117,
+                "blue": 87
+              },
+              "score": 0.04936891,
+              "pixelFraction": 0.22688828
+            },
+            {
+              "color": {
+                "red": 107,
+                "green": 73,
+                "blue": 51
+              },
+              "score": 0.04382467,
+              "pixelFraction": 0.012588513
+            },
+            {
+              "color": {
+                "red": 244,
+                "green": 220,
+                "blue": 164
+              },
+              "score": 0.04378235,
+              "pixelFraction": 0.0013768686
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 264
+                },
+                {
+                  "y": 264
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/02xwb",
+            "score": 1.43604,
+            "description": "Fruit"
+          },
+          {
+            "entityId": "/m/0388q",
+            "score": 1.38278,
+            "description": "Grape"
+          },
+          {
+            "entityId": "/m/06gjp9",
+            "score": 1.1118869,
+            "description": "Floral design"
+          },
+          {
+            "entityId": "/m/0f8sw",
+            "score": 1.0202,
+            "description": "Cherry"
+          },
+          {
+            "entityId": "/m/01spzs",
+            "score": 0.51668125,
+            "description": "Still life"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://render.fineartamerica.com/images/rendered/search/print/images/artworkimages/medium/1/a-still-life-of-grapes-cherries-peaches-and-other-fruit-in-a-basket-with-a-rose-and-a-dragonfly-on-a-bartholomeus-assteyn.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://s020.radikal.ru/i719/1402/bc/68355515f42f.jpg"
+          },
+          {
+            "url": "http://img-fotki.yandex.ru/get/9836/118179955.3d7/0_bbd4a_b9401748_orig.jpg"
+          },
+          {
+            "url": "http://s018.radikal.ru/i518/1402/1b/b532e53e0f34.jpg"
+          },
+          {
+            "url": "http://img-fotki.yandex.ru/get/9092/96386024.184/0_db002_e7387bdb_XXL.jpg"
+          },
+          {
+            "url": "http://img-fotki.yandex.ru/get/9092/96386024.184/0_db002_e7387bdb_S.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

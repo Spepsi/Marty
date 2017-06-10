@@ -1,0 +1,437 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0hyb2",
+          "description": "altar",
+          "score": 0.7943887
+        },
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.725071
+        },
+        {
+          "mid": "/m/0djmp",
+          "description": "ancient history",
+          "score": 0.68719816
+        },
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.6701218
+        },
+        {
+          "mid": "/m/0f85g",
+          "description": "basilica",
+          "score": 0.58765477
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "zh",
+          "description": "要\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 74,
+                "y": 145
+              },
+              {
+                "x": 92,
+                "y": 145
+              },
+              {
+                "x": 92,
+                "y": 165
+              },
+              {
+                "x": 74,
+                "y": 165
+              }
+            ]
+          }
+        },
+        {
+          "description": "要",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 74,
+                "y": 165
+              },
+              {
+                "x": 74,
+                "y": 145
+              },
+              {
+                "x": 92,
+                "y": 145
+              },
+              {
+                "x": 92,
+                "y": 165
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 175,
+                "green": 152,
+                "blue": 128
+              },
+              "score": 0.12184177,
+              "pixelFraction": 0.0546875
+            },
+            {
+              "color": {
+                "red": 150,
+                "green": 113,
+                "blue": 92
+              },
+              "score": 0.106890924,
+              "pixelFraction": 0.09316196
+            },
+            {
+              "color": {
+                "red": 136,
+                "green": 116,
+                "blue": 98
+              },
+              "score": 0.10473552,
+              "pixelFraction": 0.0969422
+            },
+            {
+              "color": {
+                "red": 185,
+                "green": 146,
+                "blue": 123
+              },
+              "score": 0.091230325,
+              "pixelFraction": 0.022177419
+            },
+            {
+              "color": {
+                "red": 130,
+                "green": 117,
+                "blue": 110
+              },
+              "score": 0.068337046,
+              "pixelFraction": 0.14054099
+            },
+            {
+              "color": {
+                "red": 111,
+                "green": 77,
+                "blue": 60
+              },
+              "score": 0.05426447,
+              "pixelFraction": 0.07854503
+            },
+            {
+              "color": {
+                "red": 210,
+                "green": 182,
+                "blue": 153
+              },
+              "score": 0.053039566,
+              "pixelFraction": 0.015961021
+            },
+            {
+              "color": {
+                "red": 94,
+                "green": 83,
+                "blue": 78
+              },
+              "score": 0.05285568,
+              "pixelFraction": 0.14188509
+            },
+            {
+              "color": {
+                "red": 186,
+                "green": 151,
+                "blue": 101
+              },
+              "score": 0.052678853,
+              "pixelFraction": 0.004032258
+            },
+            {
+              "color": {
+                "red": 103,
+                "green": 84,
+                "blue": 68
+              },
+              "score": 0.04359366,
+              "pixelFraction": 0.06787635
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 308
+                },
+                {
+                  "x": 308,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "zh-Hans"
+                }
+              ]
+            },
+            "width": 309,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "zh-Hans"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 74,
+                      "y": 145
+                    },
+                    {
+                      "x": 92,
+                      "y": 145
+                    },
+                    {
+                      "x": 92,
+                      "y": 165
+                    },
+                    {
+                      "x": 74,
+                      "y": 165
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "zh-Hans"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 74,
+                          "y": 145
+                        },
+                        {
+                          "x": 92,
+                          "y": 145
+                        },
+                        {
+                          "x": 92,
+                          "y": 165
+                        },
+                        {
+                          "x": 74,
+                          "y": 165
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "zh-Hans"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 74,
+                              "y": 165
+                            },
+                            {
+                              "x": 74,
+                              "y": 145
+                            },
+                            {
+                              "x": 92,
+                              "y": 145
+                            },
+                            {
+                              "x": 92,
+                              "y": 165
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "zh-Hans"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 74,
+                                  "y": 165
+                                },
+                                {
+                                  "x": 74,
+                                  "y": 145
+                                },
+                                {
+                                  "x": 92,
+                                  "y": 145
+                                },
+                                {
+                                  "x": 92,
+                                  "y": 165
+                                }
+                              ]
+                            },
+                            "text": "要"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "要\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/01fsd9",
+            "score": 81.90848,
+            "description": "Santa Maria Novella"
+          },
+          {
+            "entityId": "/g/119vx03br",
+            "score": 1.25244
+          },
+          {
+            "entityId": "/g/1210xp_x",
+            "score": 0.88722
+          },
+          {
+            "entityId": "/m/02_3k",
+            "score": 0.70171,
+            "description": "Fresco"
+          },
+          {
+            "entityId": "/g/120yrpnw",
+            "score": 0.61538
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/77/f9/0d/77f90df21120d0741477875c67bb56a2.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/77/f9/0d/77f90df21120d0741477875c67bb56a2.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Andrea_di_Bonaiuto._Santa_Maria_Novella_1366-7_fresco_0014.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/art/a/andrea/firenze/spanish/4south1.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Andrea_di_Bonaiuto._Santa_Maria_Novella_1366-7_fresco_0014.jpg/744px-Andrea_di_Bonaiuto._Santa_Maria_Novella_1366-7_fresco_0014.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/09/07/f5/0907f5f44c44b21cde8f4737177a65cb.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/77/f9/0d/77f90df21120d0741477875c67bb56a2.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.wga.hu/frames-e.html?/html/a/andrea/firenze/spanish/index.html"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/527132331365309179/"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/23573598029763189/"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Andrea_di_Bonaiuto._Santa_Maria_Novella_1366-7_fresco_0014.jpg"
+          },
+          {
+            "url": "http://www.gettyimages.ae/photos/santa-maria-de-novella"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/77/f9/0d/77f90df21120d0741477875c67bb56a2.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/18/34/b8/1834b871b8221effcde944ba8731b9c0.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Andrea_di_Bonaiuto._Santa_Maria_Novella_1366-7_fresco_0012.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/f4/d1/1e/f4d11e20a05a303c00a0bb3c29ef4c56.jpg"
+          },
+          {
+            "url": "http://www.museumsinflorence.com/foto/santa%20maria%20novella/image/visitation.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

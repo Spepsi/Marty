@@ -1,0 +1,228 @@
+{
+  "responses": [
+    {
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 124,
+                "green": 72,
+                "blue": 32
+              },
+              "score": 0.15237789,
+              "pixelFraction": 0.06787635
+            },
+            {
+              "color": {
+                "red": 79,
+                "green": 42,
+                "blue": 23
+              },
+              "score": 0.118982546,
+              "pixelFraction": 0.12550403
+            },
+            {
+              "color": {
+                "red": 174,
+                "green": 107,
+                "blue": 37
+              },
+              "score": 0.080003284,
+              "pixelFraction": 0.017473118
+            },
+            {
+              "color": {
+                "red": 27,
+                "green": 17,
+                "blue": 16
+              },
+              "score": 0.024578733,
+              "pixelFraction": 0.26545697
+            },
+            {
+              "color": {
+                "red": 176,
+                "green": 152,
+                "blue": 124
+              },
+              "score": 0.014228859,
+              "pixelFraction": 0.006972446
+            },
+            {
+              "color": {
+                "red": 206,
+                "green": 139,
+                "blue": 55
+              },
+              "score": 0.07751728,
+              "pixelFraction": 0.023521505
+            },
+            {
+              "color": {
+                "red": 157,
+                "green": 102,
+                "blue": 53
+              },
+              "score": 0.073835045,
+              "pixelFraction": 0.05292339
+            },
+            {
+              "color": {
+                "red": 92,
+                "green": 45,
+                "blue": 12
+              },
+              "score": 0.06347291,
+              "pixelFraction": 0.030745968
+            },
+            {
+              "color": {
+                "red": 141,
+                "green": 57,
+                "blue": 28
+              },
+              "score": 0.04682274,
+              "pixelFraction": 0.031165995
+            },
+            {
+              "color": {
+                "red": 109,
+                "green": 68,
+                "blue": 45
+              },
+              "score": 0.045510765,
+              "pixelFraction": 0.048387095
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 308
+                },
+                {
+                  "x": 308,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0bx9mbn",
+            "score": 1.0466,
+            "description": "The Librarian"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.70915,
+            "description": "Painting"
+          },
+          {
+            "entityId": "/g/11b6gkmjry",
+            "score": 0.53258,
+            "description": "The Cook"
+          },
+          {
+            "entityId": "/m/01t15m",
+            "score": 0.39013,
+            "description": "Waiter"
+          },
+          {
+            "entityId": "/m/05nmd",
+            "score": 0.33472,
+            "description": "Oil painting"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://pt.artsdot.com/ADC/Art-ImgScreen-1.nsf/O/A-8XZ9DX/$FILE/Giuseppe_arcimboldo-the_waiter.Jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/7c/9d/a5/7c9da5250ba984b42fba24f3acd0b2d5.jpg"
+          },
+          {
+            "url": "https://biblioklept.files.wordpress.com/2015/12/4waiter.jpg"
+          },
+          {
+            "url": "http://1.bp.blogspot.com/-JPJnxWIiuDw/U39RgBOqyrI/AAAAAAAAEIg/R3SVndL3-8w/s1600/Giuseppe_Arcimboldo_-_The_Waiter_-_WGA0835.jpg"
+          },
+          {
+            "url": "http://4.bp.blogspot.com/-YJNglu2RXkI/VGzEOHXd-MI/AAAAAAAAL6c/_YrqJzZkieY/s1600/the%2Bwaiter%2B1574%2BGuiseppe%2BArcimboldo%2Bprivate%2Bcollection.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://pt.artsdot.com/ADC/Art-ImgScreen-1.nsf/O/A-8XZ9DX/$FILE/Giuseppe_arcimboldo-the_waiter.Jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/7c/9d/a5/7c9da5250ba984b42fba24f3acd0b2d5.jpg"
+          },
+          {
+            "url": "https://biblioklept.files.wordpress.com/2015/12/4waiter.jpg"
+          },
+          {
+            "url": "http://1.bp.blogspot.com/-JPJnxWIiuDw/U39RgBOqyrI/AAAAAAAAEIg/R3SVndL3-8w/s1600/Giuseppe_Arcimboldo_-_The_Waiter_-_WGA0835.jpg"
+          },
+          {
+            "url": "http://4.bp.blogspot.com/-YJNglu2RXkI/VGzEOHXd-MI/AAAAAAAAL6c/_YrqJzZkieY/s1600/the%2Bwaiter%2B1574%2BGuiseppe%2BArcimboldo%2Bprivate%2Bcollection.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.wga.hu/html_m/a/arcimbol/4composi/4waiter.html"
+          },
+          {
+            "url": "https://en.wikipedia.org/wiki/Giuseppe_Arcimboldo"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Giuseppe_Arcimboldo_-_The_Waiter_-_WGA0835.jpg"
+          },
+          {
+            "url": "https://biblioklept.org/2015/12/19/the-waiter-giuseppe-arcimboldo/"
+          },
+          {
+            "url": "http://www.the-athenaeum.org/art/detail.php?ID=162123"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://wahooart.com/ADC/Art-ImgScreen-1.nsf/O/A-8XZ9DX/$FILE/Giuseppe_arcimboldo-the_waiter.Jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/92/b9/b6/92b9b6c1b1f7b4a310cd59cdc56991fc.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/45/ba/ec/45baec2fa7739b0229b48ae9cf495fff.jpg"
+          },
+          {
+            "url": "http://www.giuseppe-arcimboldo.org/104013/The-Cook-large.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/aa/75/13/aa7513c9fd03205b406ff9ea7ea24af9.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

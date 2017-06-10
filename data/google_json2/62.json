@@ -1,0 +1,209 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.7104537
+        },
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.635818
+        },
+        {
+          "mid": "/m/06msq",
+          "description": "sculpture",
+          "score": 0.55583495
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 217,
+                "green": 223,
+                "blue": 242
+              },
+              "score": 0.5022659,
+              "pixelFraction": 0.10706057
+            },
+            {
+              "color": {
+                "red": 219,
+                "green": 223,
+                "blue": 232
+              },
+              "score": 0.17162488,
+              "pixelFraction": 0.04361422
+            },
+            {
+              "color": {
+                "red": 200,
+                "green": 202,
+                "blue": 208
+              },
+              "score": 0.16838188,
+              "pixelFraction": 0.12072087
+            },
+            {
+              "color": {
+                "red": 202,
+                "green": 208,
+                "blue": 227
+              },
+              "score": 0.04827325,
+              "pixelFraction": 0.014812376
+            },
+            {
+              "color": {
+                "red": 161,
+                "green": 156,
+                "blue": 155
+              },
+              "score": 0.03872805,
+              "pixelFraction": 0.15931533
+            },
+            {
+              "color": {
+                "red": 124,
+                "green": 116,
+                "blue": 114
+              },
+              "score": 0.031643678,
+              "pixelFraction": 0.18564846
+            },
+            {
+              "color": {
+                "red": 93,
+                "green": 84,
+                "blue": 82
+              },
+              "score": 0.021568423,
+              "pixelFraction": 0.17421001
+            },
+            {
+              "color": {
+                "red": 61,
+                "green": 53,
+                "blue": 52
+              },
+              "score": 0.0071961363,
+              "pixelFraction": 0.149605
+            },
+            {
+              "color": {
+                "red": 136,
+                "green": 117,
+                "blue": 102
+              },
+              "score": 0.0023503958,
+              "pixelFraction": 0.013742594
+            },
+            {
+              "color": {
+                "red": 106,
+                "green": 77,
+                "blue": 76
+              },
+              "score": 0.0020376658,
+              "pixelFraction": 0.0033739302
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 314
+                },
+                {
+                  "x": 314,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/g/15dpk5pw",
+            "score": 3.19768,
+            "description": "Bianchi - Bandinelli Palace"
+          },
+          {
+            "entityId": "/m/079yb",
+            "score": 0.636192,
+            "description": "Siena"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.5149424,
+            "description": "Painting"
+          },
+          {
+            "entityId": "/m/06msq",
+            "score": 0.40525725,
+            "description": "Sculpture"
+          },
+          {
+            "entityId": "/m/04nym",
+            "score": 0.40473,
+            "description": "Lithography"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://68.media.tumblr.com/6ad7f39687632c3728f038ceed1df8a8/tumblr_nic4ax91UO1qb5e7io1_500.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://68.media.tumblr.com/6ad7f39687632c3728f038ceed1df8a8/tumblr_nic4ax91UO1qb5e7io1_500.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://athousandwinds.tumblr.com/page/36"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://pbs.twimg.com/media/C7MmaHjXwAAiSgB.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Santa_maria_a_monte%2C_chiesa_di_s._giovanni%2C_affreschi_di_luigi_ademollo_02.JPG/916px-Santa_maria_a_monte%2C_chiesa_di_s._giovanni%2C_affreschi_di_luigi_ademollo_02.JPG"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Santa_maria_a_monte%2C_chiesa_di_s._giovanni%2C_affreschi_di_luigi_ademollo_01.JPG"
+          },
+          {
+            "url": "http://media.gettyimages.com/photos/entry-of-christ-into-jerusalem-fresco-by-luigi-ademollo-palatine-picture-id157412470"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Sant%27andrea_a_rovezzano%2C_int.%2C_crocifisso_del_XVI_sec_sullo_sfondo_degli_affreschi_di_luigi_ademollo.JPG"
+          }
+        ]
+      }
+    }
+  ]
+}

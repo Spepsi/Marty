@@ -1,0 +1,444 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09g5pq",
+          "description": "people",
+          "score": 0.9202435
+        },
+        {
+          "mid": "/m/01g317",
+          "description": "person",
+          "score": 0.8981902
+        },
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.64467126
+        },
+        {
+          "mid": "/m/04zhd",
+          "description": "mythology",
+          "score": 0.55384284
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "zh",
+          "description": "变\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 245,
+                "y": 149
+              },
+              {
+                "x": 253,
+                "y": 149
+              },
+              {
+                "x": 253,
+                "y": 168
+              },
+              {
+                "x": 245,
+                "y": 168
+              }
+            ]
+          }
+        },
+        {
+          "description": "变",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 247,
+                "y": 168
+              },
+              {
+                "x": 245,
+                "y": 149
+              },
+              {
+                "x": 251,
+                "y": 149
+              },
+              {
+                "x": 253,
+                "y": 167
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 150,
+                "green": 110,
+                "blue": 91
+              },
+              "score": 0.1818966,
+              "pixelFraction": 0.089889854
+            },
+            {
+              "color": {
+                "red": 62,
+                "green": 48,
+                "blue": 44
+              },
+              "score": 0.022557799,
+              "pixelFraction": 0.25835955
+            },
+            {
+              "color": {
+                "red": 114,
+                "green": 75,
+                "blue": 60
+              },
+              "score": 0.16867617,
+              "pixelFraction": 0.11998426
+            },
+            {
+              "color": {
+                "red": 187,
+                "green": 144,
+                "blue": 119
+              },
+              "score": 0.12064947,
+              "pixelFraction": 0.042781275
+            },
+            {
+              "color": {
+                "red": 79,
+                "green": 46,
+                "blue": 33
+              },
+              "score": 0.07591159,
+              "pixelFraction": 0.065892994
+            },
+            {
+              "color": {
+                "red": 180,
+                "green": 152,
+                "blue": 125
+              },
+              "score": 0.04644909,
+              "pixelFraction": 0.01839103
+            },
+            {
+              "color": {
+                "red": 224,
+                "green": 181,
+                "blue": 154
+              },
+              "score": 0.044608224,
+              "pixelFraction": 0.00481904
+            },
+            {
+              "color": {
+                "red": 218,
+                "green": 188,
+                "blue": 156
+              },
+              "score": 0.041798733,
+              "pixelFraction": 0.008261211
+            },
+            {
+              "color": {
+                "red": 136,
+                "green": 112,
+                "blue": 91
+              },
+              "score": 0.034945074,
+              "pixelFraction": 0.02802911
+            },
+            {
+              "color": {
+                "red": 103,
+                "green": 81,
+                "blue": 64
+              },
+              "score": 0.03144509,
+              "pixelFraction": 0.044059794
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 262
+                },
+                {
+                  "y": 262
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "zh-Hans"
+                }
+              ]
+            },
+            "width": 400,
+            "height": 263,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "zh-Hans"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 245,
+                      "y": 149
+                    },
+                    {
+                      "x": 251,
+                      "y": 148
+                    },
+                    {
+                      "x": 253,
+                      "y": 167
+                    },
+                    {
+                      "x": 247,
+                      "y": 168
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "zh-Hans"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 245,
+                          "y": 149
+                        },
+                        {
+                          "x": 253,
+                          "y": 149
+                        },
+                        {
+                          "x": 253,
+                          "y": 168
+                        },
+                        {
+                          "x": 245,
+                          "y": 168
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "zh-Hans"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 247,
+                              "y": 168
+                            },
+                            {
+                              "x": 245,
+                              "y": 149
+                            },
+                            {
+                              "x": 251,
+                              "y": 149
+                            },
+                            {
+                              "x": 253,
+                              "y": 167
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "zh-Hans"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 247,
+                                  "y": 168
+                                },
+                                {
+                                  "x": 245,
+                                  "y": 149
+                                },
+                                {
+                                  "x": 251,
+                                  "y": 149
+                                },
+                                {
+                                  "x": 253,
+                                  "y": 167
+                                }
+                              ]
+                            },
+                            "text": "变"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "变\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0707n9",
+            "score": 1.57652,
+            "description": "Städel"
+          },
+          {
+            "entityId": "/m/064m90s",
+            "score": 1.31848,
+            "description": "Christ and the Woman Taken in Adultery"
+          },
+          {
+            "entityId": "/m/06cvx",
+            "score": 0.76332,
+            "description": "Renaissance"
+          },
+          {
+            "entityId": "/m/08b23",
+            "score": 0.6365,
+            "description": "16th century"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.6206722,
+            "description": "Painting"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://lh6.googleusercontent.com/-rGgJQko8CaE/TyRQk-TytjI/AAAAAAAAEXg/DbBpofiktxw/w1126-h783/AERTSEN%252C%2BPieter%2B-%2BMarket%2BScene%2Bwith%2BChrist%2Band%2Bthe%2BAdulteress%252C%2B1559.jpg"
+          },
+          {
+            "url": "http://www.carrotmuseum.co.uk/art/christ-adulteresslge.jpg"
+          },
+          {
+            "url": "http://artthis.org/history/f_1500-1599/Christ%20and%20the%20Adulteress%20Aertsen,%20Pieter%201559.jpg"
+          },
+          {
+            "url": "http://2.bp.blogspot.com/-_nt9mG4Edu8/UNRad0AWpCI/AAAAAAAAGwY/TS0cdqsgdJ8/s1600/Pieter+Aertsen--Christ+and+the+Adulteress.1559.jpg"
+          },
+          {
+            "url": "https://parksandgardensuk.files.wordpress.com/2015/10/christ_a.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/1559_Aertsen_Marktstueck_mit_Christus_und_der_Ehebrecherin_anagoria.JPG"
+          },
+          {
+            "url": "http://www.zeno.org/Kunstwerke.images/I/sch026.jpg"
+          },
+          {
+            "url": "https://oudemeesterschilderijen.files.wordpress.com/2013/06/aertsen-christ-adulteress-1552.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/1559_Aertsen_Marktstueck_mit_Christus_und_der_Ehebrecherin_anagoria.JPG/1280px-1559_Aertsen_Marktstueck_mit_Christus_und_der_Ehebrecherin_anagoria.JPG"
+          },
+          {
+            "url": "https://lh6.googleusercontent.com/-rGgJQko8CaE/TyRQk-TytjI/AAAAAAAAEXg/DbBpofiktxw/w1126-h783/AERTSEN%252C%2BPieter%2B-%2BMarket%2BScene%2Bwith%2BChrist%2Band%2Bthe%2BAdulteress%252C%2B1559.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.the-athenaeum.org/art/list.php?m=a&s=tu&aid=6014"
+          },
+          {
+            "url": "http://www.artbible.info/art/work/pieter-aertsen"
+          },
+          {
+            "url": "http://www.artbible.info/art/large/687.html"
+          },
+          {
+            "url": "https://www.wikiart.org/en/pieter-aertsen"
+          },
+          {
+            "url": "http://www.wga.hu/html_m/a/aertsen/christ_a.html"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Pieter_Aertsen_Christ_and_the_Adulteress.jpg/320px-Pieter_Aertsen_Christ_and_the_Adulteress.jpg"
+          },
+          {
+            "url": "http://artknowledgenews.com/files2008/PieterAertsenMarktstueck.jpg"
+          },
+          {
+            "url": "http://www.amysartgallery.com/SamplePaintings/Figure/F1903.jpg"
+          },
+          {
+            "url": "http://theredlist.com/media/database/fine_arts/arthistory/painting/xix/manierisme/pieter_aersten/002-pieter-aersten-theredlist.jpg"
+          },
+          {
+            "url": "http://www.sightswithin.com/Pieter.Aertsen/De_eierdans_(1557).jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

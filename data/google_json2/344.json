@@ -1,0 +1,460 @@
+{
+  "responses": [
+    {
+      "logoAnnotations": [
+        {
+          "description": "Holy Night (Nativity)",
+          "score": 0.9365428,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 7,
+                "y": 29
+              },
+              {
+                "x": 264,
+                "y": 29
+              },
+              {
+                "x": 264,
+                "y": 376
+              },
+              {
+                "x": 7,
+                "y": 376
+              }
+            ]
+          }
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/01zbnw",
+          "description": "screenshot",
+          "score": 0.61481327
+        },
+        {
+          "mid": "/m/04tr8s",
+          "description": "pc game",
+          "score": 0.594907
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "zh-Hant",
+          "description": "巹\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 65,
+                "y": 110
+              },
+              {
+                "x": 79,
+                "y": 110
+              },
+              {
+                "x": 79,
+                "y": 123
+              },
+              {
+                "x": 65,
+                "y": 123
+              }
+            ]
+          }
+        },
+        {
+          "description": "巹",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 77,
+                "y": 124
+              },
+              {
+                "x": 65,
+                "y": 122
+              },
+              {
+                "x": 67,
+                "y": 111
+              },
+              {
+                "x": 79,
+                "y": 113
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 117,
+                "green": 74,
+                "blue": 57
+              },
+              "score": 0.27238235,
+              "pixelFraction": 0.083776094
+            },
+            {
+              "color": {
+                "red": 213,
+                "green": 193,
+                "blue": 137
+              },
+              "score": 0.038301572,
+              "pixelFraction": 0.00882353
+            },
+            {
+              "color": {
+                "red": 21,
+                "green": 14,
+                "blue": 15
+              },
+              "score": 0.034737803,
+              "pixelFraction": 0.42296016
+            },
+            {
+              "color": {
+                "red": 151,
+                "green": 107,
+                "blue": 86
+              },
+              "score": 0.13191284,
+              "pixelFraction": 0.048197344
+            },
+            {
+              "color": {
+                "red": 81,
+                "green": 44,
+                "blue": 29
+              },
+              "score": 0.121762484,
+              "pixelFraction": 0.0674573
+            },
+            {
+              "color": {
+                "red": 187,
+                "green": 143,
+                "blue": 115
+              },
+              "score": 0.07563792,
+              "pixelFraction": 0.016698292
+            },
+            {
+              "color": {
+                "red": 159,
+                "green": 106,
+                "blue": 68
+              },
+              "score": 0.03579974,
+              "pixelFraction": 0.020018976
+            },
+            {
+              "color": {
+                "red": 134,
+                "green": 115,
+                "blue": 91
+              },
+              "score": 0.035351474,
+              "pixelFraction": 0.020967742
+            },
+            {
+              "color": {
+                "red": 171,
+                "green": 151,
+                "blue": 122
+              },
+              "score": 0.029703556,
+              "pixelFraction": 0.008064516
+            },
+            {
+              "color": {
+                "red": 99,
+                "green": 79,
+                "blue": 57
+              },
+              "score": 0.02684238,
+              "pixelFraction": 0.037001897
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 272
+                },
+                {
+                  "x": 272,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "zh-Hant"
+                }
+              ]
+            },
+            "width": 273,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "zh-Hant"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 65,
+                      "y": 122
+                    },
+                    {
+                      "x": 67,
+                      "y": 111
+                    },
+                    {
+                      "x": 79,
+                      "y": 113
+                    },
+                    {
+                      "x": 77,
+                      "y": 124
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "zh-Hant"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 65,
+                          "y": 110
+                        },
+                        {
+                          "x": 79,
+                          "y": 110
+                        },
+                        {
+                          "x": 79,
+                          "y": 123
+                        },
+                        {
+                          "x": 65,
+                          "y": 123
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "zh-Hant"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 77,
+                              "y": 124
+                            },
+                            {
+                              "x": 65,
+                              "y": 122
+                            },
+                            {
+                              "x": 67,
+                              "y": 111
+                            },
+                            {
+                              "x": 79,
+                              "y": 113
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "zh-Hant"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 77,
+                                  "y": 124
+                                },
+                                {
+                                  "x": 65,
+                                  "y": 122
+                                },
+                                {
+                                  "x": 67,
+                                  "y": 111
+                                },
+                                {
+                                  "x": 79,
+                                  "y": 113
+                                }
+                              ]
+                            },
+                            "text": "巹"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "巹\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/g/11cktgslkv",
+            "score": 0.81486,
+            "description": "Holy Night (Nativity)"
+          },
+          {
+            "entityId": "/m/01mqhm",
+            "score": 0.73006,
+            "description": "Nativity of Jesus"
+          },
+          {
+            "entityId": "/m/06cvx",
+            "score": 0.6113,
+            "description": "Renaissance"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.45114,
+            "description": "Painting"
+          },
+          {
+            "entityId": "/m/01vq3",
+            "score": 0.39229,
+            "description": "Christmas Day"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://the-creative-business.com/wp-content/uploads/2014/12/411px-Albrecht_Altdorfer_-_Nativity_-_WGA0211.jpg"
+          },
+          {
+            "url": "http://1.bp.blogspot.com/_V0RJF7pez9M/TRPEr2F2EXI/AAAAAAAADqo/Juj6BAJzOzA/s400/ALTDORFER%252C+Albrecht%252C+Berlin+1513.jpg"
+          },
+          {
+            "url": "https://anthologio.files.wordpress.com/2012/12/altdorfer252calbrecht252cberlin1513.jpg?w=219&h=320"
+          },
+          {
+            "url": "http://www.wga.hu/detail_s/a/altdorfe/2/03nativi.jpg"
+          },
+          {
+            "url": "http://art.pro.tok2.com/A/Altdorfer/014[1].jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://www.zeno.org/Kunstwerke.images/I/04m0005a.jpg"
+          },
+          {
+            "url": "http://www.malerei-meisterwerke.de/images_large/albrecht-altdorfer-heilige-nacht-(geburt-christi)-00056.jpg"
+          },
+          {
+            "url": "http://imgfile.367art.net/uploads/allpainting2/c110922/131B3S3591D0-219E.jpg"
+          },
+          {
+            "url": "http://www.art-kingdom.com/upload/353665.jpg"
+          },
+          {
+            "url": "http://uploads4.wikiart.org/images/albrecht-altdorfer/holy-night-nativity-1511.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://www.wikiart.org/en/albrecht-altdorfer/holy-night-nativity-1511"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=Hyco9jLZ2uY"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Albrecht_Altdorfer_-_Nativity.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/html_m/a/altdorfe/2/03nativi.html"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Albrecht_Altdorfer_-_Nativity_-_WGA0211.jpg"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/5a/a0/fe/5aa0fe38ae13880973053a70f7df4a5e.jpg"
+          },
+          {
+            "url": "http://media.gettyimages.com/illustrations/holy-night-15201525-by-albrecht-altdorfer-illustration-id153048877?s=170667a"
+          },
+          {
+            "url": "https://quadernipoesia.files.wordpress.com/2015/01/albrecht-altdorfer-nativity-rovine.jpg?w=510"
+          },
+          {
+            "url": "http://media.gettyimages.com/photos/st-florian-taking-leave-of-the-monastery-by-albrecht-altdorfer-picture-id148278816?s=612x612"
+          },
+          {
+            "url": "http://uploads2.wikiart.org/images/albrecht-altdorfer/resurrection-of-christ.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,888 @@
+{
+  "responses": [
+    {
+      "faceAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 89,
+                "y": 77
+              },
+              {
+                "x": 156,
+                "y": 77
+              },
+              {
+                "x": 156,
+                "y": 155
+              },
+              {
+                "x": 89,
+                "y": 155
+              }
+            ]
+          },
+          "fdBoundingPoly": {
+            "vertices": [
+              {
+                "x": 95,
+                "y": 101
+              },
+              {
+                "x": 149,
+                "y": 101
+              },
+              {
+                "x": 149,
+                "y": 154
+              },
+              {
+                "x": 95,
+                "y": 154
+              }
+            ]
+          },
+          "landmarks": [
+            {
+              "type": "LEFT_EYE",
+              "position": {
+                "x": 106.755615,
+                "y": 123.20051,
+                "z": -0.00014735563
+              }
+            },
+            {
+              "type": "RIGHT_EYE",
+              "position": {
+                "x": 123.88938,
+                "y": 116.67658,
+                "z": -5.9600196
+              }
+            },
+            {
+              "type": "LEFT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 98.948425,
+                "y": 120.88816,
+                "z": 2.8699827
+              }
+            },
+            {
+              "type": "RIGHT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 108.51026,
+                "y": 118.45344,
+                "z": -6.2823353
+              }
+            },
+            {
+              "type": "LEFT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 117.35303,
+                "y": 115.152756,
+                "z": -9.292495
+              }
+            },
+            {
+              "type": "RIGHT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 129.29657,
+                "y": 109.13329,
+                "z": -7.529122
+              }
+            },
+            {
+              "type": "MIDPOINT_BETWEEN_EYES",
+              "position": {
+                "x": 114.20712,
+                "y": 119.0205,
+                "z": -7.429393
+              }
+            },
+            {
+              "type": "NOSE_TIP",
+              "position": {
+                "x": 118.4734,
+                "y": 132.98927,
+                "z": -10.234946
+              }
+            },
+            {
+              "type": "UPPER_LIP",
+              "position": {
+                "x": 122.690414,
+                "y": 137.91135,
+                "z": -4.169772
+              }
+            },
+            {
+              "type": "LOWER_LIP",
+              "position": {
+                "x": 125.55404,
+                "y": 143.1638,
+                "z": -1.4357513
+              }
+            },
+            {
+              "type": "MOUTH_LEFT",
+              "position": {
+                "x": 118.14914,
+                "y": 141.60594,
+                "z": 3.8489866
+              }
+            },
+            {
+              "type": "MOUTH_RIGHT",
+              "position": {
+                "x": 131.06902,
+                "y": 136.13673,
+                "z": -1.0139514
+              }
+            },
+            {
+              "type": "MOUTH_CENTER",
+              "position": {
+                "x": 124.13031,
+                "y": 140.3557,
+                "z": -2.0754766
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_RIGHT",
+              "position": {
+                "x": 125.17883,
+                "y": 131.28387,
+                "z": -4.2197104
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_LEFT",
+              "position": {
+                "x": 116.06445,
+                "y": 134.16257,
+                "z": -0.9038903
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_CENTER",
+              "position": {
+                "x": 121.23707,
+                "y": 134.93929,
+                "z": -5.060872
+              }
+            },
+            {
+              "type": "LEFT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 105.82496,
+                "y": 122.56207,
+                "z": -1.4937873
+              }
+            },
+            {
+              "type": "LEFT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 110.63069,
+                "y": 122.026726,
+                "z": -1.1096675
+              }
+            },
+            {
+              "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 107.3429,
+                "y": 124.48554,
+                "z": 0.17694966
+              }
+            },
+            {
+              "type": "LEFT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 103.48437,
+                "y": 124.259705,
+                "z": 3.0603998
+              }
+            },
+            {
+              "type": "LEFT_EYE_PUPIL",
+              "position": {
+                "x": 106.30772,
+                "y": 123.64012,
+                "z": -0.25559396
+              }
+            },
+            {
+              "type": "RIGHT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 123.95544,
+                "y": 115.47808,
+                "z": -7.742898
+              }
+            },
+            {
+              "type": "RIGHT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 128.76094,
+                "y": 114.42039,
+                "z": -5.654471
+              }
+            },
+            {
+              "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 124.949875,
+                "y": 117.93384,
+                "z": -5.9916515
+              }
+            },
+            {
+              "type": "RIGHT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 121.294655,
+                "y": 117.58698,
+                "z": -4.8397617
+              }
+            },
+            {
+              "type": "RIGHT_EYE_PUPIL",
+              "position": {
+                "x": 124.91521,
+                "y": 116.383705,
+                "z": -6.6914454
+              }
+            },
+            {
+              "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 102.3698,
+                "y": 117.92226,
+                "z": -3.4403856
+              }
+            },
+            {
+              "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 122.05564,
+                "y": 110.23563,
+                "z": -10.221583
+              }
+            },
+            {
+              "type": "LEFT_EAR_TRAGION",
+              "position": {
+                "x": 104.33124,
+                "y": 128.81966,
+                "z": 29.568495
+              }
+            },
+            {
+              "type": "RIGHT_EAR_TRAGION",
+              "position": {
+                "x": 145.53537,
+                "y": 112.69687,
+                "z": 15.419034
+              }
+            },
+            {
+              "type": "FOREHEAD_GLABELLA",
+              "position": {
+                "x": 112.67574,
+                "y": 116.75084,
+                "z": -8.545471
+              }
+            },
+            {
+              "type": "CHIN_GNATHION",
+              "position": {
+                "x": 129.9678,
+                "y": 150.78459,
+                "z": 3.3334546
+              }
+            },
+            {
+              "type": "CHIN_LEFT_GONION",
+              "position": {
+                "x": 110.154816,
+                "y": 142.30086,
+                "z": 23.962053
+              }
+            },
+            {
+              "type": "CHIN_RIGHT_GONION",
+              "position": {
+                "x": 147.40892,
+                "y": 127.70958,
+                "z": 11.12993
+              }
+            }
+          ],
+          "rollAngle": -25.360222,
+          "panAngle": -18.204039,
+          "tiltAngle": -12.234157,
+          "detectionConfidence": 0.85869646,
+          "landmarkingConfidence": 0.60635763,
+          "joyLikelihood": "VERY_UNLIKELY",
+          "sorrowLikelihood": "VERY_UNLIKELY",
+          "angerLikelihood": "VERY_UNLIKELY",
+          "surpriseLikelihood": "VERY_UNLIKELY",
+          "underExposedLikelihood": "VERY_UNLIKELY",
+          "blurredLikelihood": "VERY_UNLIKELY",
+          "headwearLikelihood": "VERY_UNLIKELY"
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.8231363
+        },
+        {
+          "mid": "/m/04zhd",
+          "description": "mythology",
+          "score": 0.65618896
+        },
+        {
+          "mid": "/m/012h24",
+          "description": "comics",
+          "score": 0.5424536
+        },
+        {
+          "mid": "/m/01spzs",
+          "description": "still life",
+          "score": 0.5118079
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "zh-Hant",
+          "description": "騮Aa\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 299,
+                "y": 2
+              },
+              {
+                "x": 311,
+                "y": 2
+              },
+              {
+                "x": 311,
+                "y": 38
+              },
+              {
+                "x": 299,
+                "y": 38
+              }
+            ]
+          }
+        },
+        {
+          "description": "騮",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 299,
+                "y": 25
+              },
+              {
+                "x": 311,
+                "y": 25
+              },
+              {
+                "x": 311,
+                "y": 38
+              },
+              {
+                "x": 299,
+                "y": 38
+              }
+            ]
+          }
+        },
+        {
+          "description": "Aa",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 300,
+                "y": 2
+              },
+              {
+                "x": 310,
+                "y": 2
+              },
+              {
+                "x": 310,
+                "y": 22
+              },
+              {
+                "x": 300,
+                "y": 22
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 62,
+                "green": 49,
+                "blue": 31
+              },
+              "score": 0.22647819,
+              "pixelFraction": 0.17468783
+            },
+            {
+              "color": {
+                "red": 28,
+                "green": 26,
+                "blue": 18
+              },
+              "score": 0.097074434,
+              "pixelFraction": 0.118366286
+            },
+            {
+              "color": {
+                "red": 95,
+                "green": 80,
+                "blue": 59
+              },
+              "score": 0.15657039,
+              "pixelFraction": 0.12662591
+            },
+            {
+              "color": {
+                "red": 54,
+                "green": 48,
+                "blue": 40
+              },
+              "score": 0.09106274,
+              "pixelFraction": 0.10691988
+            },
+            {
+              "color": {
+                "red": 132,
+                "green": 115,
+                "blue": 89
+              },
+              "score": 0.08142503,
+              "pixelFraction": 0.06900364
+            },
+            {
+              "color": {
+                "red": 39,
+                "green": 29,
+                "blue": 12
+              },
+              "score": 0.07176665,
+              "pixelFraction": 0.056581687
+            },
+            {
+              "color": {
+                "red": 173,
+                "green": 153,
+                "blue": 124
+              },
+              "score": 0.053391516,
+              "pixelFraction": 0.047671694
+            },
+            {
+              "color": {
+                "red": 211,
+                "green": 190,
+                "blue": 158
+              },
+              "score": 0.04315494,
+              "pixelFraction": 0.036745578
+            },
+            {
+              "color": {
+                "red": 74,
+                "green": 44,
+                "blue": 26
+              },
+              "score": 0.03921612,
+              "pixelFraction": 0.030957336
+            },
+            {
+              "color": {
+                "red": 107,
+                "green": 73,
+                "blue": 53
+              },
+              "score": 0.020290442,
+              "pixelFraction": 0.028550988
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 398
+                },
+                {
+                  "y": 398
+                }
+              ]
+            },
+            "confidence": 1,
+            "importanceFraction": 0.55
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "zh-Hant"
+                }
+              ]
+            },
+            "width": 400,
+            "height": 399,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "zh-Hant"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 299,
+                      "y": 2
+                    },
+                    {
+                      "x": 311,
+                      "y": 2
+                    },
+                    {
+                      "x": 311,
+                      "y": 38
+                    },
+                    {
+                      "x": 299,
+                      "y": 38
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "zh-Hant"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 299,
+                          "y": 2
+                        },
+                        {
+                          "x": 311,
+                          "y": 2
+                        },
+                        {
+                          "x": 311,
+                          "y": 38
+                        },
+                        {
+                          "x": 299,
+                          "y": 38
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "zh-Hant"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 299,
+                              "y": 25
+                            },
+                            {
+                              "x": 311,
+                              "y": 25
+                            },
+                            {
+                              "x": 311,
+                              "y": 38
+                            },
+                            {
+                              "x": 299,
+                              "y": 38
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "zh-Hant"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 299,
+                                  "y": 25
+                                },
+                                {
+                                  "x": 311,
+                                  "y": 25
+                                },
+                                {
+                                  "x": 311,
+                                  "y": 38
+                                },
+                                {
+                                  "x": 299,
+                                  "y": 38
+                                }
+                              ]
+                            },
+                            "text": "騮"
+                          }
+                        ]
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "gd"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 300,
+                              "y": 2
+                            },
+                            {
+                              "x": 310,
+                              "y": 2
+                            },
+                            {
+                              "x": 310,
+                              "y": 22
+                            },
+                            {
+                              "x": 300,
+                              "y": 22
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "zh-Hant"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 300,
+                                  "y": 13
+                                },
+                                {
+                                  "x": 310,
+                                  "y": 13
+                                },
+                                {
+                                  "x": 310,
+                                  "y": 22
+                                },
+                                {
+                                  "x": 300,
+                                  "y": 22
+                                }
+                              ]
+                            },
+                            "text": "A"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "zh-Hant"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 300,
+                                  "y": 2
+                                },
+                                {
+                                  "x": 310,
+                                  "y": 2
+                                },
+                                {
+                                  "x": 310,
+                                  "y": 11
+                                },
+                                {
+                                  "x": 300,
+                                  "y": 11
+                                }
+                              ]
+                            },
+                            "text": "a"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "騮Aa\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0f4s2w",
+            "score": 1.45598,
+            "description": "Vegetable"
+          },
+          {
+            "entityId": "/m/021c0j",
+            "score": 1.42784,
+            "description": "Pieter Aertsen"
+          },
+          {
+            "entityId": "/m/04rjz",
+            "score": 0.7872,
+            "description": "Middle Ages"
+          },
+          {
+            "entityId": "/m/06cvx",
+            "score": 0.77182,
+            "description": "Renaissance"
+          },
+          {
+            "entityId": "/m/08b23",
+            "score": 0.6962,
+            "description": "16th century"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://kentpoi.co.uk/shopping-centres/markets/files/stacks_image_2306.jpg"
+          },
+          {
+            "url": "https://oudemeesterschilderijen.files.wordpress.com/2013/06/aertsen-market-woman-with-vegetable-stall-1567.jpg"
+          },
+          {
+            "url": "http://www.elite-paintings.com/w/10/AbyC/Holland/AERTSEN_Pieter_Market_Woman_With_Vegetable_Stall_artist_painting_reproduction_handmade_oil_canvas_or_print_art_deco.jpg"
+          },
+          {
+            "url": "http://image.hnol.net/c/2013-12/17/17/201312171732174331-513051.jpg"
+          },
+          {
+            "url": "http://4.bp.blogspot.com/-HWKvcE1ML8E/UNRbsUUCA4I/AAAAAAAAGww/1QAamXIBwX4/s1600/Pieter+Aertsen--The+Vegetable+Seller.1567.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://www.zeno.org/Kunstwerke.images/I/sch032.jpg"
+          },
+          {
+            "url": "http://evasrooms.org/wp-content/uploads/2016/09/1567_Aertsen_MarktfrauJPG.jpg"
+          },
+          {
+            "url": "http://kentpoi.co.uk/shopping-centres/markets/files/stacks_image_2306.jpg"
+          },
+          {
+            "url": "https://oudemeesterschilderijen.files.wordpress.com/2013/06/aertsen-market-woman-with-vegetable-stall-1567.jpg"
+          },
+          {
+            "url": "http://www.elite-paintings.com/w/10/AbyC/Holland/AERTSEN_Pieter_Market_Woman_With_Vegetable_Stall_artist_painting_reproduction_handmade_oil_canvas_or_print_art_deco.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.wga.hu/html_m/a/aertsen/marketst.html"
+          },
+          {
+            "url": "https://www.ibiblio.org/wm/paint/auth/aertsen/vegetable-stall/"
+          },
+          {
+            "url": "http://www.wikigallery.org/wiki/painting_6653/Pieter-Aertsen/Market-Woman-With-Vegetable-Stall-1567"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/47147127323254900/"
+          },
+          {
+            "url": "http://www.carrotmuseum.co.uk/arts1.html"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://www.elite-paintings.com/w/10/AbyC/Holland/AERTSEN_Pieter_Market_Woman_With_Vegetable_Stall_artist_painting_reproduction_handmade_oil_canvas_or_print_art_deco.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/47/90/a6/4790a60ba2be2c210e40d28047e47dad.jpg"
+          },
+          {
+            "url": "http://www.sightswithin.com/Pieter.Aertsen/Market_Scene_II.jpg"
+          },
+          {
+            "url": "http://everypainterpaintshimself.com/article_images_new/AertsenCook.Brusselsx1.jpeg"
+          },
+          {
+            "url": "http://www.medievalcookery.com/images/carrot7.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

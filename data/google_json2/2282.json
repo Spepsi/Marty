@@ -1,0 +1,523 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.68230677
+        },
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.5950473
+        },
+        {
+          "mid": "/m/04zhd",
+          "description": "mythology",
+          "score": 0.5913683
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "zh",
+          "description": "诠朴\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 74,
+                "y": 191
+              },
+              {
+                "x": 111,
+                "y": 191
+              },
+              {
+                "x": 111,
+                "y": 213
+              },
+              {
+                "x": 74,
+                "y": 213
+              }
+            ]
+          }
+        },
+        {
+          "description": "诠",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 78,
+                "y": 192
+              },
+              {
+                "x": 98,
+                "y": 200
+              },
+              {
+                "x": 94,
+                "y": 211
+              },
+              {
+                "x": 74,
+                "y": 203
+              }
+            ]
+          }
+        },
+        {
+          "description": "朴",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 101,
+                "y": 199
+              },
+              {
+                "x": 111,
+                "y": 203
+              },
+              {
+                "x": 107,
+                "y": 214
+              },
+              {
+                "x": 97,
+                "y": 210
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 120,
+                "green": 74,
+                "blue": 30
+              },
+              "score": 0.17210443,
+              "pixelFraction": 0.027206665
+            },
+            {
+              "color": {
+                "red": 79,
+                "green": 44,
+                "blue": 24
+              },
+              "score": 0.10420706,
+              "pixelFraction": 0.059641972
+            },
+            {
+              "color": {
+                "red": 19,
+                "green": 15,
+                "blue": 19
+              },
+              "score": 0.0287275,
+              "pixelFraction": 0.23794754
+            },
+            {
+              "color": {
+                "red": 155,
+                "green": 106,
+                "blue": 56
+              },
+              "score": 0.13143201,
+              "pixelFraction": 0.018167317
+            },
+            {
+              "color": {
+                "red": 111,
+                "green": 73,
+                "blue": 50
+              },
+              "score": 0.09051756,
+              "pixelFraction": 0.037309464
+            },
+            {
+              "color": {
+                "red": 167,
+                "green": 109,
+                "blue": 35
+              },
+              "score": 0.056912806,
+              "pixelFraction": 0.007975895
+            },
+            {
+              "color": {
+                "red": 89,
+                "green": 47,
+                "blue": 10
+              },
+              "score": 0.054065146,
+              "pixelFraction": 0.011520738
+            },
+            {
+              "color": {
+                "red": 202,
+                "green": 141,
+                "blue": 61
+              },
+              "score": 0.048811294,
+              "pixelFraction": 0.006292095
+            },
+            {
+              "color": {
+                "red": 192,
+                "green": 140,
+                "blue": 86
+              },
+              "score": 0.04096475,
+              "pixelFraction": 0.004519674
+            },
+            {
+              "color": {
+                "red": 52,
+                "green": 20,
+                "blue": 4
+              },
+              "score": 0.027293717,
+              "pixelFraction": 0.023041476
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 291
+                },
+                {
+                  "x": 291,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "zh-Hans"
+                }
+              ]
+            },
+            "width": 292,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "zh-Hans"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 74,
+                      "y": 203
+                    },
+                    {
+                      "x": 79,
+                      "y": 190
+                    },
+                    {
+                      "x": 112,
+                      "y": 203
+                    },
+                    {
+                      "x": 107,
+                      "y": 216
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "zh-Hans"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 74,
+                          "y": 191
+                        },
+                        {
+                          "x": 111,
+                          "y": 191
+                        },
+                        {
+                          "x": 111,
+                          "y": 213
+                        },
+                        {
+                          "x": 74,
+                          "y": 213
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "zh-Hans"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 78,
+                              "y": 192
+                            },
+                            {
+                              "x": 98,
+                              "y": 200
+                            },
+                            {
+                              "x": 94,
+                              "y": 211
+                            },
+                            {
+                              "x": 74,
+                              "y": 203
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "zh-Hans"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 78,
+                                  "y": 192
+                                },
+                                {
+                                  "x": 98,
+                                  "y": 200
+                                },
+                                {
+                                  "x": 94,
+                                  "y": 211
+                                },
+                                {
+                                  "x": 74,
+                                  "y": 203
+                                }
+                              ]
+                            },
+                            "text": "诠"
+                          }
+                        ]
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "zh-Hans"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 101,
+                              "y": 199
+                            },
+                            {
+                              "x": 111,
+                              "y": 203
+                            },
+                            {
+                              "x": 107,
+                              "y": 214
+                            },
+                            {
+                              "x": 97,
+                              "y": 210
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "zh-Hans"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 101,
+                                  "y": 199
+                                },
+                                {
+                                  "x": 111,
+                                  "y": 203
+                                },
+                                {
+                                  "x": 107,
+                                  "y": 214
+                                },
+                                {
+                                  "x": 97,
+                                  "y": 210
+                                }
+                              ]
+                            },
+                            "text": "朴"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "诠朴\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/027hg33",
+            "score": 1.04644,
+            "description": "The Jurist"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.5066178,
+            "description": "Painting"
+          },
+          {
+            "entityId": "/m/02_41",
+            "score": 0.47111,
+            "description": "Fire "
+          },
+          {
+            "entityId": "/m/01w6l",
+            "score": 0.38516,
+            "description": "Classical element"
+          },
+          {
+            "entityId": "/m/0tl2",
+            "score": 0.35388,
+            "description": "Allegory"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://3.bp.blogspot.com/-l1rxI2Sb-jg/VWyeRonRE7I/AAAAAAAAPJ0/8QymrBYH32Y/s1600/Giuseppe%2BArcimboldo%2B-%2BFire%2B%25282%2529.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/c4/1b/54/c41b54352a051047d07f9a9fe1a91eb3.jpg"
+          },
+          {
+            "url": "https://phototour.pro/content/gallery/photo_219.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Giuseppe_Arcimboldo_-_Fire_-_WGA0828.jpg"
+          },
+          {
+            "url": "https://www.meisterdrucke.com/kunstwerke/800px/Giuseppe_Arcimboldo_-_Fire_-_WGA0828.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://home.ueno.kokosil.net/wp-content/uploads/2017/05/df3bbd5232a0efdd0823a3d7deb058fd.jpg"
+          },
+          {
+            "url": "http://www.zeno.org/Kunstwerke.images/I/72l071a.jpg"
+          },
+          {
+            "url": "http://redlily.ru/img/gallery/156/32.jpg"
+          },
+          {
+            "url": "http://3.bp.blogspot.com/-l1rxI2Sb-jg/VWyeRonRE7I/AAAAAAAAPJ0/8QymrBYH32Y/s1600/Giuseppe%2BArcimboldo%2B-%2BFire%2B%25282%2529.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/c4/1b/54/c41b54352a051047d07f9a9fe1a91eb3.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.art.com/gallery/id--a113/giuseppe-arcimboldo-posters.htm"
+          },
+          {
+            "url": "http://www.art.com/gallery/id--a113-d207238/giuseppe-arcimboldo-canvas.htm"
+          },
+          {
+            "url": "http://www.allposters.com/-st/Giuseppe-Arcimboldo-Posters_c22265_p3_.htm"
+          },
+          {
+            "url": "http://www.art.co.uk/gallery/id--a113/giuseppe-arcimboldo-prints.htm"
+          },
+          {
+            "url": "https://www.pinterest.com/marijasijan/art-giuseppe-arcimboldo/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Giuseppe_Arcimboldo_-_Fire_-_WGA0828.jpg"
+          },
+          {
+            "url": "http://cloudfront.posters2prints.com/width/315/bestfit/progressive/quality/50/81667-30CR-2.jpg"
+          },
+          {
+            "url": "http://www.epdlp.com/fotos/arcimboldo4.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/27/af/59/27af59fe2b03988a05e305781c784cd2.jpg"
+          },
+          {
+            "url": "https://www.toperfect.com/cache/pic/Oil%20Painting%20Masterpieces%20on%20Canvas/Giuseppe%20Arcimboldo%20Italian%201527-1593/9-Water-life-Giuseppe-Arcimboldo-360x360.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

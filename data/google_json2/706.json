@@ -1,0 +1,331 @@
+{
+  "responses": [
+    {
+      "logoAnnotations": [
+        {
+          "description": "Predella of the San Domenico Altarpiece",
+          "score": 0.9093745,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 5,
+                "y": 3
+              },
+              {
+                "x": 392,
+                "y": 3
+              },
+              {
+                "x": 392,
+                "y": 53
+              },
+              {
+                "x": 5,
+                "y": 53
+              }
+            ]
+          }
+        },
+        {
+          "description": "The Dominican Blessed",
+          "score": 0.2425163,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 363,
+                "y": 21
+              },
+              {
+                "x": 385,
+                "y": 21
+              },
+              {
+                "x": 385,
+                "y": 47
+              },
+              {
+                "x": 363,
+                "y": 47
+              }
+            ]
+          }
+        },
+        {
+          "description": "The Forerunners of Christ with Saints and Martyrs",
+          "score": 0.18865325,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 289,
+                "y": 13
+              },
+              {
+                "x": 338,
+                "y": 13
+              },
+              {
+                "x": 338,
+                "y": 38
+              },
+              {
+                "x": 289,
+                "y": 38
+              }
+            ]
+          }
+        },
+        {
+          "description": "The Virgin Mary with the Apostles and Other Saints",
+          "score": 0.16176006,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 63,
+                "y": 10
+              },
+              {
+                "x": 85,
+                "y": 10
+              },
+              {
+                "x": 85,
+                "y": 31
+              },
+              {
+                "x": 63,
+                "y": 31
+              }
+            ]
+          }
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.7027964
+        },
+        {
+          "mid": "/m/02rfdq",
+          "description": "interior design",
+          "score": 0.63556147
+        },
+        {
+          "mid": "/m/083vt",
+          "description": "wood",
+          "score": 0.61309904
+        },
+        {
+          "mid": "/m/015r61",
+          "description": "modern art",
+          "score": 0.5539146
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 160,
+                "green": 114,
+                "blue": 67
+              },
+              "score": 0.2766383,
+              "pixelFraction": 0.19758065
+            },
+            {
+              "color": {
+                "red": 185,
+                "green": 138,
+                "blue": 88
+              },
+              "score": 0.2156307,
+              "pixelFraction": 0.095430106
+            },
+            {
+              "color": {
+                "red": 190,
+                "green": 142,
+                "blue": 64
+              },
+              "score": 0.10297977,
+              "pixelFraction": 0.012096774
+            },
+            {
+              "color": {
+                "red": 197,
+                "green": 153,
+                "blue": 73
+              },
+              "score": 0.08664941,
+              "pixelFraction": 0.009856631
+            },
+            {
+              "color": {
+                "red": 155,
+                "green": 113,
+                "blue": 85
+              },
+              "score": 0.05840129,
+              "pixelFraction": 0.09767025
+            },
+            {
+              "color": {
+                "red": 165,
+                "green": 116,
+                "blue": 42
+              },
+              "score": 0.055463318,
+              "pixelFraction": 0.019713262
+            },
+            {
+              "color": {
+                "red": 181,
+                "green": 142,
+                "blue": 84
+              },
+              "score": 0.044318177,
+              "pixelFraction": 0.024193548
+            },
+            {
+              "color": {
+                "red": 129,
+                "green": 81,
+                "blue": 40
+              },
+              "score": 0.039847203,
+              "pixelFraction": 0.116039425
+            },
+            {
+              "color": {
+                "red": 158,
+                "green": 122,
+                "blue": 68
+              },
+              "score": 0.031754024,
+              "pixelFraction": 0.03046595
+            },
+            {
+              "color": {
+                "red": 187,
+                "green": 145,
+                "blue": 114
+              },
+              "score": 0.025705207,
+              "pixelFraction": 0.050179213
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 57
+                },
+                {
+                  "y": 57
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0c3w94b",
+            "score": 11.21632,
+            "description": "Convent of San Domenico, Fiesole"
+          },
+          {
+            "entityId": "/m/0gvrp3w",
+            "score": 1.60192,
+            "description": "Fiesole Altarpiece"
+          },
+          {
+            "entityId": "/m/0p88j",
+            "score": 1.10664,
+            "description": "National Gallery, London"
+          },
+          {
+            "entityId": "/m/05zpzj5",
+            "score": 1.01236,
+            "description": "San Marco Altarpiece"
+          },
+          {
+            "entityId": "/m/01g9zx",
+            "score": 0.7409,
+            "description": "Predella"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://i0.wp.com/saintmerry.org/wp-content/uploads/2014/10/Fra-Angelico-predella-de-Fiesole.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/art/a/angelico/00/11fieso1.jpg"
+          },
+          {
+            "url": "https://pvmarques.files.wordpress.com/2012/11/perfil-251.jpg"
+          },
+          {
+            "url": "https://claudiocarbo.files.wordpress.com/2014/11/110214_1421_schubertlit1.jpg"
+          },
+          {
+            "url": "https://beatajuanadeaza.files.wordpress.com/2017/02/pedrela-del-retablo-de-santo-domingo.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://www.wikiart.org/en/fra-angelico/predella-of-the-san-domenico-altarpiece-1424"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Fra_Angelico_-_Predella_of_the_San_Domenico_Altarpiece_-_WGA00447.jpg"
+          },
+          {
+            "url": "http://www.joybunnysartdesigns.co.uk/artists/angelico1.html"
+          },
+          {
+            "url": "http://www.art-of-yesterday.co.uk/artists/angelico1.html"
+          },
+          {
+            "url": "http://www.stmarysewell.com/services/recordings-of-sermons/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://www.art-of-yesterday.co.uk/artists/thumbnails/angelico/predelladom.jpg"
+          },
+          {
+            "url": "http://l7.alamy.com/zooms/fc794fb086934ec9b477551c26ef3907/fra-angelico-predella-of-the-san-domenico-altarpiece-wga00447-hktp33.jpg"
+          },
+          {
+            "url": "http://londongrip.co.uk/wp-content/uploads/2011/08/Predella-of-the-High-Alterpiece-in-San-Domenico.jpg"
+          },
+          {
+            "url": "http://bestarts.org/ba/wp-content/uploads/2014/11/Fra-Angelico-Predella-of-the-San-Domenico-Altarpiece-230x140.jpg"
+          },
+          {
+            "url": "http://i.ebayimg.com/thumbs/images/m/m9LgvDJn8L1onehMW2Q4wZA/s-l225.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

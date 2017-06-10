@@ -1,0 +1,276 @@
+{
+  "responses": [
+    {
+      "logoAnnotations": [
+        {
+          "description": "The Presentation of Christ in the Temple",
+          "score": 0.935308,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 6,
+                "y": 13
+              },
+              {
+                "x": 384,
+                "y": 13
+              },
+              {
+                "x": 384,
+                "y": 237
+              },
+              {
+                "x": 6,
+                "y": 237
+              }
+            ]
+          }
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/04rjz",
+          "description": "middle ages",
+          "score": 0.6450443
+        },
+        {
+          "mid": "/m/0djmp",
+          "description": "ancient history",
+          "score": 0.5841749
+        },
+        {
+          "mid": "/m/05fc9mj",
+          "description": "christmas decoration",
+          "score": 0.56998086
+        },
+        {
+          "mid": "/m/0hyb2",
+          "description": "altar",
+          "score": 0.5394045
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 196,
+                "green": 144,
+                "blue": 99
+              },
+              "score": 0.16867372,
+              "pixelFraction": 0.034698643
+            },
+            {
+              "color": {
+                "red": 157,
+                "green": 113,
+                "blue": 88
+              },
+              "score": 0.1238339,
+              "pixelFraction": 0.07820459
+            },
+            {
+              "color": {
+                "red": 78,
+                "green": 42,
+                "blue": 29
+              },
+              "score": 0.083323225,
+              "pixelFraction": 0.09900255
+            },
+            {
+              "color": {
+                "red": 162,
+                "green": 113,
+                "blue": 72
+              },
+              "score": 0.11741229,
+              "pixelFraction": 0.030454159
+            },
+            {
+              "color": {
+                "red": 187,
+                "green": 141,
+                "blue": 113
+              },
+              "score": 0.11375126,
+              "pixelFraction": 0.04700764
+            },
+            {
+              "color": {
+                "red": 114,
+                "green": 74,
+                "blue": 55
+              },
+              "score": 0.050791476,
+              "pixelFraction": 0.114494905
+            },
+            {
+              "color": {
+                "red": 179,
+                "green": 149,
+                "blue": 117
+              },
+              "score": 0.05015893,
+              "pixelFraction": 0.051358234
+            },
+            {
+              "color": {
+                "red": 143,
+                "green": 117,
+                "blue": 91
+              },
+              "score": 0.032822188,
+              "pixelFraction": 0.035441425
+            },
+            {
+              "color": {
+                "red": 188,
+                "green": 152,
+                "blue": 105
+              },
+              "score": 0.031909842,
+              "pixelFraction": 0.013582343
+            },
+            {
+              "color": {
+                "red": 55,
+                "green": 19,
+                "blue": 8
+              },
+              "score": 0.025407545,
+              "pixelFraction": 0.017190153
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 245
+                },
+                {
+                  "y": 245
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/03qm_b",
+            "score": 0.84958,
+            "description": "Presentation of Jesus at the Temple"
+          },
+          {
+            "entityId": "/m/0c424hs",
+            "score": 0.65094,
+            "description": "Annunciation of Cortona"
+          },
+          {
+            "entityId": "/m/06mzyw",
+            "score": 0.4104,
+            "description": "Finding in the Temple"
+          },
+          {
+            "entityId": "/m/07mtr",
+            "score": 0.38704,
+            "description": "Tempera"
+          },
+          {
+            "entityId": "/m/02d72c",
+            "score": 0.35755,
+            "description": "Annunciation"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAz0AAAAJDFhZWE4Nzg5LWE2OTYtNDA0NC1hYjVlLWE2OTMwYzBjNzk3OQ.jpg"
+          },
+          {
+            "url": "http://foma.ru/wp-content/uploads/2016/02/Fra-Anzheliko.-Prinesenie-vo-hram.-1432..jpg"
+          },
+          {
+            "url": "http://ru.wahooart.com/Art.nsf/O/8YDQ38/$File/Fra-Angelico-The-Presentation-of-Christ-in-the-Temple-The-Cortona-Altarpiece-.JPG"
+          },
+          {
+            "url": "http://qaphoto.catholic.or.kr/GNDATA/BOARD/9/9697/th2_%ED%94%84%EB%9D%BC%EC%95%88%EC%A0%A4%EB%A6%AC%EC%BD%94_%EC%84%B1%EC%A0%84%EC%97%90%EC%84%9C%EA%B7%B8%EB%A6%AC%EC%8A%A4%EB%8F%84%EB%A5%BC%EB%B4%89%ED%97%8C%ED%95%A8.jpg.jpg"
+          },
+          {
+            "url": "https://lucechesorgedotorg.files.wordpress.com/2016/02/presentazione-di-gesc3b9-al-tempio.jpg?w=973"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://extras.springer.com/2004/978-88-470-0208-1/geometrie/IMMA/Imma3/Angel.jpg"
+          },
+          {
+            "url": "https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAz0AAAAJDFhZWE4Nzg5LWE2OTYtNDA0NC1hYjVlLWE2OTMwYzBjNzk3OQ.jpg"
+          },
+          {
+            "url": "http://foma.ru/wp-content/uploads/2016/02/Fra-Anzheliko.-Prinesenie-vo-hram.-1432..jpg"
+          },
+          {
+            "url": "http://ru.wahooart.com/Art.nsf/O/8YDQ38/$File/Fra-Angelico-The-Presentation-of-Christ-in-the-Temple-The-Cortona-Altarpiece-.JPG"
+          },
+          {
+            "url": "http://www.settemuse.it/pittori_scultori_italiani/beato_angelico/beato_angelico_109_annunciazione_1432.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://bjws.blogspot.com/2016/02/the-presentation-of-jesus-at-temple-in.html"
+          },
+          {
+            "url": "http://imaginemdei.blogspot.com/2016/02/the-feast-of-presentation-in-temple-and.html"
+          },
+          {
+            "url": "https://www.tumblr.com/tagged/presentation-at-the-temple"
+          },
+          {
+            "url": "https://www.tumblr.com/tagged/the-presentation-in-the-temple"
+          },
+          {
+            "url": "http://www.edgeofenclosure.org/christmas1bpresentation.html"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://1.bp.blogspot.com/-GY7Xtj6zsXQ/VrFdCHC8SvI/AAAAAAAAKr4/FKnf6Mr35PA/s1600/Fra%2BAngelico_1433-34_Cortona_Museo%2BDiocesano.jpg"
+          },
+          {
+            "url": "http://www.artbible.net/3JC/-Luk-02,22_Temple_Presentation/14%20GIOTTO%20PRESENTATION%20OF%20CHRIST%20IN%20THE%20TEMPLE.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sano_di_Pietro_-_Presentation_of_the_Virgin_at_the_Temple_-_WGA20768.jpg/1024px-Sano_di_Pietro_-_Presentation_of_the_Virgin_at_the_Temple_-_WGA20768.jpg"
+          },
+          {
+            "url": "http://1.bp.blogspot.com/-5rfJQmDNonQ/UQmI5L6KOXI/AAAAAAAAAOo/PYCPLiCqHUE/s1600/pala-di-fano-presentation-in-the-temple.jpg"
+          },
+          {
+            "url": "https://2.bp.blogspot.com/-8ua05KAD9oo/Uu7x3-8WcvI/AAAAAAABnCI/GoX4YeFBsv4/s1600/Fra+Angelico+(Italian+artist,+1387-1455)+Presentation+of+Jesus+in+the+Temple.+1440.+(2).jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

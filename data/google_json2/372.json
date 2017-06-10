@@ -1,0 +1,436 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0cgh4",
+          "description": "building",
+          "score": 0.8525405
+        },
+        {
+          "mid": "/m/02nvjx",
+          "description": "place of worship",
+          "score": 0.8268733
+        },
+        {
+          "mid": "/m/01wb7",
+          "description": "church",
+          "score": 0.8034584
+        },
+        {
+          "mid": "/m/0173tc",
+          "description": "chapel",
+          "score": 0.75377285
+        },
+        {
+          "mid": "/m/0f85g",
+          "description": "basilica",
+          "score": 0.7486964
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "en",
+          "description": "y\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 159,
+                "y": 247
+              },
+              {
+                "x": 164,
+                "y": 247
+              },
+              {
+                "x": 164,
+                "y": 251
+              },
+              {
+                "x": 159,
+                "y": 251
+              }
+            ]
+          }
+        },
+        {
+          "description": "y",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 159,
+                "y": 247
+              },
+              {
+                "x": 164,
+                "y": 247
+              },
+              {
+                "x": 164,
+                "y": 251
+              },
+              {
+                "x": 159,
+                "y": 251
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 95,
+                "green": 79,
+                "blue": 55
+              },
+              "score": 0.30902767,
+              "pixelFraction": 0.19996531
+            },
+            {
+              "color": {
+                "red": 246,
+                "green": 247,
+                "blue": 251
+              },
+              "score": 0.022524435,
+              "pixelFraction": 0.021331945
+            },
+            {
+              "color": {
+                "red": 70,
+                "green": 54,
+                "blue": 32
+              },
+              "score": 0.20678079,
+              "pixelFraction": 0.12703781
+            },
+            {
+              "color": {
+                "red": 129,
+                "green": 114,
+                "blue": 91
+              },
+              "score": 0.1506986,
+              "pixelFraction": 0.12226847
+            },
+            {
+              "color": {
+                "red": 85,
+                "green": 78,
+                "blue": 75
+              },
+              "score": 0.05489552,
+              "pixelFraction": 0.06997919
+            },
+            {
+              "color": {
+                "red": 62,
+                "green": 54,
+                "blue": 48
+              },
+              "score": 0.04822503,
+              "pixelFraction": 0.059833508
+            },
+            {
+              "color": {
+                "red": 102,
+                "green": 72,
+                "blue": 49
+              },
+              "score": 0.023866482,
+              "pixelFraction": 0.008237947
+            },
+            {
+              "color": {
+                "red": 76,
+                "green": 48,
+                "blue": 25
+              },
+              "score": 0.02300364,
+              "pixelFraction": 0.0079778
+            },
+            {
+              "color": {
+                "red": 102,
+                "green": 78,
+                "blue": 39
+              },
+              "score": 0.020671135,
+              "pixelFraction": 0.016909469
+            },
+            {
+              "color": {
+                "red": 81,
+                "green": 83,
+                "blue": 105
+              },
+              "score": 0.017898118,
+              "pixelFraction": 0.005116198
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 299
+                },
+                {
+                  "x": 299,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "en"
+                }
+              ]
+            },
+            "width": 300,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "en"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 159,
+                      "y": 247
+                    },
+                    {
+                      "x": 164,
+                      "y": 247
+                    },
+                    {
+                      "x": 164,
+                      "y": 251
+                    },
+                    {
+                      "x": 159,
+                      "y": 251
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "en"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 159,
+                          "y": 247
+                        },
+                        {
+                          "x": 164,
+                          "y": 247
+                        },
+                        {
+                          "x": 164,
+                          "y": 251
+                        },
+                        {
+                          "x": 159,
+                          "y": 251
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 159,
+                              "y": 247
+                            },
+                            {
+                              "x": 164,
+                              "y": 247
+                            },
+                            {
+                              "x": 164,
+                              "y": 251
+                            },
+                            {
+                              "x": 159,
+                              "y": 251
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 159,
+                                  "y": 247
+                                },
+                                {
+                                  "x": 164,
+                                  "y": 247
+                                },
+                                {
+                                  "x": 164,
+                                  "y": 251
+                                },
+                                {
+                                  "x": 159,
+                                  "y": 251
+                                }
+                              ]
+                            },
+                            "text": "y"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "y\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/05zs2ws",
+            "score": 27.85088,
+            "description": "St. George's Oratory, Padua"
+          },
+          {
+            "entityId": "/m/061zpv",
+            "score": 27.23072,
+            "description": "Scrovegni Chapel"
+          },
+          {
+            "entityId": "/g/119v4pnk3",
+            "score": 5.10048
+          },
+          {
+            "entityId": "/m/0280bwf",
+            "score": 0.75636,
+            "description": "Oratory"
+          },
+          {
+            "entityId": "/m/0173tc",
+            "score": 0.38900375,
+            "description": "Chapel"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://www.beach.jp/asset/circle/ae/30/240/images/comment/d9c5885a81987da127c086c3769bfe86174878.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Altichiero%2C_oratorio_di_san_giorgio%2C_parete_dell%27altare_01.JPG"
+          },
+          {
+            "url": "http://dic.academic.ru/pictures/wiki/files/65/Altichiero%2C_oratorio_di_san_giorgio%2C_parete_dell%27altare_02.JPG"
+          },
+          {
+            "url": "http://1.bp.blogspot.com/-6KfB8-iCtH0/U-gF4eZ1bLI/AAAAAAAACBI/mbQGrcNb17E/s1600/oratorio_di_san_giorgio,_parete_dell'altare_01.JPG"
+          },
+          {
+            "url": "https://2.bp.blogspot.com/-E5JBKD-UjFg/WKC9lLD2XCI/AAAAAAAAJhs/Agn9nCMNbLc_nMQlEMWXqdCl4kHzlLLOwCLcB/s1600/800px-Altichiero%252C_oratorio_di_san_giorgio%252C_parete_dell%2527altare_01.JPG"
+          },
+          {
+            "url": "http://art.xtone.jp/artist/images/altichiero_da_zevio9.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://en.wikipedia.org/wiki/St._George%27s_Oratory,_Padua"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Altichiero,_oratorio_di_san_giorgio,_parete_dell'altare_01.JPG"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Altichiero,_oratorio_di_san_giorgio,_parete_dell%27altare_01.JPG"
+          },
+          {
+            "url": "http://wikivisually.com/lang-it/wiki/Oratorio_di_San_Giorgio_(Padova)"
+          },
+          {
+            "url": "http://www.wikiwand.com/en/St._George%27s_Oratory,_Padua"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Altichiero%2C_oratorio_di_san_giorgio%2C_parete_dell%27altare_01.JPG/576px-Altichiero%2C_oratorio_di_san_giorgio%2C_parete_dell%27altare_01.JPG"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/d9/c6/7a/d9c67a8d8a6f770043d59831557271af.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Altichiero%2C_oratorio_di_san_giorgio%2C_controfacciata_03.JPG"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Altichiero%2C_oratorio_di_san_giorgio%2C_pareste_sinistra%2C_Funerali_di_Santa_Lucia.JPG"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Altichiero%2C_oratorio_di_san_giorgio%2C_pareste_sinistra%2C_Decapitazione_e_sepoltura_di_Santa_Caterina_d%27Alessandria_e_Funerali_di_Santa_Lucia.JPG"
+          }
+        ]
+      }
+    }
+  ]
+}

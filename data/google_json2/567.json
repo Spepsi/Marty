@@ -1,0 +1,611 @@
+{
+  "responses": [
+    {
+      "faceAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 94,
+                "y": 17
+              },
+              {
+                "x": 150,
+                "y": 17
+              },
+              {
+                "x": 150,
+                "y": 82
+              },
+              {
+                "x": 94,
+                "y": 82
+              }
+            ]
+          },
+          "fdBoundingPoly": {
+            "vertices": [
+              {
+                "x": 92,
+                "y": 32
+              },
+              {
+                "x": 142,
+                "y": 32
+              },
+              {
+                "x": 142,
+                "y": 82
+              },
+              {
+                "x": 92,
+                "y": 82
+              }
+            ]
+          },
+          "landmarks": [
+            {
+              "type": "LEFT_EYE",
+              "position": {
+                "x": 105.17116,
+                "y": 49.04899,
+                "z": 0.00011982978
+              }
+            },
+            {
+              "type": "RIGHT_EYE",
+              "position": {
+                "x": 117.37198,
+                "y": 51.259075,
+                "z": -10.783351
+              }
+            },
+            {
+              "type": "LEFT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 101.77398,
+                "y": 43.983276,
+                "z": 3.7465007
+              }
+            },
+            {
+              "type": "RIGHT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 106.05459,
+                "y": 46.49397,
+                "z": -6.286928
+              }
+            },
+            {
+              "type": "LEFT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 112.21938,
+                "y": 47.68428,
+                "z": -11.647927
+              }
+            },
+            {
+              "type": "RIGHT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 123.06073,
+                "y": 48.13279,
+                "z": -14.668054
+              }
+            },
+            {
+              "type": "MIDPOINT_BETWEEN_EYES",
+              "position": {
+                "x": 109.13708,
+                "y": 50.592197,
+                "z": -8.187071
+              }
+            },
+            {
+              "type": "NOSE_TIP",
+              "position": {
+                "x": 106.51101,
+                "y": 61.003197,
+                "z": -9.128938
+              }
+            },
+            {
+              "type": "UPPER_LIP",
+              "position": {
+                "x": 109.32213,
+                "y": 66.31028,
+                "z": -4.640571
+              }
+            },
+            {
+              "type": "LOWER_LIP",
+              "position": {
+                "x": 110.254524,
+                "y": 71.24462,
+                "z": -2.3099248
+              }
+            },
+            {
+              "type": "MOUTH_LEFT",
+              "position": {
+                "x": 107.41809,
+                "y": 66.7666,
+                "z": 3.531638
+              }
+            },
+            {
+              "type": "MOUTH_RIGHT",
+              "position": {
+                "x": 117.176765,
+                "y": 68.41061,
+                "z": -5.0889425
+              }
+            },
+            {
+              "type": "MOUTH_CENTER",
+              "position": {
+                "x": 110.11289,
+                "y": 68.50415,
+                "z": -3.0491862
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_RIGHT",
+              "position": {
+                "x": 113.79956,
+                "y": 61.646057,
+                "z": -7.111452
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_LEFT",
+              "position": {
+                "x": 107.16841,
+                "y": 60.212875,
+                "z": -1.1371756
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_CENTER",
+              "position": {
+                "x": 109.03943,
+                "y": 63.051025,
+                "z": -5.623641
+              }
+            },
+            {
+              "type": "LEFT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 104.35853,
+                "y": 48.174763,
+                "z": -1.1228616
+              }
+            },
+            {
+              "type": "LEFT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 107.7559,
+                "y": 49.644928,
+                "z": -2.126671
+              }
+            },
+            {
+              "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 105.131546,
+                "y": 50.167435,
+                "z": 0.19642362
+              }
+            },
+            {
+              "type": "LEFT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 103.679146,
+                "y": 48.257324,
+                "z": 3.3210065
+              }
+            },
+            {
+              "type": "LEFT_EYE_PUPIL",
+              "position": {
+                "x": 104.70236,
+                "y": 49.100098,
+                "z": -0.113216534
+              }
+            },
+            {
+              "type": "RIGHT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 117.05994,
+                "y": 50.634926,
+                "z": -12.156428
+              }
+            },
+            {
+              "type": "RIGHT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 121.519615,
+                "y": 51.689644,
+                "z": -12.098035
+              }
+            },
+            {
+              "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 117.8192,
+                "y": 52.733948,
+                "z": -10.808336
+              }
+            },
+            {
+              "type": "RIGHT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 115.34805,
+                "y": 51.123466,
+                "z": -8.726534
+              }
+            },
+            {
+              "type": "RIGHT_EYE_PUPIL",
+              "position": {
+                "x": 117.72438,
+                "y": 51.63584,
+                "z": -11.451449
+              }
+            },
+            {
+              "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 103.04534,
+                "y": 43.49639,
+                "z": -2.57977
+              }
+            },
+            {
+              "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 116.828415,
+                "y": 46.16612,
+                "z": -14.549226
+              }
+            },
+            {
+              "type": "LEFT_EAR_TRAGION",
+              "position": {
+                "x": 111.385216,
+                "y": 50.76236,
+                "z": 24.19693
+              }
+            },
+            {
+              "type": "RIGHT_EAR_TRAGION",
+              "position": {
+                "x": 140.25911,
+                "y": 56.33879,
+                "z": -0.86054516
+              }
+            },
+            {
+              "type": "FOREHEAD_GLABELLA",
+              "position": {
+                "x": 108.715836,
+                "y": 47.04077,
+                "z": -9.475029
+              }
+            },
+            {
+              "type": "CHIN_GNATHION",
+              "position": {
+                "x": 112.05598,
+                "y": 78.365326,
+                "z": 1.4692917
+              }
+            },
+            {
+              "type": "CHIN_LEFT_GONION",
+              "position": {
+                "x": 108.66089,
+                "y": 63.12387,
+                "z": 20.945305
+              }
+            },
+            {
+              "type": "CHIN_RIGHT_GONION",
+              "position": {
+                "x": 134.73643,
+                "y": 68.174446,
+                "z": -1.6988652
+              }
+            }
+          ],
+          "rollAngle": -2.5975955,
+          "panAngle": -42.281536,
+          "tiltAngle": -15.356437,
+          "detectionConfidence": 0.51039046,
+          "landmarkingConfidence": 0.22195177,
+          "joyLikelihood": "VERY_UNLIKELY",
+          "sorrowLikelihood": "VERY_UNLIKELY",
+          "angerLikelihood": "VERY_UNLIKELY",
+          "surpriseLikelihood": "VERY_UNLIKELY",
+          "underExposedLikelihood": "VERY_UNLIKELY",
+          "blurredLikelihood": "VERY_UNLIKELY",
+          "headwearLikelihood": "POSSIBLE"
+        }
+      ],
+      "logoAnnotations": [
+        {
+          "description": "Farinata degli Uberti",
+          "score": 0.9452688,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 4,
+                "y": 5
+              },
+              {
+                "x": 244,
+                "y": 5
+              },
+              {
+                "x": 244,
+                "y": 391
+              },
+              {
+                "x": 4,
+                "y": 391
+              }
+            ]
+          }
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/01g317",
+          "description": "person",
+          "score": 0.9125423
+        },
+        {
+          "mid": "/m/01m0lg",
+          "description": "human positions",
+          "score": 0.82630444
+        },
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.69415116
+        },
+        {
+          "mid": "/m/013_1c",
+          "description": "statue",
+          "score": 0.69341475
+        },
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.6720605
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 217,
+                "green": 188,
+                "blue": 156
+              },
+              "score": 0.1725078,
+              "pixelFraction": 0.104739144
+            },
+            {
+              "color": {
+                "red": 59,
+                "green": 51,
+                "blue": 49
+              },
+              "score": 0.13031703,
+              "pixelFraction": 0.14526086
+            },
+            {
+              "color": {
+                "red": 176,
+                "green": 151,
+                "blue": 127
+              },
+              "score": 0.12875259,
+              "pixelFraction": 0.07327758
+            },
+            {
+              "color": {
+                "red": 136,
+                "green": 115,
+                "blue": 94
+              },
+              "score": 0.12017989,
+              "pixelFraction": 0.06401832
+            },
+            {
+              "color": {
+                "red": 89,
+                "green": 80,
+                "blue": 75
+              },
+              "score": 0.092934296,
+              "pixelFraction": 0.100657105
+            },
+            {
+              "color": {
+                "red": 101,
+                "green": 83,
+                "blue": 66
+              },
+              "score": 0.07609979,
+              "pixelFraction": 0.055555556
+            },
+            {
+              "color": {
+                "red": 68,
+                "green": 52,
+                "blue": 37
+              },
+              "score": 0.036758527,
+              "pixelFraction": 0.025886102
+            },
+            {
+              "color": {
+                "red": 225,
+                "green": 191,
+                "blue": 146
+              },
+              "score": 0.030371405,
+              "pixelFraction": 0.030864198
+            },
+            {
+              "color": {
+                "red": 128,
+                "green": 112,
+                "blue": 104
+              },
+              "score": 0.028133338,
+              "pixelFraction": 0.017622462
+            },
+            {
+              "color": {
+                "red": 74,
+                "green": 43,
+                "blue": 32
+              },
+              "score": 0.022290641,
+              "pixelFraction": 0.037534848
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 260
+                },
+                {
+                  "x": 260,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 1,
+            "importanceFraction": 0.5
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0cfjp",
+            "score": 9.64832,
+            "description": "Uffizi Gallery"
+          },
+          {
+            "entityId": "/m/07nj9",
+            "score": 1.54492,
+            "description": "Divine Comedy"
+          },
+          {
+            "entityId": "/m/081j38",
+            "score": 1.48232,
+            "description": "Farinata degli Uberti"
+          },
+          {
+            "entityId": "/m/06cvx",
+            "score": 0.81114,
+            "description": "Renaissance"
+          },
+          {
+            "entityId": "/m/04rjz",
+            "score": 0.79816175,
+            "description": "Middle Ages"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://www.artclon.com/images/201008/goods_img/16204_G_1282691382250.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/art/a/andrea/castagno/2_famous/3uberti.jpg"
+          },
+          {
+            "url": "http://www.art-kingdom.com/upload/373437.jpg"
+          },
+          {
+            "url": "https://oudemeesterschilderijen.files.wordpress.com/2013/10/schilderij-castagno-liberator-mid-xv.jpg"
+          },
+          {
+            "url": "http://www.yipiaotuan.com/pic/20170408/7/article_4865757_82453352507a5e1d909492.jpeg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://www.artclon.com/images/201008/goods_img/16204_G_1282691382250.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/art/a/andrea/castagno/2_famous/3uberti.jpg"
+          },
+          {
+            "url": "http://www.art-kingdom.com/upload/373437.jpg"
+          },
+          {
+            "url": "https://oudemeesterschilderijen.files.wordpress.com/2013/10/schilderij-castagno-liberator-mid-xv.jpg"
+          },
+          {
+            "url": "http://www.yipiaotuan.com/pic/20170408/7/article_4865757_82453352507a5e1d909492.jpeg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://www.virtualuffizi.com/farinata-degli-uberti.html"
+          },
+          {
+            "url": "https://www.wikiart.org/en/andrea-del-castagno/farinata-degli-uberti"
+          },
+          {
+            "url": "https://en.wikipedia.org/wiki/Farinata_degli_Uberti"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Andrea_del_Castagno_-_Famous_Persons_-_Farinata_degli_Uberti_-_WGA00341.jpg"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/216313588328056922/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://367art.net/uploads/allimg/c110220/12b21532G5W0-2G92_lit.jpg"
+          },
+          {
+            "url": "https://www.art-prints-on-demand.com/kunst/andrea_del_castagno/farinata_degli_uberti_d1264_v_hi.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/art/a/andrea/castagno/2_famous/1pippo.jpg"
+          },
+          {
+            "url": "http://www.scrimatorino.it/images/icon/xv/xv-41.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/3d/3b/13/3d3b1309bba093745ed438ac99481ab0.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

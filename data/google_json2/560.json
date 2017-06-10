@@ -1,0 +1,448 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09j2d",
+          "description": "clothing",
+          "score": 0.90375006
+        },
+        {
+          "mid": "/m/083vt",
+          "description": "wood",
+          "score": 0.5812588
+        },
+        {
+          "mid": "/m/02nnps",
+          "description": "relief",
+          "score": 0.5574584
+        },
+        {
+          "mid": "/m/0djmp",
+          "description": "ancient history",
+          "score": 0.5500797
+        },
+        {
+          "mid": "/m/0h8nvk9",
+          "description": "dishware",
+          "score": 0.5463535
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "en",
+          "description": "e\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 229,
+                "y": 159
+              },
+              {
+                "x": 239,
+                "y": 159
+              },
+              {
+                "x": 239,
+                "y": 171
+              },
+              {
+                "x": 229,
+                "y": 171
+              }
+            ]
+          }
+        },
+        {
+          "description": "e",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 229,
+                "y": 172
+              },
+              {
+                "x": 230,
+                "y": 160
+              },
+              {
+                "x": 239,
+                "y": 160
+              },
+              {
+                "x": 238,
+                "y": 172
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 220,
+                "green": 190,
+                "blue": 152
+              },
+              "score": 0.7137477,
+              "pixelFraction": 0.43453
+            },
+            {
+              "color": {
+                "red": 192,
+                "green": 161,
+                "blue": 124
+              },
+              "score": 0.08486572,
+              "pixelFraction": 0.16996184
+            },
+            {
+              "color": {
+                "red": 191,
+                "green": 158,
+                "blue": 116
+              },
+              "score": 0.04566004,
+              "pixelFraction": 0.12478321
+            },
+            {
+              "color": {
+                "red": 242,
+                "green": 215,
+                "blue": 178
+              },
+              "score": 0.04215641,
+              "pixelFraction": 0.033385362
+            },
+            {
+              "color": {
+                "red": 215,
+                "green": 182,
+                "blue": 138
+              },
+              "score": 0.041255448,
+              "pixelFraction": 0.05228928
+            },
+            {
+              "color": {
+                "red": 194,
+                "green": 152,
+                "blue": 112
+              },
+              "score": 0.029560653,
+              "pixelFraction": 0.009538675
+            },
+            {
+              "color": {
+                "red": 217,
+                "green": 178,
+                "blue": 141
+              },
+              "score": 0.019082617,
+              "pixelFraction": 0.004595907
+            },
+            {
+              "color": {
+                "red": 196,
+                "green": 157,
+                "blue": 121
+              },
+              "score": 0.017630683,
+              "pixelFraction": 0.010232396
+            },
+            {
+              "color": {
+                "red": 220,
+                "green": 178,
+                "blue": 134
+              },
+              "score": 0.0052466206,
+              "pixelFraction": 0.0014741588
+            },
+            {
+              "color": {
+                "red": 169,
+                "green": 129,
+                "blue": 93
+              },
+              "score": 0.00043550367,
+              "pixelFraction": 0.0016475893
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 298
+                },
+                {
+                  "y": 298
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "en"
+                }
+              ]
+            },
+            "width": 400,
+            "height": 299,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "en"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 229,
+                      "y": 172
+                    },
+                    {
+                      "x": 230,
+                      "y": 160
+                    },
+                    {
+                      "x": 239,
+                      "y": 160
+                    },
+                    {
+                      "x": 238,
+                      "y": 172
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "en"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 229,
+                          "y": 159
+                        },
+                        {
+                          "x": 239,
+                          "y": 159
+                        },
+                        {
+                          "x": 239,
+                          "y": 171
+                        },
+                        {
+                          "x": 229,
+                          "y": 171
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 229,
+                              "y": 172
+                            },
+                            {
+                              "x": 230,
+                              "y": 160
+                            },
+                            {
+                              "x": 239,
+                              "y": 160
+                            },
+                            {
+                              "x": 238,
+                              "y": 172
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 229,
+                                  "y": 172
+                                },
+                                {
+                                  "x": 230,
+                                  "y": 160
+                                },
+                                {
+                                  "x": 239,
+                                  "y": 160
+                                },
+                                {
+                                  "x": 238,
+                                  "y": 172
+                                }
+                              ]
+                            },
+                            "text": "e"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "e\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0cfjp",
+            "score": 8.11744,
+            "description": "Uffizi Gallery"
+          },
+          {
+            "entityId": "/m/02vm8gx",
+            "score": 2.9824,
+            "description": "Sant'Apollonia"
+          },
+          {
+            "entityId": "/m/0jnz3",
+            "score": 2.63872,
+            "description": "The Last Supper"
+          },
+          {
+            "entityId": "/m/09tf0p",
+            "score": 0.72148,
+            "description": "Sinopia"
+          },
+          {
+            "entityId": "/g/12135zsz",
+            "score": 0.68712
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://3.bp.blogspot.com/-xkQuH5g3u9Q/U9u85nDNx5I/AAAAAAAAOFA/3iSPnQFd0FQ/s1600/09chris2.jpg"
+          },
+          {
+            "url": "http://www.truecarpentry.org/webfolders/web6/PhotosItalia1/ChristSepulchreTwoAngelsFresco_AndreaDelCostagno1447.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Andrea_del_castagno%2C_Christ_in_the_Sepulchre_with_Two_Angels_by_Andrea_del_Castagno_sinopia.jpg/1024px-Andrea_del_castagno%2C_Christ_in_the_Sepulchre_with_Two_Angels_by_Andrea_del_Castagno_sinopia.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/0f/b0/97/0fb097397086f79934847b9d15ff8a70.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/97/3a/82/973a820d494abd14e8326185b255b2f3.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://3.bp.blogspot.com/-xkQuH5g3u9Q/U9u85nDNx5I/AAAAAAAAOFA/3iSPnQFd0FQ/s1600/09chris2.jpg"
+          },
+          {
+            "url": "http://www.truecarpentry.org/webfolders/web6/PhotosItalia1/ChristSepulchreTwoAngelsFresco_AndreaDelCostagno1447.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Andrea_del_castagno%2C_Christ_in_the_Sepulchre_with_Two_Angels_by_Andrea_del_Castagno_sinopia.jpg/1024px-Andrea_del_castagno%2C_Christ_in_the_Sepulchre_with_Two_Angels_by_Andrea_del_Castagno_sinopia.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/0f/b0/97/0fb097397086f79934847b9d15ff8a70.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/97/3a/82/973a820d494abd14e8326185b255b2f3.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://www.pinterest.com/pin/504473595734326991/"
+          },
+          {
+            "url": "https://za.pinterest.com/pin/504473595734344596/"
+          },
+          {
+            "url": "http://www.travelingintuscany.com/art/andreadelcastagno.htm"
+          },
+          {
+            "url": "http://www.travelingintuscany.com/art/andreadelcastagno/lastsupper.htm"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Andrea_del_castagno,_Christ_in_the_Sepulchre_with_Two_Angels_by_Andrea_del_Castagno_sinopia.jpg"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/0f/b0/97/0fb097397086f79934847b9d15ff8a70.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/a1/f1/51/a1f15142fdbe0ef84c7f5ca09fa08895.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Andrea_Del_Sarto_%28actually_Andrea_d%C2%B4Agnolo%29_-_Sheet_of_studies_with_a_youth_and_the_head_of_an_old_man_looking_to_the_right_%28Homer%3F%29_-_Google_Art_Project.jpg/1197px-Andrea_Del_Sarto_%28actually_Andrea_d%C2%B4Agnolo%29_-_Sheet_of_studies_with_a_youth_and_the_head_of_an_old_man_looking_to_the_right_%28Homer%3F%29_-_Google_Art_Project.jpg"
+          },
+          {
+            "url": "http://egh0t2b8t2s3nmhmh1owg24pcj.wpengine.netdna-cdn.com/wp-content/uploads/2015/07/Getty-Head-of-Young-Woman.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/cd/e1/d5/cde1d5554922db25c988d9bfbe0d1cd6.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

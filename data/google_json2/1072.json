@@ -1,0 +1,585 @@
+{
+  "responses": [
+    {
+      "faceAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 60,
+                "y": 77
+              },
+              {
+                "x": 146,
+                "y": 77
+              },
+              {
+                "x": 146,
+                "y": 177
+              },
+              {
+                "x": 60,
+                "y": 177
+              }
+            ]
+          },
+          "fdBoundingPoly": {
+            "vertices": [
+              {
+                "x": 64,
+                "y": 105
+              },
+              {
+                "x": 131,
+                "y": 105
+              },
+              {
+                "x": 131,
+                "y": 172
+              },
+              {
+                "x": 64,
+                "y": 172
+              }
+            ]
+          },
+          "landmarks": [
+            {
+              "type": "LEFT_EYE",
+              "position": {
+                "x": 77.69465,
+                "y": 134.25804,
+                "z": -0.00041381686
+              }
+            },
+            {
+              "type": "RIGHT_EYE",
+              "position": {
+                "x": 103.84265,
+                "y": 123.87488,
+                "z": -11.306628
+              }
+            },
+            {
+              "type": "LEFT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 70.48421,
+                "y": 130.63414,
+                "z": 4.5288987
+              }
+            },
+            {
+              "type": "RIGHT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 81.115585,
+                "y": 126.85192,
+                "z": -8.288638
+              }
+            },
+            {
+              "type": "LEFT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 91.5765,
+                "y": 122.265236,
+                "z": -13.209538
+              }
+            },
+            {
+              "type": "RIGHT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 107.48183,
+                "y": 115.59596,
+                "z": -12.238267
+              }
+            },
+            {
+              "type": "MIDPOINT_BETWEEN_EYES",
+              "position": {
+                "x": 88.23896,
+                "y": 129.27231,
+                "z": -10.723403
+              }
+            },
+            {
+              "type": "NOSE_TIP",
+              "position": {
+                "x": 92.71475,
+                "y": 145.13203,
+                "z": -16.504675
+              }
+            },
+            {
+              "type": "UPPER_LIP",
+              "position": {
+                "x": 98.094635,
+                "y": 152.22855,
+                "z": -10.262117
+              }
+            },
+            {
+              "type": "LOWER_LIP",
+              "position": {
+                "x": 101.16049,
+                "y": 158.65898,
+                "z": -8.10217
+              }
+            },
+            {
+              "type": "MOUTH_LEFT",
+              "position": {
+                "x": 92.97408,
+                "y": 157.34084,
+                "z": 0.37846223
+              }
+            },
+            {
+              "type": "MOUTH_RIGHT",
+              "position": {
+                "x": 113.64877,
+                "y": 149.83498,
+                "z": -7.20283
+              }
+            },
+            {
+              "type": "MOUTH_CENTER",
+              "position": {
+                "x": 99.976036,
+                "y": 155.40173,
+                "z": -8.217936
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_RIGHT",
+              "position": {
+                "x": 102.20125,
+                "y": 141.93216,
+                "z": -9.977118
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_LEFT",
+              "position": {
+                "x": 90.14556,
+                "y": 147.23125,
+                "z": -4.441857
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_CENTER",
+              "position": {
+                "x": 95.55387,
+                "y": 147.70627,
+                "z": -10.769274
+              }
+            },
+            {
+              "type": "LEFT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 78.24635,
+                "y": 132.50662,
+                "z": -2.3677566
+              }
+            },
+            {
+              "type": "LEFT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 83.197525,
+                "y": 132.33052,
+                "z": -2.3351018
+              }
+            },
+            {
+              "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 79.17342,
+                "y": 135.81265,
+                "z": -0.5477834
+              }
+            },
+            {
+              "type": "LEFT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 75.932434,
+                "y": 135.08269,
+                "z": 3.6173635
+              }
+            },
+            {
+              "type": "LEFT_EYE_PUPIL",
+              "position": {
+                "x": 78.97261,
+                "y": 134.00594,
+                "z": -1.0354098
+              }
+            },
+            {
+              "type": "RIGHT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 100.42644,
+                "y": 123.48541,
+                "z": -12.398611
+              }
+            },
+            {
+              "type": "RIGHT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 106.944626,
+                "y": 122.48536,
+                "z": -10.431609
+              }
+            },
+            {
+              "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 102.810005,
+                "y": 126.27013,
+                "z": -10.7394285
+              }
+            },
+            {
+              "type": "RIGHT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 97.32846,
+                "y": 126.7052,
+                "z": -8.507865
+              }
+            },
+            {
+              "type": "RIGHT_EYE_PUPIL",
+              "position": {
+                "x": 101.695496,
+                "y": 124.78655,
+                "z": -11.379276
+              }
+            },
+            {
+              "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 73.89106,
+                "y": 126.25796,
+                "z": -3.700574
+              }
+            },
+            {
+              "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 97.88542,
+                "y": 116.487976,
+                "z": -14.575468
+              }
+            },
+            {
+              "type": "LEFT_EAR_TRAGION",
+              "position": {
+                "x": 81.13784,
+                "y": 143.96468,
+                "z": 36.188175
+              }
+            },
+            {
+              "type": "RIGHT_EAR_TRAGION",
+              "position": {
+                "x": 131.39554,
+                "y": 123.50836,
+                "z": 13.363965
+              }
+            },
+            {
+              "type": "FOREHEAD_GLABELLA",
+              "position": {
+                "x": 86.017296,
+                "y": 124.57542,
+                "z": -11.678192
+              }
+            },
+            {
+              "type": "CHIN_GNATHION",
+              "position": {
+                "x": 107.96267,
+                "y": 169.6671,
+                "z": -3.6885667
+              }
+            },
+            {
+              "type": "CHIN_LEFT_GONION",
+              "position": {
+                "x": 86.81266,
+                "y": 160.36493,
+                "z": 26.586536
+              }
+            },
+            {
+              "type": "CHIN_RIGHT_GONION",
+              "position": {
+                "x": 132.20798,
+                "y": 141.92664,
+                "z": 6.008317
+              }
+            }
+          ],
+          "rollAngle": -23.898226,
+          "panAngle": -22.838129,
+          "tiltAngle": -4.2351804,
+          "detectionConfidence": 0.69383764,
+          "landmarkingConfidence": 0.30608392,
+          "joyLikelihood": "VERY_UNLIKELY",
+          "sorrowLikelihood": "VERY_UNLIKELY",
+          "angerLikelihood": "VERY_UNLIKELY",
+          "surpriseLikelihood": "VERY_UNLIKELY",
+          "underExposedLikelihood": "VERY_UNLIKELY",
+          "blurredLikelihood": "VERY_UNLIKELY",
+          "headwearLikelihood": "VERY_LIKELY"
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.8622155
+        },
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.70385176
+        },
+        {
+          "mid": "/m/01dv4h",
+          "description": "portrait",
+          "score": 0.69488734
+        },
+        {
+          "mid": "/m/0djmp",
+          "description": "ancient history",
+          "score": 0.63476145
+        },
+        {
+          "mid": "/m/04zhd",
+          "description": "mythology",
+          "score": 0.5864434
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 50,
+                "green": 49,
+                "blue": 52
+              },
+              "score": 0.21770523,
+              "pixelFraction": 0.13585608
+            },
+            {
+              "color": {
+                "red": 125,
+                "green": 117,
+                "blue": 117
+              },
+              "score": 0.123721726,
+              "pixelFraction": 0.08135413
+            },
+            {
+              "color": {
+                "red": 79,
+                "green": 44,
+                "blue": 27
+              },
+              "score": 0.07342861,
+              "pixelFraction": 0.032523926
+            },
+            {
+              "color": {
+                "red": 158,
+                "green": 120,
+                "blue": 74
+              },
+              "score": 0.019723546,
+              "pixelFraction": 0.13107054
+            },
+            {
+              "color": {
+                "red": 141,
+                "green": 33,
+                "blue": 22
+              },
+              "score": 0.0015381966,
+              "pixelFraction": 0.007444169
+            },
+            {
+              "color": {
+                "red": 86,
+                "green": 82,
+                "blue": 87
+              },
+              "score": 0.09174145,
+              "pixelFraction": 0.060882665
+            },
+            {
+              "color": {
+                "red": 33,
+                "green": 28,
+                "blue": 28
+              },
+              "score": 0.06854735,
+              "pixelFraction": 0.036246013
+            },
+            {
+              "color": {
+                "red": 156,
+                "green": 148,
+                "blue": 148
+              },
+              "score": 0.060366906,
+              "pixelFraction": 0.038284298
+            },
+            {
+              "color": {
+                "red": 104,
+                "green": 69,
+                "blue": 46
+              },
+              "score": 0.057465065,
+              "pixelFraction": 0.07727756
+            },
+            {
+              "color": {
+                "red": 63,
+                "green": 45,
+                "blue": 28
+              },
+              "score": 0.049699944,
+              "pixelFraction": 0.016217653
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 293
+                },
+                {
+                  "x": 293,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 1,
+            "importanceFraction": 0.55
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/063_g3_",
+            "score": 1.66948,
+            "description": "Crucifixion of Jesus"
+          },
+          {
+            "entityId": "/m/046_b",
+            "score": 0.85852,
+            "description": "John the Evangelist"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.41926,
+            "description": "Painting"
+          },
+          {
+            "entityId": "/m/0qjh5",
+            "score": 0.41376,
+            "description": "Evangelism"
+          },
+          {
+            "entityId": "/m/09hm0",
+            "score": 0.3782,
+            "description": "Crucifixion"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://crashmacduff.files.wordpress.com/2014/04/crucifiy1.jpg"
+          },
+          {
+            "url": "http://veritas.catholic.or.kr/simages/021-crucifiy.jpg"
+          },
+          {
+            "url": "http://pds13.egloos.com/pds/200901/11/94/a0100394_4969e577d07fb.jpg"
+          },
+          {
+            "url": "http://www.paintinghere.com/Uploadpic/Antonio%20Da%20Firenze/big/Crucifixion%20with%20Mary%20and%20St%20John%20the%20Evangelist%20(detail).jpg"
+          },
+          {
+            "url": "https://crashmacduff.files.wordpress.com/2014/04/crucifiy1.jpg?w=584"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://www.settemuse.it/pittori_opere_D/da_firenze_antonio/da_firenze_antonio_502_crucifixion_with_mary_and_st_john_the_evangelist_detail.jpg"
+          },
+          {
+            "url": "https://crashmacduff.files.wordpress.com/2014/04/crucifiy1.jpg"
+          },
+          {
+            "url": "http://veritas.catholic.or.kr/simages/021-crucifiy.jpg"
+          },
+          {
+            "url": "http://pds13.egloos.com/pds/200901/11/94/a0100394_4969e577d07fb.jpg"
+          },
+          {
+            "url": "http://www.musica-antiqua.nl/mad2004_bestanden/image002.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Antonio_Da_Firenze_-_Crucifixion_with_Mary_and_St_John_the_Evangelist_-_WGA00770.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Antonio_Da_Firenze_-_Crucifixion_with_Mary_and_St_John_the_Evangelist_(detail)_-_WGA00771.jpg"
+          },
+          {
+            "url": "http://www.paintinghere.com/painting/antonio_da_firenze_crucifixion_with_mary_and_st_john_the_evangelist_(detail)_20973.html"
+          },
+          {
+            "url": "http://www.paintinghere.com/buy/antonio_da_firenze_crucifixion_with_mary_and_st_john_the_evangelist_(detail)_canvas_painting_20973.html"
+          },
+          {
+            "url": "http://en.wahooart.com/@@/8XZ99X-Biagio-D'antonio-Da-Firenze-Biagio-D'antonio-Da-Firenze--Crucifixion-with-Mary-and-St-John-the-Evangel.."
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Antonio_Da_Firenze_-_Crucifixion_with_Mary_and_St_John_the_Evangelist_%28detail%29_-_WGA00771.jpg/354px-Antonio_Da_Firenze_-_Crucifixion_with_Mary_and_St_John_the_Evangelist_%28detail%29_-_WGA00771.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Wga_Nardo_di_Cione_St_John_the_Evangelist_Lindenau_Museum_Altenburg.jpg"
+          },
+          {
+            "url": "http://stjohntheevangelist.in/wp-content/uploads/2015/03/St-John.jpg"
+          },
+          {
+            "url": "http://www.rednuns.com/wp-content/uploads/2013/11/St-John-the-Evangelist.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Nardo_di_Cione_-_St_John_the_Evangelist_%28detail%29_-_WGA16436.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

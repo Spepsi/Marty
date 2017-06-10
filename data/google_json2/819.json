@@ -1,0 +1,479 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.66051304
+        },
+        {
+          "mid": "/m/0djmp",
+          "description": "ancient history",
+          "score": 0.58804333
+        },
+        {
+          "mid": "/m/013_1c",
+          "description": "statue",
+          "score": 0.5307633
+        },
+        {
+          "mid": "/m/04zhd",
+          "description": "mythology",
+          "score": 0.5088628
+        },
+        {
+          "mid": "/m/04rjz",
+          "description": "middle ages",
+          "score": 0.50194496
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "uz",
+          "description": "QQ\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 81,
+                "y": 167
+              },
+              {
+                "x": 97,
+                "y": 167
+              },
+              {
+                "x": 97,
+                "y": 188
+              },
+              {
+                "x": 81,
+                "y": 188
+              }
+            ]
+          }
+        },
+        {
+          "description": "QQ",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 90,
+                "y": 167
+              },
+              {
+                "x": 98,
+                "y": 184
+              },
+              {
+                "x": 90,
+                "y": 188
+              },
+              {
+                "x": 82,
+                "y": 171
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 89,
+                "green": 81,
+                "blue": 62
+              },
+              "score": 0.1394503,
+              "pixelFraction": 0.040096473
+            },
+            {
+              "color": {
+                "red": 217,
+                "green": 191,
+                "blue": 166
+              },
+              "score": 0.12243923,
+              "pixelFraction": 0.09247814
+            },
+            {
+              "color": {
+                "red": 98,
+                "green": 121,
+                "blue": 107
+              },
+              "score": 0.043460354,
+              "pixelFraction": 0.009496533
+            },
+            {
+              "color": {
+                "red": 115,
+                "green": 71,
+                "blue": 30
+              },
+              "score": 0.018437877,
+              "pixelFraction": 0.04047332
+            },
+            {
+              "color": {
+                "red": 129,
+                "green": 120,
+                "blue": 95
+              },
+              "score": 0.08238469,
+              "pixelFraction": 0.026605366
+            },
+            {
+              "color": {
+                "red": 63,
+                "green": 53,
+                "blue": 38
+              },
+              "score": 0.07664531,
+              "pixelFraction": 0.020198975
+            },
+            {
+              "color": {
+                "red": 79,
+                "green": 82,
+                "blue": 74
+              },
+              "score": 0.074321166,
+              "pixelFraction": 0.02524872
+            },
+            {
+              "color": {
+                "red": 170,
+                "green": 153,
+                "blue": 129
+              },
+              "score": 0.06128223,
+              "pixelFraction": 0.025927043
+            },
+            {
+              "color": {
+                "red": 74,
+                "green": 42,
+                "blue": 34
+              },
+              "score": 0.055905003,
+              "pixelFraction": 0.01643051
+            },
+            {
+              "color": {
+                "red": 54,
+                "green": 55,
+                "blue": 47
+              },
+              "score": 0.0432894,
+              "pixelFraction": 0.013566475
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 343
+                },
+                {
+                  "x": 343,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "uz"
+                }
+              ]
+            },
+            "width": 344,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "uz"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 90,
+                      "y": 167
+                    },
+                    {
+                      "x": 98,
+                      "y": 184
+                    },
+                    {
+                      "x": 90,
+                      "y": 188
+                    },
+                    {
+                      "x": 82,
+                      "y": 171
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "uz"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 81,
+                          "y": 167
+                        },
+                        {
+                          "x": 97,
+                          "y": 167
+                        },
+                        {
+                          "x": 97,
+                          "y": 188
+                        },
+                        {
+                          "x": 81,
+                          "y": 188
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "uz"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 90,
+                              "y": 167
+                            },
+                            {
+                              "x": 98,
+                              "y": 184
+                            },
+                            {
+                              "x": 90,
+                              "y": 188
+                            },
+                            {
+                              "x": 82,
+                              "y": 171
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "uz"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 89,
+                                  "y": 167
+                                },
+                                {
+                                  "x": 92,
+                                  "y": 173
+                                },
+                                {
+                                  "x": 85,
+                                  "y": 177
+                                },
+                                {
+                                  "x": 82,
+                                  "y": 170
+                                }
+                              ]
+                            },
+                            "text": "Q"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "uz"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 95,
+                                  "y": 177
+                                },
+                                {
+                                  "x": 98,
+                                  "y": 184
+                                },
+                                {
+                                  "x": 91,
+                                  "y": 188
+                                },
+                                {
+                                  "x": 88,
+                                  "y": 180
+                                }
+                              ]
+                            },
+                            "text": "Q"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "QQ\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0272rmj",
+            "score": 6.58256,
+            "description": "San Marco, Florence"
+          },
+          {
+            "entityId": "/g/12100_zb",
+            "score": 2.68376,
+            "description": "Museo Nazionale di San Marco"
+          },
+          {
+            "entityId": "/g/1222z4rz",
+            "score": 1.93012,
+            "description": "Annunciation"
+          },
+          {
+            "entityId": "/m/0c3wz3_",
+            "score": 0.77516,
+            "description": "Annunciation"
+          },
+          {
+            "entityId": "/m/06cvx",
+            "score": 0.77224,
+            "description": "Renaissance"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://vlemma.files.wordpress.com/2014/02/fra_angelico.jpg"
+          },
+          {
+            "url": "http://1.bp.blogspot.com/-StXvNsrMNYc/VWM5krj1WQI/AAAAAAAANwg/NZkdZvEzVTc/s1200/fra%2Bangelico%2Bhaenel%2Bdetail.jpg"
+          },
+          {
+            "url": "https://68.media.tumblr.com/2cbe3169a01c62b0e157248ba623dd8f/tumblr_oh02ycJFQQ1s5neh1o1_1280.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Fra_Angelico_-_The_Annunciation_%28detail%29_-_WGA00557.jpg"
+          },
+          {
+            "url": "http://cartonnage.cocolog-nifty.com/photos/uncategorized/2015/07/06/image_7.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://1.bp.blogspot.com/-sCFynKA3gOc/V4fkuvOUJ2I/AAAAAAAARzY/T9yyBePIrZwCvJNpVfPZF-Atlqk8bHcQwCLcB/s1600/JNC.Florencia.%2B25-06-16.%2BMonasterio%2Bde%2BSan%2BMarco%2B%252882%2529.JPG"
+          },
+          {
+            "url": "https://s3.amazonaws.com/classconnection/865/flashcards/5345865/jpg/annuncia35-14BB8731A4060B62F40.jpg"
+          },
+          {
+            "url": "http://experimental-note.c.blog.so-net.ne.jp/_images/blog/_a25/experimental-note/img_623563_17746735_0.jpeg"
+          },
+          {
+            "url": "http://pds.exblog.jp/pds/1/201107/20/00/d0117900_2341385.jpg"
+          },
+          {
+            "url": "https://rr.img.naver.jp/mig?src=http%3A%2F%2Fuserdisk.webry.biglobe.ne.jp%2F007%2F277%2F32%2F1%2Fangelico_annunciation1.jpg&twidth=1200&theight=1200&qlt=80&res_format=jpg&op=r"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://smarthistory.org/fra-angelico-the-annunciation-c-1438-47/"
+          },
+          {
+            "url": "https://www.pinterest.com/explore/fra-angelico/"
+          },
+          {
+            "url": "http://www.alamy.com/stock-photo/fra-angelico-annunciation.html"
+          },
+          {
+            "url": "http://www.alamy.com/stock-photo/annunciation-fra-angelico.html"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Fra_Angelico_-_The_Annunciation_(detail)_-_WGA00557.jpg"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/54/35/93/543593d1232531376424cca07492f2a4.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Fra_Angelico_050.jpg"
+          },
+          {
+            "url": "https://susanvanallen.files.wordpress.com/2014/03/021annun.jpg"
+          },
+          {
+            "url": "http://www.webegt.com/image/Galleryr/S.Kim's/Xan-arts/Fra_Angelico_annunciation.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/1b/0c/04/1b0c04d6b95217ae048637aebf4049a7.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

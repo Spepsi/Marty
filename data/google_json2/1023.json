@@ -1,0 +1,507 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.80904245
+        },
+        {
+          "mid": "/m/04zhd",
+          "description": "mythology",
+          "score": 0.6358622
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "ms",
+          "description": "chee\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 181,
+                "y": 76
+              },
+              {
+                "x": 215,
+                "y": 76
+              },
+              {
+                "x": 215,
+                "y": 147
+              },
+              {
+                "x": 181,
+                "y": 147
+              }
+            ]
+          }
+        },
+        {
+          "description": "chee",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 216,
+                "y": 77
+              },
+              {
+                "x": 213,
+                "y": 147
+              },
+              {
+                "x": 182,
+                "y": 146
+              },
+              {
+                "x": 185,
+                "y": 76
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 134,
+                "green": 116,
+                "blue": 97
+              },
+              "score": 0.36791983,
+              "pixelFraction": 0.056032676
+            },
+            {
+              "color": {
+                "red": 38,
+                "green": 27,
+                "blue": 25
+              },
+              "score": 0.055637334,
+              "pixelFraction": 0.24696271
+            },
+            {
+              "color": {
+                "red": 146,
+                "green": 110,
+                "blue": 84
+              },
+              "score": 0.14824013,
+              "pixelFraction": 0.010054462
+            },
+            {
+              "color": {
+                "red": 164,
+                "green": 144,
+                "blue": 125
+              },
+              "score": 0.08916176,
+              "pixelFraction": 0.015291161
+            },
+            {
+              "color": {
+                "red": 105,
+                "green": 88,
+                "blue": 71
+              },
+              "score": 0.070414685,
+              "pixelFraction": 0.13311689
+            },
+            {
+              "color": {
+                "red": 67,
+                "green": 50,
+                "blue": 36
+              },
+              "score": 0.06175102,
+              "pixelFraction": 0.13280268
+            },
+            {
+              "color": {
+                "red": 80,
+                "green": 45,
+                "blue": 30
+              },
+              "score": 0.05891275,
+              "pixelFraction": 0.05791789
+            },
+            {
+              "color": {
+                "red": 57,
+                "green": 46,
+                "blue": 39
+              },
+              "score": 0.0493188,
+              "pixelFraction": 0.24078341
+            },
+            {
+              "color": {
+                "red": 127,
+                "green": 112,
+                "blue": 103
+              },
+              "score": 0.028305095,
+              "pixelFraction": 0.0069124424
+            },
+            {
+              "color": {
+                "red": 113,
+                "green": 78,
+                "blue": 55
+              },
+              "score": 0.027131299,
+              "pixelFraction": 0.034876414
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 246
+                },
+                {
+                  "y": 246
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "ms"
+                }
+              ]
+            },
+            "width": 400,
+            "height": 247,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "ms"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 216,
+                      "y": 77
+                    },
+                    {
+                      "x": 213,
+                      "y": 147
+                    },
+                    {
+                      "x": 182,
+                      "y": 146
+                    },
+                    {
+                      "x": 185,
+                      "y": 76
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "ms"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 181,
+                          "y": 76
+                        },
+                        {
+                          "x": 215,
+                          "y": 76
+                        },
+                        {
+                          "x": 215,
+                          "y": 147
+                        },
+                        {
+                          "x": 181,
+                          "y": 147
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "ms"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 216,
+                              "y": 77
+                            },
+                            {
+                              "x": 213,
+                              "y": 147
+                            },
+                            {
+                              "x": 182,
+                              "y": 146
+                            },
+                            {
+                              "x": 185,
+                              "y": 76
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "ms"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 215,
+                                  "y": 77
+                                },
+                                {
+                                  "x": 214,
+                                  "y": 99
+                                },
+                                {
+                                  "x": 184,
+                                  "y": 98
+                                },
+                                {
+                                  "x": 185,
+                                  "y": 76
+                                }
+                              ]
+                            },
+                            "text": "c"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "ms"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 214,
+                                  "y": 101
+                                },
+                                {
+                                  "x": 213,
+                                  "y": 124
+                                },
+                                {
+                                  "x": 183,
+                                  "y": 123
+                                },
+                                {
+                                  "x": 184,
+                                  "y": 100
+                                }
+                              ]
+                            },
+                            "text": "h"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "ms"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 210,
+                                  "y": 126
+                                },
+                                {
+                                  "x": 210,
+                                  "y": 136
+                                },
+                                {
+                                  "x": 192,
+                                  "y": 135
+                                },
+                                {
+                                  "x": 192,
+                                  "y": 125
+                                }
+                              ]
+                            },
+                            "text": "e"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "ms"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 213,
+                                  "y": 137
+                                },
+                                {
+                                  "x": 213,
+                                  "y": 147
+                                },
+                                {
+                                  "x": 186,
+                                  "y": 146
+                                },
+                                {
+                                  "x": 186,
+                                  "y": 136
+                                }
+                              ]
+                            },
+                            "text": "e"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "chee\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0g6n3",
+            "score": 2.36192,
+            "description": "Sagrada Família"
+          },
+          {
+            "entityId": "/m/01hlq3",
+            "score": 1.33488,
+            "description": "Museo Nacional Del Prado"
+          },
+          {
+            "entityId": "/m/06qtbz",
+            "score": 0.71984,
+            "description": "Flight into Egypt"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.38073322,
+            "description": "Painting"
+          },
+          {
+            "entityId": "/m/04f_qd",
+            "score": 0.28212,
+            "description": "Wikimedia Commons"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://content3.cdnprado.net/imagenes/Documentos/imgsem/81/81ef/81efb4cd-d53e-41b2-bd49-7bd841458d89/40f2a810-b7c6-437d-bff6-b1314e20510b.jpg"
+          },
+          {
+            "url": "https://content3.cdnprado.net/imagenes/Documentos/imgsem/83/83fc/83fc01d0-5ce2-46b7-bddf-16be1207a588/5c464ec8-8514-46b5-a68b-23c3eddcb4e2.jpg"
+          },
+          {
+            "url": "https://content3.cdnprado.net/imagenes/Documentos/imgsem/81/81ef/81efb4cd-d53e-41b2-bd49-7bd841458d89/40f2a810-b7c6-437d-bff6-b1314e20510b_832.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Francisco_antolinez-huida.jpg"
+          },
+          {
+            "url": "https://i.blogs.es/22179a/francisco_antolinez-huida_650/650_1200.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Francisco_Antol%C3%ADnez"
+          },
+          {
+            "url": "http://www.wikiwand.com/en/Francisco_Antol%C3%ADnez"
+          },
+          {
+            "url": "http://www.wikiwand.com/es/Francisco_Antol%C3%ADnez_y_Sarabia"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Francisco_antolinez-huida.jpg"
+          },
+          {
+            "url": "https://alchetron.com/Francisco-Antol%C3%ADnez-2692925-W"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Francisco_antolinez-huida.jpg/600px-Francisco_antolinez-huida.jpg"
+          },
+          {
+            "url": "http://artinfo-images-350.s3.amazonaws.com/asi2-98703/6.jpg"
+          },
+          {
+            "url": "http://www.fineart-china.com/upload1/file-admin/images/new3/Francisco%20Antolinez%20y%20Sarabia-225529.jpg"
+          },
+          {
+            "url": "http://www.askart.com/photos2/2014/ALS20131203_80862/696A_1.jpg"
+          },
+          {
+            "url": "https://content3.cdnprado.net/imagenes/Documentos/imgsem/f6/f697/f697c22b-4473-4b95-b8ed-b51f9b933821/a24725ca-940f-4e3e-8a0a-db6cb3a7a1d3.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

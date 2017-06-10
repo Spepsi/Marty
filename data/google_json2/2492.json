@@ -1,0 +1,203 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/07pw27b",
+          "description": "atmospheric phenomenon",
+          "score": 0.87861997
+        },
+        {
+          "mid": "/m/01lxd",
+          "description": "coast",
+          "score": 0.754712
+        },
+        {
+          "mid": "/m/06cnp",
+          "description": "river",
+          "score": 0.7350439
+        },
+        {
+          "mid": "/m/02_ktj",
+          "description": "morning",
+          "score": 0.70631874
+        },
+        {
+          "mid": "/m/04p25",
+          "description": "loch",
+          "score": 0.66389716
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 243,
+                "green": 236,
+                "blue": 197
+              },
+              "score": 0.69143087,
+              "pixelFraction": 0.2178296
+            },
+            {
+              "color": {
+                "red": 248,
+                "green": 234,
+                "blue": 180
+              },
+              "score": 0.12451538,
+              "pixelFraction": 0.06556802
+            },
+            {
+              "color": {
+                "red": 204,
+                "green": 195,
+                "blue": 152
+              },
+              "score": 0.050028343,
+              "pixelFraction": 0.037254557
+            },
+            {
+              "color": {
+                "red": 208,
+                "green": 196,
+                "blue": 143
+              },
+              "score": 0.037430756,
+              "pixelFraction": 0.007976858
+            },
+            {
+              "color": {
+                "red": 166,
+                "green": 159,
+                "blue": 120
+              },
+              "score": 0.026256118,
+              "pixelFraction": 0.029277699
+            },
+            {
+              "color": {
+                "red": 130,
+                "green": 122,
+                "blue": 89
+              },
+              "score": 0.017570935,
+              "pixelFraction": 0.04637097
+            },
+            {
+              "color": {
+                "red": 168,
+                "green": 160,
+                "blue": 109
+              },
+              "score": 0.013223243,
+              "pixelFraction": 0.0051718093
+            },
+            {
+              "color": {
+                "red": 95,
+                "green": 85,
+                "blue": 57
+              },
+              "score": 0.011194766,
+              "pixelFraction": 0.09703717
+            },
+            {
+              "color": {
+                "red": 215,
+                "green": 227,
+                "blue": 209
+              },
+              "score": 0.010538516,
+              "pixelFraction": 0.018057503
+            },
+            {
+              "color": {
+                "red": 127,
+                "green": 121,
+                "blue": 71
+              },
+              "score": 0.0052274354,
+              "pixelFraction": 0.0047335206
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 296
+                },
+                {
+                  "y": 296
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/012wgb",
+            "score": 1.56984,
+            "description": "Ireland"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.56813395,
+            "description": "Painting"
+          },
+          {
+            "entityId": "/m/0bvmt",
+            "score": 0.46302,
+            "description": "Optical phenomena"
+          },
+          {
+            "entityId": "/m/01lxd",
+            "score": 0.4616023,
+            "description": "Coast"
+          },
+          {
+            "entityId": "/m/0gjyk",
+            "score": 0.39778,
+            "description": "Phenomenon"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://4.bp.blogspot.com/-txnrYQvkK9I/V5xueNB-I-I/AAAAAAAAhrU/aL0yKSdepsAFBuc1lD-gnt1kH1gF_l41QCLcB/s1600/3%2BWilliam%2BAshford%2B%2B%2B%2B%2BA%2BView%2Bof%2BKillarney%2Bwith%2Bthe%2BPassage%2Bto%2Bthe%2BUpper%2BLake.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/art/a/ashford/killarn1.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://www.wga.hu/art/a/ashford/killarn1.jpg"
+          },
+          {
+            "url": "http://www.the-athenaeum.org/art/display_image.php?id=533147"
+          }
+        ]
+      }
+    }
+  ]
+}

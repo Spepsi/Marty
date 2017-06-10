@@ -1,0 +1,628 @@
+{
+  "responses": [
+    {
+      "logoAnnotations": [
+        {
+          "description": "Air",
+          "score": 0.9463943,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 22,
+                "y": 55
+              },
+              {
+                "x": 256,
+                "y": 55
+              },
+              {
+                "x": 256,
+                "y": 373
+              },
+              {
+                "x": 22,
+                "y": 373
+              }
+            ]
+          }
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.89342153
+        },
+        {
+          "mid": "/m/01spzs",
+          "description": "still life",
+          "score": 0.81556696
+        },
+        {
+          "mid": "/m/015r61",
+          "description": "modern art",
+          "score": 0.6904759
+        },
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.6746887
+        },
+        {
+          "mid": "/m/067408",
+          "description": "album cover",
+          "score": 0.52527094
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "en",
+          "description": "O\ne\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 70,
+                "y": 273
+              },
+              {
+                "x": 127,
+                "y": 273
+              },
+              {
+                "x": 127,
+                "y": 295
+              },
+              {
+                "x": 70,
+                "y": 295
+              }
+            ]
+          }
+        },
+        {
+          "description": "O",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 123,
+                "y": 295
+              },
+              {
+                "x": 123,
+                "y": 289
+              },
+              {
+                "x": 127,
+                "y": 289
+              },
+              {
+                "x": 127,
+                "y": 295
+              }
+            ]
+          }
+        },
+        {
+          "description": "e",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 70,
+                "y": 280
+              },
+              {
+                "x": 70,
+                "y": 273
+              },
+              {
+                "x": 76,
+                "y": 273
+              },
+              {
+                "x": 76,
+                "y": 280
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 217,
+                "green": 188,
+                "blue": 125
+              },
+              "score": 0.11606226,
+              "pixelFraction": 0.0058966354
+            },
+            {
+              "color": {
+                "red": 120,
+                "green": 72,
+                "blue": 31
+              },
+              "score": 0.0773494,
+              "pixelFraction": 0.014915019
+            },
+            {
+              "color": {
+                "red": 77,
+                "green": 44,
+                "blue": 21
+              },
+              "score": 0.04516313,
+              "pixelFraction": 0.08289976
+            },
+            {
+              "color": {
+                "red": 231,
+                "green": 230,
+                "blue": 196
+              },
+              "score": 0.033083986,
+              "pixelFraction": 0.00199445
+            },
+            {
+              "color": {
+                "red": 26,
+                "green": 15,
+                "blue": 12
+              },
+              "score": 0.0092205135,
+              "pixelFraction": 0.35978147
+            },
+            {
+              "color": {
+                "red": 222,
+                "green": 191,
+                "blue": 100
+              },
+              "score": 0.10013029,
+              "pixelFraction": 0.0044224765
+            },
+            {
+              "color": {
+                "red": 185,
+                "green": 154,
+                "blue": 96
+              },
+              "score": 0.09824723,
+              "pixelFraction": 0.007717655
+            },
+            {
+              "color": {
+                "red": 158,
+                "green": 107,
+                "blue": 60
+              },
+              "score": 0.06894562,
+              "pixelFraction": 0.008671523
+            },
+            {
+              "color": {
+                "red": 190,
+                "green": 157,
+                "blue": 66
+              },
+              "score": 0.05511402,
+              "pixelFraction": 0.0028616025
+            },
+            {
+              "color": {
+                "red": 145,
+                "green": 117,
+                "blue": 66
+              },
+              "score": 0.04330795,
+              "pixelFraction": 0.006156781
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {
+                  "x": 17
+                },
+                {
+                  "x": 299
+                },
+                {
+                  "x": 299,
+                  "y": 371
+                },
+                {
+                  "x": 17,
+                  "y": 371
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 0.98999995
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "en"
+                }
+              ]
+            },
+            "width": 300,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "en"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 123,
+                      "y": 289
+                    },
+                    {
+                      "x": 127,
+                      "y": 289
+                    },
+                    {
+                      "x": 127,
+                      "y": 295
+                    },
+                    {
+                      "x": 123,
+                      "y": 295
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "en"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 123,
+                          "y": 289
+                        },
+                        {
+                          "x": 127,
+                          "y": 289
+                        },
+                        {
+                          "x": 127,
+                          "y": 295
+                        },
+                        {
+                          "x": 123,
+                          "y": 295
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 123,
+                              "y": 295
+                            },
+                            {
+                              "x": 123,
+                              "y": 289
+                            },
+                            {
+                              "x": 127,
+                              "y": 289
+                            },
+                            {
+                              "x": 127,
+                              "y": 295
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 123,
+                                  "y": 295
+                                },
+                                {
+                                  "x": 123,
+                                  "y": 289
+                                },
+                                {
+                                  "x": 127,
+                                  "y": 289
+                                },
+                                {
+                                  "x": 127,
+                                  "y": 295
+                                }
+                              ]
+                            },
+                            "text": "O"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              },
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "en"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 70,
+                      "y": 273
+                    },
+                    {
+                      "x": 76,
+                      "y": 273
+                    },
+                    {
+                      "x": 76,
+                      "y": 280
+                    },
+                    {
+                      "x": 70,
+                      "y": 280
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "en"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 70,
+                          "y": 273
+                        },
+                        {
+                          "x": 76,
+                          "y": 273
+                        },
+                        {
+                          "x": 76,
+                          "y": 280
+                        },
+                        {
+                          "x": 70,
+                          "y": 280
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 70,
+                              "y": 280
+                            },
+                            {
+                              "x": 70,
+                              "y": 273
+                            },
+                            {
+                              "x": 76,
+                              "y": 273
+                            },
+                            {
+                              "x": 76,
+                              "y": 280
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 70,
+                                  "y": 280
+                                },
+                                {
+                                  "x": 70,
+                                  "y": 273
+                                },
+                                {
+                                  "x": 76,
+                                  "y": 273
+                                },
+                                {
+                                  "x": 76,
+                                  "y": 280
+                                }
+                              ]
+                            },
+                            "text": "e"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "O\ne\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/06cvx",
+            "score": 0.67824,
+            "description": "Renaissance"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.41205,
+            "description": "Painting"
+          },
+          {
+            "entityId": "/m/01t73z",
+            "score": 0.37094,
+            "description": "Renaissance art"
+          },
+          {
+            "entityId": "/m/01t4xw",
+            "score": 0.36935,
+            "description": "Trompe-l'œil"
+          },
+          {
+            "entityId": "/m/0f0ly",
+            "score": 0.33974,
+            "description": "Optical illusion"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://v.xiahui.net/?url=http://mmbiz.qpic.cn/mmbiz_jpg/oUibkFgwfularDhSicMgzJ2lL1211FhOa54ywiaqQOoqgn521AyqUd1oU3QmEkxuQOkNL9v4kDEFWSoJot4qiapakg/0?wx_fmt=jpeg"
+          },
+          {
+            "url": "http://i1289.photobucket.com/albums/b520/lunalovegood_126/Giuseppe%20Arcimboldo/air-15661_zpse496e70e.jpg"
+          },
+          {
+            "url": "http://postfiles15.naver.net/20160203_254/leespider_14545002139714tff5_JPEG/Air.jpg?type=w2"
+          },
+          {
+            "url": "https://biblioklept.files.wordpress.com/2013/08/air-15661.jpg?w=739"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/23/82/88/238288edf13c84e6c17cb494041d90b3.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://2.bp.blogspot.com/-DG2DZX9Dyd0/UBRg6-nUE0I/AAAAAAAAIyU/JrM1JjjA8jA/s1600/arcimboldo09.jpg"
+          },
+          {
+            "url": "http://www.eurocles.com/data/peinture/a/arcimboldo/arcimboldo%20-%20Air%201566%20Oil%20on%20canvas.%2075x56%20cm%20Private%20collection,%20Basel,%20Switzerland.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/a6/3f/51/a63f51d5cb13df119ec3b6fceb810c8c.jpg"
+          },
+          {
+            "url": "http://sschool8.narod.ru/Masters/Arcimboldo/26.jpg"
+          },
+          {
+            "url": "https://2.bp.blogspot.com/-Mcttq-3ARSc/V5xKTB_n_zI/AAAAAAACGW0/Ba6r4ic0HOQiDPf2NsE_PjA8TFO872VjwCLcB/s1600/9.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://en.wikipedia.org/wiki/File:Giuseppe_Arcimboldo_-_Air_-_WGA0822.jpg"
+          },
+          {
+            "url": "http://www.giuseppe-arcimboldo.org/Air.html"
+          },
+          {
+            "url": "http://www.wga.hu/html_m/a/arcimbol/3allegor/6elem1.html"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Giuseppe_Arcimboldo_-_Air_-_WGA0822.jpg"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/51791464437811202/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://www.archiviobolano.it/img/Arcimboldo-air.jpg"
+          },
+          {
+            "url": "http://www.photofromtheworld.com/img/Photo/Art/Artist/Giuseppe%20Arcimboldo/Giuseppe%20Arcimboldo-Earth,%20possibly%201566,%20private%20collection,%20Austria.jpg"
+          },
+          {
+            "url": "http://arthistoryproject.com/site/assets/files/11187/giuseppe_arcimboldo_-_the_autumn_1573_76x64cm_louvre_museum_rf_1964-32_color.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/82/ac/29/82ac2962d1ccafe2fd00ea04719c1066.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/6d/2f/fc/6d2ffc6dc99877953a5d3c689bcac2bd.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

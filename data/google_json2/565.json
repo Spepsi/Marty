@@ -1,0 +1,448 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.6964174
+        },
+        {
+          "mid": "/m/013_1c",
+          "description": "statue",
+          "score": 0.6843229
+        },
+        {
+          "mid": "/m/0djmp",
+          "description": "ancient history",
+          "score": 0.6327671
+        },
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.6310546
+        },
+        {
+          "mid": "/m/02ljgl",
+          "description": "monument",
+          "score": 0.5555578
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "en",
+          "description": "C\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 6,
+                "y": 233
+              },
+              {
+                "x": 15,
+                "y": 233
+              },
+              {
+                "x": 15,
+                "y": 241
+              },
+              {
+                "x": 6,
+                "y": 241
+              }
+            ]
+          }
+        },
+        {
+          "description": "C",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 15,
+                "y": 242
+              },
+              {
+                "x": 6,
+                "y": 242
+              },
+              {
+                "x": 6,
+                "y": 234
+              },
+              {
+                "x": 15,
+                "y": 234
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 115,
+                "green": 73,
+                "blue": 56
+              },
+              "score": 0.1840511,
+              "pixelFraction": 0.143074
+            },
+            {
+              "color": {
+                "red": 147,
+                "green": 109,
+                "blue": 91
+              },
+              "score": 0.14197242,
+              "pixelFraction": 0.07922201
+            },
+            {
+              "color": {
+                "red": 183,
+                "green": 146,
+                "blue": 126
+              },
+              "score": 0.12227967,
+              "pixelFraction": 0.07836812
+            },
+            {
+              "color": {
+                "red": 89,
+                "green": 44,
+                "blue": 33
+              },
+              "score": 0.10675659,
+              "pixelFraction": 0.22390892
+            },
+            {
+              "color": {
+                "red": 179,
+                "green": 153,
+                "blue": 136
+              },
+              "score": 0.06999219,
+              "pixelFraction": 0.046679318
+            },
+            {
+              "color": {
+                "red": 218,
+                "green": 188,
+                "blue": 162
+              },
+              "score": 0.059023272,
+              "pixelFraction": 0.1816888
+            },
+            {
+              "color": {
+                "red": 169,
+                "green": 153,
+                "blue": 155
+              },
+              "score": 0.04882481,
+              "pixelFraction": 0.009203036
+            },
+            {
+              "color": {
+                "red": 141,
+                "green": 116,
+                "blue": 100
+              },
+              "score": 0.035058614,
+              "pixelFraction": 0.015464895
+            },
+            {
+              "color": {
+                "red": 219,
+                "green": 181,
+                "blue": 162
+              },
+              "score": 0.034131203,
+              "pixelFraction": 0.0443074
+            },
+            {
+              "color": {
+                "red": 201,
+                "green": 182,
+                "blue": 186
+              },
+              "score": 0.027641878,
+              "pixelFraction": 0.005313093
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 272
+                },
+                {
+                  "x": 272,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "en"
+                }
+              ]
+            },
+            "width": 273,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "en"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 6,
+                      "y": 233
+                    },
+                    {
+                      "x": 15,
+                      "y": 233
+                    },
+                    {
+                      "x": 15,
+                      "y": 241
+                    },
+                    {
+                      "x": 6,
+                      "y": 241
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "en"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 6,
+                          "y": 233
+                        },
+                        {
+                          "x": 15,
+                          "y": 233
+                        },
+                        {
+                          "x": 15,
+                          "y": 241
+                        },
+                        {
+                          "x": 6,
+                          "y": 241
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 15,
+                              "y": 242
+                            },
+                            {
+                              "x": 6,
+                              "y": 242
+                            },
+                            {
+                              "x": 6,
+                              "y": 234
+                            },
+                            {
+                              "x": 15,
+                              "y": 234
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 15,
+                                  "y": 242
+                                },
+                                {
+                                  "x": 6,
+                                  "y": 242
+                                },
+                                {
+                                  "x": 6,
+                                  "y": 234
+                                },
+                                {
+                                  "x": 15,
+                                  "y": 234
+                                }
+                              ]
+                            },
+                            "text": "C"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "C\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0cfjp",
+            "score": 11.92448,
+            "description": "Uffizi Gallery"
+          },
+          {
+            "entityId": "/g/121k2lg3",
+            "score": 0.75898
+          },
+          {
+            "entityId": "/m/06cvx",
+            "score": 0.7433,
+            "description": "Renaissance"
+          },
+          {
+            "entityId": "/m/04rjz",
+            "score": 0.64492,
+            "description": "Middle Ages"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.3869176,
+            "description": "Painting"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://oudemeesterschilderijen.files.wordpress.com/2013/10/schilderij-castagno-philip-of-spain.jpg"
+          },
+          {
+            "url": "http://image.hnol.net/c/2012-05/16/08/201205160857366921-2379290.jpg"
+          },
+          {
+            "url": "http://2.bp.blogspot.com/-ScdJWhEd9F4/T6Qhwi6xVhI/AAAAAAAAAKg/9ShKQTcXYlc/s1600/1pippo.jpg"
+          },
+          {
+            "url": "http://k46.kn3.net/taringa/E/0/D/1/9/5/cardagra/DF4.jpg"
+          },
+          {
+            "url": "https://1.bp.blogspot.com/-x2s5492Ub80/U9u-MTym93I/AAAAAAAAOF4/sYikSU6SYuo/s1600/1pippo.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://yh.shutuedu.com:89/images/upload/renwu/20160624-59.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Andrea_del_Castagno_-_Pippo_Spano%2C_Niccol%C3%B2_Acciaiuoli%2C_Francesco_Petrarca_-_Google_Art_Project.jpg"
+          },
+          {
+            "url": "https://classconnection.s3.amazonaws.com/270/flashcards/4955270/jpg/0023_pippo_spano-144B4808D9842561B50.jpg"
+          },
+          {
+            "url": "http://www.uuhuaku.com/upload/userimg/840d893dad3e20bc5611ceb492f980e8/OutUrl_3c0aa21191ad3e2ac2b280c1b13fc4d3.jpg"
+          },
+          {
+            "url": "https://i.warosu.org/data/tg/img/0396/23/1430235927974.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Pippo_Spano"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Andrea_del_Castagno_-_Pippo_Spano,_Niccol%C3%B2_Acciaiuoli,_Francesco_Petrarca_-_Google_Art_Project.jpg"
+          },
+          {
+            "url": "https://www.google.com/culturalinstitute/beta/asset/pippo-spano/RAFbNU4KPI2CYw"
+          },
+          {
+            "url": "http://www.wga.hu/html_m/a/andrea/castagno/2_famous/1pippo.html"
+          },
+          {
+            "url": "https://www.google.com/culturalinstitute/beta/entity/m03ct7p?categoryId=historical-figure"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://www.mystudios.com/artgallery/paintings/78001-78500/78497/size3.jpg"
+          },
+          {
+            "url": "http://cdn.artmight.com/albums/2011-02-07/art-upload-2/c/Castagno-Andrea-Del/thumb_Famous-Persons-Pippo-Spano-WGA.jpg"
+          },
+          {
+            "url": "http://www.oceansbridge.com/paintings/artists/a/Andrea_Del_Castagno/thumb-oil/Famous_Persons_Farinata_degli_Uberti_WGA.jpg"
+          },
+          {
+            "url": "http://media.gettyimages.com/photos/pippo-spano-by-andrea-del-castagno-14481451-15th-century-fresco-and-picture-id494730920?s=612x612"
+          },
+          {
+            "url": "https://image.slidesharecdn.com/andreeadelcastagno-100225180300-phpapp01/95/andreea-del-castagno-25-728.jpg?cb=1267121112"
+          }
+        ]
+      }
+    }
+  ]
+}

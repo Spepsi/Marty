@@ -1,0 +1,449 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01dv4h",
+          "description": "portrait",
+          "score": 0.85319376
+        },
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.7081683
+        },
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.693039
+        },
+        {
+          "mid": "/m/0djmp",
+          "description": "ancient history",
+          "score": 0.6632979
+        },
+        {
+          "mid": "/m/0mf2",
+          "description": "abbot",
+          "score": 0.6280766
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "zh",
+          "description": "峰\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 266,
+                "y": 114
+              },
+              {
+                "x": 285,
+                "y": 114
+              },
+              {
+                "x": 285,
+                "y": 138
+              },
+              {
+                "x": 266,
+                "y": 138
+              }
+            ]
+          }
+        },
+        {
+          "description": "峰",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 285,
+                "y": 138
+              },
+              {
+                "x": 267,
+                "y": 139
+              },
+              {
+                "x": 266,
+                "y": 116
+              },
+              {
+                "x": 284,
+                "y": 115
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 113,
+                "green": 121,
+                "blue": 126
+              },
+              "score": 0.1249521,
+              "pixelFraction": 0.10961478
+            },
+            {
+              "color": {
+                "red": 160,
+                "green": 113,
+                "blue": 36
+              },
+              "score": 0.09563904,
+              "pixelFraction": 0.055981833
+            },
+            {
+              "color": {
+                "red": 190,
+                "green": 147,
+                "blue": 62
+              },
+              "score": 0.089055,
+              "pixelFraction": 0.032414656
+            },
+            {
+              "color": {
+                "red": 119,
+                "green": 74,
+                "blue": 22
+              },
+              "score": 0.055844806,
+              "pixelFraction": 0.060601316
+            },
+            {
+              "color": {
+                "red": 213,
+                "green": 196,
+                "blue": 165
+              },
+              "score": 0.043224316,
+              "pixelFraction": 0.043767616
+            },
+            {
+              "color": {
+                "red": 82,
+                "green": 88,
+                "blue": 90
+              },
+              "score": 0.06601432,
+              "pixelFraction": 0.060836203
+            },
+            {
+              "color": {
+                "red": 140,
+                "green": 151,
+                "blue": 158
+              },
+              "score": 0.06230276,
+              "pixelFraction": 0.051440652
+            },
+            {
+              "color": {
+                "red": 189,
+                "green": 140,
+                "blue": 58
+              },
+              "score": 0.044032227,
+              "pixelFraction": 0.043376137
+            },
+            {
+              "color": {
+                "red": 239,
+                "green": 230,
+                "blue": 203
+              },
+              "score": 0.036481414,
+              "pixelFraction": 0.035624806
+            },
+            {
+              "color": {
+                "red": 152,
+                "green": 108,
+                "blue": 49
+              },
+              "score": 0.035273932,
+              "pixelFraction": 0.086830564
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 331
+                },
+                {
+                  "x": 331,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "zh-Hans"
+                }
+              ]
+            },
+            "width": 332,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "zh-Hans"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 267,
+                      "y": 139
+                    },
+                    {
+                      "x": 266,
+                      "y": 116
+                    },
+                    {
+                      "x": 284,
+                      "y": 115
+                    },
+                    {
+                      "x": 285,
+                      "y": 138
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "zh-Hans"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 266,
+                          "y": 114
+                        },
+                        {
+                          "x": 285,
+                          "y": 114
+                        },
+                        {
+                          "x": 285,
+                          "y": 138
+                        },
+                        {
+                          "x": 266,
+                          "y": 138
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "zh-Hans"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 285,
+                              "y": 138
+                            },
+                            {
+                              "x": 267,
+                              "y": 139
+                            },
+                            {
+                              "x": 266,
+                              "y": 116
+                            },
+                            {
+                              "x": 284,
+                              "y": 115
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "zh-Hans"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 285,
+                                  "y": 138
+                                },
+                                {
+                                  "x": 267,
+                                  "y": 139
+                                },
+                                {
+                                  "x": 266,
+                                  "y": 116
+                                },
+                                {
+                                  "x": 284,
+                                  "y": 115
+                                }
+                              ]
+                            },
+                            "text": "峰"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "峰\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/04rjz",
+            "score": 0.74688,
+            "description": "Middle Ages"
+          },
+          {
+            "entityId": "/m/0719f",
+            "score": 0.71049,
+            "description": "Saint"
+          },
+          {
+            "entityId": "/m/01cfj",
+            "score": 0.7038,
+            "description": "Order of Saint Benedict"
+          },
+          {
+            "entityId": "/m/0mf2",
+            "score": 0.46948782,
+            "description": "Abbot"
+          },
+          {
+            "entityId": "/m/0266rh",
+            "score": 0.43209,
+            "description": "Monk"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://home.catholic.or.kr/gnbbs/ncbbs.dll/chinchang/-/b/1267/0711St%20Benedict%20(detail%20of%20Crucifixion).ANGELICO,%20Fra.1441-42.Fresco,%20550%20x%20950%20cm%20(full%20fresco).Convento%20di%20San%20Marco,%20Florence.jpg"
+          },
+          {
+            "url": "http://missionstclare.com/graphics/persons/B_names/benedict.jpg"
+          },
+          {
+            "url": "http://shows.we-envision.com/aa/2big/ANGELICO,%20Fra/crucifi1.jpg"
+          },
+          {
+            "url": "http://bbscache3.artron.net/forum/201304/01/2047037cmfztftx7cy78m7.jpg"
+          },
+          {
+            "url": "http://1.bp.blogspot.com/-jpO6oV8qvDU/VasKo2SEPZI/AAAAAAAAET0/jZtAFjlLn6c/s1600/crucifi1.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://images.zeno.org/Kunstwerke/I/big/1180035a.jpg"
+          },
+          {
+            "url": "https://iorigen.com/wp-content/uploads/2013/09/SANB23.jpg"
+          },
+          {
+            "url": "https://brandonwhawk.files.wordpress.com/2016/10/fra_angelico_031.jpg"
+          },
+          {
+            "url": "http://blogs.paxtv.org/toques/images/11_07_2015_15.jpg"
+          },
+          {
+            "url": "https://i1.wp.com/catholicsay.com/wp-content/uploads/2016/08/Fra_Angelico_031.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://www.catholiccompany.com/content/prayers-st-benedict-of-nursia.cfm"
+          },
+          {
+            "url": "http://www.mostholyfamilymonastery.com/catholicchurch/st-benedict-medal/"
+          },
+          {
+            "url": "http://www.historyofinformation.com/expanded.php?id=22"
+          },
+          {
+            "url": "http://archive.wf-f.org/StBenedict.html"
+          },
+          {
+            "url": "https://www.thoughtco.com/st-benedict-patron-saint-of-europe-124101"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://www.integratedcatholiclife.org/wp-content/uploads/st-benedict-245x300.jpg"
+          },
+          {
+            "url": "http://www.bestofsicily.com/mag/art216.gif"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Fra_Angelico_032.jpg"
+          },
+          {
+            "url": "http://www.integratedcatholiclife.org/wp-content/uploads/st-benedict-nursia-fra-angelico-detail-w740x493.jpg"
+          },
+          {
+            "url": "http://retreat-olb.co.uk/img/St%20Benedict%20icon.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

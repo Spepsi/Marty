@@ -1,0 +1,294 @@
+{
+  "responses": [
+    {
+      "logoAnnotations": [
+        {
+          "description": "The Vegetable Bowl",
+          "score": 0.62855405,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 35,
+                "y": 62
+              },
+              {
+                "x": 358,
+                "y": 62
+              },
+              {
+                "x": 358,
+                "y": 194
+              },
+              {
+                "x": 35,
+                "y": 194
+              }
+            ]
+          }
+        },
+        {
+          "description": "The Gardner",
+          "score": 0.62651044,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 41,
+                "y": 62
+              },
+              {
+                "x": 364,
+                "y": 62
+              },
+              {
+                "x": 364,
+                "y": 188
+              },
+              {
+                "x": 41,
+                "y": 188
+              }
+            ]
+          }
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.73992306
+        },
+        {
+          "mid": "/m/01spzs",
+          "description": "still life",
+          "score": 0.6615176
+        },
+        {
+          "mid": "/m/0jwzhtg",
+          "description": "carving",
+          "score": 0.50534785
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "UNLIKELY",
+        "spoof": "UNLIKELY",
+        "medical": "POSSIBLE",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 166,
+                "green": 111,
+                "blue": 62
+              },
+              "score": 0.17834409,
+              "pixelFraction": 0.03638867
+            },
+            {
+              "color": {
+                "red": 213,
+                "green": 192,
+                "blue": 162
+              },
+              "score": 0.07175515,
+              "pixelFraction": 0.026062155
+            },
+            {
+              "color": {
+                "red": 197,
+                "green": 142,
+                "blue": 93
+              },
+              "score": 0.15149347,
+              "pixelFraction": 0.026652243
+            },
+            {
+              "color": {
+                "red": 171,
+                "green": 152,
+                "blue": 88
+              },
+              "score": 0.14672014,
+              "pixelFraction": 0.01839103
+            },
+            {
+              "color": {
+                "red": 140,
+                "green": 118,
+                "blue": 62
+              },
+              "score": 0.09783966,
+              "pixelFraction": 0.025570417
+            },
+            {
+              "color": {
+                "red": 123,
+                "green": 73,
+                "blue": 32
+              },
+              "score": 0.05601431,
+              "pixelFraction": 0.031471282
+            },
+            {
+              "color": {
+                "red": 175,
+                "green": 155,
+                "blue": 123
+              },
+              "score": 0.026743257,
+              "pixelFraction": 0.019767899
+            },
+            {
+              "color": {
+                "red": 245,
+                "green": 228,
+                "blue": 206
+              },
+              "score": 0.025347268,
+              "pixelFraction": 0.008064516
+            },
+            {
+              "color": {
+                "red": 224,
+                "green": 172,
+                "blue": 123
+              },
+              "score": 0.02361371,
+              "pixelFraction": 0.0043273014
+            },
+            {
+              "color": {
+                "red": 104,
+                "green": 83,
+                "blue": 33
+              },
+              "score": 0.021927213,
+              "pixelFraction": 0.04523997
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 262
+                },
+                {
+                  "y": 262
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0f4s2w",
+            "score": 1.42574,
+            "description": "Vegetable"
+          },
+          {
+            "entityId": "/m/0dj5t3p",
+            "score": 0.81412,
+            "description": "Vegetables in a Bowl (The Gardener)"
+          },
+          {
+            "entityId": "/m/02xwb",
+            "score": 0.72462,
+            "description": "Fruit"
+          },
+          {
+            "entityId": "/g/11b6gncffz",
+            "score": 0.62204
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.56593,
+            "description": "Painting"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://thearkofgrace.com/wp-content/uploads/2013/02/Ortaggi-in-una-ciotola-o-Lortolano.jpg"
+          },
+          {
+            "url": "http://1.bp.blogspot.com/-NKheMmjBMeI/UP7Wj7Q0tKI/AAAAAAAAAkk/KvTMGKExEnw/s1600/Arcimboldo+The+Vegetable+Gardener.jpg"
+          },
+          {
+            "url": "http://brokohan.com/wp-content/uploads/2016/12/the-vegetable-gardeners-bible-by-edward-smith-the-vegetable-gardener-filegiuseppe-arcimboldo-the-vegetable-gardener-wga00841jpg-the-vegetable-gardeners-bible-2nd-edition-pdf.jpg"
+          },
+          {
+            "url": "https://sztukadluga.files.wordpress.com/2013/06/giuseppe_arcimboldo_-_the_vegetable_gardener_-_wga00841.jpg"
+          },
+          {
+            "url": "https://phototour.pro/content/gallery/photo_222.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://lemurinn.is/wp-content/uploads/greengrocer.jpg"
+          },
+          {
+            "url": "https://pufflesandhoneyadventures.files.wordpress.com/2014/12/the-gardner.jpg"
+          },
+          {
+            "url": "http://blocs.xtec.cat/visualiplasticamq/files/2015/09/THE-GARDENER.jpg"
+          },
+          {
+            "url": "http://www.2queens.ru/Uploads/Yelizaveta/fb-archimboldo_sadovnik_20072015.jpg"
+          },
+          {
+            "url": "http://chaspikserial.ru/uploads/posts/1files/691885-renaissance-painting-wallpaper.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.wga.hu/html_m/a/arcimbol/4composi/8garden.html"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Giuseppe_Arcimboldo_-_The_Vegetable_Gardener_-_WGA00841.jpg"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Giuseppe_Arcimboldo_-_The_Vegetable_Gardener_-_WGA00842.jpg"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/102245854020180077/"
+          },
+          {
+            "url": "http://thelancet.com/journals/lanpsy/article/PIIS2215-0366(14)70275-5/fulltext"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Giuseppe_Arcimboldo_-_The_Vegetable_Gardener_-_WGA00841.jpg/320px-Giuseppe_Arcimboldo_-_The_Vegetable_Gardener_-_WGA00841.jpg"
+          },
+          {
+            "url": "http://www.nature.com/scientificamerican/journal/v22/n3s/images/scientificamericanillusions0913-106-I1.jpg"
+          },
+          {
+            "url": "http://www.allripe.com.au/media/site/articles/90041/gardener.jpg"
+          },
+          {
+            "url": "http://4.bp.blogspot.com/-jr-9TabQL58/UFzOKUMIUqI/AAAAAAAAAHk/6wJraLYFcSk/s1600/Arcimboldo+Head+with+Basket+of+Fruit.jpg"
+          },
+          {
+            "url": "http://www.artsunlight.com/artist-photo/Giuseppe-Arcimboldo/vegetables-in-a-bowl-or-the-gardener-by-Giuseppe-Arcimboldo-032.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

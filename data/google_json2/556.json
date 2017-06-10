@@ -1,0 +1,568 @@
+{
+  "responses": [
+    {
+      "faceAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 90,
+                "y": 23
+              },
+              {
+                "x": 209,
+                "y": 23
+              },
+              {
+                "x": 209,
+                "y": 161
+              },
+              {
+                "x": 90,
+                "y": 161
+              }
+            ]
+          },
+          "fdBoundingPoly": {
+            "vertices": [
+              {
+                "x": 104,
+                "y": 63
+              },
+              {
+                "x": 196,
+                "y": 63
+              },
+              {
+                "x": 196,
+                "y": 154
+              },
+              {
+                "x": 104,
+                "y": 154
+              }
+            ]
+          },
+          "landmarks": [
+            {
+              "type": "LEFT_EYE",
+              "position": {
+                "x": 117.37253,
+                "y": 104.09355,
+                "z": 0.00086667726
+              }
+            },
+            {
+              "type": "RIGHT_EYE",
+              "position": {
+                "x": 149.95909,
+                "y": 89.46732,
+                "z": -13.633832
+              }
+            },
+            {
+              "type": "LEFT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 105.207855,
+                "y": 99.568146,
+                "z": 5.765434
+              }
+            },
+            {
+              "type": "RIGHT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 120.696655,
+                "y": 94.73767,
+                "z": -11.449919
+              }
+            },
+            {
+              "type": "LEFT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 135.71358,
+                "y": 89.14306,
+                "z": -17.623327
+              }
+            },
+            {
+              "type": "RIGHT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 156.77217,
+                "y": 77.775085,
+                "z": -15.84896
+              }
+            },
+            {
+              "type": "MIDPOINT_BETWEEN_EYES",
+              "position": {
+                "x": 131.19948,
+                "y": 98.19123,
+                "z": -13.949755
+              }
+            },
+            {
+              "type": "NOSE_TIP",
+              "position": {
+                "x": 136.99393,
+                "y": 120.480606,
+                "z": -20.55889
+              }
+            },
+            {
+              "type": "UPPER_LIP",
+              "position": {
+                "x": 145.4758,
+                "y": 128.78519,
+                "z": -10.752663
+              }
+            },
+            {
+              "type": "LOWER_LIP",
+              "position": {
+                "x": 151.7107,
+                "y": 139.06151,
+                "z": -6.3982496
+              }
+            },
+            {
+              "type": "MOUTH_LEFT",
+              "position": {
+                "x": 138.23596,
+                "y": 135.74239,
+                "z": 4.0943437
+              }
+            },
+            {
+              "type": "MOUTH_RIGHT",
+              "position": {
+                "x": 162.52751,
+                "y": 125.50786,
+                "z": -6.0810223
+              }
+            },
+            {
+              "type": "MOUTH_CENTER",
+              "position": {
+                "x": 148.79465,
+                "y": 133.10568,
+                "z": -7.369983
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_RIGHT",
+              "position": {
+                "x": 149.25829,
+                "y": 115.39425,
+                "z": -10.8891735
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_LEFT",
+              "position": {
+                "x": 133.36029,
+                "y": 121.96556,
+                "z": -3.519063
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_CENTER",
+              "position": {
+                "x": 142.5268,
+                "y": 122.161125,
+                "z": -11.9769945
+              }
+            },
+            {
+              "type": "LEFT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 116.63779,
+                "y": 102.17019,
+                "z": -2.9472067
+              }
+            },
+            {
+              "type": "LEFT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 124.46612,
+                "y": 101.33017,
+                "z": -2.7047396
+              }
+            },
+            {
+              "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 118.851456,
+                "y": 106.12982,
+                "z": -0.17316118
+              }
+            },
+            {
+              "type": "LEFT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 113.14718,
+                "y": 105.3834,
+                "z": 5.3286524
+              }
+            },
+            {
+              "type": "LEFT_EYE_PUPIL",
+              "position": {
+                "x": 117.663055,
+                "y": 104.115036,
+                "z": -0.95142794
+              }
+            },
+            {
+              "type": "RIGHT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 147.56662,
+                "y": 89.09209,
+                "z": -15.8887005
+              }
+            },
+            {
+              "type": "RIGHT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 157.4841,
+                "y": 86.483246,
+                "z": -12.699592
+              }
+            },
+            {
+              "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 151.75037,
+                "y": 92.119446,
+                "z": -13.266988
+              }
+            },
+            {
+              "type": "RIGHT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 143.58755,
+                "y": 93.35777,
+                "z": -10.521618
+              }
+            },
+            {
+              "type": "RIGHT_EYE_PUPIL",
+              "position": {
+                "x": 149.3728,
+                "y": 90.73017,
+                "z": -14.28018
+              }
+            },
+            {
+              "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 110.29031,
+                "y": 94.025635,
+                "z": -5.660552
+              }
+            },
+            {
+              "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 143.78511,
+                "y": 79.90485,
+                "z": -19.690022
+              }
+            },
+            {
+              "type": "LEFT_EAR_TRAGION",
+              "position": {
+                "x": 118.217514,
+                "y": 114.790344,
+                "z": 51.415577
+              }
+            },
+            {
+              "type": "RIGHT_EAR_TRAGION",
+              "position": {
+                "x": 188.32965,
+                "y": 85.12975,
+                "z": 22.038885
+              }
+            },
+            {
+              "type": "FOREHEAD_GLABELLA",
+              "position": {
+                "x": 127.62654,
+                "y": 91.59402,
+                "z": -15.907777
+              }
+            },
+            {
+              "type": "CHIN_GNATHION",
+              "position": {
+                "x": 160.11188,
+                "y": 151.90222,
+                "z": 0.753557
+              }
+            },
+            {
+              "type": "CHIN_LEFT_GONION",
+              "position": {
+                "x": 127.83176,
+                "y": 137.95438,
+                "z": 40.050903
+              }
+            },
+            {
+              "type": "CHIN_RIGHT_GONION",
+              "position": {
+                "x": 191.14859,
+                "y": 111.188934,
+                "z": 13.517076
+              }
+            }
+          ],
+          "rollAngle": -26.323908,
+          "panAngle": -21.361708,
+          "tiltAngle": -8.778586,
+          "detectionConfidence": 0.6080167,
+          "landmarkingConfidence": 0.35129622,
+          "joyLikelihood": "VERY_UNLIKELY",
+          "sorrowLikelihood": "VERY_UNLIKELY",
+          "angerLikelihood": "VERY_UNLIKELY",
+          "surpriseLikelihood": "VERY_UNLIKELY",
+          "underExposedLikelihood": "VERY_UNLIKELY",
+          "blurredLikelihood": "VERY_UNLIKELY",
+          "headwearLikelihood": "POSSIBLE"
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.7788415
+        },
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.6654303
+        },
+        {
+          "mid": "/m/01dv4h",
+          "description": "portrait",
+          "score": 0.5942762
+        },
+        {
+          "mid": "/m/0djmp",
+          "description": "ancient history",
+          "score": 0.5816709
+        },
+        {
+          "mid": "/m/04zhd",
+          "description": "mythology",
+          "score": 0.5389988
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 209,
+                "green": 188,
+                "blue": 155
+              },
+              "score": 0.14713381,
+              "pixelFraction": 0.09375
+            },
+            {
+              "color": {
+                "red": 97,
+                "green": 80,
+                "blue": 61
+              },
+              "score": 0.10082616,
+              "pixelFraction": 0.07106855
+            },
+            {
+              "color": {
+                "red": 78,
+                "green": 46,
+                "blue": 31
+              },
+              "score": 0.09112034,
+              "pixelFraction": 0.055863574
+            },
+            {
+              "color": {
+                "red": 109,
+                "green": 35,
+                "blue": 11
+              },
+              "score": 0.0042862846,
+              "pixelFraction": 0.003108199
+            },
+            {
+              "color": {
+                "red": 174,
+                "green": 155,
+                "blue": 127
+              },
+              "score": 0.10813884,
+              "pixelFraction": 0.070228495
+            },
+            {
+              "color": {
+                "red": 134,
+                "green": 115,
+                "blue": 92
+              },
+              "score": 0.085062735,
+              "pixelFraction": 0.06636424
+            },
+            {
+              "color": {
+                "red": 67,
+                "green": 51,
+                "blue": 35
+              },
+              "score": 0.064631686,
+              "pixelFraction": 0.03998656
+            },
+            {
+              "color": {
+                "red": 107,
+                "green": 72,
+                "blue": 54
+              },
+              "score": 0.064537466,
+              "pixelFraction": 0.07451277
+            },
+            {
+              "color": {
+                "red": 56,
+                "green": 50,
+                "blue": 46
+              },
+              "score": 0.058221363,
+              "pixelFraction": 0.057123657
+            },
+            {
+              "color": {
+                "red": 88,
+                "green": 81,
+                "blue": 76
+              },
+              "score": 0.053626962,
+              "pixelFraction": 0.05687164
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 310
+                },
+                {
+                  "x": 310,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 1,
+            "importanceFraction": 0.82
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/01fs7r",
+            "score": 13.4376,
+            "description": "Andrea del Castagno"
+          },
+          {
+            "entityId": "/m/02vm8gx",
+            "score": 12.80272,
+            "description": "Sant'Apollonia"
+          },
+          {
+            "entityId": "/m/0glsf9l",
+            "score": 6.93744,
+            "description": "Last Supper"
+          },
+          {
+            "entityId": "/m/0jnz3",
+            "score": 3.51008,
+            "description": "The Last Supper"
+          },
+          {
+            "entityId": "/g/1232jnd0",
+            "score": 3.1928,
+            "description": "Cenacolo di Andrea del Sarto"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Andrea_del_castagno%2C_cenacolo_di_sant%27apollonia%2C_1447%2C_15.JPG"
+          },
+          {
+            "url": "http://3.bp.blogspot.com/-uZd3mNJ8oZs/T3VAbhAKwXI/AAAAAAAANd4/cZIw1tnL42w/s1600/Sant%2527Apollonia_11.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Andrea_del_castagno%2C_cenacolo_di_sant%27apollonia%2C_1447%2C_15.JPG/1280px-Andrea_del_castagno%2C_cenacolo_di_sant%27apollonia%2C_1447%2C_15.JPG"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Andrea_del_castagno%2C_cenacolo_di_sant%27apollonia%2C_1447%2C_15.JPG/1024px-Andrea_del_castagno%2C_cenacolo_di_sant%27apollonia%2C_1447%2C_15.JPG"
+          },
+          {
+            "url": "https://florensics.files.wordpress.com/2012/06/cenac7.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Andrea_del_castagno,_cenacolo_di_sant%27apollonia,_1447,_15.JPG"
+          },
+          {
+            "url": "https://yooniqimages.com/images/detail/100593493/Creative/pippo-spano-ca-1450-fresco-by-andrea-del-castagno-1421-1457-museum-of-the-convent-of-santa-apollonia-cenacolo-di-santapollonia-florence-italy-15th-century"
+          },
+          {
+            "url": "https://yooniqimages.com/images/detail/100601445/Creative/saint-james-the-greater-detail-from-the-last-supper-fresco-by-andrea-del-castagno-1421-1457-1450-museum-of-the-convent-of-santa-apollonia-cenacolo-di-santapollonia-florence-italy-15th-century"
+          },
+          {
+            "url": "http://www.alinariarchives.it/en/search?isPostBack=1&query=%22Last%20Supper%22"
+          },
+          {
+            "url": "https://nellepieghedelcorpo.wordpress.com/santapollonia-e-il-cenacolo-di-andrea-del-castagno/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Andrea_del_castagno%2C_cenacolo_di_sant%27apollonia%2C_1447%2C_13.JPG/629px-Andrea_del_castagno%2C_cenacolo_di_sant%27apollonia%2C_1447%2C_13.JPG"
+          },
+          {
+            "url": "http://media.gettyimages.com/photos/jesus-face-detail-from-the-last-supper-fresco-by-andrea-del-castagno-picture-id157412200?s=594x594"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Andrea_del_castagno%2C_cenacolo_di_sant%27apollonia%2C_1447%2C_04.JPG"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Andrea_del_castagno%2C_cenacolo_di_sant%27apollonia%2C_1447%2C_14.JPG"
+          },
+          {
+            "url": "http://www.travelingintuscany.com/images/art/andreadelcastagno/lastsupper4700.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

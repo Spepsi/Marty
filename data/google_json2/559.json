@@ -1,0 +1,509 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.65723133
+        },
+        {
+          "mid": "/m/02nnps",
+          "description": "relief",
+          "score": 0.62957764
+        },
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.58127785
+        },
+        {
+          "mid": "/m/0djmp",
+          "description": "ancient history",
+          "score": 0.55307436
+        },
+        {
+          "mid": "/m/02wtjj",
+          "description": "stone carving",
+          "score": 0.5520236
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "en",
+          "description": "ALL\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 371,
+                "y": 212
+              },
+              {
+                "x": 396,
+                "y": 212
+              },
+              {
+                "x": 396,
+                "y": 280
+              },
+              {
+                "x": 371,
+                "y": 280
+              }
+            ]
+          }
+        },
+        {
+          "description": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 397,
+                "y": 213
+              },
+              {
+                "x": 394,
+                "y": 280
+              },
+              {
+                "x": 372,
+                "y": 279
+              },
+              {
+                "x": 375,
+                "y": 212
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 215,
+                "green": 192,
+                "blue": 159
+              },
+              "score": 0.20227088,
+              "pixelFraction": 0.09481459
+            },
+            {
+              "color": {
+                "red": 196,
+                "green": 147,
+                "blue": 103
+              },
+              "score": 0.07425849,
+              "pixelFraction": 0.038965933
+            },
+            {
+              "color": {
+                "red": 160,
+                "green": 112,
+                "blue": 91
+              },
+              "score": 0.06483081,
+              "pixelFraction": 0.04265903
+            },
+            {
+              "color": {
+                "red": 178,
+                "green": 156,
+                "blue": 126
+              },
+              "score": 0.1272133,
+              "pixelFraction": 0.138981
+            },
+            {
+              "color": {
+                "red": 221,
+                "green": 189,
+                "blue": 140
+              },
+              "score": 0.10328722,
+              "pixelFraction": 0.06300874
+            },
+            {
+              "color": {
+                "red": 243,
+                "green": 219,
+                "blue": 184
+              },
+              "score": 0.07397907,
+              "pixelFraction": 0.021103406
+            },
+            {
+              "color": {
+                "red": 190,
+                "green": 158,
+                "blue": 110
+              },
+              "score": 0.04569707,
+              "pixelFraction": 0.07145011
+            },
+            {
+              "color": {
+                "red": 135,
+                "green": 120,
+                "blue": 96
+              },
+              "score": 0.04505392,
+              "pixelFraction": 0.11056678
+            },
+            {
+              "color": {
+                "red": 111,
+                "green": 117,
+                "blue": 113
+              },
+              "score": 0.043957233,
+              "pixelFraction": 0.07740428
+            },
+            {
+              "color": {
+                "red": 163,
+                "green": 112,
+                "blue": 75
+              },
+              "score": 0.040717844,
+              "pixelFraction": 0.013717215
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 343
+                },
+                {
+                  "y": 343
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "en"
+                }
+              ]
+            },
+            "width": 400,
+            "height": 344,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "en"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 397,
+                      "y": 213
+                    },
+                    {
+                      "x": 394,
+                      "y": 280
+                    },
+                    {
+                      "x": 372,
+                      "y": 279
+                    },
+                    {
+                      "x": 375,
+                      "y": 212
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "en"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 371,
+                          "y": 212
+                        },
+                        {
+                          "x": 396,
+                          "y": 212
+                        },
+                        {
+                          "x": 396,
+                          "y": 280
+                        },
+                        {
+                          "x": 371,
+                          "y": 280
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 397,
+                              "y": 213
+                            },
+                            {
+                              "x": 394,
+                              "y": 280
+                            },
+                            {
+                              "x": 372,
+                              "y": 279
+                            },
+                            {
+                              "x": 375,
+                              "y": 212
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 395,
+                                  "y": 213
+                                },
+                                {
+                                  "x": 394,
+                                  "y": 235
+                                },
+                                {
+                                  "x": 374,
+                                  "y": 234
+                                },
+                                {
+                                  "x": 375,
+                                  "y": 212
+                                }
+                              ]
+                            },
+                            "text": "A"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 395,
+                                  "y": 236
+                                },
+                                {
+                                  "x": 394,
+                                  "y": 254
+                                },
+                                {
+                                  "x": 373,
+                                  "y": 253
+                                },
+                                {
+                                  "x": 374,
+                                  "y": 235
+                                }
+                              ]
+                            },
+                            "text": "L"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 395,
+                                  "y": 259
+                                },
+                                {
+                                  "x": 394,
+                                  "y": 280
+                                },
+                                {
+                                  "x": 373,
+                                  "y": 279
+                                },
+                                {
+                                  "x": 374,
+                                  "y": 258
+                                }
+                              ]
+                            },
+                            "text": "L"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "ALL\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0glsf9l",
+            "score": 5.97792,
+            "description": "Last Supper"
+          },
+          {
+            "entityId": "/m/02vm8gx",
+            "score": 3.24056,
+            "description": "Sant'Apollonia"
+          },
+          {
+            "entityId": "/m/0jnz3",
+            "score": 2.69008,
+            "description": "The Last Supper"
+          },
+          {
+            "entityId": "/m/0h51tkv",
+            "score": 1.41652,
+            "description": "Christ as the Suffering Redeemer"
+          },
+          {
+            "entityId": "/m/08w2nc",
+            "score": 1.14264,
+            "description": "The Deposition"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://bbscache1.artron.net/forum/201303/31/16193608q7o08cnzjzmm0z.jpg"
+          },
+          {
+            "url": "http://k33.kn3.net/taringa/5/E/7/7/9/A/cardagra/1F6.jpg"
+          },
+          {
+            "url": "http://www.seckim.com/wp-content/gallery/andrea-del-castagno/christ-in-the-sepulchre-with-two-angels.jpg"
+          },
+          {
+            "url": "http://www.truecarpentry.org/webfolders/web6/PhotosItalia1/ChristSepulchreTwoAngelsAndreaDelCastagno1447.jpg"
+          },
+          {
+            "url": "http://4.bp.blogspot.com/-upil_lyqEsk/U9u7arXPHEI/AAAAAAAAOEQ/gcVftTma-tA/s1600/09chris1.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://2.bp.blogspot.com/-pwzWaDjpU78/UYvoV9UB78I/AAAAAAAABvU/tfuDlyvs5bM/s1600/DSC_0012.JPG"
+          },
+          {
+            "url": "http://bbscache1.artron.net/forum/201303/31/16193608q7o08cnzjzmm0z.jpg"
+          },
+          {
+            "url": "http://k33.kn3.net/taringa/5/E/7/7/9/A/cardagra/1F6.jpg"
+          },
+          {
+            "url": "http://www.seckim.com/wp-content/gallery/andrea-del-castagno/christ-in-the-sepulchre-with-two-angels.jpg"
+          },
+          {
+            "url": "http://www.truecarpentry.org/webfolders/web6/PhotosItalia1/ChristSepulchreTwoAngelsAndreaDelCastagno1447.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.travelingintuscany.com/art/andreadelcastagno.htm"
+          },
+          {
+            "url": "http://www.travelingintuscany.com/art/andreadelcastagno/lastsupper.htm"
+          },
+          {
+            "url": "http://www.wikiwand.com/it/Cristo_in_piet%C3%A0_sorretto_da_due_angeli_(Andrea_del_Castagno)"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Andrea_del_castagno,_Christ_in_the_Sepulchre_with_Two_Angels_by_Andrea_del_Castagno_01.jpg"
+          },
+          {
+            "url": "https://www.zazzle.com/andrea+del+castagno+postcards"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://it.wahooart.com/Art.nsf/O/8XZ8XN/$File/Andrea-Del-Castagno-Christ-in-the-Sepulchre-with-Two-Angels.JPG"
+          },
+          {
+            "url": "https://image.slidesharecdn.com/earlyrenaissanceinitaly3-141119032953-conversion-gate02/95/lhm-86-638.jpg?cb=1416368225"
+          },
+          {
+            "url": "http://es.wahooart.com/Art.nsf/O/9GZFT6/$File/AndreaDelCastagno-DormitionoftheVirgin(1440s).JPG"
+          },
+          {
+            "url": "http://ammermann.de/Projekt2005/Geschichte/images/Marienkroenung.jpg"
+          },
+          {
+            "url": "http://www.artbible.net/3JC/-Mat-26,26_The%20last%20supper_La%20Cene/2nd_15th_Siecle/15%20ANDREA%20DI%20CASTAGNO%20LAST%20SUPPER%20AA%20DETAIL.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

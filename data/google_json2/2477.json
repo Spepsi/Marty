@@ -1,0 +1,425 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.91749424
+        },
+        {
+          "mid": "/m/01spzs",
+          "description": "still life",
+          "score": 0.903453
+        },
+        {
+          "mid": "/m/027_ny3",
+          "description": "still life photography",
+          "score": 0.8741249
+        },
+        {
+          "mid": "/m/02wbm",
+          "description": "food",
+          "score": 0.7825761
+        },
+        {
+          "mid": "/m/036qh8",
+          "description": "produce",
+          "score": 0.7117171
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "en",
+          "description": "C\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 76,
+                "y": 135
+              },
+              {
+                "x": 85,
+                "y": 135
+              },
+              {
+                "x": 85,
+                "y": 144
+              },
+              {
+                "x": 76,
+                "y": 144
+              }
+            ]
+          }
+        },
+        {
+          "description": "C",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 76,
+                "y": 144
+              },
+              {
+                "x": 76,
+                "y": 135
+              },
+              {
+                "x": 85,
+                "y": 135
+              },
+              {
+                "x": 85,
+                "y": 144
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 217,
+                "green": 187,
+                "blue": 136
+              },
+              "score": 0.4627611,
+              "pixelFraction": 0.06369799
+            },
+            {
+              "color": {
+                "red": 188,
+                "green": 158,
+                "blue": 108
+              },
+              "score": 0.16975623,
+              "pixelFraction": 0.0753857
+            },
+            {
+              "color": {
+                "red": 175,
+                "green": 156,
+                "blue": 123
+              },
+              "score": 0.12163137,
+              "pixelFraction": 0.1354605
+            },
+            {
+              "color": {
+                "red": 211,
+                "green": 190,
+                "blue": 153
+              },
+              "score": 0.111717656,
+              "pixelFraction": 0.0758532
+            },
+            {
+              "color": {
+                "red": 137,
+                "green": 119,
+                "blue": 90
+              },
+              "score": 0.05001393,
+              "pixelFraction": 0.14960262
+            },
+            {
+              "color": {
+                "red": 101,
+                "green": 87,
+                "blue": 64
+              },
+              "score": 0.02878593,
+              "pixelFraction": 0.12482469
+            },
+            {
+              "color": {
+                "red": 237,
+                "green": 221,
+                "blue": 185
+              },
+              "score": 0.024215031,
+              "pixelFraction": 0.051542778
+            },
+            {
+              "color": {
+                "red": 151,
+                "green": 125,
+                "blue": 81
+              },
+              "score": 0.009422045,
+              "pixelFraction": 0.01694717
+            },
+            {
+              "color": {
+                "red": 240,
+                "green": 218,
+                "blue": 169
+              },
+              "score": 0.007708013,
+              "pixelFraction": 0.002337541
+            },
+            {
+              "color": {
+                "red": 190,
+                "green": 147,
+                "blue": 103
+              },
+              "score": 0.0033930712,
+              "pixelFraction": 0.0071294997
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 222
+                },
+                {
+                  "y": 222
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "en"
+                }
+              ]
+            },
+            "width": 400,
+            "height": 223,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "en"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 76,
+                      "y": 135
+                    },
+                    {
+                      "x": 85,
+                      "y": 135
+                    },
+                    {
+                      "x": 85,
+                      "y": 144
+                    },
+                    {
+                      "x": 76,
+                      "y": 144
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "en"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 76,
+                          "y": 135
+                        },
+                        {
+                          "x": 85,
+                          "y": 135
+                        },
+                        {
+                          "x": 85,
+                          "y": 144
+                        },
+                        {
+                          "x": 76,
+                          "y": 144
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 76,
+                              "y": 144
+                            },
+                            {
+                              "x": 76,
+                              "y": 135
+                            },
+                            {
+                              "x": 85,
+                              "y": 135
+                            },
+                            {
+                              "x": 85,
+                              "y": 144
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 76,
+                                  "y": 144
+                                },
+                                {
+                                  "x": 76,
+                                  "y": 135
+                                },
+                                {
+                                  "x": 85,
+                                  "y": 135
+                                },
+                                {
+                                  "x": 85,
+                                  "y": 144
+                                }
+                              ]
+                            },
+                            "text": "C"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "C\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/g/1tl7n08m",
+            "score": 1.40562
+          },
+          {
+            "entityId": "/m/01spzs",
+            "score": 1.070197,
+            "description": "Still life"
+          },
+          {
+            "entityId": "/m/0f4s2w",
+            "score": 0.95522934,
+            "description": "Vegetable"
+          },
+          {
+            "entityId": "/m/05zdw7",
+            "score": 0.83054,
+            "description": "Olive"
+          },
+          {
+            "entityId": "/m/0hsgr",
+            "score": 0.77322,
+            "description": "Chestnut"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://cp12.nevsepic.com.ua/67-7/1354815288-0314408-www.nevsepic.com.ua.jpg"
+          },
+          {
+            "url": "http://asimg.artsolution.net/tsmedia/CanessoGalphoto/Giuseppe-Artioli-NaturemorteavecdesnoixetdesraisinssecsETNaturemorteavecunpoisson-2262016T105738.jpg?qlt=100&ftr=4&cell=840,460&cvt=jpeg"
+          },
+          {
+            "url": "http://www.housepaintingsale.com/images/anquan/Giuseppe%20Artioli/Still_life_with_fisha_61089.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.housepaintingsale.com/still-life-p-65425.html"
+          },
+          {
+            "url": "http://www.housepaintingsale.com/still-life-with-olives-chestnuts-walnuts-and-grapes-p-65424.html"
+          },
+          {
+            "url": "http://www.housepaintingsale.com/giuseppe-artioli-c-1_3316.html"
+          },
+          {
+            "url": "http://www.canesso.art/DesktopDefault.aspx?tabid=260&keyword="
+          },
+          {
+            "url": "http://www.canesso.art/Giuseppe-Artioli-actif-Mantoue-dans-seconde-moitie-XVIII-sup-sup-siecle-Nature-morte-avec-des-noix-des-raisins-secs-Nature-morte-avec-poisson-DesktopDefault.aspx?tabid=6&tabindex=5&objectid=16811&categoryid=0&lg=it"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://www.housepaintingsale.com/images/anquan/Giuseppe%20Artioli/Still_life_with_fisha_61089.jpg"
+          },
+          {
+            "url": "https://dnq5fc8vfw3ev.cloudfront.net/thumbnail/299000/299654/small_aspect/School/A-Bowl-Of-Sardines.jpg?ts=1459229076"
+          },
+          {
+            "url": "http://68.media.tumblr.com/28f39c8db0e8ec3279ebd4c50071b5a7/tumblr_mulbstgXWj1qbyk5qo1_r2_500.jpg"
+          },
+          {
+            "url": "https://dnq5fc8vfw3ev.cloudfront.net/thumbnail/372000/372603/small_aspect/Peterzano/Still-Life-Of-Squash,-Lilies,-Peaches,-And-Pears.jpg?ts=1459229076"
+          },
+          {
+            "url": "http://l7.alamy.com/zooms/c92a7a65be1b4fc483a79f64b43d7b98/giovanna-garzoni-stillleben-mit-pfirsischen-und-johannisbrot-hkwk1w.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

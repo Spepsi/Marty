@@ -1,0 +1,585 @@
+{
+  "responses": [
+    {
+      "faceAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 107,
+                "y": 25
+              },
+              {
+                "x": 209,
+                "y": 25
+              },
+              {
+                "x": 209,
+                "y": 143
+              },
+              {
+                "x": 107,
+                "y": 143
+              }
+            ]
+          },
+          "fdBoundingPoly": {
+            "vertices": [
+              {
+                "x": 113,
+                "y": 58
+              },
+              {
+                "x": 181,
+                "y": 58
+              },
+              {
+                "x": 181,
+                "y": 126
+              },
+              {
+                "x": 113,
+                "y": 126
+              }
+            ]
+          },
+          "landmarks": [
+            {
+              "type": "LEFT_EYE",
+              "position": {
+                "x": 134.81071,
+                "y": 79.99218,
+                "z": -2.6160467e-05
+              }
+            },
+            {
+              "type": "RIGHT_EYE",
+              "position": {
+                "x": 159.5258,
+                "y": 79.20532,
+                "z": -12.76907
+              }
+            },
+            {
+              "type": "LEFT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 123.99045,
+                "y": 71.65647,
+                "z": 7.7535815
+              }
+            },
+            {
+              "type": "RIGHT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 136.3963,
+                "y": 72.56186,
+                "z": -8.366189
+              }
+            },
+            {
+              "type": "LEFT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 149.8429,
+                "y": 73.01727,
+                "z": -15.086375
+              }
+            },
+            {
+              "type": "RIGHT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 169.7968,
+                "y": 74.0334,
+                "z": -15.353186
+              }
+            },
+            {
+              "type": "MIDPOINT_BETWEEN_EYES",
+              "position": {
+                "x": 142.38693,
+                "y": 78.84242,
+                "z": -11.778934
+              }
+            },
+            {
+              "type": "NOSE_TIP",
+              "position": {
+                "x": 139.05301,
+                "y": 98.057556,
+                "z": -18.72499
+              }
+            },
+            {
+              "type": "UPPER_LIP",
+              "position": {
+                "x": 141.93927,
+                "y": 108.758514,
+                "z": -11.537603
+              }
+            },
+            {
+              "type": "LOWER_LIP",
+              "position": {
+                "x": 143.1488,
+                "y": 118.52757,
+                "z": -8.892615
+              }
+            },
+            {
+              "type": "MOUTH_LEFT",
+              "position": {
+                "x": 135.04723,
+                "y": 112.21326,
+                "z": 1.5213059
+              }
+            },
+            {
+              "type": "MOUTH_RIGHT",
+              "position": {
+                "x": 155.54349,
+                "y": 112.476814,
+                "z": -9.33913
+              }
+            },
+            {
+              "type": "MOUTH_CENTER",
+              "position": {
+                "x": 143.10802,
+                "y": 113.251785,
+                "z": -9.150409
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_RIGHT",
+              "position": {
+                "x": 151.84848,
+                "y": 100.67865,
+                "z": -11.671724
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_LEFT",
+              "position": {
+                "x": 136.38174,
+                "y": 99.65979,
+                "z": -4.0879354
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_CENTER",
+              "position": {
+                "x": 141.97513,
+                "y": 102.89851,
+                "z": -12.012588
+              }
+            },
+            {
+              "type": "LEFT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 131.10042,
+                "y": 77.3699,
+                "z": -0.9170627
+              }
+            },
+            {
+              "type": "LEFT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 137.81499,
+                "y": 79.90449,
+                "z": -1.625989
+              }
+            },
+            {
+              "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 132.7923,
+                "y": 81.755875,
+                "z": 0.84613043
+              }
+            },
+            {
+              "type": "LEFT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 127.788345,
+                "y": 79.168076,
+                "z": 6.317323
+              }
+            },
+            {
+              "type": "LEFT_EYE_PUPIL",
+              "position": {
+                "x": 131.18465,
+                "y": 79.43111,
+                "z": 0.6346492
+              }
+            },
+            {
+              "type": "RIGHT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 158.76056,
+                "y": 78.29335,
+                "z": -14.734338
+              }
+            },
+            {
+              "type": "RIGHT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 166.3933,
+                "y": 80.41593,
+                "z": -12.972547
+              }
+            },
+            {
+              "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 159.35558,
+                "y": 81.594185,
+                "z": -12.870976
+              }
+            },
+            {
+              "type": "RIGHT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 153.05211,
+                "y": 79.78856,
+                "z": -9.755212
+              }
+            },
+            {
+              "type": "RIGHT_EYE_PUPIL",
+              "position": {
+                "x": 159.56204,
+                "y": 80.358246,
+                "z": -13.608971
+              }
+            },
+            {
+              "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 129.14992,
+                "y": 68.46071,
+                "z": -2.2874002
+              }
+            },
+            {
+              "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 159.18762,
+                "y": 69.514305,
+                "z": -17.29123
+              }
+            },
+            {
+              "type": "LEFT_EAR_TRAGION",
+              "position": {
+                "x": 131.37576,
+                "y": 91.984665,
+                "z": 44.833714
+              }
+            },
+            {
+              "type": "RIGHT_EAR_TRAGION",
+              "position": {
+                "x": 194.19765,
+                "y": 94.13356,
+                "z": 13.446974
+              }
+            },
+            {
+              "type": "FOREHEAD_GLABELLA",
+              "position": {
+                "x": 142.54881,
+                "y": 72.488205,
+                "z": -12.775551
+              }
+            },
+            {
+              "type": "CHIN_GNATHION",
+              "position": {
+                "x": 144.8511,
+                "y": 132.60283,
+                "z": -4.0498047
+              }
+            },
+            {
+              "type": "CHIN_LEFT_GONION",
+              "position": {
+                "x": 128.6406,
+                "y": 112.55572,
+                "z": 33.101807
+              }
+            },
+            {
+              "type": "CHIN_RIGHT_GONION",
+              "position": {
+                "x": 185.11264,
+                "y": 113.9966,
+                "z": 4.8252273
+              }
+            }
+          ],
+          "rollAngle": 0.1826754,
+          "panAngle": -26.583174,
+          "tiltAngle": -3.5299995,
+          "detectionConfidence": 0.99826014,
+          "landmarkingConfidence": 0.45880422,
+          "joyLikelihood": "VERY_UNLIKELY",
+          "sorrowLikelihood": "VERY_UNLIKELY",
+          "angerLikelihood": "VERY_UNLIKELY",
+          "surpriseLikelihood": "VERY_UNLIKELY",
+          "underExposedLikelihood": "VERY_UNLIKELY",
+          "blurredLikelihood": "VERY_UNLIKELY",
+          "headwearLikelihood": "VERY_UNLIKELY"
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/01g317",
+          "description": "person",
+          "score": 0.90773034
+        },
+        {
+          "mid": "/m/019p5q",
+          "description": "gentleman",
+          "score": 0.73500806
+        },
+        {
+          "mid": "/m/09jwl",
+          "description": "musician",
+          "score": 0.67609257
+        },
+        {
+          "mid": "/m/01dv4h",
+          "description": "portrait",
+          "score": 0.6462921
+        },
+        {
+          "mid": "/m/02w3_2",
+          "description": "formal wear",
+          "score": 0.506527
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 51,
+                "green": 52,
+                "blue": 61
+              },
+              "score": 0.45905316,
+              "pixelFraction": 0.40898618
+            },
+            {
+              "color": {
+                "red": 199,
+                "green": 193,
+                "blue": 198
+              },
+              "score": 0.022298928,
+              "pixelFraction": 0.023425499
+            },
+            {
+              "color": {
+                "red": 24,
+                "green": 18,
+                "blue": 15
+              },
+              "score": 0.26704165,
+              "pixelFraction": 0.36459294
+            },
+            {
+              "color": {
+                "red": 54,
+                "green": 56,
+                "blue": 72
+              },
+              "score": 0.03894314,
+              "pixelFraction": 0.02626728
+            },
+            {
+              "color": {
+                "red": 63,
+                "green": 48,
+                "blue": 30
+              },
+              "score": 0.028997172,
+              "pixelFraction": 0.016589861
+            },
+            {
+              "color": {
+                "red": 95,
+                "green": 79,
+                "blue": 55
+              },
+              "score": 0.021992628,
+              "pixelFraction": 0.013824885
+            },
+            {
+              "color": {
+                "red": 159,
+                "green": 153,
+                "blue": 157
+              },
+              "score": 0.021523714,
+              "pixelFraction": 0.023502303
+            },
+            {
+              "color": {
+                "red": 75,
+                "green": 74,
+                "blue": 80
+              },
+              "score": 0.016413018,
+              "pixelFraction": 0.015745008
+            },
+            {
+              "color": {
+                "red": 214,
+                "green": 191,
+                "blue": 166
+              },
+              "score": 0.015295744,
+              "pixelFraction": 0.0111367125
+            },
+            {
+              "color": {
+                "red": 63,
+                "green": 69,
+                "blue": 83
+              },
+              "score": 0.015285414,
+              "pixelFraction": 0.011597542
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 339
+                },
+                {
+                  "x": 339,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 1,
+            "importanceFraction": 1.05
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/03cj66k",
+            "score": 1.51376,
+            "description": "Leonardo Alenza"
+          },
+          {
+            "entityId": "/m/01dv4h",
+            "score": 0.8773378,
+            "description": "Portrait"
+          },
+          {
+            "entityId": "/g/120xpbz0",
+            "score": 0.53772,
+            "description": "Portrait of an Architect"
+          },
+          {
+            "entityId": "/m/0mn6",
+            "score": 0.34423,
+            "description": "Architect"
+          },
+          {
+            "entityId": "/m/0n1h",
+            "score": 0.32883,
+            "description": "Artist"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://03varvara.files.wordpress.com/2010/07/leonardo-alenza-y-nieto-a-portrait-of-an-architect-1825-30.jpg?w=1000"
+          },
+          {
+            "url": "https://03varvara.files.wordpress.com/2010/07/leonardo-alenza-y-nieto-a-portrait-of-an-architect-1825-30.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/art/a/alenza/portrait.jpg"
+          },
+          {
+            "url": "http://www.sabercultural.com/template/pinacoteca/fotos/Sala-Ouro-44-Foto05.jpg"
+          },
+          {
+            "url": "https://image.invaluable.com/housePhotos/sothebys/60/109960/H0046-L03320142.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://03varvara.files.wordpress.com/2010/07/leonardo-alenza-y-nieto-a-portrait-of-an-architect-1825-30.jpg?w=1000"
+          },
+          {
+            "url": "http://www.freakingnews.com/pictures/27500/Albert-Einstien-Painting-27628.jpg"
+          },
+          {
+            "url": "https://03varvara.files.wordpress.com/2010/07/leonardo-alenza-y-nieto-a-portrait-of-an-architect-1825-30.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/art/a/alenza/portrait.jpg"
+          },
+          {
+            "url": "http://4.bp.blogspot.com/-QhCItD0gF00/VqdfLXu0NDI/AAAAAAAAU6k/GCPD5KBdkjI/s1600/641%255D%2BAlenza%2BY%2BNietto%2B%25281807-1845%2529%2B.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.artnet.com/artists/leonardo-alenza-y-nieto/past-auction-results/2"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Leonardo_Alenza_Y_Nieto_-_Portrait_of_an_Architect_-_WGA00144.jpg"
+          },
+          {
+            "url": "http://www.askart.com/artist/Leonardo_Alenza_Y_Nieto/11085148/Leonardo_Alenza_Y_Nieto.aspx"
+          },
+          {
+            "url": "http://www.arcadja.com/auctions/en/alenza_y_nieto_leonardo/artist/54609/"
+          },
+          {
+            "url": "http://www.invaluable.com/artist/alenza-y-nieto-leonardo-2smk5iwav6"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://03varvara.files.wordpress.com/2010/07/leonardo-alenza-y-nieto-a-portrait-of-an-architect-1825-30.jpg"
+          },
+          {
+            "url": "https://1.bp.blogspot.com/-A2TyxFkqpVI/VGWSlU7xx1I/AAAAAAAAQzA/1aAgylVyDXA/s1600/Leonardo%2BAlenza%2By%2BNieto%2B(Madrid%2C%2B1807%2B-%2B1845)-.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/39/d1/a0/39d1a0461be91bd1c92bf80e95908fbd.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/63/38/1e/63381eab40a30ee82783c2dac962b50f.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/44/06/9a/44069af85c53eaa36c49aa4395043aec.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

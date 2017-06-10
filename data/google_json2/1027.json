@@ -1,0 +1,410 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.8228598
+        },
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.67834675
+        },
+        {
+          "mid": "/m/04zhd",
+          "description": "mythology",
+          "score": 0.64811337
+        },
+        {
+          "mid": "/m/015r61",
+          "description": "modern art",
+          "score": 0.51533467
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "en",
+          "description": "2\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 149,
+                "y": 180
+              },
+              {
+                "x": 162,
+                "y": 180
+              },
+              {
+                "x": 162,
+                "y": 203
+              },
+              {
+                "x": 149,
+                "y": 203
+              }
+            ]
+          }
+        },
+        {
+          "description": "2",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 150,
+                "y": 180
+              },
+              {
+                "x": 162,
+                "y": 181
+              },
+              {
+                "x": 161,
+                "y": 203
+              },
+              {
+                "x": 149,
+                "y": 202
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 24,
+                "green": 22,
+                "blue": 23
+              },
+              "score": 0.22186299,
+              "pixelFraction": 0.42401865
+            },
+            {
+              "color": {
+                "red": 203,
+                "green": 193,
+                "blue": 196
+              },
+              "score": 0.12847947,
+              "pixelFraction": 0.026719783
+            },
+            {
+              "color": {
+                "red": 112,
+                "green": 75,
+                "blue": 64
+              },
+              "score": 0.08961831,
+              "pixelFraction": 0.005732608
+            },
+            {
+              "color": {
+                "red": 165,
+                "green": 156,
+                "blue": 156
+              },
+              "score": 0.07835116,
+              "pixelFraction": 0.050427515
+            },
+            {
+              "color": {
+                "red": 54,
+                "green": 47,
+                "blue": 45
+              },
+              "score": 0.07517766,
+              "pixelFraction": 0.21171784
+            },
+            {
+              "color": {
+                "red": 130,
+                "green": 119,
+                "blue": 116
+              },
+              "score": 0.057847902,
+              "pixelFraction": 0.06558492
+            },
+            {
+              "color": {
+                "red": 100,
+                "green": 80,
+                "blue": 64
+              },
+              "score": 0.05577638,
+              "pixelFraction": 0.018558104
+            },
+            {
+              "color": {
+                "red": 139,
+                "green": 107,
+                "blue": 92
+              },
+              "score": 0.051495086,
+              "pixelFraction": 0.004760979
+            },
+            {
+              "color": {
+                "red": 93,
+                "green": 83,
+                "blue": 79
+              },
+              "score": 0.045388505,
+              "pixelFraction": 0.090652935
+            },
+            {
+              "color": {
+                "red": 81,
+                "green": 43,
+                "blue": 34
+              },
+              "score": 0.039176933,
+              "pixelFraction": 0.008841819
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 266
+                },
+                {
+                  "x": 266,
+                  "y": 255
+                },
+                {
+                  "y": 255
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 0.72999996
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "en"
+                }
+              ]
+            },
+            "width": 267,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "en"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 150,
+                      "y": 180
+                    },
+                    {
+                      "x": 162,
+                      "y": 181
+                    },
+                    {
+                      "x": 161,
+                      "y": 203
+                    },
+                    {
+                      "x": 149,
+                      "y": 202
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "en"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 149,
+                          "y": 180
+                        },
+                        {
+                          "x": 162,
+                          "y": 180
+                        },
+                        {
+                          "x": 162,
+                          "y": 203
+                        },
+                        {
+                          "x": 149,
+                          "y": 203
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 150,
+                              "y": 180
+                            },
+                            {
+                              "x": 162,
+                              "y": 181
+                            },
+                            {
+                              "x": 161,
+                              "y": 203
+                            },
+                            {
+                              "x": 149,
+                              "y": 202
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 150,
+                                  "y": 180
+                                },
+                                {
+                                  "x": 162,
+                                  "y": 181
+                                },
+                                {
+                                  "x": 161,
+                                  "y": 203
+                                },
+                                {
+                                  "x": 149,
+                                  "y": 202
+                                }
+                              ]
+                            },
+                            "text": "2"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "2\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/056_y",
+            "score": 5.66928,
+            "description": "Madrid"
+          },
+          {
+            "entityId": "/m/026jdrn",
+            "score": 1.19116,
+            "description": "The Adoration of the Shepherds"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 1.0654076,
+            "description": "Painting"
+          },
+          {
+            "entityId": "/m/040lyz",
+            "score": 0.82556,
+            "description": "Province of Mantua"
+          },
+          {
+            "entityId": "/m/05nmd",
+            "score": 0.73552,
+            "description": "Oil painting"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/41/8c/9f/418c9f3c2c8e7a7def713f301fcdd924.jpg"
+          },
+          {
+            "url": "http://www.outpost-art.org/images/Antolinez%20Jose/The%20Death%20of%20the%20Magdalene.jpg"
+          },
+          {
+            "url": "http://cfile217.uf.daum.net/R400x0/120FE4424EFD40F836AA9E"
+          },
+          {
+            "url": "http://photo.catholic.or.kr/GNDATA/BOARD/9/9986/th1_%ED%98%B8%EC%84%B8%EC%95%88%ED%86%A8%EB%A6%AC%EB%84%A4%EC%8A%A4_%EB%A7%89%EB%8B%AC%EB%A0%88%EB%82%98%EC%9D%98%EC%A3%BD%EC%9D%8C.jpg.jpg"
+          },
+          {
+            "url": "https://www.paintingstar.com/static/gallery/2011/07/02/528ea9f559590_thumb.jpg?The+Death+of+Marie+Magdalene+Artwork+by+Jos%C3%A9+Antolinez"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/41/8c/9f/418c9f3c2c8e7a7def713f301fcdd924.jpg"
+          },
+          {
+            "url": "http://www.outpost-art.org/images/Antolinez%20Jose/The%20Death%20of%20the%20Magdalene.jpg"
+          },
+          {
+            "url": "http://cfile217.uf.daum.net/R400x0/120FE4424EFD40F836AA9E"
+          },
+          {
+            "url": "http://photo.catholic.or.kr/GNDATA/BOARD/9/9986/th1_%ED%98%B8%EC%84%B8%EC%95%88%ED%86%A8%EB%A6%AC%EB%84%A4%EC%8A%A4_%EB%A7%89%EB%8B%AC%EB%A0%88%EB%82%98%EC%9D%98%EC%A3%BD%EC%9D%8C.jpg.jpg"
+          },
+          {
+            "url": "https://static.wmobjects.com.br/imgres/arquivos/ids/3547489-344-344/direito-a-morte-com-dignidade-e-autonomia.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

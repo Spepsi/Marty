@@ -1,0 +1,429 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.6748917
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "ja",
+          "description": "リ\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 326,
+                "y": 30
+              },
+              {
+                "x": 334,
+                "y": 30
+              },
+              {
+                "x": 334,
+                "y": 41
+              },
+              {
+                "x": 326,
+                "y": 41
+              }
+            ]
+          }
+        },
+        {
+          "description": "リ",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 326,
+                "y": 41
+              },
+              {
+                "x": 326,
+                "y": 30
+              },
+              {
+                "x": 334,
+                "y": 30
+              },
+              {
+                "x": 334,
+                "y": 41
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 174,
+                "green": 153,
+                "blue": 126
+              },
+              "score": 0.21805315,
+              "pixelFraction": 0.19538766
+            },
+            {
+              "color": {
+                "red": 80,
+                "green": 82,
+                "blue": 79
+              },
+              "score": 0.09383594,
+              "pixelFraction": 0.09040747
+            },
+            {
+              "color": {
+                "red": 187,
+                "green": 66,
+                "blue": 50
+              },
+              "score": 0.02947109,
+              "pixelFraction": 0.011035654
+            },
+            {
+              "color": {
+                "red": 41,
+                "green": 13,
+                "blue": 13
+              },
+              "score": 0.025517117,
+              "pixelFraction": 0.0048104133
+            },
+            {
+              "color": {
+                "red": 220,
+                "green": 192,
+                "blue": 189
+              },
+              "score": 0.015251438,
+              "pixelFraction": 0.002688172
+            },
+            {
+              "color": {
+                "red": 131,
+                "green": 123,
+                "blue": 98
+              },
+              "score": 0.18250301,
+              "pixelFraction": 0.16454442
+            },
+            {
+              "color": {
+                "red": 54,
+                "green": 54,
+                "blue": 52
+              },
+              "score": 0.06726153,
+              "pixelFraction": 0.026032824
+            },
+            {
+              "color": {
+                "red": 148,
+                "green": 150,
+                "blue": 143
+              },
+              "score": 0.034363676,
+              "pixelFraction": 0.07399547
+            },
+            {
+              "color": {
+                "red": 128,
+                "green": 128,
+                "blue": 119
+              },
+              "score": 0.032697078,
+              "pixelFraction": 0.10045274
+            },
+            {
+              "color": {
+                "red": 95,
+                "green": 82,
+                "blue": 63
+              },
+              "score": 0.032359578,
+              "pixelFraction": 0.042586304
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 182
+                },
+                {
+                  "y": 182
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "ja"
+                }
+              ]
+            },
+            "width": 400,
+            "height": 183,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "ja"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 326,
+                      "y": 30
+                    },
+                    {
+                      "x": 334,
+                      "y": 30
+                    },
+                    {
+                      "x": 334,
+                      "y": 41
+                    },
+                    {
+                      "x": 326,
+                      "y": 41
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "ja"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 326,
+                          "y": 30
+                        },
+                        {
+                          "x": 334,
+                          "y": 30
+                        },
+                        {
+                          "x": 334,
+                          "y": 41
+                        },
+                        {
+                          "x": 326,
+                          "y": 41
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "ja"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 326,
+                              "y": 41
+                            },
+                            {
+                              "x": 326,
+                              "y": 30
+                            },
+                            {
+                              "x": 334,
+                              "y": 30
+                            },
+                            {
+                              "x": 334,
+                              "y": 41
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "ja"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 326,
+                                  "y": 41
+                                },
+                                {
+                                  "x": 326,
+                                  "y": 30
+                                },
+                                {
+                                  "x": 334,
+                                  "y": 30
+                                },
+                                {
+                                  "x": 334,
+                                  "y": 41
+                                }
+                              ]
+                            },
+                            "text": "リ"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "リ\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0cfjp",
+            "score": 20.95552,
+            "description": "Uffizi Gallery"
+          },
+          {
+            "entityId": "/m/05m4tw",
+            "score": 2.47708,
+            "description": "Annunciation"
+          },
+          {
+            "entityId": "/m/06cvx",
+            "score": 0.77046,
+            "description": "Renaissance"
+          },
+          {
+            "entityId": "/g/123268p5",
+            "score": 0.52918,
+            "description": "The Visitation"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.47895637,
+            "description": "Painting"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://pds.exblog.jp/pds/1/201504/16/02/c0153302_00381660.jpg"
+          },
+          {
+            "url": "http://media-cache-ec0.pinimg.com/736x/09/04/49/0904497a8d2e110f8dfffd5491fbc8ff.jpg"
+          },
+          {
+            "url": "http://img1.liveinternet.ru/images/attach/d/1/131/935/131935183_f3947.jpg"
+          },
+          {
+            "url": "https://i.arts.in.ua/i/c/f3947.jpg"
+          },
+          {
+            "url": "http://photos1.blogger.com/x/blogger/688/39/1600/113590/annunciations.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://floweralley.files.wordpress.com/2016/02/20151007_094645.jpg"
+          },
+          {
+            "url": "http://www.settemuse.it/pittori_opere_A/albertinelli_mariotto/albertinelli_mariotto_500_annunciation.jpg"
+          },
+          {
+            "url": "http://slideplayer.es/103604/1/images/2/Anuncio+del+%C3%81ngel+y+visita+de+Isabel.jpg"
+          },
+          {
+            "url": "https://image.slidesharecdn.com/mariadenazaret-110206143719-phpapp01/95/mariadenazaret-4-728.jpg?cb=1297003782"
+          },
+          {
+            "url": "https://image.slidesharecdn.com/pp830-141201085106-conversion-gate02/95/mara-madre-de-dios-4-638.jpg?cb=1417424240"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://it.wikipedia.org/wiki/Visitazione_(Albertinelli)"
+          },
+          {
+            "url": "http://www.artmuseum.cz/umelec.php?art_id=1217"
+          },
+          {
+            "url": "http://www.wga.hu/html_m/a/albertin/visitat1.html"
+          },
+          {
+            "url": "http://www.artchive.com/web_gallery/M/Mariotto-Albertinelli/Circumcision.html"
+          },
+          {
+            "url": "http://www.outpost-art.org/albertinelli-mariotto-c-15_16_42.html"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://www.faisceau.com/photogallery/annon/seul/albertinelli.jpg"
+          },
+          {
+            "url": "http://www.outpost-art.org/images/Albertinelli%20Mariotto/Circumcision.jpg"
+          },
+          {
+            "url": "http://1.bp.blogspot.com/-TPhX5fvHSwU/TqNVWXLchoI/AAAAAAAAERk/i2JWEeQo2EY/s1600/birth+of+christ++mariotto+albertinelli++1503++gall.uffizi+florence.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/art/a/angelico/04/3predel2.jpg"
+          },
+          {
+            "url": "http://allart.biz/up/photos/album/Mariotto%20ALBERTINELLI/thumb_visitat3.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

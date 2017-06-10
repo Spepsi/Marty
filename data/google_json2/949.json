@@ -1,0 +1,447 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0f85g",
+          "description": "basilica",
+          "score": 0.7236462
+        },
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.66137874
+        },
+        {
+          "mid": "/m/02nvjx",
+          "description": "place of worship",
+          "score": 0.64570194
+        },
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.6277659
+        },
+        {
+          "mid": "/m/01sqnx",
+          "description": "byzantine architecture",
+          "score": 0.59327084
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "en",
+          "description": "0\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 244,
+                "y": 167
+              },
+              {
+                "x": 250,
+                "y": 167
+              },
+              {
+                "x": 250,
+                "y": 176
+              },
+              {
+                "x": 244,
+                "y": 176
+              }
+            ]
+          }
+        },
+        {
+          "description": "0",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 244,
+                "y": 167
+              },
+              {
+                "x": 250,
+                "y": 167
+              },
+              {
+                "x": 250,
+                "y": 176
+              },
+              {
+                "x": 244,
+                "y": 176
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 192,
+                "green": 143,
+                "blue": 123
+              },
+              "score": 0.18248913,
+              "pixelFraction": 0.09638648
+            },
+            {
+              "color": {
+                "red": 36,
+                "green": 53,
+                "blue": 111
+              },
+              "score": 0.03052538,
+              "pixelFraction": 0.004962779
+            },
+            {
+              "color": {
+                "red": 158,
+                "green": 112,
+                "blue": 93
+              },
+              "score": 0.13886574,
+              "pixelFraction": 0.1096464
+            },
+            {
+              "color": {
+                "red": 197,
+                "green": 145,
+                "blue": 103
+              },
+              "score": 0.10983942,
+              "pixelFraction": 0.017292183
+            },
+            {
+              "color": {
+                "red": 226,
+                "green": 177,
+                "blue": 157
+              },
+              "score": 0.06991356,
+              "pixelFraction": 0.033886477
+            },
+            {
+              "color": {
+                "red": 162,
+                "green": 111,
+                "blue": 71
+              },
+              "score": 0.05696236,
+              "pixelFraction": 0.013647643
+            },
+            {
+              "color": {
+                "red": 120,
+                "green": 75,
+                "blue": 61
+              },
+              "score": 0.040513176,
+              "pixelFraction": 0.07227047
+            },
+            {
+              "color": {
+                "red": 185,
+                "green": 146,
+                "blue": 149
+              },
+              "score": 0.03717814,
+              "pixelFraction": 0.06792804
+            },
+            {
+              "color": {
+                "red": 227,
+                "green": 180,
+                "blue": 135
+              },
+              "score": 0.03282959,
+              "pixelFraction": 0.0043424317
+            },
+            {
+              "color": {
+                "red": 150,
+                "green": 109,
+                "blue": 113
+              },
+              "score": 0.02904044,
+              "pixelFraction": 0.05234181
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 335
+                },
+                {
+                  "x": 335,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "en"
+                }
+              ]
+            },
+            "width": 336,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "en"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 244,
+                      "y": 167
+                    },
+                    {
+                      "x": 250,
+                      "y": 167
+                    },
+                    {
+                      "x": 250,
+                      "y": 176
+                    },
+                    {
+                      "x": 244,
+                      "y": 176
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "en"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 244,
+                          "y": 167
+                        },
+                        {
+                          "x": 250,
+                          "y": 167
+                        },
+                        {
+                          "x": 250,
+                          "y": 176
+                        },
+                        {
+                          "x": 244,
+                          "y": 176
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 244,
+                              "y": 167
+                            },
+                            {
+                              "x": 250,
+                              "y": 167
+                            },
+                            {
+                              "x": 250,
+                              "y": 176
+                            },
+                            {
+                              "x": 244,
+                              "y": 176
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 244,
+                                  "y": 167
+                                },
+                                {
+                                  "x": 250,
+                                  "y": 167
+                                },
+                                {
+                                  "x": 250,
+                                  "y": 176
+                                },
+                                {
+                                  "x": 244,
+                                  "y": 176
+                                }
+                              ]
+                            },
+                            "text": "0"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "0\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0g5twh",
+            "score": 7.41744,
+            "description": "Orvieto Cathedral"
+          },
+          {
+            "entityId": "/g/11ckqrh76g",
+            "score": 1.05188
+          },
+          {
+            "entityId": "/m/066dv",
+            "score": 0.72041,
+            "description": "Prophet"
+          },
+          {
+            "entityId": "/g/121p71hn",
+            "score": 0.50448
+          },
+          {
+            "entityId": "/m/02xkrxw",
+            "score": 0.35261,
+            "description": "Twelve Minor Prophets"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://1.bp.blogspot.com/-QvG08B8cH7Q/UuzXEn4iJQI/AAAAAAAAEmU/6M46iT_xu1Y/s1600/4brisio.jpg"
+          },
+          {
+            "url": "http://melaniejeanjuneau.files.wordpress.com/2013/05/4brisio.jpg"
+          },
+          {
+            "url": "http://www.lezionidireligione.it/joomla3/images/04.MaterialeDidattico/3.StoriaSalvezza/03.StoriaSalvezza/10Profeti1-1.jpg"
+          },
+          {
+            "url": "http://4.bp.blogspot.com/-vctxZFDA7MQ/UD4TgW4xvKI/AAAAAAAAM_Y/Icb9elde-bs/s1600/PROFETAS+ORVIETO.jpg"
+          },
+          {
+            "url": "http://catholicmom.com/wp-content/uploads/2015/07/Fra_Angelico_-_Prophets_-_WGA00681.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://1.bp.blogspot.com/-QvG08B8cH7Q/UuzXEn4iJQI/AAAAAAAAEmU/6M46iT_xu1Y/s1600/4brisio.jpg"
+          },
+          {
+            "url": "http://melaniejeanjuneau.files.wordpress.com/2013/05/4brisio.jpg"
+          },
+          {
+            "url": "http://www.lezionidireligione.it/joomla3/images/04.MaterialeDidattico/3.StoriaSalvezza/03.StoriaSalvezza/10Profeti1-1.jpg"
+          },
+          {
+            "url": "http://4.bp.blogspot.com/-vctxZFDA7MQ/UD4TgW4xvKI/AAAAAAAAM_Y/Icb9elde-bs/s1600/PROFETAS+ORVIETO.jpg"
+          },
+          {
+            "url": "http://catholicmom.com/wp-content/uploads/2015/07/Fra_Angelico_-_Prophets_-_WGA00681.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://fraangelico102.yolasite.com/orvieto.php"
+          },
+          {
+            "url": "http://www.wga.hu/html_m/a/angelico/14/4brisio.html"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/800444533740497372/"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/800444533740497371/"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/571816483909771668/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://1.bp.blogspot.com/-e4HlVUY2aus/U8Tf5wsgQoI/AAAAAAAALts/jfqDaSlT_hg/s1600/fra+angelico-4brisio.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/69/e3/7a/69e37a84e0c55838073c30f5122a06e1.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/45/0c/e5/450ce52abbb0cd7bc28a2f230adf70c0.jpg"
+          },
+          {
+            "url": "https://tanogabo.com/wp-content/uploads/2015/11/Beato-Angelico-Cristo_Giudice-cappella-di-San-Brizio-Orvieto.jpg"
+          },
+          {
+            "url": "http://media.gettyimages.com/photos/the-chorus-of-the-prophets-fresco-by-giovanni-da-fiesole-known-as-fra-picture-id158648290?s=612x612"
+          }
+        ]
+      }
+    }
+  ]
+}

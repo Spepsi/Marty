@@ -1,0 +1,448 @@
+{
+  "responses": [
+    {
+      "logoAnnotations": [
+        {
+          "description": "Louis Anquetin, Avenue de Clichy",
+          "score": 0.85173345,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 29,
+                "y": 3
+              },
+              {
+                "x": 257,
+                "y": 3
+              },
+              {
+                "x": 257,
+                "y": 384
+              },
+              {
+                "x": 29,
+                "y": 384
+              }
+            ]
+          }
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "zh-Hant",
+          "description": "悶\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 52,
+                "y": 283
+              },
+              {
+                "x": 60,
+                "y": 283
+              },
+              {
+                "x": 60,
+                "y": 290
+              },
+              {
+                "x": 52,
+                "y": 290
+              }
+            ]
+          }
+        },
+        {
+          "description": "悶",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 53,
+                "y": 283
+              },
+              {
+                "x": 61,
+                "y": 283
+              },
+              {
+                "x": 61,
+                "y": 290
+              },
+              {
+                "x": 53,
+                "y": 290
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 44,
+                "green": 56,
+                "blue": 79
+              },
+              "score": 0.26847938,
+              "pixelFraction": 0.112483196
+            },
+            {
+              "color": {
+                "red": 115,
+                "green": 114,
+                "blue": 80
+              },
+              "score": 0.015535661,
+              "pixelFraction": 0.005292339
+            },
+            {
+              "color": {
+                "red": 173,
+                "green": 109,
+                "blue": 41
+              },
+              "score": 0.011118082,
+              "pixelFraction": 0.0028561829
+            },
+            {
+              "color": {
+                "red": 187,
+                "green": 184,
+                "blue": 129
+              },
+              "score": 0.0067728646,
+              "pixelFraction": 0.00016801075
+            },
+            {
+              "color": {
+                "red": 64,
+                "green": 82,
+                "blue": 111
+              },
+              "score": 0.24975617,
+              "pixelFraction": 0.10534274
+            },
+            {
+              "color": {
+                "red": 62,
+                "green": 90,
+                "blue": 135
+              },
+              "score": 0.07877699,
+              "pixelFraction": 0.04544691
+            },
+            {
+              "color": {
+                "red": 49,
+                "green": 54,
+                "blue": 60
+              },
+              "score": 0.074529886,
+              "pixelFraction": 0.11391129
+            },
+            {
+              "color": {
+                "red": 90,
+                "green": 113,
+                "blue": 145
+              },
+              "score": 0.049926043,
+              "pixelFraction": 0.026461694
+            },
+            {
+              "color": {
+                "red": 72,
+                "green": 81,
+                "blue": 84
+              },
+              "score": 0.039389923,
+              "pixelFraction": 0.024613576
+            },
+            {
+              "color": {
+                "red": 19,
+                "green": 28,
+                "blue": 47
+              },
+              "score": 0.03113635,
+              "pixelFraction": 0.056787636
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 309
+                },
+                {
+                  "x": 309,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "zh-Hant"
+                }
+              ]
+            },
+            "width": 310,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "zh-Hant"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 52,
+                      "y": 283
+                    },
+                    {
+                      "x": 60,
+                      "y": 283
+                    },
+                    {
+                      "x": 60,
+                      "y": 290
+                    },
+                    {
+                      "x": 52,
+                      "y": 290
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "zh-Hant"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 52,
+                          "y": 283
+                        },
+                        {
+                          "x": 60,
+                          "y": 283
+                        },
+                        {
+                          "x": 60,
+                          "y": 290
+                        },
+                        {
+                          "x": 52,
+                          "y": 290
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "zh-Hant"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 53,
+                              "y": 283
+                            },
+                            {
+                              "x": 61,
+                              "y": 283
+                            },
+                            {
+                              "x": 61,
+                              "y": 290
+                            },
+                            {
+                              "x": 53,
+                              "y": 290
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "zh-Hant"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 53,
+                                  "y": 283
+                                },
+                                {
+                                  "x": 61,
+                                  "y": 283
+                                },
+                                {
+                                  "x": 61,
+                                  "y": 290
+                                },
+                                {
+                                  "x": 53,
+                                  "y": 290
+                                }
+                              ]
+                            },
+                            "text": "悶"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "悶\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/04w138",
+            "score": 1.51044,
+            "description": "Café Terrace at Night"
+          },
+          {
+            "entityId": "/m/02zp4_",
+            "score": 1.37956,
+            "description": "Wadsworth Atheneum"
+          },
+          {
+            "entityId": "/g/1224z82z",
+            "score": 0.82182,
+            "description": "avenue de Clichy"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.71295,
+            "description": "Painting"
+          },
+          {
+            "entityId": "/m/04ct3rm",
+            "score": 0.5868,
+            "description": "Place de Clichy"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://www.carmillaonline.com/wp-content/uploads/2016/12/arte-avenue-de-clichy-five-oclock-in-the-evening-by-louis-anquetin-1887.jpg"
+          },
+          {
+            "url": "https://s3.amazonaws.com/classconnection/834/flashcards/8423834/jpg/clichy-14D591E9B712CBF85E7.jpg"
+          },
+          {
+            "url": "http://www.galleryintell.com/wp-content/uploads/2014/11/Avenue-de-Clichy_Louis-Aquetin.jpg"
+          },
+          {
+            "url": "https://pbs.twimg.com/media/CzfGjqCWQAAxMsf.jpg"
+          },
+          {
+            "url": "https://pbs.twimg.com/media/C9PYgTFXkAIUbq-.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://3.bp.blogspot.com/-mDJ_Kza3kNU/T7lwyWTyhEI/AAAAAAAAANM/o9efjkb8mj8/s1600/SEGUNDA+EDICION.jpg"
+          },
+          {
+            "url": "https://www.carmillaonline.com/wp-content/uploads/2016/12/arte-avenue-de-clichy-five-oclock-in-the-evening-by-louis-anquetin-1887.jpg"
+          },
+          {
+            "url": "https://s3.amazonaws.com/classconnection/834/flashcards/8423834/jpg/clichy-14D591E9B712CBF85E7.jpg"
+          },
+          {
+            "url": "http://www.galleryintell.com/wp-content/uploads/2014/11/Avenue-de-Clichy_Louis-Aquetin.jpg"
+          },
+          {
+            "url": "https://pbs.twimg.com/media/CzfGjqCWQAAxMsf.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Louis_Anquetin"
+          },
+          {
+            "url": "http://www.the-athenaeum.org/art/list.php?m=a&s=tu&aid=146"
+          },
+          {
+            "url": "https://mydailyartdisplay.wordpress.com/2013/10/16/louis-anquetin-and-cloisonnism/"
+          },
+          {
+            "url": "http://www.galleryintell.com/artex/avenue-de-clichy-louis-anquetin/"
+          },
+          {
+            "url": "http://www.tuttartpitturasculturapoesiamusica.com/2014/02/Louis-Anquetin.html"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://pbs.twimg.com/media/CT9rGvfWsAAdbhn.jpg"
+          },
+          {
+            "url": "https://s3.amazonaws.com/classconnection/609/flashcards/7287609/jpg/3850e6bb18609f9199d151c00c3ec2a8-14B4EADDB1E3CEB79ED.jpg"
+          },
+          {
+            "url": "http://images.arcadja.com/anquetin_louis-avenue_de_clichy_le_soir_cinq_heures~OM4f4300~10157_20161117_12146_1083.jpg"
+          },
+          {
+            "url": "http://imageset2.newerahd.com/cached/94/BRG1022_F0000_ML000_CG_20_410.jpg"
+          },
+          {
+            "url": "http://www.galleryintell.com/wp-content/uploads/2014/11/Avenue-de-Clichy_Louis-Aquetin_cropped.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

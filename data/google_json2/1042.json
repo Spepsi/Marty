@@ -1,0 +1,468 @@
+{
+  "responses": [
+    {
+      "logoAnnotations": [
+        {
+          "description": "Polyptych with St. Gregory",
+          "score": 0.47307542,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 43,
+                "y": 41
+              },
+              {
+                "x": 143,
+                "y": 41
+              },
+              {
+                "x": 143,
+                "y": 386
+              },
+              {
+                "x": 43,
+                "y": 386
+              }
+            ]
+          }
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/04zhd",
+          "description": "mythology",
+          "score": 0.58869076
+        },
+        {
+          "mid": "/m/0djmp",
+          "description": "ancient history",
+          "score": 0.5352227
+        },
+        {
+          "mid": "/m/067408",
+          "description": "album cover",
+          "score": 0.53031206
+        },
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.5216968
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "zh",
+          "description": "并\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 183,
+                "y": 254
+              },
+              {
+                "x": 200,
+                "y": 254
+              },
+              {
+                "x": 200,
+                "y": 268
+              },
+              {
+                "x": 183,
+                "y": 268
+              }
+            ]
+          }
+        },
+        {
+          "description": "并",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 200,
+                "y": 254
+              },
+              {
+                "x": 201,
+                "y": 267
+              },
+              {
+                "x": 185,
+                "y": 268
+              },
+              {
+                "x": 184,
+                "y": 255
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 158,
+                "green": 109,
+                "blue": 63
+              },
+              "score": 0.18161733,
+              "pixelFraction": 0.05599078
+            },
+            {
+              "color": {
+                "red": 24,
+                "green": 24,
+                "blue": 19
+              },
+              "score": 0.14479662,
+              "pixelFraction": 0.17695853
+            },
+            {
+              "color": {
+                "red": 189,
+                "green": 140,
+                "blue": 87
+              },
+              "score": 0.14118937,
+              "pixelFraction": 0.07465438
+            },
+            {
+              "color": {
+                "red": 182,
+                "green": 147,
+                "blue": 91
+              },
+              "score": 0.08136172,
+              "pixelFraction": 0.036635946
+            },
+            {
+              "color": {
+                "red": 49,
+                "green": 47,
+                "blue": 39
+              },
+              "score": 0.07403307,
+              "pixelFraction": 0.10714286
+            },
+            {
+              "color": {
+                "red": 59,
+                "green": 48,
+                "blue": 30
+              },
+              "score": 0.052738577,
+              "pixelFraction": 0.06624424
+            },
+            {
+              "color": {
+                "red": 124,
+                "green": 80,
+                "blue": 38
+              },
+              "score": 0.041769195,
+              "pixelFraction": 0.018548386
+            },
+            {
+              "color": {
+                "red": 73,
+                "green": 40,
+                "blue": 18
+              },
+              "score": 0.038388565,
+              "pixelFraction": 0.017281106
+            },
+            {
+              "color": {
+                "red": 200,
+                "green": 147,
+                "blue": 74
+              },
+              "score": 0.032086138,
+              "pixelFraction": 0.016129032
+            },
+            {
+              "color": {
+                "red": 146,
+                "green": 113,
+                "blue": 64
+              },
+              "score": 0.02694056,
+              "pixelFraction": 0.013364055
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 225
+                },
+                {
+                  "x": 225,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "zh-Hans"
+                }
+              ]
+            },
+            "width": 226,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "zh-Hans"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 200,
+                      "y": 254
+                    },
+                    {
+                      "x": 201,
+                      "y": 267
+                    },
+                    {
+                      "x": 185,
+                      "y": 268
+                    },
+                    {
+                      "x": 184,
+                      "y": 255
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "zh-Hans"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 183,
+                          "y": 254
+                        },
+                        {
+                          "x": 200,
+                          "y": 254
+                        },
+                        {
+                          "x": 200,
+                          "y": 268
+                        },
+                        {
+                          "x": 183,
+                          "y": 268
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "zh-Hans"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 200,
+                              "y": 254
+                            },
+                            {
+                              "x": 201,
+                              "y": 267
+                            },
+                            {
+                              "x": 185,
+                              "y": 268
+                            },
+                            {
+                              "x": 184,
+                              "y": 255
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "zh-Hans"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 200,
+                                  "y": 254
+                                },
+                                {
+                                  "x": 201,
+                                  "y": 267
+                                },
+                                {
+                                  "x": 185,
+                                  "y": 268
+                                },
+                                {
+                                  "x": 184,
+                                  "y": 255
+                                }
+                              ]
+                            },
+                            "text": "并"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "并\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/g/1228l9ld",
+            "score": 13.78912
+          },
+          {
+            "entityId": "/g/119vtmjbm",
+            "score": 2.78808
+          },
+          {
+            "entityId": "/m/0vzr2yq",
+            "score": 1.6724,
+            "description": "San Gregorio Polyptych"
+          },
+          {
+            "entityId": "/m/01wqs5",
+            "score": 0.61539,
+            "description": "Polyptych"
+          },
+          {
+            "entityId": "/m/011wwz",
+            "score": 0.40505,
+            "description": "Madonna"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://cfile24.uf.tistory.com/image/112CA8184BFCCC4F46B2BF"
+          },
+          {
+            "url": "https://blog-001.west.edge.storage-yahoo.jp/res/blog-1f-9f/mitosya/folder/813919/06/15600306/img_3?1220247129"
+          },
+          {
+            "url": "http://images2.corriereobjects.it/methode_image/2015/10/30/Cultura/Foto%20Gallery/madonna.jpg"
+          },
+          {
+            "url": "http://eurocles.com/data/peinture/a/antonello/antonello%20-%20Madonna%20and%20Child.%201473.%20Oil%20on%20panel.%20129%20x%2076%20cm.%20Museo%20Regionale,%20Messina.jpg"
+          },
+          {
+            "url": "https://thearkofgrace.com/wp-content/uploads/2014/08/Madonna-del-Rosario-1473.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://www.oceansbridge.com/paintings/german/thumb/Antonello_da_Messina_045_OBNP2009-Y00487.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Museo_regionale_di_messina%2C_antonello_da_messina%2C_polittico_di_san_gregorio_03.JPG"
+          },
+          {
+            "url": "http://cp12.nevsepic.com.ua/92/1348497039-257560-antonello-da-messina-poliptih-sv.-grigoriya-centralnaya-chast-madonna-na-trone-1473.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Antonello_da_Messina_045.jpg/1024px-Antonello_da_Messina_045.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Museo_regionale_di_messina%2C_antonello_da_messina%2C_polittico_di_san_gregorio_01.JPG"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.wga.hu/frames-e.html?/html/a/antonell/index.html"
+          },
+          {
+            "url": "http://www.the-athenaeum.org/art/list.php?m=a&s=tu&aid=5636"
+          },
+          {
+            "url": "http://www.wga.hu/html_m/a/antonell/"
+          },
+          {
+            "url": "https://en.wikipedia.org/wiki/San_Gregorio_Polyptych"
+          },
+          {
+            "url": "https://www.flickr.com/photos/28433765@N07/albums/72157622796000541/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/c8/6b/0a/c86b0a308500ed2426da5d489730bd2f.jpg"
+          },
+          {
+            "url": "http://www.arte26.it/images/editoriale/ed_damessina.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/7a/bc/bd/7abcbdf9af3e01102ddf801b30c1343e.jpg"
+          },
+          {
+            "url": "http://www.mondointasca.org/wp-content/uploads/2015/10/Vincenzo_foppa_madonna_col_Bambino_e_un_angelo.jpg"
+          },
+          {
+            "url": "https://c1.staticflickr.com/4/3549/3431558558_04b14d946d_z.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}
