@@ -107,12 +107,12 @@ image = "/Users/nicolas/Projects/Marty/data/test_data2/898_close.jpg"
 api = GoogleVisionApi(config, image)
 urls = api.get_full_matching_urls()
 partial_urls = api.get_partial_matching_urls()
-matcher = GoogleApiMatcher(config)
-match = matcher.find_perfect_match(image)
+matcher = GoogleApiMatcher(config, image)
+match = matcher.find_perfect_match()
 # KO
 
 
-image = "/Users/nicolas/Projects/Marty/data/test_data2/1059_crop.jpg"
+image = "/Users/nicolas/Projects/Marty/data/test_data2/2_test.jpg"
 api = GoogleVisionApi(config, image)
 urls = api.get_full_matching_urls()
 partial_urls = api.get_partial_matching_urls()
