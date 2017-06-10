@@ -1,4 +1,3 @@
-import ipdb
 import math
 import numpy as np
 import cv2
@@ -65,7 +64,6 @@ class Image(object):
         ymin = bounding_box[1]
         xmax = bounding_box[2]
         ymax = bounding_box[3]
-        ipdb.set_trace()
         cropped = self.raw[ymin:ymax, xmin:xmax]
         return cropped
 
