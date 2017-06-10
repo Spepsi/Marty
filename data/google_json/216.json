@@ -1,0 +1,612 @@
+{
+  "responses": [
+    {
+      "faceAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 100,
+                "y": 40
+              },
+              {
+                "x": 178,
+                "y": 40
+              },
+              {
+                "x": 178,
+                "y": 131
+              },
+              {
+                "x": 100,
+                "y": 131
+              }
+            ]
+          },
+          "fdBoundingPoly": {
+            "vertices": [
+              {
+                "x": 121,
+                "y": 63
+              },
+              {
+                "x": 179,
+                "y": 63
+              },
+              {
+                "x": 179,
+                "y": 121
+              },
+              {
+                "x": 121,
+                "y": 121
+              }
+            ]
+          },
+          "landmarks": [
+            {
+              "type": "LEFT_EYE",
+              "position": {
+                "x": 140.92336,
+                "y": 81.89105,
+                "z": -4.2308966e-05
+              }
+            },
+            {
+              "type": "RIGHT_EYE",
+              "position": {
+                "x": 162.58113,
+                "y": 82.35806,
+                "z": 13.788568
+              }
+            },
+            {
+              "type": "LEFT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 134.12392,
+                "y": 75.90186,
+                "z": -2.1208246
+              }
+            },
+            {
+              "type": "RIGHT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 149.49098,
+                "y": 76.48557,
+                "z": -0.1464011
+              }
+            },
+            {
+              "type": "LEFT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 159.00627,
+                "y": 76.813194,
+                "z": 6.1004696
+              }
+            },
+            {
+              "type": "RIGHT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 166.92625,
+                "y": 77.23237,
+                "z": 19.403643
+              }
+            },
+            {
+              "type": "MIDPOINT_BETWEEN_EYES",
+              "position": {
+                "x": 154.3703,
+                "y": 80.9566,
+                "z": 2.6341865
+              }
+            },
+            {
+              "type": "NOSE_TIP",
+              "position": {
+                "x": 157.56233,
+                "y": 94.88627,
+                "z": -3.1327674
+              }
+            },
+            {
+              "type": "UPPER_LIP",
+              "position": {
+                "x": 154.49406,
+                "y": 103.61321,
+                "z": 1.3832977
+              }
+            },
+            {
+              "type": "LOWER_LIP",
+              "position": {
+                "x": 153.10687,
+                "y": 111.663315,
+                "z": 2.7996116
+              }
+            },
+            {
+              "type": "MOUTH_LEFT",
+              "position": {
+                "x": 140.83391,
+                "y": 106.51241,
+                "z": 1.6782184
+              }
+            },
+            {
+              "type": "MOUTH_RIGHT",
+              "position": {
+                "x": 158.02464,
+                "y": 107.04187,
+                "z": 11.681134
+              }
+            },
+            {
+              "type": "MOUTH_CENTER",
+              "position": {
+                "x": 153.39285,
+                "y": 107.22978,
+                "z": 2.8461967
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_RIGHT",
+              "position": {
+                "x": 158.12239,
+                "y": 96.76062,
+                "z": 8.000722
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_LEFT",
+              "position": {
+                "x": 147.68498,
+                "y": 97.056046,
+                "z": 0.9120302
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_CENTER",
+              "position": {
+                "x": 154.7966,
+                "y": 98.27698,
+                "z": 1.3246968
+              }
+            },
+            {
+              "type": "LEFT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 142.64464,
+                "y": 80.2664,
+                "z": -0.98633987
+              }
+            },
+            {
+              "type": "LEFT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 145.39738,
+                "y": 82.34711,
+                "z": 2.9770613
+              }
+            },
+            {
+              "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 140.80933,
+                "y": 83.9413,
+                "z": 0.08013016
+              }
+            },
+            {
+              "type": "LEFT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 136.7663,
+                "y": 81.630714,
+                "z": -0.41021264
+              }
+            },
+            {
+              "type": "LEFT_EYE_PUPIL",
+              "position": {
+                "x": 141.71703,
+                "y": 81.86839,
+                "z": -0.35074434
+              }
+            },
+            {
+              "type": "RIGHT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 162.30907,
+                "y": 80.98056,
+                "z": 11.895904
+              }
+            },
+            {
+              "type": "RIGHT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 164.09438,
+                "y": 82.757034,
+                "z": 17.621082
+              }
+            },
+            {
+              "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 162.07875,
+                "y": 84.329285,
+                "z": 13.146529
+              }
+            },
+            {
+              "type": "RIGHT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 157.42691,
+                "y": 82.57286,
+                "z": 10.731461
+              }
+            },
+            {
+              "type": "RIGHT_EYE_PUPIL",
+              "position": {
+                "x": 161.89537,
+                "y": 82.591965,
+                "z": 12.845582
+              }
+            },
+            {
+              "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 142.67928,
+                "y": 73.40911,
+                "z": -2.4797528
+              }
+            },
+            {
+              "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 163.96637,
+                "y": 74.18858,
+                "z": 11.489356
+              }
+            },
+            {
+              "type": "LEFT_EAR_TRAGION",
+              "position": {
+                "x": 112.96367,
+                "y": 92.467804,
+                "z": 16.344719
+              }
+            },
+            {
+              "type": "RIGHT_EAR_TRAGION",
+              "position": {
+                "x": 157.49434,
+                "y": 94.09801,
+                "z": 45.629944
+              }
+            },
+            {
+              "type": "FOREHEAD_GLABELLA",
+              "position": {
+                "x": 154.74153,
+                "y": 76.35629,
+                "z": 2.2211149
+              }
+            },
+            {
+              "type": "CHIN_GNATHION",
+              "position": {
+                "x": 151.50775,
+                "y": 122.3307,
+                "z": 5.34005
+              }
+            },
+            {
+              "type": "CHIN_LEFT_GONION",
+              "position": {
+                "x": 119.87053,
+                "y": 107.710884,
+                "z": 9.698327
+              }
+            },
+            {
+              "type": "CHIN_RIGHT_GONION",
+              "position": {
+                "x": 160.10529,
+                "y": 109.14436,
+                "z": 36.111057
+              }
+            }
+          ],
+          "rollAngle": 1.8708056,
+          "panAngle": 33.261364,
+          "tiltAngle": 0.2900772,
+          "detectionConfidence": 0.7197558,
+          "landmarkingConfidence": 0.66604626,
+          "joyLikelihood": "VERY_UNLIKELY",
+          "sorrowLikelihood": "VERY_UNLIKELY",
+          "angerLikelihood": "VERY_UNLIKELY",
+          "surpriseLikelihood": "VERY_UNLIKELY",
+          "underExposedLikelihood": "VERY_UNLIKELY",
+          "blurredLikelihood": "VERY_UNLIKELY",
+          "headwearLikelihood": "UNLIKELY"
+        }
+      ],
+      "logoAnnotations": [
+        {
+          "mid": "/m/0bh9y4q",
+          "description": "Portrait of a Woman",
+          "score": 0.8217565,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 36,
+                "y": 19
+              },
+              {
+                "x": 252,
+                "y": 19
+              },
+              {
+                "x": 252,
+                "y": 351
+              },
+              {
+                "x": 36,
+                "y": 351
+              }
+            ]
+          }
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.84973353
+        },
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.71874267
+        },
+        {
+          "mid": "/m/06msq",
+          "description": "sculpture",
+          "score": 0.6605508
+        },
+        {
+          "mid": "/m/0138tl",
+          "description": "toy",
+          "score": 0.5614007
+        },
+        {
+          "mid": "/m/01dv4h",
+          "description": "portrait",
+          "score": 0.5414781
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 22,
+                "green": 22,
+                "blue": 21
+              },
+              "score": 0.30376333,
+              "pixelFraction": 0.4769978
+            },
+            {
+              "color": {
+                "red": 140,
+                "green": 28,
+                "blue": 40
+              },
+              "score": 0.07823825,
+              "pixelFraction": 0.020802787
+            },
+            {
+              "color": {
+                "red": 106,
+                "green": 25,
+                "blue": 31
+              },
+              "score": 0.062284272,
+              "pixelFraction": 0.03207478
+            },
+            {
+              "color": {
+                "red": 149,
+                "green": 120,
+                "blue": 67
+              },
+              "score": 0.040922675,
+              "pixelFraction": 0.019794721
+            },
+            {
+              "color": {
+                "red": 246,
+                "green": 243,
+                "blue": 236
+              },
+              "score": 0.020419404,
+              "pixelFraction": 0.030241935
+            },
+            {
+              "color": {
+                "red": 165,
+                "green": 113,
+                "blue": 40
+              },
+              "score": 0.012966974,
+              "pixelFraction": 0.006781525
+            },
+            {
+              "color": {
+                "red": 42,
+                "green": 47,
+                "blue": 42
+              },
+              "score": 0.052775316,
+              "pixelFraction": 0.06387463
+            },
+            {
+              "color": {
+                "red": 148,
+                "green": 29,
+                "blue": 33
+              },
+              "score": 0.039495092,
+              "pixelFraction": 0.009530792
+            },
+            {
+              "color": {
+                "red": 129,
+                "green": 120,
+                "blue": 90
+              },
+              "score": 0.03945494,
+              "pixelFraction": 0.026576247
+            },
+            {
+              "color": {
+                "red": 128,
+                "green": 20,
+                "blue": 33
+              },
+              "score": 0.028520571,
+              "pixelFraction": 0.007972874
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 282
+                },
+                {
+                  "x": 282,
+                  "y": 363
+                },
+                {
+                  "y": 363
+                }
+              ]
+            },
+            "confidence": 1,
+            "importanceFraction": 1.17
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/073z19",
+            "score": 1.3602,
+            "description": "Thyssen-Bornemisza Museum"
+          },
+          {
+            "entityId": "/m/01dv4h",
+            "score": 0.9811043,
+            "description": "Portrait"
+          },
+          {
+            "entityId": "/m/06cvx",
+            "score": 0.8866,
+            "description": "Renaissance"
+          },
+          {
+            "entityId": "/m/08b23",
+            "score": 0.75358,
+            "description": "16th century"
+          },
+          {
+            "entityId": "/m/0bt9lr",
+            "score": 0.63964,
+            "description": "Dog"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://cfile205.uf.daum.net/image/162FE93950EFAD1314E209"
+          },
+          {
+            "url": "http://www.impressionnisme.ru/wp-content/uploads/2012/03/12portra.jpg"
+          },
+          {
+            "url": "http://www.eurocles.com/data/peinture/a/altdorfer/altdorfer%20-%20Portrait%20of%20a%20Woman.%201522.%20Oil%20on%20panel.%2059%20x%2045%20cm.%20Museo%20Thyssen-Bornemisza,%20Madrid,%20Spain.jpg"
+          },
+          {
+            "url": "http://postfiles1.naver.net/20101122_288/cacamus_1290386728283DcBQd_JPEG/1522001.jpg?type=w2"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/94/75/69/9475691c26c5329dc2d3ee9989a8e733.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://www.art-kingdom.com/upload/353617.jpg"
+          },
+          {
+            "url": "http://upload.wikimedia.org/wikipedia/commons/b/b1/Albrecht_Altdorfer_023.jpg"
+          },
+          {
+            "url": "https://imagenes.museothyssen.org/sites/default/files/imagen/obras/1929.11_retrato-mujer-joven.jpg"
+          },
+          {
+            "url": "http://upload.wikimedia.org/wikipedia/commons/e/ec/Albrecht_Altdorfer_-_Portr%C3%A4t_einer_jungen_Frau.jpg"
+          },
+          {
+            "url": "http://imglf1.ph.126.net/qQJZsd8glN6mZMxhgO6NLA==/6631597730304011392.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.arthistoryarchive.com/arthistory/christian/Albrecht-Altdorfer.html"
+          },
+          {
+            "url": "http://www.the-athenaeum.org/art/list.php?m=a&s=tu&aid=601"
+          },
+          {
+            "url": "https://www.artexpertswebsite.com/pages/artists/altdorfer.php"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/Albrecht_Altdorfer"
+          },
+          {
+            "url": "https://www.pinterest.com/clownloach64/art-of-albrecht-altdorfer-1480-1538/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/e2/ea/f7/e2eaf77208e33a6ef8255bd4afceb7fd.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/21/05/fd/2105fd87b711a5b15a0639e46e4ca281.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/fb/45/b8/fb45b83316b262f2ecec63d96a761525.jpg"
+          },
+          {
+            "url": "https://reproarte.com/images/stories/virtuemart/product/altdorfer_albrecht/0299-0049_portr_eines_schreibers.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/38/e5/6d/38e56d9afb3f30cde06d768388c6d0e4.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

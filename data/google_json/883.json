@@ -1,0 +1,449 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.9476657
+        },
+        {
+          "mid": "/m/01spzs",
+          "description": "still life",
+          "score": 0.94724715
+        },
+        {
+          "mid": "/m/027_ny3",
+          "description": "still life photography",
+          "score": 0.8947897
+        },
+        {
+          "mid": "/m/015r61",
+          "description": "modern art",
+          "score": 0.66835374
+        },
+        {
+          "mid": "/m/0c9ph5",
+          "description": "flower",
+          "score": 0.60051197
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "ko",
+          "description": "캥\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 100,
+                "y": 206
+              },
+              {
+                "x": 110,
+                "y": 206
+              },
+              {
+                "x": 110,
+                "y": 214
+              },
+              {
+                "x": 100,
+                "y": 214
+              }
+            ]
+          }
+        },
+        {
+          "description": "캥",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 100,
+                "y": 206
+              },
+              {
+                "x": 110,
+                "y": 206
+              },
+              {
+                "x": 110,
+                "y": 214
+              },
+              {
+                "x": 100,
+                "y": 214
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "UNLIKELY",
+        "violence": "POSSIBLE"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 242,
+                "green": 227,
+                "blue": 224
+              },
+              "score": 0.12427521,
+              "pixelFraction": 0.008064516
+            },
+            {
+              "color": {
+                "red": 149,
+                "green": 110,
+                "blue": 98
+              },
+              "score": 0.09160153,
+              "pixelFraction": 0.008151231
+            },
+            {
+              "color": {
+                "red": 31,
+                "green": 20,
+                "blue": 19
+              },
+              "score": 0.062025648,
+              "pixelFraction": 0.6185397
+            },
+            {
+              "color": {
+                "red": 209,
+                "green": 193,
+                "blue": 187
+              },
+              "score": 0.10268658,
+              "pixelFraction": 0.008064516
+            },
+            {
+              "color": {
+                "red": 185,
+                "green": 147,
+                "blue": 135
+              },
+              "score": 0.07562702,
+              "pixelFraction": 0.004162331
+            },
+            {
+              "color": {
+                "red": 113,
+                "green": 76,
+                "blue": 66
+              },
+              "score": 0.049994458,
+              "pixelFraction": 0.01873049
+            },
+            {
+              "color": {
+                "red": 167,
+                "green": 151,
+                "blue": 146
+              },
+              "score": 0.049270093,
+              "pixelFraction": 0.0064169266
+            },
+            {
+              "color": {
+                "red": 61,
+                "green": 47,
+                "blue": 44
+              },
+              "score": 0.0454114,
+              "pixelFraction": 0.11593826
+            },
+            {
+              "color": {
+                "red": 98,
+                "green": 83,
+                "blue": 78
+              },
+              "score": 0.044143643,
+              "pixelFraction": 0.018470343
+            },
+            {
+              "color": {
+                "red": 79,
+                "green": 43,
+                "blue": 35
+              },
+              "score": 0.042721145,
+              "pixelFraction": 0.044224765
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 299
+                },
+                {
+                  "y": 299
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "ko"
+                }
+              ]
+            },
+            "width": 400,
+            "height": 300,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "ko"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 100,
+                      "y": 206
+                    },
+                    {
+                      "x": 110,
+                      "y": 206
+                    },
+                    {
+                      "x": 110,
+                      "y": 214
+                    },
+                    {
+                      "x": 100,
+                      "y": 214
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "ko"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 100,
+                          "y": 206
+                        },
+                        {
+                          "x": 110,
+                          "y": 206
+                        },
+                        {
+                          "x": 110,
+                          "y": 214
+                        },
+                        {
+                          "x": 100,
+                          "y": 214
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "ko"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 100,
+                              "y": 206
+                            },
+                            {
+                              "x": 110,
+                              "y": 206
+                            },
+                            {
+                              "x": 110,
+                              "y": 214
+                            },
+                            {
+                              "x": 100,
+                              "y": 214
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "ko"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 100,
+                                  "y": 206
+                                },
+                                {
+                                  "x": 110,
+                                  "y": 206
+                                },
+                                {
+                                  "x": 110,
+                                  "y": 214
+                                },
+                                {
+                                  "x": 100,
+                                  "y": 214
+                                }
+                              ]
+                            },
+                            "text": "캥"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "캥\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/01spzs",
+            "score": 1.2956982,
+            "description": "Still life"
+          },
+          {
+            "entityId": "/m/05bhw9t",
+            "score": 0.82192,
+            "description": "Still-Life of Flowers"
+          },
+          {
+            "entityId": "/m/0jt7c5h",
+            "score": 0.52144,
+            "description": "Oil painting reproduction"
+          },
+          {
+            "entityId": "/m/0c9ph5",
+            "score": 0.51070607,
+            "description": "Flower"
+          },
+          {
+            "entityId": "/m/05nmd",
+            "score": 0.37742,
+            "description": "Oil painting"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Juan_de_Arellano_-_Still-Life_with_a_Basket_of_Flowers_-_WGA00933.jpg/1022px-Juan_de_Arellano_-_Still-Life_with_a_Basket_of_Flowers_-_WGA00933.jpg"
+          },
+          {
+            "url": "http://es.wahooart.com/Art.nsf/O/8XZ9EU/$File/Juan-De-Arellano-Still-Life-with-a-Basket-of-Flowers.JPG"
+          },
+          {
+            "url": "http://i061.radikal.ru/1009/c2/973a77afc81a.jpg"
+          },
+          {
+            "url": "http://s017.radikal.ru/i432/1110/07/4c9659219575.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/bd/05/01/bd0501e45e4f19f81187ff9748b406d0.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/bf/3a/6b/bf3a6bbff9eb1dd1dea74f6ef84c069f.jpg"
+          },
+          {
+            "url": "http://cn.wahooart.com/A55A04/w.nsf/O/BRUE-8BWTNE/$File/JUAN-DE-ARELLANO-BASKET-OF-FLOWERS-5.JPG"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Juan_de_Arellano_-_Still-Life_with_a_Basket_of_Flowers_-_WGA00933.jpg/1022px-Juan_de_Arellano_-_Still-Life_with_a_Basket_of_Flowers_-_WGA00933.jpg"
+          },
+          {
+            "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Arellano-flores-bilbao.jpg/993px-Arellano-flores-bilbao.jpg"
+          },
+          {
+            "url": "http://es.wahooart.com/Art.nsf/O/8XZ9EU/$File/Juan-De-Arellano-Still-Life-with-a-Basket-of-Flowers.JPG"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://www.pinterest.com/pin/257760778643809479/"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/347621664958673102/"
+          },
+          {
+            "url": "https://www.houzz.com/photos/34492198/Maurice-Prendergast-Still-Life-with-Flowers-Framed-Premium-Canvas-Print-21x28-traditional-prints-and-posters"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Juan_de_Arellano_-_Still-Life_with_a_Basket_of_Flowers_-_WGA00933.jpg"
+          },
+          {
+            "url": "http://9drawings.com/drawings/flower-basket-still-life-drawings.html"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/bf/3a/6b/bf3a6bbff9eb1dd1dea74f6ef84c069f.jpg"
+          },
+          {
+            "url": "https://mydailyartdisplay.files.wordpress.com/2011/10/still-life-with-flowers-and-fruit-by-rachael-ruysch.jpg?w=640&h=795"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/2a/3d/1b/2a3d1b8c5e925b79622480b30e1476b1.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/1f/4b/b8/1f4bb8da170f89f8385477a0b1e28862.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/3b/f5/dd/3bf5dd40143c5572307f48e37842624d.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

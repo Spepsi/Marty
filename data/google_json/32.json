@@ -1,0 +1,199 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/02rfdq",
+          "description": "interior design",
+          "score": 0.7129578
+        },
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.6814447
+        },
+        {
+          "mid": "/m/03rszm",
+          "description": "curtain",
+          "score": 0.6535524
+        },
+        {
+          "mid": "/m/0dnr7",
+          "description": "textile",
+          "score": 0.63474613
+        },
+        {
+          "mid": "/m/04rd7",
+          "description": "mural",
+          "score": 0.59478873
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 229,
+                "green": 235,
+                "blue": 243
+              },
+              "score": 0.8270411,
+              "pixelFraction": 0.3153029
+            },
+            {
+              "color": {
+                "red": 42,
+                "green": 20,
+                "blue": 6
+              },
+              "score": 0.0005067782,
+              "pixelFraction": 0.0005245214
+            },
+            {
+              "color": {
+                "red": 195,
+                "green": 196,
+                "blue": 201
+              },
+              "score": 0.044655517,
+              "pixelFraction": 0.10877262
+            },
+            {
+              "color": {
+                "red": 157,
+                "green": 157,
+                "blue": 159
+              },
+              "score": 0.019923773,
+              "pixelFraction": 0.07848151
+            },
+            {
+              "color": {
+                "red": 205,
+                "green": 195,
+                "blue": 165
+              },
+              "score": 0.016862033,
+              "pixelFraction": 0.031864673
+            },
+            {
+              "color": {
+                "red": 170,
+                "green": 154,
+                "blue": 121
+              },
+              "score": 0.01315826,
+              "pixelFraction": 0.017768161
+            },
+            {
+              "color": {
+                "red": 221,
+                "green": 227,
+                "blue": 244
+              },
+              "score": 0.012852304,
+              "pixelFraction": 0.042420667
+            },
+            {
+              "color": {
+                "red": 122,
+                "green": 124,
+                "blue": 121
+              },
+              "score": 0.009213785,
+              "pixelFraction": 0.08261212
+            },
+            {
+              "color": {
+                "red": 236,
+                "green": 228,
+                "blue": 204
+              },
+              "score": 0.008171794,
+              "pixelFraction": 0.008851298
+            },
+            {
+              "color": {
+                "red": 137,
+                "green": 121,
+                "blue": 94
+              },
+              "score": 0.0077530793,
+              "pixelFraction": 0.020980855
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 397
+                },
+                {
+                  "y": 397
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0d4v4",
+            "score": 1.6964412,
+            "description": "Window"
+          },
+          {
+            "entityId": "/m/03rszm",
+            "score": 1.5457375,
+            "description": "Curtain"
+          },
+          {
+            "entityId": "/m/0lym8",
+            "score": 0.75441045,
+            "description": "Tapestry"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.53151375,
+            "description": "Painting"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://s58.radikal.ru/i162/1111/1a/3b2bfcd915c9.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/da/48/4c/da484cf6f9aaba636bf4b3575972d607.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/e4/0d/76/e40d7604d14b980f2f7f5a1c6101f085.jpg"
+          },
+          {
+            "url": "http://3.bp.blogspot.com/-KalG6h1mPIU/VO76OBHASoI/AAAAAAAAz0I/0_vMFG0N0B4/s1600/shtori_galereya_00005.jpg"
+          },
+          {
+            "url": "http://shadowscapes.com/wordpress/wp-content/uploads/2015/08/blog-600x200.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

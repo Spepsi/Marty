@@ -1,0 +1,504 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.65728176
+        },
+        {
+          "mid": "/m/0hyb2",
+          "description": "altar",
+          "score": 0.64792514
+        },
+        {
+          "mid": "/m/0dpvm",
+          "description": "arch",
+          "score": 0.5158536
+        },
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.5057385
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "en",
+          "description": "TIN\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 67,
+                "y": 59
+              },
+              {
+                "x": 109,
+                "y": 59
+              },
+              {
+                "x": 109,
+                "y": 77
+              },
+              {
+                "x": 67,
+                "y": 77
+              }
+            ]
+          }
+        },
+        {
+          "description": "TIN",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 67,
+                "y": 62
+              },
+              {
+                "x": 108,
+                "y": 60
+              },
+              {
+                "x": 109,
+                "y": 76
+              },
+              {
+                "x": 68,
+                "y": 78
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 131,
+                "green": 118,
+                "blue": 118
+              },
+              "score": 0.12679105,
+              "pixelFraction": 0.09357211
+            },
+            {
+              "color": {
+                "red": 175,
+                "green": 155,
+                "blue": 135
+              },
+              "score": 0.11119478,
+              "pixelFraction": 0.05253795
+            },
+            {
+              "color": {
+                "red": 204,
+                "green": 141,
+                "blue": 95
+              },
+              "score": 0.078576125,
+              "pixelFraction": 0.03178368
+            },
+            {
+              "color": {
+                "red": 25,
+                "green": 15,
+                "blue": 14
+              },
+              "score": 0.012972609,
+              "pixelFraction": 0.11574952
+            },
+            {
+              "color": {
+                "red": 164,
+                "green": 150,
+                "blue": 148
+              },
+              "score": 0.1109378,
+              "pixelFraction": 0.03296964
+            },
+            {
+              "color": {
+                "red": 143,
+                "green": 158,
+                "blue": 184
+              },
+              "score": 0.0541893,
+              "pixelFraction": 0.014231499
+            },
+            {
+              "color": {
+                "red": 142,
+                "green": 119,
+                "blue": 97
+              },
+              "score": 0.052075483,
+              "pixelFraction": 0.060839657
+            },
+            {
+              "color": {
+                "red": 104,
+                "green": 120,
+                "blue": 149
+              },
+              "score": 0.03996902,
+              "pixelFraction": 0.03439279
+            },
+            {
+              "color": {
+                "red": 201,
+                "green": 186,
+                "blue": 183
+              },
+              "score": 0.034259647,
+              "pixelFraction": 0.012096774
+            },
+            {
+              "color": {
+                "red": 168,
+                "green": 116,
+                "blue": 74
+              },
+              "score": 0.032575563,
+              "pixelFraction": 0.025735294
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 217
+                },
+                {
+                  "x": 217,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "en"
+                }
+              ]
+            },
+            "width": 218,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "en"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 68,
+                      "y": 78
+                    },
+                    {
+                      "x": 67,
+                      "y": 62
+                    },
+                    {
+                      "x": 108,
+                      "y": 60
+                    },
+                    {
+                      "x": 109,
+                      "y": 76
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "en"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 67,
+                          "y": 59
+                        },
+                        {
+                          "x": 109,
+                          "y": 59
+                        },
+                        {
+                          "x": 109,
+                          "y": 77
+                        },
+                        {
+                          "x": 67,
+                          "y": 77
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 67,
+                              "y": 62
+                            },
+                            {
+                              "x": 108,
+                              "y": 60
+                            },
+                            {
+                              "x": 109,
+                              "y": 76
+                            },
+                            {
+                              "x": 68,
+                              "y": 78
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 67,
+                                  "y": 62
+                                },
+                                {
+                                  "x": 76,
+                                  "y": 62
+                                },
+                                {
+                                  "x": 77,
+                                  "y": 77
+                                },
+                                {
+                                  "x": 68,
+                                  "y": 77
+                                }
+                              ]
+                            },
+                            "text": "T"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 77,
+                                  "y": 62
+                                },
+                                {
+                                  "x": 87,
+                                  "y": 62
+                                },
+                                {
+                                  "x": 88,
+                                  "y": 77
+                                },
+                                {
+                                  "x": 78,
+                                  "y": 77
+                                }
+                              ]
+                            },
+                            "text": "I"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 87,
+                                  "y": 62
+                                },
+                                {
+                                  "x": 108,
+                                  "y": 61
+                                },
+                                {
+                                  "x": 109,
+                                  "y": 76
+                                },
+                                {
+                                  "x": 88,
+                                  "y": 77
+                                }
+                              ]
+                            },
+                            "text": "N"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "TIN\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/01hfkb",
+            "score": 21.17312,
+            "description": "Vatican Museums"
+          },
+          {
+            "entityId": "/m/01tk_r",
+            "score": 11.84256,
+            "description": "Apostolic Palace"
+          },
+          {
+            "entityId": "/m/02rbymb",
+            "score": 3.96928,
+            "description": "Niccoline Chapel"
+          },
+          {
+            "entityId": "/m/06c62",
+            "score": 1.2196,
+            "description": "Rome"
+          },
+          {
+            "entityId": "/m/0173tc",
+            "score": 0.7023,
+            "description": "Chapel"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://2.bp.blogspot.com/--zO4RU6QffQ/UuzVf5z1-7I/AAAAAAAAElk/WbvxCIdzCao/s1600/00west.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/5c/6a/c7/5c6ac7e90d7cf44f13838faa2788eee9.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/62/aa/7c/62aa7cd2d0a87db4da80b35f11436be1.jpg"
+          },
+          {
+            "url": "http://www.travelingintuscany.com/images/art/fraangelico/cappellaniccolina/westwall700.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/c6/3c/69/c63c699147ad7de76a39cb43f6ecbb29.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://mmbiz.qpic.cn/mmbiz/76eQefzY3QbPFSwNg1f2LSQxOWxzm9wiasmyCMseemnhfqSq6L8kyRAbzzahcUDG8bVBTMTQgAqqtDFzKSEa20Q/0?wx_fmt=jpeg"
+          },
+          {
+            "url": "https://i1.read01.com/uploads/0Cr3oG0V.jpg"
+          },
+          {
+            "url": "http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=http://mmbiz.qpic.cn/mmbiz/76eQefzY3QbPFSwNg1f2LSQxOWxzm9wiasmyCMseemnhfqSq6L8kyRAbzzahcUDG8bVBTMTQgAqqtDFzKSEa20Q/0?wx_fmt=jpeg"
+          },
+          {
+            "url": "http://2.bp.blogspot.com/--zO4RU6QffQ/UuzVf5z1-7I/AAAAAAAAElk/WbvxCIdzCao/s1600/00west.jpg"
+          },
+          {
+            "url": "http://2.bp.blogspot.com/-FQJwv-zUqbw/TkIPmv3G3zI/AAAAAAAADHs/BReUOf62dSk/s1600/West+wall.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://it.wikipedia.org/wiki/Cappella_Niccolina"
+          },
+          {
+            "url": "http://www.travelingintuscany.com/art/fraangelico/cappellaniccolina.htm"
+          },
+          {
+            "url": "http://www.wga.hu/html_m/a/angelico/10/1west/"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/Cappella_Niccolina_frescos"
+          },
+          {
+            "url": "http://www.wikiwand.com/de/Cappella_Niccolina"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://blogimg.hani.co.kr/editor/uploads/2017/05/13/72487_31488.jpg_M750.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Angelico%2C_niccolina_08.jpg"
+          },
+          {
+            "url": "http://www.arthistoricum.net/fileadmin/_processed_/csm_8115c46128_c0ecd3df5b.jpg"
+          },
+          {
+            "url": "https://farm5.staticflickr.com/4147/5054923943_dc498a94b3_b.jpg"
+          },
+          {
+            "url": "https://s3.amazonaws.com/classconnection/799/flashcards/9409799/jpg/vatican-cappella-niccolina-int-150523B697E3982A451.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

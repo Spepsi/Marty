@@ -1,0 +1,863 @@
+{
+  "responses": [
+    {
+      "faceAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 125,
+                "y": 46
+              },
+              {
+                "x": 219,
+                "y": 46
+              },
+              {
+                "x": 219,
+                "y": 156
+              },
+              {
+                "x": 125,
+                "y": 156
+              }
+            ]
+          },
+          "fdBoundingPoly": {
+            "vertices": [
+              {
+                "x": 131,
+                "y": 79
+              },
+              {
+                "x": 201,
+                "y": 79
+              },
+              {
+                "x": 201,
+                "y": 149
+              },
+              {
+                "x": 131,
+                "y": 149
+              }
+            ]
+          },
+          "landmarks": [
+            {
+              "type": "LEFT_EYE",
+              "position": {
+                "x": 141.69992,
+                "y": 109.07883,
+                "z": -0.0006084668
+              }
+            },
+            {
+              "type": "RIGHT_EYE",
+              "position": {
+                "x": 162.69672,
+                "y": 101.29498,
+                "z": -20.622915
+              }
+            },
+            {
+              "type": "LEFT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 134.53294,
+                "y": 103.73758,
+                "z": 7.524034
+              }
+            },
+            {
+              "type": "RIGHT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 141.10878,
+                "y": 102.716156,
+                "z": -9.893065
+              }
+            },
+            {
+              "type": "LEFT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 150.73859,
+                "y": 99.61316,
+                "z": -19.390018
+              }
+            },
+            {
+              "type": "RIGHT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 167.40277,
+                "y": 93.53913,
+                "z": -25.046642
+              }
+            },
+            {
+              "type": "MIDPOINT_BETWEEN_EYES",
+              "position": {
+                "x": 147.35307,
+                "y": 106.30394,
+                "z": -14.454068
+              }
+            },
+            {
+              "type": "NOSE_TIP",
+              "position": {
+                "x": 149.03934,
+                "y": 124.98465,
+                "z": -18.853527
+              }
+            },
+            {
+              "type": "UPPER_LIP",
+              "position": {
+                "x": 157.11786,
+                "y": 132.95485,
+                "z": -13.070583
+              }
+            },
+            {
+              "type": "LOWER_LIP",
+              "position": {
+                "x": 161.56097,
+                "y": 139.83423,
+                "z": -10.80632
+              }
+            },
+            {
+              "type": "MOUTH_LEFT",
+              "position": {
+                "x": 155.47772,
+                "y": 135.67686,
+                "z": 0.38589323
+              }
+            },
+            {
+              "type": "MOUTH_RIGHT",
+              "position": {
+                "x": 169.23822,
+                "y": 132.38596,
+                "z": -14.715555
+              }
+            },
+            {
+              "type": "MOUTH_CENTER",
+              "position": {
+                "x": 159.877,
+                "y": 135.52515,
+                "z": -11.182053
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_RIGHT",
+              "position": {
+                "x": 160.55084,
+                "y": 123.27719,
+                "z": -15.755944
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_LEFT",
+              "position": {
+                "x": 151.09964,
+                "y": 124.78934,
+                "z": -5.450889
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_CENTER",
+              "position": {
+                "x": 154.859,
+                "y": 127.68825,
+                "z": -13.68759
+              }
+            },
+            {
+              "type": "LEFT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 140.1183,
+                "y": 107.60204,
+                "z": -1.7986459
+              }
+            },
+            {
+              "type": "LEFT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 145.91644,
+                "y": 108.10864,
+                "z": -3.9543042
+              }
+            },
+            {
+              "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 142.36766,
+                "y": 110.97278,
+                "z": -0.16836277
+              }
+            },
+            {
+              "type": "LEFT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 139.7902,
+                "y": 109.23005,
+                "z": 5.5435066
+              }
+            },
+            {
+              "type": "LEFT_EYE_PUPIL",
+              "position": {
+                "x": 141.30931,
+                "y": 109.13263,
+                "z": -0.42369333
+              }
+            },
+            {
+              "type": "RIGHT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 159.85532,
+                "y": 101.468445,
+                "z": -21.316755
+              }
+            },
+            {
+              "type": "RIGHT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 168.26913,
+                "y": 100.2257,
+                "z": -21.889997
+              }
+            },
+            {
+              "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 163.37772,
+                "y": 103.59782,
+                "z": -19.942493
+              }
+            },
+            {
+              "type": "RIGHT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 158.07184,
+                "y": 104.003914,
+                "z": -15.769155
+              }
+            },
+            {
+              "type": "RIGHT_EYE_PUPIL",
+              "position": {
+                "x": 161.51091,
+                "y": 102.862816,
+                "z": -20.483324
+              }
+            },
+            {
+              "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 135.27634,
+                "y": 100.70083,
+                "z": -2.7609575
+              }
+            },
+            {
+              "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 156.63817,
+                "y": 94.11409,
+                "z": -23.931694
+              }
+            },
+            {
+              "type": "LEFT_EAR_TRAGION",
+              "position": {
+                "x": 156.24771,
+                "y": 114.19282,
+                "z": 38.637856
+              }
+            },
+            {
+              "type": "RIGHT_EAR_TRAGION",
+              "position": {
+                "x": 200.94344,
+                "y": 100.354965,
+                "z": -5.656157
+              }
+            },
+            {
+              "type": "FOREHEAD_GLABELLA",
+              "position": {
+                "x": 145.07555,
+                "y": 101.293884,
+                "z": -15.4263735
+              }
+            },
+            {
+              "type": "CHIN_GNATHION",
+              "position": {
+                "x": 168.98367,
+                "y": 147.80411,
+                "z": -6.479295
+              }
+            },
+            {
+              "type": "CHIN_LEFT_GONION",
+              "position": {
+                "x": 158.17827,
+                "y": 134.0328,
+                "z": 29.862299
+              }
+            },
+            {
+              "type": "CHIN_RIGHT_GONION",
+              "position": {
+                "x": 198.5281,
+                "y": 121.53312,
+                "z": -10.162964
+              }
+            }
+          ],
+          "rollAngle": -22.211174,
+          "panAngle": -43.680565,
+          "tiltAngle": -5.291829,
+          "detectionConfidence": 0.63137513,
+          "landmarkingConfidence": 0.49583584,
+          "joyLikelihood": "VERY_UNLIKELY",
+          "sorrowLikelihood": "VERY_UNLIKELY",
+          "angerLikelihood": "VERY_UNLIKELY",
+          "surpriseLikelihood": "VERY_UNLIKELY",
+          "underExposedLikelihood": "VERY_UNLIKELY",
+          "blurredLikelihood": "VERY_UNLIKELY",
+          "headwearLikelihood": "VERY_UNLIKELY"
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.72232
+        },
+        {
+          "mid": "/m/0djmp",
+          "description": "ancient history",
+          "score": 0.7099726
+        },
+        {
+          "mid": "/m/0jwzhtg",
+          "description": "carving",
+          "score": 0.7021594
+        },
+        {
+          "mid": "/m/06msq",
+          "description": "sculpture",
+          "score": 0.6827846
+        },
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.66666025
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "zh",
+          "description": "颂掘\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 35,
+                "y": 68
+              },
+              {
+                "x": 47,
+                "y": 68
+              },
+              {
+                "x": 47,
+                "y": 89
+              },
+              {
+                "x": 35,
+                "y": 89
+              }
+            ]
+          }
+        },
+        {
+          "description": "颂",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 35,
+                "y": 90
+              },
+              {
+                "x": 35,
+                "y": 81
+              },
+              {
+                "x": 46,
+                "y": 81
+              },
+              {
+                "x": 46,
+                "y": 90
+              }
+            ]
+          }
+        },
+        {
+          "description": "掘",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 35,
+                "y": 78
+              },
+              {
+                "x": 35,
+                "y": 69
+              },
+              {
+                "x": 47,
+                "y": 70
+              },
+              {
+                "x": 47,
+                "y": 79
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 120,
+                "green": 73,
+                "blue": 33
+              },
+              "score": 0.2356294,
+              "pixelFraction": 0.16413662
+            },
+            {
+              "color": {
+                "red": 85,
+                "green": 46,
+                "blue": 31
+              },
+              "score": 0.15994611,
+              "pixelFraction": 0.06696711
+            },
+            {
+              "color": {
+                "red": 221,
+                "green": 191,
+                "blue": 141
+              },
+              "score": 0.044847142,
+              "pixelFraction": 0.06593928
+            },
+            {
+              "color": {
+                "red": 150,
+                "green": 103,
+                "blue": 53
+              },
+              "score": 0.16822962,
+              "pixelFraction": 0.27482605
+            },
+            {
+              "color": {
+                "red": 94,
+                "green": 49,
+                "blue": 15
+              },
+              "score": 0.06834807,
+              "pixelFraction": 0.022691336
+            },
+            {
+              "color": {
+                "red": 105,
+                "green": 68,
+                "blue": 44
+              },
+              "score": 0.06774921,
+              "pixelFraction": 0.038504113
+            },
+            {
+              "color": {
+                "red": 66,
+                "green": 41,
+                "blue": 41
+              },
+              "score": 0.042572074,
+              "pixelFraction": 0.017473118
+            },
+            {
+              "color": {
+                "red": 222,
+                "green": 190,
+                "blue": 153
+              },
+              "score": 0.031878546,
+              "pixelFraction": 0.024588868
+            },
+            {
+              "color": {
+                "red": 101,
+                "green": 81,
+                "blue": 52
+              },
+              "score": 0.026714612,
+              "pixelFraction": 0.009487666
+            },
+            {
+              "color": {
+                "red": 129,
+                "green": 59,
+                "blue": 17
+              },
+              "score": 0.02172661,
+              "pixelFraction": 0.0065623024
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 327
+                },
+                {
+                  "x": 327,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 1,
+            "importanceFraction": 0.69
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "zh-Hans"
+                }
+              ]
+            },
+            "width": 328,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "zh-Hans"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 34,
+                      "y": 90
+                    },
+                    {
+                      "x": 35,
+                      "y": 69
+                    },
+                    {
+                      "x": 47,
+                      "y": 70
+                    },
+                    {
+                      "x": 46,
+                      "y": 91
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "zh-Hans"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 35,
+                          "y": 68
+                        },
+                        {
+                          "x": 47,
+                          "y": 68
+                        },
+                        {
+                          "x": 47,
+                          "y": 89
+                        },
+                        {
+                          "x": 35,
+                          "y": 89
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "zh-Hans"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 35,
+                              "y": 90
+                            },
+                            {
+                              "x": 35,
+                              "y": 81
+                            },
+                            {
+                              "x": 46,
+                              "y": 81
+                            },
+                            {
+                              "x": 46,
+                              "y": 90
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "zh-Hans"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 35,
+                                  "y": 90
+                                },
+                                {
+                                  "x": 35,
+                                  "y": 81
+                                },
+                                {
+                                  "x": 46,
+                                  "y": 81
+                                },
+                                {
+                                  "x": 46,
+                                  "y": 90
+                                }
+                              ]
+                            },
+                            "text": "颂"
+                          }
+                        ]
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "ja"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 35,
+                              "y": 78
+                            },
+                            {
+                              "x": 35,
+                              "y": 69
+                            },
+                            {
+                              "x": 47,
+                              "y": 70
+                            },
+                            {
+                              "x": 47,
+                              "y": 79
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "zh-Hans"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 35,
+                                  "y": 78
+                                },
+                                {
+                                  "x": 35,
+                                  "y": 69
+                                },
+                                {
+                                  "x": 47,
+                                  "y": 70
+                                },
+                                {
+                                  "x": 47,
+                                  "y": 79
+                                }
+                              ]
+                            },
+                            "text": "掘"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "颂掘\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/04n7gc6",
+            "score": 7.0573997,
+            "description": "Mary"
+          },
+          {
+            "entityId": "/g/1222z4rz",
+            "score": 1.86388,
+            "description": "Annunciation"
+          },
+          {
+            "entityId": "/m/05m4tw",
+            "score": 1.40996,
+            "description": "Annunciation"
+          },
+          {
+            "entityId": "/m/02d72c",
+            "score": 0.72293,
+            "description": "Annunciation"
+          },
+          {
+            "entityId": "/m/06cvx",
+            "score": 0.64216,
+            "description": "Renaissance"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://www.wga.hu/art/a/angelico/09/corridor/annunci1.jpg"
+          },
+          {
+            "url": "http://4.bp.blogspot.com/_GzQnzaF4k-o/S9MilFoqYZI/AAAAAAAAKH0/AY5RQQ-FUJk/s1600/angelico+annunciation++2.jpg"
+          },
+          {
+            "url": "http://photos1.blogger.com/blogger/424/2229/1600/Vierge%20Fra%20Angelico.jpg"
+          },
+          {
+            "url": "http://image.aladin.co.kr/Community/mypaper/Pimg7844251839736.JPG"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/ANGELICO%2C_Fra_The_Annunciation_%28detail%29_1450.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://i0.wp.com/www.theartoftaleh.com/wp-content/uploads/2016/12/mary-1.jpg?fit=2024%2C2476"
+          },
+          {
+            "url": "https://i0.wp.com/upload.wikimedia.org/wikipedia/commons/e/e2/Fra_Angelico_046.jpg"
+          },
+          {
+            "url": "http://www.theartoftaleh.com/wp-content/uploads/2016/12/mary-1.jpg"
+          },
+          {
+            "url": "https://seatedwomenwithbluescarf.files.wordpress.com/2013/02/fra_angelico_046.jpg?w=1400"
+          },
+          {
+            "url": "http://4.bp.blogspot.com/-P7FFiQlXuZs/U8K9mQDugUI/AAAAAAAAKGw/M9Dc8DShL8o/s1600/Fra+Angelico+Mary+model+of+the+Church.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://michelinewalker.com/2012/04/03/fra-angelico-the-annunciation/"
+          },
+          {
+            "url": "http://www.alamy.com/stock-photo/fra-angelico-annunciation.html"
+          },
+          {
+            "url": "https://www.zazzle.com/fra+angelico+postcards"
+          },
+          {
+            "url": "http://www.alamy.com/stock-photo/annunciation-fra-angelico.html"
+          },
+          {
+            "url": "http://tamedcynic.org/advent-through-art-annunciation/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fra_Angelico_-_The_Annunciation_%28detail%29_-_WGA00556.jpg/197px-Fra_Angelico_-_The_Annunciation_%28detail%29_-_WGA00556.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/1b/0c/04/1b0c04d6b95217ae048637aebf4049a7.jpg"
+          },
+          {
+            "url": "http://archives.evergreen.edu/webpages/curricular/2006-2007/greeceanditaly/files/greeceanditaly/images/Fra%20Angelico,%20Annunciation,%20from%20cell%203.preview.jpg"
+          },
+          {
+            "url": "http://www.italian-renaissance-art.com/images/Fra_Angelico_annunciation.jpg"
+          },
+          {
+            "url": "https://www.chinaoilpaintinggallery.com/image/oilpainting/fra-angelico/annunciation-3.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

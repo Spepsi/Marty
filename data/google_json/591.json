@@ -1,0 +1,470 @@
+{
+  "responses": [
+    {
+      "logoAnnotations": [
+        {
+          "description": "The Coronation of the Virgin",
+          "score": 0.9387083,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 12,
+                "y": 36
+              },
+              {
+                "x": 324,
+                "y": 36
+              },
+              {
+                "x": 324,
+                "y": 388
+              },
+              {
+                "x": 12,
+                "y": 388
+              }
+            ]
+          }
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.7802567
+        },
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.6787226
+        },
+        {
+          "mid": "/m/0djmp",
+          "description": "ancient history",
+          "score": 0.65882283
+        },
+        {
+          "mid": "/m/02nnps",
+          "description": "relief",
+          "score": 0.5867118
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "en",
+          "description": "E\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 158,
+                "y": 273
+              },
+              {
+                "x": 164,
+                "y": 273
+              },
+              {
+                "x": 164,
+                "y": 283
+              },
+              {
+                "x": 158,
+                "y": 283
+              }
+            ]
+          }
+        },
+        {
+          "description": "E",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 158,
+                "y": 273
+              },
+              {
+                "x": 164,
+                "y": 273
+              },
+              {
+                "x": 164,
+                "y": 283
+              },
+              {
+                "x": 158,
+                "y": 283
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 218,
+                "green": 195,
+                "blue": 157
+              },
+              "score": 0.37197226,
+              "pixelFraction": 0.35023043
+            },
+            {
+              "color": {
+                "red": 112,
+                "green": 77,
+                "blue": 53
+              },
+              "score": 0.017826842,
+              "pixelFraction": 0.021351766
+            },
+            {
+              "color": {
+                "red": 242,
+                "green": 224,
+                "blue": 187
+              },
+              "score": 0.27257395,
+              "pixelFraction": 0.12926267
+            },
+            {
+              "color": {
+                "red": 218,
+                "green": 190,
+                "blue": 143
+              },
+              "score": 0.08122372,
+              "pixelFraction": 0.034869432
+            },
+            {
+              "color": {
+                "red": 179,
+                "green": 156,
+                "blue": 120
+              },
+              "score": 0.072672725,
+              "pixelFraction": 0.20345622
+            },
+            {
+              "color": {
+                "red": 186,
+                "green": 156,
+                "blue": 111
+              },
+              "score": 0.050201762,
+              "pixelFraction": 0.036175117
+            },
+            {
+              "color": {
+                "red": 228,
+                "green": 182,
+                "blue": 137
+              },
+              "score": 0.020056562,
+              "pixelFraction": 0.008448541
+            },
+            {
+              "color": {
+                "red": 142,
+                "green": 117,
+                "blue": 86
+              },
+              "score": 0.018657401,
+              "pixelFraction": 0.043317974
+            },
+            {
+              "color": {
+                "red": 146,
+                "green": 117,
+                "blue": 72
+              },
+              "score": 0.014169305,
+              "pixelFraction": 0.009447005
+            },
+            {
+              "color": {
+                "red": 107,
+                "green": 83,
+                "blue": 57
+              },
+              "score": 0.014091334,
+              "pixelFraction": 0.021428572
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 338
+                },
+                {
+                  "x": 338,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "en"
+                }
+              ]
+            },
+            "width": 339,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "en"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 158,
+                      "y": 273
+                    },
+                    {
+                      "x": 164,
+                      "y": 273
+                    },
+                    {
+                      "x": 164,
+                      "y": 283
+                    },
+                    {
+                      "x": 158,
+                      "y": 283
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "en"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 158,
+                          "y": 273
+                        },
+                        {
+                          "x": 164,
+                          "y": 273
+                        },
+                        {
+                          "x": 164,
+                          "y": 283
+                        },
+                        {
+                          "x": 158,
+                          "y": 283
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 158,
+                              "y": 273
+                            },
+                            {
+                              "x": 164,
+                              "y": 273
+                            },
+                            {
+                              "x": 164,
+                              "y": 283
+                            },
+                            {
+                              "x": 158,
+                              "y": 283
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 158,
+                                  "y": 273
+                                },
+                                {
+                                  "x": 164,
+                                  "y": 273
+                                },
+                                {
+                                  "x": 164,
+                                  "y": 283
+                                },
+                                {
+                                  "x": 158,
+                                  "y": 283
+                                }
+                              ]
+                            },
+                            "text": "E"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "E\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0fq0mzh",
+            "score": 2.80228,
+            "description": "Coronation of the Virgin"
+          },
+          {
+            "entityId": "/m/0272rmj",
+            "score": 2.49508,
+            "description": "San Marco, Florence"
+          },
+          {
+            "entityId": "/m/0fq14__",
+            "score": 1.34044,
+            "description": "Coronation of the Virgin"
+          },
+          {
+            "entityId": "/m/03cn_7y",
+            "score": 0.67768,
+            "description": "Coronation of the Virgin"
+          },
+          {
+            "entityId": "/m/01wysn",
+            "score": 0.39533,
+            "description": "Queen of Heaven"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://allpainters.ru/wp-content/uploads/paintings/the-coronation-of-the-virgin-1441.jpg"
+          },
+          {
+            "url": "https://i.mycdn.me/image?id=851051189642&t=3&plc=WEB&tkn=*fzjzLMsjccJmu1t6aDBoBKcICBI"
+          },
+          {
+            "url": "http://upload-images.jianshu.io/upload_images/3697310-1d9a4b03d72bff2d.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240"
+          },
+          {
+            "url": "http://thecurseandthecure.co.uk/wp-content/uploads/2016/03/the-coronation-of-the-virgin-1441.jpg"
+          },
+          {
+            "url": "https://2.bp.blogspot.com/-RillctQVT7Q/VBBZ3Gi3wHI/AAAAAAAAB9I/V9nJPDBhkxA/s1600/the-coronation-of-the-virgin.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://upload.wikimedia.org/wikipedia/commons/2/2d/Angelico%2C_incoronazione_della_vergine_1440-1441.jpg"
+          },
+          {
+            "url": "http://www.cultordelivros.com.br/imagensti/SB1_1475499402302.jpg"
+          },
+          {
+            "url": "http://www.quadrante.com.br/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/s/b/sb1_1475499402302.jpg"
+          },
+          {
+            "url": "http://4.bp.blogspot.com/-UutdZV7TULI/U9j5Ocp-S7I/AAAAAAAAAGs/2T6zoOgjFlI/s1600/010.jpg"
+          },
+          {
+            "url": "http://s017.radikal.ru/i436/1110/06/06c43ac4ce9e.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.travelingintuscany.com/art/fraangelico/conventodisanmarco.htm"
+          },
+          {
+            "url": "http://www.wga.hu/html_m/a/angelico/09/cells/09_coron.html"
+          },
+          {
+            "url": "http://www.wga.hu/frames-e.html?/html/a/angelico/09/cells/index.html"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/San_Marco_Frescos_(Angelico)"
+          },
+          {
+            "url": "https://www.pinterest.com/explore/fra-angelico/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Fra_Angelico_-_Coronation_of_the_Virgin_%28Cell_9%29_-_WGA00543.jpg/651px-Fra_Angelico_-_Coronation_of_the_Virgin_%28Cell_9%29_-_WGA00543.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Fra_Angelico_038.jpg"
+          },
+          {
+            "url": "http://artsdot.com/Art.nsf/O/8YDR9B/$File/Fra-Angelico-Resurrection-of-Christ-and-Women-at-the-Tomb-Convento-di-San-Marco-Florence-.JPG"
+          },
+          {
+            "url": "http://www.malerei-meisterwerke.de/images_large/fra-angelico-freskenzyklus-im-dominikanerkloster-san-marco-in-florenz-szene-verklaerung-christi-(transfiguratio-domini)-00141.jpg"
+          },
+          {
+            "url": "http://thecurseandthecure.co.uk/wp-content/uploads/2016/03/resurrection-of-christ-and-women-at-the-tomb-1442-1.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

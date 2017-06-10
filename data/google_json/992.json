@@ -1,0 +1,444 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.72507954
+        },
+        {
+          "mid": "/m/0djmp",
+          "description": "ancient history",
+          "score": 0.61463153
+        },
+        {
+          "mid": "/m/01c7d3",
+          "description": "savanna",
+          "score": 0.5452498
+        },
+        {
+          "mid": "/m/07glzq",
+          "description": "sketch",
+          "score": 0.5198102
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "zh",
+          "description": "慨\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 252,
+                "y": 288
+              },
+              {
+                "x": 276,
+                "y": 288
+              },
+              {
+                "x": 276,
+                "y": 305
+              },
+              {
+                "x": 252,
+                "y": 305
+              }
+            ]
+          }
+        },
+        {
+          "description": "慨",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 253,
+                "y": 288
+              },
+              {
+                "x": 276,
+                "y": 289
+              },
+              {
+                "x": 275,
+                "y": 305
+              },
+              {
+                "x": 252,
+                "y": 304
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 243,
+                "green": 227,
+                "blue": 169
+              },
+              "score": 0.32928848,
+              "pixelFraction": 0.10183796
+            },
+            {
+              "color": {
+                "red": 122,
+                "green": 75,
+                "blue": 38
+              },
+              "score": 0.029125148,
+              "pixelFraction": 0.0512003
+            },
+            {
+              "color": {
+                "red": 239,
+                "green": 223,
+                "blue": 183
+              },
+              "score": 0.20148183,
+              "pixelFraction": 0.13869092
+            },
+            {
+              "color": {
+                "red": 219,
+                "green": 200,
+                "blue": 161
+              },
+              "score": 0.15059242,
+              "pixelFraction": 0.19261065
+            },
+            {
+              "color": {
+                "red": 223,
+                "green": 199,
+                "blue": 146
+              },
+              "score": 0.128769,
+              "pixelFraction": 0.05560765
+            },
+            {
+              "color": {
+                "red": 180,
+                "green": 157,
+                "blue": 120
+              },
+              "score": 0.026932837,
+              "pixelFraction": 0.07220555
+            },
+            {
+              "color": {
+                "red": 184,
+                "green": 155,
+                "blue": 106
+              },
+              "score": 0.025720896,
+              "pixelFraction": 0.029163541
+            },
+            {
+              "color": {
+                "red": 156,
+                "green": 109,
+                "blue": 65
+              },
+              "score": 0.018664759,
+              "pixelFraction": 0.023068268
+            },
+            {
+              "color": {
+                "red": 114,
+                "green": 74,
+                "blue": 47
+              },
+              "score": 0.01748987,
+              "pixelFraction": 0.06451613
+            },
+            {
+              "color": {
+                "red": 191,
+                "green": 143,
+                "blue": 93
+              },
+              "score": 0.01700332,
+              "pixelFraction": 0.01444111
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 278
+                },
+                {
+                  "x": 278,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "zh-Hans"
+                }
+              ]
+            },
+            "width": 279,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "zh-Hans"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 253,
+                      "y": 288
+                    },
+                    {
+                      "x": 276,
+                      "y": 289
+                    },
+                    {
+                      "x": 275,
+                      "y": 305
+                    },
+                    {
+                      "x": 252,
+                      "y": 304
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "zh-Hans"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 252,
+                          "y": 288
+                        },
+                        {
+                          "x": 276,
+                          "y": 288
+                        },
+                        {
+                          "x": 276,
+                          "y": 305
+                        },
+                        {
+                          "x": 252,
+                          "y": 305
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "zh-Hans"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 253,
+                              "y": 288
+                            },
+                            {
+                              "x": 276,
+                              "y": 289
+                            },
+                            {
+                              "x": 275,
+                              "y": 305
+                            },
+                            {
+                              "x": 252,
+                              "y": 304
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "zh-Hans"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 253,
+                                  "y": 288
+                                },
+                                {
+                                  "x": 276,
+                                  "y": 289
+                                },
+                                {
+                                  "x": 275,
+                                  "y": 305
+                                },
+                                {
+                                  "x": 252,
+                                  "y": 304
+                                }
+                              ]
+                            },
+                            "text": "慨"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "慨\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/052sn3r",
+            "score": 1.31108,
+            "description": "Winter Landscape with Skaters"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.8685797,
+            "description": "Painting"
+          },
+          {
+            "entityId": "/g/1213hqpg",
+            "score": 0.76562,
+            "description": "Winter Landscape"
+          },
+          {
+            "entityId": "/m/05nmd",
+            "score": 0.45768,
+            "description": "Oil painting"
+          },
+          {
+            "entityId": "/m/04wkvh",
+            "score": 0.40739,
+            "description": "Landscape painting"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://oudemeesterschilderijen.files.wordpress.com/2013/06/avercamp-winter-landscape.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/88/8e/d7/888ed79d36f4378822358482c75e6d9f.jpg"
+          },
+          {
+            "url": "http://mblogthumb3.phinf.naver.net/20110802_158/designmecca_1312264729471zmyoC_JPEG/AVERCAMP_Hendrick_Winter_Landscape_2.jpg?type=w2"
+          },
+          {
+            "url": "http://www.fotosefotos.com/admin/foto_img/foto_big/hendrick_avercamp_a5f45f44a60a8f4e922248c6824a0274_8.jpg"
+          },
+          {
+            "url": "http://k46.kn3.net/taringa/2/1/2/9/1/8/cardagra/85B.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://oudemeesterschilderijen.files.wordpress.com/2013/06/avercamp-winter-landscape.jpg"
+          },
+          {
+            "url": "https://pbs.twimg.com/media/DBfp7L8XoAEtoe_.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/88/8e/d7/888ed79d36f4378822358482c75e6d9f.jpg"
+          },
+          {
+            "url": "http://kulturmultur.com/files/1433494053_lego-kartina00030.jpg"
+          },
+          {
+            "url": "http://mholland.ucoz.ru/_si/0/20152179.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://www.ibiblio.org/wm/paint/auth/avercamp/"
+          },
+          {
+            "url": "http://www.artcyclopedia.com/artists/avercamp_hendrick.html"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/Category:Paintings_by_Hendrick_Avercamp"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/101331060340664887/"
+          },
+          {
+            "url": "https://www.pinterest.com/pinksky56/hendrick-avercamp/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://www.arab-painting.com/pic/Oil%20Painting%20Masterpieces%20on%20Canvas/Avercamp%20Hendrick_Holland_1585-1634/9-Winter-Landscape-2-Hendrick-Avercamp.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/35/45/94/3545946671e2328b21787baaa47741f9.jpg"
+          },
+          {
+            "url": "http://k30.kn3.net/taringa/6/F/D/3/7/D/cardagra/720.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/62/1f/cb/621fcb4f29e2139ee0e517a10820f78c.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/%27Winter_Scene%27_oil_on_panel_painting_by_Hendrick_Avercamp%2C_c._1620%2C_Museu_de_%C3%89vora%2C_Portugal.JPG/1280px-%27Winter_Scene%27_oil_on_panel_painting_by_Hendrick_Avercamp%2C_c._1620%2C_Museu_de_%C3%89vora%2C_Portugal.JPG"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "responses": [
+    {
+      "logoAnnotations": [
+        {
+          "description": "St. Jerome",
+          "score": 0.8921521,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 4,
+                "y": 26
+              },
+              {
+                "x": 126,
+                "y": 26
+              },
+              {
+                "x": 126,
+                "y": 393
+              },
+              {
+                "x": 4,
+                "y": 393
+              }
+            ]
+          }
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.6702122
+        },
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.5343627
+        },
+        {
+          "mid": "/m/0138tl",
+          "description": "toy",
+          "score": 0.52906775
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 53,
+                "green": 17,
+                "blue": 8
+              },
+              "score": 0.3574646,
+              "pixelFraction": 0.06586021
+            },
+            {
+              "color": {
+                "red": 107,
+                "green": 22,
+                "blue": 8
+              },
+              "score": 0.058720887,
+              "pixelFraction": 0.019393241
+            },
+            {
+              "color": {
+                "red": 75,
+                "green": 37,
+                "blue": 26
+              },
+              "score": 0.25733206,
+              "pixelFraction": 0.12538402
+            },
+            {
+              "color": {
+                "red": 41,
+                "green": 16,
+                "blue": 17
+              },
+              "score": 0.18082504,
+              "pixelFraction": 0.038786482
+            },
+            {
+              "color": {
+                "red": 63,
+                "green": 36,
+                "blue": 37
+              },
+              "score": 0.03183571,
+              "pixelFraction": 0.007872504
+            },
+            {
+              "color": {
+                "red": 29,
+                "green": 15,
+                "blue": 18
+              },
+              "score": 0.02332935,
+              "pixelFraction": 0.0069124424
+            },
+            {
+              "color": {
+                "red": 105,
+                "green": 69,
+                "blue": 54
+              },
+              "score": 0.02273876,
+              "pixelFraction": 0.06432412
+            },
+            {
+              "color": {
+                "red": 134,
+                "green": 40,
+                "blue": 23
+              },
+              "score": 0.02208486,
+              "pixelFraction": 0.027265744
+            },
+            {
+              "color": {
+                "red": 67,
+                "green": 6,
+                "blue": 1
+              },
+              "score": 0.013445597,
+              "pixelFraction": 0.0024961599
+            },
+            {
+              "color": {
+                "red": 88,
+                "green": 18,
+                "blue": 12
+              },
+              "score": 0.011720822,
+              "pixelFraction": 0.015360983
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 134
+                },
+                {
+                  "x": 134,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/05zpzj5",
+            "score": 1.68588,
+            "description": "San Marco Altarpiece"
+          },
+          {
+            "entityId": "/m/0fqnmkq",
+            "score": 1.23136,
+            "description": "Lindenau-Museum"
+          },
+          {
+            "entityId": "/m/0719f",
+            "score": 0.68229,
+            "description": "Saint"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.4432815,
+            "description": "Painting"
+          },
+          {
+            "entityId": "/m/07mtr",
+            "score": 0.4148,
+            "description": "Tempera"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://3.bp.blogspot.com/-NF33SYwYUco/WRn440kIoSI/AAAAAAAAB-o/G3JB0ugMvOo1HRlItAf34fOqQkU73tYsgCLcB/s1600/panel1.jpeg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/f5/46/bf/f546bf4629ec79bd7f962d9ad09a3fb6.jpg"
+          },
+          {
+            "url": "http://cdn.quotesgram.com/img/91/96/34451465-St-Jerome-Fra-Angelico.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/3c/55/44/3c5544f558d10991705dd000bc490ef3.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/34/73/ab/3473ab2bb1c5738dce03c19d3b3428f7.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/5c/82/fd/5c82fd30d08dcf04c941be9123aeba29.jpg"
+          },
+          {
+            "url": "http://www.lindenau-museum.de/tl_files/0_galerie/florenz/092.jpg"
+          },
+          {
+            "url": "https://3.bp.blogspot.com/-NF33SYwYUco/WRn440kIoSI/AAAAAAAAB-o/G3JB0ugMvOo1HRlItAf34fOqQkU73tYsgCLcB/w1200-h630-p-k-no-nu/panel1.jpeg"
+          },
+          {
+            "url": "https://assets.letemps.ch/sites/default/files/media/2015/06/10/59a9b5f2-0f95-11e5-bce4-0f8872f43eca.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/5c/82/fd/5c82fd30d08dcf04c941be9123aeba29.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://www.pinterest.com/explore/st-jerome/"
+          },
+          {
+            "url": "http://communio.stblogs.org/index.php/2013/09/saint-jerome-3/"
+          },
+          {
+            "url": "http://communio.stblogs.org/index.php/tag/st-jerome/"
+          },
+          {
+            "url": "https://www.pinterest.com/explore/st-jerome-church/"
+          },
+          {
+            "url": "https://www.wikiart.org/en/fra-angelico/st-jerome-1440"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://q.likesuccess.com/99/4946038-fra-angelico-st-jerome.jpg"
+          },
+          {
+            "url": "http://www.canvaz.com/m/Masaccio/St%20Jerome%20and%20St%20John%20the%20Baptist-s.jpg"
+          },
+          {
+            "url": "https://uploads2.wikiart.org/images/carlo-crivelli/saint-jerome-1477.jpg"
+          },
+          {
+            "url": "http://www.lexscripta.com/graphics/Jerome/Lorenzo.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/fd/4e/96/fd4e96521afc4c0d8f5f308594cb3d38.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

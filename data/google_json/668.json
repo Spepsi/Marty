@@ -1,0 +1,504 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.6724557
+        },
+        {
+          "mid": "/m/04rd7",
+          "description": "mural",
+          "score": 0.6560286
+        },
+        {
+          "mid": "/m/04zhd",
+          "description": "mythology",
+          "score": 0.58830607
+        },
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.5397741
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "da",
+          "description": "ilf\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 358,
+                "y": 303
+              },
+              {
+                "x": 367,
+                "y": 303
+              },
+              {
+                "x": 367,
+                "y": 311
+              },
+              {
+                "x": 358,
+                "y": 311
+              }
+            ]
+          }
+        },
+        {
+          "description": "ilf",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 358,
+                "y": 311
+              },
+              {
+                "x": 358,
+                "y": 303
+              },
+              {
+                "x": 367,
+                "y": 303
+              },
+              {
+                "x": 367,
+                "y": 311
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 39,
+                "green": 16,
+                "blue": 20
+              },
+              "score": 0.24949689,
+              "pixelFraction": 0.12607794
+            },
+            {
+              "color": {
+                "red": 74,
+                "green": 41,
+                "blue": 30
+              },
+              "score": 0.14842357,
+              "pixelFraction": 0.11489939
+            },
+            {
+              "color": {
+                "red": 82,
+                "green": 73,
+                "blue": 108
+              },
+              "score": 0.039746907,
+              "pixelFraction": 0.012376238
+            },
+            {
+              "color": {
+                "red": 164,
+                "green": 45,
+                "blue": 32
+              },
+              "score": 0.007016557,
+              "pixelFraction": 0.0027946343
+            },
+            {
+              "color": {
+                "red": 215,
+                "green": 191,
+                "blue": 140
+              },
+              "score": 0.0033081104,
+              "pixelFraction": 0.04080166
+            },
+            {
+              "color": {
+                "red": 67,
+                "green": 40,
+                "blue": 42
+              },
+              "score": 0.103173874,
+              "pixelFraction": 0.05581284
+            },
+            {
+              "color": {
+                "red": 26,
+                "green": 12,
+                "blue": 16
+              },
+              "score": 0.090601355,
+              "pixelFraction": 0.0675503
+            },
+            {
+              "color": {
+                "red": 52,
+                "green": 20,
+                "blue": 12
+              },
+              "score": 0.08547732,
+              "pixelFraction": 0.043596294
+            },
+            {
+              "color": {
+                "red": 104,
+                "green": 71,
+                "blue": 57
+              },
+              "score": 0.047547434,
+              "pixelFraction": 0.0892686
+            },
+            {
+              "color": {
+                "red": 60,
+                "green": 53,
+                "blue": 84
+              },
+              "score": 0.03464801,
+              "pixelFraction": 0.011577771
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 326
+                },
+                {
+                  "y": 326
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "da"
+                }
+              ]
+            },
+            "width": 400,
+            "height": 327,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "da"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 358,
+                      "y": 303
+                    },
+                    {
+                      "x": 367,
+                      "y": 303
+                    },
+                    {
+                      "x": 367,
+                      "y": 311
+                    },
+                    {
+                      "x": 358,
+                      "y": 311
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "da"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 358,
+                          "y": 303
+                        },
+                        {
+                          "x": 367,
+                          "y": 303
+                        },
+                        {
+                          "x": 367,
+                          "y": 311
+                        },
+                        {
+                          "x": 358,
+                          "y": 311
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "da"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 358,
+                              "y": 311
+                            },
+                            {
+                              "x": 358,
+                              "y": 303
+                            },
+                            {
+                              "x": 367,
+                              "y": 303
+                            },
+                            {
+                              "x": 367,
+                              "y": 311
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "da"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 358,
+                                  "y": 311
+                                },
+                                {
+                                  "x": 358,
+                                  "y": 303
+                                },
+                                {
+                                  "x": 359,
+                                  "y": 303
+                                },
+                                {
+                                  "x": 359,
+                                  "y": 311
+                                }
+                              ]
+                            },
+                            "text": "i"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "da"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 361,
+                                  "y": 311
+                                },
+                                {
+                                  "x": 361,
+                                  "y": 303
+                                },
+                                {
+                                  "x": 363,
+                                  "y": 303
+                                },
+                                {
+                                  "x": 363,
+                                  "y": 311
+                                }
+                              ]
+                            },
+                            "text": "l"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "da"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 365,
+                                  "y": 311
+                                },
+                                {
+                                  "x": 365,
+                                  "y": 303
+                                },
+                                {
+                                  "x": 367,
+                                  "y": 303
+                                },
+                                {
+                                  "x": 367,
+                                  "y": 311
+                                }
+                              ]
+                            },
+                            "text": "f"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "ilf\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0gmc4vm",
+            "score": 3.314,
+            "description": "St. Francis Receiving the Stigmata"
+          },
+          {
+            "entityId": "/m/069_q4",
+            "score": 1.51484,
+            "description": "Basilica of Saint Francis of Assisi"
+          },
+          {
+            "entityId": "/m/0b5r6x",
+            "score": 1.32896,
+            "description": "La Verna"
+          },
+          {
+            "entityId": "/m/09sst",
+            "score": 0.72525,
+            "description": "Stigmata"
+          },
+          {
+            "entityId": "/m/06cvx",
+            "score": 0.63572,
+            "description": "Renaissance"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://s3.amazonaws.com/classconnection/550/flashcards/4626550/png/screen_shot_2015-10-26_at_44537_pm-150A5ACF9CB2916B7D0.png"
+          },
+          {
+            "url": "https://i.mycdn.me/image?id=850531472522&t=3&plc=WEB&tkn=*f8m7t_oNhyrp_Fd2zxaJMZoYeyE"
+          },
+          {
+            "url": "http://i848.photobucket.com/albums/ab44/frankcisco2010/4b178285.jpg"
+          },
+          {
+            "url": "http://auntheather.com/wp-content/uploads/2014/05/Receiving-the-Stigmata-Angelico-1429-Aunt-Heather-Piper.jpg"
+          },
+          {
+            "url": "http://4.bp.blogspot.com/-IgJDHwHICCI/Ume2vV1Zj3I/AAAAAAAADos/PYZgaze8EXo/s1600/5400744447_107c589bd3_b.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://www.wga.hu/art/a/angelico/13/06franci.jpg"
+          },
+          {
+            "url": "http://2.bp.blogspot.com/-6N7e1oKFQ4A/UD4X8PaYPYI/AAAAAAAANAo/chwITMAPocc/s1600/SAN+FRANCISCO+RECIBIENDO+LOS+ESTIGMAS+VATICANO.jpg"
+          },
+          {
+            "url": "http://kristlus.varstukk.edu.ee/kristlikkultuur/media/.gallery/image632.jpg"
+          },
+          {
+            "url": "https://s3.amazonaws.com/classconnection/550/flashcards/4626550/png/screen_shot_2015-10-26_at_44537_pm-150A5ACF9CB2916B7D0.png"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Angelico%2C_stimmate_di_san_francesco%2C_pinacoteca_vaticana.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.wga.hu/frames-e.html?/html/a/angelico/13/index.html"
+          },
+          {
+            "url": "http://nymag.com/nymetro/arts/art/reviews/14967/"
+          },
+          {
+            "url": "http://nymag.com/nymag/critics/art/14967/"
+          },
+          {
+            "url": "https://www.zazzle.com/fra+angelico+postcards"
+          },
+          {
+            "url": "http://theredlist.com/wiki-2-351-861-414-398-425-view-quattrocento-profile-fra-angelico-1.html"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Fra_Angelico_-_Receiving_the_Stigmata_-_WGA00623.jpg/294px-Fra_Angelico_-_Receiving_the_Stigmata_-_WGA00623.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Fra_Angelico_-_The_Story_of_St_Nicholas_-_St_Nicholas_saves_the_ship_-_WGA00504.jpg"
+          },
+          {
+            "url": "https://classconnection.s3.amazonaws.com/397/flashcards/38397/png/fra__angelico__entombment_(piet_)__1438-40_1366348304160.png"
+          },
+          {
+            "url": "http://www.maristmessenger.co.nz/wp-content/uploads/2016/03/Fra-Angelico-Harrowing-of-Hell-c.-1440-Museo-di-San-Marco-Florence.jpg"
+          },
+          {
+            "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Fra_Angelico_005.jpg/956px-Fra_Angelico_005.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

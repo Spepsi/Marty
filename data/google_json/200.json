@@ -1,0 +1,290 @@
+{
+  "responses": [
+    {
+      "logoAnnotations": [
+        {
+          "description": "Diptych",
+          "score": 0.9586839,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 5,
+                "y": 2
+              },
+              {
+                "x": 384,
+                "y": 2
+              },
+              {
+                "x": 384,
+                "y": 209
+              },
+              {
+                "x": 5,
+                "y": 209
+              }
+            ]
+          }
+        },
+        {
+          "description": "Penitent St. Jerome",
+          "score": 0.8753621,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 213,
+                "y": 9
+              },
+              {
+                "x": 391,
+                "y": 9
+              },
+              {
+                "x": 391,
+                "y": 209
+              },
+              {
+                "x": 213,
+                "y": 209
+              }
+            ]
+          }
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/04zhd",
+          "description": "mythology",
+          "score": 0.67996585
+        },
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.6033795
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 130,
+                "green": 116,
+                "blue": 88
+              },
+              "score": 0.14506425,
+              "pixelFraction": 0.023471354
+            },
+            {
+              "color": {
+                "red": 185,
+                "green": 158,
+                "blue": 104
+              },
+              "score": 0.13015856,
+              "pixelFraction": 0.019980742
+            },
+            {
+              "color": {
+                "red": 159,
+                "green": 110,
+                "blue": 69
+              },
+              "score": 0.07442697,
+              "pixelFraction": 0.03201733
+            },
+            {
+              "color": {
+                "red": 86,
+                "green": 49,
+                "blue": 36
+              },
+              "score": 0.07276951,
+              "pixelFraction": 0.07149735
+            },
+            {
+              "color": {
+                "red": 98,
+                "green": 84,
+                "blue": 61
+              },
+              "score": 0.07906159,
+              "pixelFraction": 0.037554163
+            },
+            {
+              "color": {
+                "red": 206,
+                "green": 181,
+                "blue": 119
+              },
+              "score": 0.070744276,
+              "pixelFraction": 0.00794415
+            },
+            {
+              "color": {
+                "red": 151,
+                "green": 109,
+                "blue": 85
+              },
+              "score": 0.063394465,
+              "pixelFraction": 0.023110256
+            },
+            {
+              "color": {
+                "red": 170,
+                "green": 151,
+                "blue": 114
+              },
+              "score": 0.06074956,
+              "pixelFraction": 0.008425614
+            },
+            {
+              "color": {
+                "red": 110,
+                "green": 71,
+                "blue": 54
+              },
+              "score": 0.060186796,
+              "pixelFraction": 0.05247954
+            },
+            {
+              "color": {
+                "red": 74,
+                "green": 56,
+                "blue": 39
+              },
+              "score": 0.04420059,
+              "pixelFraction": 0.071617715
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 214
+                },
+                {
+                  "y": 214
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0gmc4vm",
+            "score": 3.79212,
+            "description": "St. Francis Receiving the Stigmata"
+          },
+          {
+            "entityId": "/m/07wrxk",
+            "score": 1.07272,
+            "description": "Gemäldegalerie, Berlin"
+          },
+          {
+            "entityId": "/m/06cvx",
+            "score": 0.7653,
+            "description": "Renaissance"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.47692055,
+            "description": "Painting"
+          },
+          {
+            "entityId": "/m/0jmss",
+            "score": 0.42745,
+            "description": "Diptych"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://upload.wikimedia.org/wikipedia/commons/2/20/Albrecht_Altdorfer_-_Diptych_-_WGA0207.jpg"
+          },
+          {
+            "url": "http://www.art-kingdom.com/upload/353619.jpg"
+          },
+          {
+            "url": "http://allpainters.ru/wp-content/uploads/paintings/diptych-1507.jpg"
+          },
+          {
+            "url": "http://classic-online.ru/uploads/000_picture/164200/164168.jpg"
+          },
+          {
+            "url": "http://artchallenge.me/painters/100/34.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://upload.wikimedia.org/wikipedia/commons/2/20/Albrecht_Altdorfer_-_Diptych_-_WGA0207.jpg"
+          },
+          {
+            "url": "http://www.art-kingdom.com/upload/353619.jpg"
+          },
+          {
+            "url": "http://artchallenge.me/painters/100/34.jpg"
+          },
+          {
+            "url": "http://www.sabercultural.com/template/pintores/fotos/Altdorfer-Albrecht-01-Foto07.jpg"
+          },
+          {
+            "url": "https://classconnection.s3.amazonaws.com/209/flashcards/2365209/jpg/57-1424D6B550A7AF51D16.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.artble.com/artists/giotto_di_bondone/paintings/stigmatization_of_st_francis_(louvre)"
+          },
+          {
+            "url": "https://www.wikiart.org/en/albrecht-altdorfer/the-stigmatization-of-st-francis"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/499969996103485384/"
+          },
+          {
+            "url": "http://www.wikigallery.org/wiki/painting_239602/Albrecht-Altdorfer/The-Stigmatization-of-St.-Francis"
+          },
+          {
+            "url": "https://www.ibiblio.org/wm/paint/auth/altdorfer/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Albrecht_Altdorfer_-_Diptych_-_WGA0207.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Cigoli_-_St_Francis_Receives_the_Stigmata_-_WGA04879.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/8d/49/24/8d49242b80ed05dcc1c8325edc56b0f6.jpg"
+          },
+          {
+            "url": "http://blistar.net/images/photos/medium/21a5cab163dea954a94e4fe4144d69ff.jpg"
+          },
+          {
+            "url": "http://kunstmuseum-hamburg.de/wp-content/uploads/2015/10/The-Penitent-St-Jerome-Lucas-Cranach-d.-%C3%84..jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,270 @@
+{
+  "responses": [
+    {
+      "logoAnnotations": [
+        {
+          "description": "St. Bernard of Clairvaux",
+          "score": 0.8882636,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 6,
+                "y": 18
+              },
+              {
+                "x": 126,
+                "y": 18
+              },
+              {
+                "x": 126,
+                "y": 386
+              },
+              {
+                "x": 6,
+                "y": 386
+              }
+            ]
+          }
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.66331583
+        },
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.65823686
+        },
+        {
+          "mid": "/m/0mf2",
+          "description": "abbot",
+          "score": 0.6280766
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 80,
+                "green": 42,
+                "blue": 34
+              },
+              "score": 0.29163915,
+              "pixelFraction": 0.1709284
+            },
+            {
+              "color": {
+                "red": 38,
+                "green": 15,
+                "blue": 15
+              },
+              "score": 0.24911705,
+              "pixelFraction": 0.07199056
+            },
+            {
+              "color": {
+                "red": 141,
+                "green": 110,
+                "blue": 106
+              },
+              "score": 0.010117219,
+              "pixelFraction": 0.0059008654
+            },
+            {
+              "color": {
+                "red": 105,
+                "green": 32,
+                "blue": 14
+              },
+              "score": 0.0043534935,
+              "pixelFraction": 0.00570417
+            },
+            {
+              "color": {
+                "red": 54,
+                "green": 17,
+                "blue": 9
+              },
+              "score": 0.185151,
+              "pixelFraction": 0.044453185
+            },
+            {
+              "color": {
+                "red": 103,
+                "green": 65,
+                "blue": 57
+              },
+              "score": 0.11846439,
+              "pixelFraction": 0.17800944
+            },
+            {
+              "color": {
+                "red": 27,
+                "green": 11,
+                "blue": 8
+              },
+              "score": 0.0616349,
+              "pixelFraction": 0.025963807
+            },
+            {
+              "color": {
+                "red": 69,
+                "green": 39,
+                "blue": 38
+              },
+              "score": 0.053010687,
+              "pixelFraction": 0.017505901
+            },
+            {
+              "color": {
+                "red": 108,
+                "green": 76,
+                "blue": 73
+              },
+              "score": 0.008791932,
+              "pixelFraction": 0.004917388
+            },
+            {
+              "color": {
+                "red": 67,
+                "green": 6
+              },
+              "score": 0.0048723896,
+              "pixelFraction": 0.0011801731
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 132
+                },
+                {
+                  "x": 132,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/05zpzj5",
+            "score": 0.72768,
+            "description": "San Marco Altarpiece"
+          },
+          {
+            "entityId": "/m/02p1d4",
+            "score": 0.56412,
+            "description": "St. Bernard"
+          },
+          {
+            "entityId": "/m/0mf2",
+            "score": 0.39098823,
+            "description": "Abbot"
+          },
+          {
+            "entityId": "/m/0719f",
+            "score": 0.31514,
+            "description": "Saint"
+          },
+          {
+            "entityId": "/m/0db8p",
+            "score": 0.1923,
+            "description": "Cistercians"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/01/90/e8/0190e809ed86eb806ea96c1b2f2f76f4.jpg"
+          },
+          {
+            "url": "http://gallery1898.catholic.or.kr/GNDATA/BOARD/35/35473/th0_%ED%94%84%EB%9D%BC%EC%95%88%EC%A0%A4%EB%A6%AC%EC%BD%94_%ED%81%B4%EB%A0%88%EB%A5%B4%EB%B3%B4%EC%9D%98%EC%84%B1%EB%B2%A0%EB%A5%B4%EB%82%98%EB%A5%B4%EB%8F%84.jpg.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Angelico%2C_san_bernardo_dalla_pala_di_san_marco.jpg/124px-Angelico%2C_san_bernardo_dalla_pala_di_san_marco.jpg"
+          },
+          {
+            "url": "http://367art.net/uploads/artGallery/c110608/130K03N123N0-43225_lit.jpg"
+          },
+          {
+            "url": "http://www.lib-art.com/imgpaintingthumb/7/2/t50127-st-bernard-angelico-fra.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://lerosaire.com/images/Saint%20Bernard%201.jpg"
+          },
+          {
+            "url": "http://blog.adw.org/wp-content/uploads/2015/02/Feature-022415.jpg"
+          },
+          {
+            "url": "https://3.bp.blogspot.com/-ijGOx3T_IbY/VaBa78GiN3I/AAAAAAAARSI/ZovsDuKAEGQ/s320/sanbernardoacercamiento.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/200x150/28/df/9e/28df9ed9abe64315a505fcf7dd07f67d.jpg"
+          },
+          {
+            "url": "https://www.kro.nl/uploads/mobile/aa0ca00c-8ef7-44fd-9632-b4f4c0ee3a97.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://communio.stblogs.org/index.php/2016/08/st-bernard-of-clairvaux/"
+          },
+          {
+            "url": "http://communio.stblogs.org/index.php/tag/st-bernard-of-clairvaux/"
+          },
+          {
+            "url": "http://blog.adw.org/2013/03/the-twelve-steps-up-the-mountain-of-pride-according-to-st-bernard-of-clairvaux/"
+          },
+          {
+            "url": "https://www.pinterest.com/40daysofprayer/st-bernard-of-clairvaux/"
+          },
+          {
+            "url": "https://www.wikiart.org/en/fra-angelico/st-bernard-of-clairvaux-1440"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/e8/33/fb/e833fbadcebdba652e4206e12879de89.jpg"
+          },
+          {
+            "url": "http://www.todayscatholicworld.com/st-bernard-of-clairvoix.jpg"
+          },
+          {
+            "url": "https://lifeondoverbeach.files.wordpress.com/2016/10/st-bernard-of-clairvaux.gif?w=600"
+          },
+          {
+            "url": "http://www.stsimonoftrent.com/st-bernard-of-clairvaux-st-simon-of-trent-jew.jpg"
+          },
+          {
+            "url": "https://www.myartprints.co.uk/kunst/ferrer_bassa/exorcism_man_possessed_demon_hi.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

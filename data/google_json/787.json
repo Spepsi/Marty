@@ -1,0 +1,625 @@
+{
+  "responses": [
+    {
+      "faceAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 66,
+                "y": 3
+              },
+              {
+                "x": 238,
+                "y": 3
+              },
+              {
+                "x": 238,
+                "y": 202
+              },
+              {
+                "x": 66,
+                "y": 202
+              }
+            ]
+          },
+          "fdBoundingPoly": {
+            "vertices": [
+              {
+                "x": 91,
+                "y": 60
+              },
+              {
+                "x": 209,
+                "y": 60
+              },
+              {
+                "x": 209,
+                "y": 178
+              },
+              {
+                "x": 91,
+                "y": 178
+              }
+            ]
+          },
+          "landmarks": [
+            {
+              "type": "LEFT_EYE",
+              "position": {
+                "x": 128.5028,
+                "y": 96.719406,
+                "z": -0.00096879696
+              }
+            },
+            {
+              "type": "RIGHT_EYE",
+              "position": {
+                "x": 174.657,
+                "y": 96.48799,
+                "z": 0.079408385
+              }
+            },
+            {
+              "type": "LEFT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 109.19793,
+                "y": 85.33237,
+                "z": 3.2588995
+              }
+            },
+            {
+              "type": "RIGHT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 139.54971,
+                "y": 85.238754,
+                "z": -11.285697
+              }
+            },
+            {
+              "type": "LEFT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 164.37784,
+                "y": 85.63241,
+                "z": -11.149114
+              }
+            },
+            {
+              "type": "RIGHT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 195.18484,
+                "y": 84.669846,
+                "z": 3.7854025
+              }
+            },
+            {
+              "type": "MIDPOINT_BETWEEN_EYES",
+              "position": {
+                "x": 151.5134,
+                "y": 95.7081,
+                "z": -10.964151
+              }
+            },
+            {
+              "type": "NOSE_TIP",
+              "position": {
+                "x": 152.76147,
+                "y": 129.2603,
+                "z": -23.47767
+              }
+            },
+            {
+              "type": "UPPER_LIP",
+              "position": {
+                "x": 152.89357,
+                "y": 147.3952,
+                "z": -9.24484
+              }
+            },
+            {
+              "type": "LOWER_LIP",
+              "position": {
+                "x": 154.07887,
+                "y": 161.62756,
+                "z": -4.1643195
+              }
+            },
+            {
+              "type": "MOUTH_LEFT",
+              "position": {
+                "x": 135.66869,
+                "y": 154.52676,
+                "z": 4.522314
+              }
+            },
+            {
+              "type": "MOUTH_RIGHT",
+              "position": {
+                "x": 171.24777,
+                "y": 153.11407,
+                "z": 4.770712
+              }
+            },
+            {
+              "type": "MOUTH_CENTER",
+              "position": {
+                "x": 153.07411,
+                "y": 154.1122,
+                "z": -4.640287
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_RIGHT",
+              "position": {
+                "x": 166.59833,
+                "y": 130.69789,
+                "z": -3.0161252
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_LEFT",
+              "position": {
+                "x": 138.9093,
+                "y": 131.51611,
+                "z": -3.0827312
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_CENTER",
+              "position": {
+                "x": 152.43318,
+                "y": 136.5469,
+                "z": -10.510828
+              }
+            },
+            {
+              "type": "LEFT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 125.75752,
+                "y": 94.748245,
+                "z": -3.6034756
+              }
+            },
+            {
+              "type": "LEFT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 137.0803,
+                "y": 98.48303,
+                "z": 0.3992334
+              }
+            },
+            {
+              "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 127.50267,
+                "y": 100.977425,
+                "z": 0.006359469
+              }
+            },
+            {
+              "type": "LEFT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 116.29677,
+                "y": 97.97035,
+                "z": 4.7285852
+              }
+            },
+            {
+              "type": "LEFT_EYE_PUPIL",
+              "position": {
+                "x": 124.96424,
+                "y": 98.24394,
+                "z": -0.92871326
+              }
+            },
+            {
+              "type": "RIGHT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 178.11528,
+                "y": 93.73782,
+                "z": -3.5401092
+              }
+            },
+            {
+              "type": "RIGHT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 188.40388,
+                "y": 96.61543,
+                "z": 5.0209756
+              }
+            },
+            {
+              "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 175.96054,
+                "y": 100.77594,
+                "z": 0.08019267
+              }
+            },
+            {
+              "type": "RIGHT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 165.4454,
+                "y": 98.594986,
+                "z": 0.40558642
+              }
+            },
+            {
+              "type": "RIGHT_EYE_PUPIL",
+              "position": {
+                "x": 178.74365,
+                "y": 97.23506,
+                "z": -0.9411779
+              }
+            },
+            {
+              "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 123.25994,
+                "y": 79.86978,
+                "z": -7.609182
+              }
+            },
+            {
+              "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 180.15553,
+                "y": 78.78595,
+                "z": -7.523755
+              }
+            },
+            {
+              "type": "LEFT_EAR_TRAGION",
+              "position": {
+                "x": 92.72986,
+                "y": 118.44563,
+                "z": 66.872215
+              }
+            },
+            {
+              "type": "RIGHT_EAR_TRAGION",
+              "position": {
+                "x": 211.85666,
+                "y": 116.08533,
+                "z": 67.020874
+              }
+            },
+            {
+              "type": "FOREHEAD_GLABELLA",
+              "position": {
+                "x": 151.8,
+                "y": 85.490524,
+                "z": -13.061943
+              }
+            },
+            {
+              "type": "CHIN_GNATHION",
+              "position": {
+                "x": 153.76895,
+                "y": 186.9254,
+                "z": 5.960922
+              }
+            },
+            {
+              "type": "CHIN_LEFT_GONION",
+              "position": {
+                "x": 99.10472,
+                "y": 153.9367,
+                "z": 48.667587
+              }
+            },
+            {
+              "type": "CHIN_RIGHT_GONION",
+              "position": {
+                "x": 206.93219,
+                "y": 151.89893,
+                "z": 48.80678
+              }
+            }
+          ],
+          "rollAngle": -1.1204495,
+          "panAngle": 0.078468345,
+          "tiltAngle": -5.2950096,
+          "detectionConfidence": 0.9990078,
+          "landmarkingConfidence": 0.6355718,
+          "joyLikelihood": "VERY_UNLIKELY",
+          "sorrowLikelihood": "VERY_UNLIKELY",
+          "angerLikelihood": "VERY_UNLIKELY",
+          "surpriseLikelihood": "VERY_UNLIKELY",
+          "underExposedLikelihood": "VERY_UNLIKELY",
+          "blurredLikelihood": "VERY_UNLIKELY",
+          "headwearLikelihood": "VERY_UNLIKELY"
+        }
+      ],
+      "logoAnnotations": [
+        {
+          "description": "Christ Blessing",
+          "score": 0.83926654,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 31,
+                "y": 21
+              },
+              {
+                "x": 204,
+                "y": 21
+              },
+              {
+                "x": 204,
+                "y": 375
+              },
+              {
+                "x": 31,
+                "y": 375
+              }
+            ]
+          }
+        },
+        {
+          "description": "Christ Blessing",
+          "score": 0.8200927,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 74,
+                "y": 27
+              },
+              {
+                "x": 230,
+                "y": 27
+              },
+              {
+                "x": 230,
+                "y": 375
+              },
+              {
+                "x": 74,
+                "y": 375
+              }
+            ]
+          }
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/01g317",
+          "description": "person",
+          "score": 0.9030521
+        },
+        {
+          "mid": "/m/01dv4h",
+          "description": "portrait",
+          "score": 0.74740374
+        },
+        {
+          "mid": "/m/067408",
+          "description": "album cover",
+          "score": 0.6228785
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "UNLIKELY",
+        "spoof": "UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 15,
+                "green": 12,
+                "blue": 18
+              },
+              "score": 0.4920606,
+              "pixelFraction": 0.49245578
+            },
+            {
+              "color": {
+                "red": 82,
+                "green": 41,
+                "blue": 33
+              },
+              "score": 0.106531106,
+              "pixelFraction": 0.06642386
+            },
+            {
+              "color": {
+                "red": 170,
+                "green": 154,
+                "blue": 148
+              },
+              "score": 0.0061946553,
+              "pixelFraction": 0.0044224765
+            },
+            {
+              "color": {
+                "red": 42,
+                "green": 19,
+                "blue": 25
+              },
+              "score": 0.11110407,
+              "pixelFraction": 0.050641693
+            },
+            {
+              "color": {
+                "red": 107,
+                "green": 71,
+                "blue": 56
+              },
+              "score": 0.0852415,
+              "pixelFraction": 0.14507458
+            },
+            {
+              "color": {
+                "red": 70,
+                "green": 35,
+                "blue": 39
+              },
+              "score": 0.080186054,
+              "pixelFraction": 0.0381547
+            },
+            {
+              "color": {
+                "red": 49,
+                "green": 44,
+                "blue": 49
+              },
+              "score": 0.02688604,
+              "pixelFraction": 0.022025667
+            },
+            {
+              "color": {
+                "red": 53,
+                "green": 20,
+                "blue": 12
+              },
+              "score": 0.018699374,
+              "pixelFraction": 0.007284079
+            },
+            {
+              "color": {
+                "red": 141,
+                "green": 105,
+                "blue": 88
+              },
+              "score": 0.012282258,
+              "pixelFraction": 0.069458894
+            },
+            {
+              "color": {
+                "red": 91,
+                "green": 33,
+                "blue": 37
+              },
+              "score": 0.009556389,
+              "pixelFraction": 0.0079778
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 299
+                },
+                {
+                  "x": 299,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 1,
+            "importanceFraction": 1.25
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/01lrbt",
+            "score": 1.53822,
+            "description": "Antonello da Messina"
+          },
+          {
+            "entityId": "/m/0hgmf7n",
+            "score": 1.49704,
+            "description": "Salvator Mundi"
+          },
+          {
+            "entityId": "/m/0p88j",
+            "score": 1.46076,
+            "description": "National Gallery, London"
+          },
+          {
+            "entityId": "/m/0955w3",
+            "score": 1.45896,
+            "description": "Gemäldegalerie Alte Meister"
+          },
+          {
+            "entityId": "/g/122kzknd",
+            "score": 1.07092,
+            "description": "Christ Blessing"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://static.wixstatic.com/media/512eb7_08d82ac7377a42f88083269136337228.jpg_srz_2233_2963_85_22_0.50_1.20_0.00_jpg_srz"
+          },
+          {
+            "url": "http://images2.corriereobjects.it/methode_image/2015/10/30/Cultura/Foto%20Gallery/salvator.jpg"
+          },
+          {
+            "url": "http://www.iltamburodikattrin.com/files/iltamburodikattrin.com/2011/10/ANTONELLO_da_Messina_-_Salvator_Mundi1.jpg"
+          },
+          {
+            "url": "http://longstreet.typepad.com/.a/6a00d83542d51e69e201538e629825970b-pi"
+          },
+          {
+            "url": "http://www.name-list.net/img/portrait/Selvator_3.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://www.name-list.net/img/portrait/Ellero_9.jpg"
+          },
+          {
+            "url": "http://www.catechesiverona.it/wp-content/uploads/2012/10/Antonello_Salvator_Mundi.jpg"
+          },
+          {
+            "url": "https://ildiavolocompramaver.files.wordpress.com/2015/01/antonello_da_messina_061.jpg"
+          },
+          {
+            "url": "http://upload.wikimedia.org/wikipedia/commons/f/fd/Antonello_da_Messina_061.jpg"
+          },
+          {
+            "url": "http://name-list.net/img/portrait/antonello_5.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.wga.hu/html_m/a/antonell/salvator.html"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Antonello_da_Messina_061.jpg"
+          },
+          {
+            "url": "http://www.wikiwand.com/it/Salvator_mundi_(Antonello_da_Messina)"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Antonello_da_Messina_-_Salvator_Mundi_-_WGA0757.jpg"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/541206080190109506/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://artutto.altervista.org/wp-content/uploads/2011/04/salvator-mundi-londra-Copia.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Antonello_da_Messina_060.jpg"
+          },
+          {
+            "url": "https://d1k5w7mbrh6vq5.cloudfront.net/images/cache/9d/05/54/9d0554320ec2919ed993f77c08e3aa59.jpg"
+          },
+          {
+            "url": "http://3.bp.blogspot.com/-lo1xizuA8mg/VXvvfPIBpzI/AAAAAAAAZS8/1vIoYBkTIX4/s1600/Joos%2BVAN%2BCLEVE%2BSalvator%2BMundi%2Bc.1540.jpg"
+          },
+          {
+            "url": "http://www.arte.it/foto/138x138/97/165-458px-Antonello_da_Messina_061.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

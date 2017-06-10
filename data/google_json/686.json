@@ -1,0 +1,624 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.6755987
+        },
+        {
+          "mid": "/m/0lym8",
+          "description": "tapestry",
+          "score": 0.54127914
+        },
+        {
+          "mid": "/m/0djmp",
+          "description": "ancient history",
+          "score": 0.538924
+        },
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.50690615
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "en",
+          "description": "+5\nC\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 245,
+                "y": 51
+              },
+              {
+                "x": 295,
+                "y": 51
+              },
+              {
+                "x": 295,
+                "y": 247
+              },
+              {
+                "x": 245,
+                "y": 247
+              }
+            ]
+          }
+        },
+        {
+          "description": "+5",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 258,
+                "y": 247
+              },
+              {
+                "x": 246,
+                "y": 247
+              },
+              {
+                "x": 246,
+                "y": 241
+              },
+              {
+                "x": 258,
+                "y": 241
+              }
+            ]
+          }
+        },
+        {
+          "description": "C",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 285,
+                "y": 51
+              },
+              {
+                "x": 296,
+                "y": 51
+              },
+              {
+                "x": 296,
+                "y": 62
+              },
+              {
+                "x": 285,
+                "y": 62
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 113,
+                "green": 72,
+                "blue": 52
+              },
+              "score": 0.20533456,
+              "pixelFraction": 0.116698295
+            },
+            {
+              "color": {
+                "red": 27,
+                "green": 16,
+                "blue": 12
+              },
+              "score": 0.03494264,
+              "pixelFraction": 0.28162554
+            },
+            {
+              "color": {
+                "red": 129,
+                "green": 75,
+                "blue": 41
+              },
+              "score": 0.19265674,
+              "pixelFraction": 0.04135041
+            },
+            {
+              "color": {
+                "red": 79,
+                "green": 44,
+                "blue": 28
+              },
+              "score": 0.17264372,
+              "pixelFraction": 0.14460784
+            },
+            {
+              "color": {
+                "red": 157,
+                "green": 99,
+                "blue": 60
+              },
+              "score": 0.09065707,
+              "pixelFraction": 0.028858317
+            },
+            {
+              "color": {
+                "red": 50,
+                "green": 20,
+                "blue": 7
+              },
+              "score": 0.054378442,
+              "pixelFraction": 0.056135356
+            },
+            {
+              "color": {
+                "red": 68,
+                "green": 48,
+                "blue": 30
+              },
+              "score": 0.043175366,
+              "pixelFraction": 0.04601518
+            },
+            {
+              "color": {
+                "red": 99,
+                "green": 78,
+                "blue": 58
+              },
+              "score": 0.03334373,
+              "pixelFraction": 0.03826692
+            },
+            {
+              "color": {
+                "red": 145,
+                "green": 103,
+                "blue": 79
+              },
+              "score": 0.030761654,
+              "pixelFraction": 0.022375079
+            },
+            {
+              "color": {
+                "red": 38,
+                "green": 15,
+                "blue": 11
+              },
+              "score": 0.0205882,
+              "pixelFraction": 0.040243518
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 329
+                },
+                {
+                  "y": 329
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "en"
+                }
+              ]
+            },
+            "width": 400,
+            "height": 330,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "en"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 245,
+                      "y": 241
+                    },
+                    {
+                      "x": 257,
+                      "y": 241
+                    },
+                    {
+                      "x": 257,
+                      "y": 247
+                    },
+                    {
+                      "x": 245,
+                      "y": 247
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "en"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 245,
+                          "y": 241
+                        },
+                        {
+                          "x": 257,
+                          "y": 241
+                        },
+                        {
+                          "x": 257,
+                          "y": 247
+                        },
+                        {
+                          "x": 245,
+                          "y": 247
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 258,
+                              "y": 247
+                            },
+                            {
+                              "x": 246,
+                              "y": 247
+                            },
+                            {
+                              "x": 246,
+                              "y": 241
+                            },
+                            {
+                              "x": 258,
+                              "y": 241
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 258,
+                                  "y": 247
+                                },
+                                {
+                                  "x": 253,
+                                  "y": 247
+                                },
+                                {
+                                  "x": 253,
+                                  "y": 241
+                                },
+                                {
+                                  "x": 258,
+                                  "y": 241
+                                }
+                              ]
+                            },
+                            "text": "+"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 252,
+                                  "y": 247
+                                },
+                                {
+                                  "x": 246,
+                                  "y": 247
+                                },
+                                {
+                                  "x": 246,
+                                  "y": 241
+                                },
+                                {
+                                  "x": 252,
+                                  "y": 241
+                                }
+                              ]
+                            },
+                            "text": "5"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              },
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "en"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 284,
+                      "y": 51
+                    },
+                    {
+                      "x": 295,
+                      "y": 51
+                    },
+                    {
+                      "x": 295,
+                      "y": 62
+                    },
+                    {
+                      "x": 284,
+                      "y": 62
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "en"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 284,
+                          "y": 51
+                        },
+                        {
+                          "x": 295,
+                          "y": 51
+                        },
+                        {
+                          "x": 295,
+                          "y": 62
+                        },
+                        {
+                          "x": 284,
+                          "y": 62
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 285,
+                              "y": 51
+                            },
+                            {
+                              "x": 296,
+                              "y": 51
+                            },
+                            {
+                              "x": 296,
+                              "y": 62
+                            },
+                            {
+                              "x": 285,
+                              "y": 62
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 285,
+                                  "y": 51
+                                },
+                                {
+                                  "x": 296,
+                                  "y": 51
+                                },
+                                {
+                                  "x": 296,
+                                  "y": 62
+                                },
+                                {
+                                  "x": 285,
+                                  "y": 62
+                                }
+                              ]
+                            },
+                            "text": "C"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "+5\nC\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/07wrxk",
+            "score": 4.76576,
+            "description": "Gemäldegalerie, Berlin"
+          },
+          {
+            "entityId": "/m/03cgvsw",
+            "score": 2.80188,
+            "description": "The Last Judgment"
+          },
+          {
+            "entityId": "/m/03cq1ss",
+            "score": 1.5694,
+            "description": "The Last Judgment"
+          },
+          {
+            "entityId": "/m/015hb2",
+            "score": 1.50054,
+            "description": "Last Judgment"
+          },
+          {
+            "entityId": "/m/0bz2yx",
+            "score": 0.38918,
+            "description": "The Sheep and the Goats"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://2.bp.blogspot.com/-tUvhIQv8i94/UD4P6sDP2FI/AAAAAAAAM-Y/LSi5I9LOFMg/s1600/TRIPTICO+DEL+JUICIO+FINAL.jpg"
+          },
+          {
+            "url": "http://uploads7.wikipaintings.org/images/fra-angelico/last-judgment-1.jpg"
+          },
+          {
+            "url": "http://cfile201.uf.daum.net/image/2749904C57334B74032299"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Angelico%2C_giudizio_universale_di_berlino.jpg/931px-Angelico%2C_giudizio_universale_di_berlino.jpg"
+          },
+          {
+            "url": "http://therightstuff.biz/content/images/2017/02/last-judgment-1.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://1.bp.blogspot.com/-a3Yd6mO5SkM/TrlDwJypipI/AAAAAAAAIuY/7jSgSYXs-tk/s1600/Fra%2BAngelico%2BLast%2BJudgment.jpg"
+          },
+          {
+            "url": "http://4.bp.blogspot.com/-_9Twpug5sSY/U93aArdL3nI/AAAAAAAACzk/wBlVBNe05Lc/s1600/last-judgment.jpg"
+          },
+          {
+            "url": "https://i2.wp.com/classicalchristianity.com/wp-content/uploads/2016/03/last-judgment-1.jpg"
+          },
+          {
+            "url": "http://2.bp.blogspot.com/-tUvhIQv8i94/UD4P6sDP2FI/AAAAAAAAM-Y/LSi5I9LOFMg/s1600/TRIPTICO+DEL+JUICIO+FINAL.jpg"
+          },
+          {
+            "url": "https://userscontent2.emaze.com/images/4e8a946a-b1a6-4a13-9a44-797bf88faeae/0fc9ac94-378b-4e5a-b587-4e453606bc48.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.wga.hu/html_m/a/angelico/12/70lastju.html"
+          },
+          {
+            "url": "https://www.wikiart.org/en/fra-angelico/last-judgment-1"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/112730796898625589/"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/476255729326536463/"
+          },
+          {
+            "url": "https://theartstack.com/artist/fra-angelico/the-last-judgment-triptych-1"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/15/a7/71/15a77113d6d20281c6ab585e01c7251a.jpg"
+          },
+          {
+            "url": "https://spectatio.files.wordpress.com/2011/09/memling-last-judgment-good.jpg"
+          },
+          {
+            "url": "https://thepointmag.com/wp-content/uploads/2014/11/Fra_Angelico_LastJudgment.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/11/7e/e3/117ee35965f74684c0f48c96d3417b62.jpg"
+          },
+          {
+            "url": "http://4.bp.blogspot.com/-Ue1c9icPaV0/U6Ln7V6el3I/AAAAAAAAaOo/aF8D0GhpZ3k/s1600/152+The+Last+Judgement+Jean+Cousin.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,479 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.83802825
+        },
+        {
+          "mid": "/m/04zhd",
+          "description": "mythology",
+          "score": 0.6625577
+        },
+        {
+          "mid": "/m/0djmp",
+          "description": "ancient history",
+          "score": 0.5934981
+        },
+        {
+          "mid": "/m/0lym8",
+          "description": "tapestry",
+          "score": 0.55053824
+        },
+        {
+          "mid": "/m/015r61",
+          "description": "modern art",
+          "score": 0.5233101
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "en",
+          "description": "ks\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 43,
+                "y": 49
+              },
+              {
+                "x": 83,
+                "y": 49
+              },
+              {
+                "x": 83,
+                "y": 100
+              },
+              {
+                "x": 43,
+                "y": 100
+              }
+            ]
+          }
+        },
+        {
+          "description": "ks",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 84,
+                "y": 51
+              },
+              {
+                "x": 82,
+                "y": 100
+              },
+              {
+                "x": 44,
+                "y": 98
+              },
+              {
+                "x": 46,
+                "y": 49
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 74,
+                "green": 42,
+                "blue": 32
+              },
+              "score": 0.20532691,
+              "pixelFraction": 0.09167594
+            },
+            {
+              "color": {
+                "red": 29,
+                "green": 17,
+                "blue": 13
+              },
+              "score": 0.15934004,
+              "pixelFraction": 0.06766778
+            },
+            {
+              "color": {
+                "red": 219,
+                "green": 192,
+                "blue": 156
+              },
+              "score": 0.12270379,
+              "pixelFraction": 0.12504634
+            },
+            {
+              "color": {
+                "red": 40,
+                "green": 19,
+                "blue": 17
+              },
+              "score": 0.13115446,
+              "pixelFraction": 0.038375974
+            },
+            {
+              "color": {
+                "red": 66,
+                "green": 41,
+                "blue": 37
+              },
+              "score": 0.06557261,
+              "pixelFraction": 0.020949204
+            },
+            {
+              "color": {
+                "red": 51,
+                "green": 22,
+                "blue": 14
+              },
+              "score": 0.059594527,
+              "pixelFraction": 0.016129032
+            },
+            {
+              "color": {
+                "red": 181,
+                "green": 156,
+                "blue": 129
+              },
+              "score": 0.036574844,
+              "pixelFraction": 0.04579162
+            },
+            {
+              "color": {
+                "red": 104,
+                "green": 70,
+                "blue": 51
+              },
+              "score": 0.03611458,
+              "pixelFraction": 0.07128291
+            },
+            {
+              "color": {
+                "red": 57,
+                "green": 43,
+                "blue": 36
+              },
+              "score": 0.031197723,
+              "pixelFraction": 0.012050427
+            },
+            {
+              "color": {
+                "red": 142,
+                "green": 117,
+                "blue": 92
+              },
+              "score": 0.026476156,
+              "pixelFraction": 0.037912495
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 280
+                },
+                {
+                  "x": 280,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "en"
+                }
+              ]
+            },
+            "width": 281,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "en"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 84,
+                      "y": 51
+                    },
+                    {
+                      "x": 82,
+                      "y": 100
+                    },
+                    {
+                      "x": 44,
+                      "y": 98
+                    },
+                    {
+                      "x": 46,
+                      "y": 49
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "en"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 43,
+                          "y": 49
+                        },
+                        {
+                          "x": 83,
+                          "y": 49
+                        },
+                        {
+                          "x": 83,
+                          "y": 100
+                        },
+                        {
+                          "x": 43,
+                          "y": 100
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 84,
+                              "y": 51
+                            },
+                            {
+                              "x": 82,
+                              "y": 100
+                            },
+                            {
+                              "x": 44,
+                              "y": 98
+                            },
+                            {
+                              "x": 46,
+                              "y": 49
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 84,
+                                  "y": 51
+                                },
+                                {
+                                  "x": 83,
+                                  "y": 75
+                                },
+                                {
+                                  "x": 46,
+                                  "y": 73
+                                },
+                                {
+                                  "x": 47,
+                                  "y": 49
+                                }
+                              ]
+                            },
+                            "text": "k"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 76,
+                                  "y": 76
+                                },
+                                {
+                                  "x": 75,
+                                  "y": 100
+                                },
+                                {
+                                  "x": 44,
+                                  "y": 99
+                                },
+                                {
+                                  "x": 45,
+                                  "y": 75
+                                }
+                              ]
+                            },
+                            "text": "s"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "ks\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/03y61",
+            "score": 0.87443,
+            "description": "Immaculate Conception"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.41010204,
+            "description": "Painting"
+          },
+          {
+            "entityId": "/m/04mrs1",
+            "score": 0.38167,
+            "description": "Feast of the Immaculate Conception"
+          },
+          {
+            "entityId": "/m/0x6r",
+            "score": 0.37132,
+            "description": "Angel"
+          },
+          {
+            "entityId": "/m/03nlrrk",
+            "score": 0.32692,
+            "description": "Nativity of Mary"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://4.bp.blogspot.com/_YOzcxPfg2j0/TIDpJikLTeI/AAAAAAAAAKI/drj1Ynr21OY/s1600/immacula.jpg"
+          },
+          {
+            "url": "http://2.bp.blogspot.com/-Mbp7yx17_ZU/TuCcGD5_waI/AAAAAAAAAYM/l1ZORGPXJqk/s1600/1249501192_1.jpg"
+          },
+          {
+            "url": "https://catholic4lifeblog.files.wordpress.com/2014/09/most-holy-name-of-mary-1.jpg"
+          },
+          {
+            "url": "http://mashtoz.org/admins/img/id/172/action/%D4%B8%D5%B6%D5%A4%D5%B0%D5%A1%D5%B6%D6%80%D5%A1%D5%AF%D5%A1%D5%B6%20%D4%B5%D5%AF%D5%A5%D5%B2%D5%A5%D6%81%D5%B8%D6%82%20%D5%8E%D5%A1%D5%BE%D5%A5%D6%80%D5%A1%D5%A3%D6%80%D5%A5%D6%80/size/2290/path/content/name/YTlmZjkxMDJkZjk4OWE2LmpwZw==/"
+          },
+          {
+            "url": "http://lib-art.com/imgpainting/5/5/20355-the-immaculate-conception-angeli-giuseppe.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://blog-001.west.edge.storage-yahoo.jp/res/blog-e3-80/magtaranomaria/folder/614598/04/37411804/img_0?1304289894"
+          },
+          {
+            "url": "http://2.bp.blogspot.com/-Mbp7yx17_ZU/TuCcGD5_waI/AAAAAAAAAYM/l1ZORGPXJqk/s1600/1249501192_1.jpg"
+          },
+          {
+            "url": "http://upload.wikimedia.org/wikipedia/commons/7/7d/Giuseppe_Angeli_-_The_Immaculate_Conception_-_WGA00437.jpg"
+          },
+          {
+            "url": "https://catholic4lifeblog.files.wordpress.com/2014/09/most-holy-name-of-mary-1.jpg"
+          },
+          {
+            "url": "http://mashtoz.org/admins/img/id/172/action/%D4%B8%D5%B6%D5%A4%D5%B0%D5%A1%D5%B6%D6%80%D5%A1%D5%AF%D5%A1%D5%B6%20%D4%B5%D5%AF%D5%A5%D5%B2%D5%A5%D6%81%D5%B8%D6%82%20%D5%8E%D5%A1%D5%BE%D5%A5%D6%80%D5%A1%D5%A3%D6%80%D5%A5%D6%80/size/2290/path/content/name/YTlmZjkxMDJkZjk4OWE2LmpwZw==/"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://www.pinterest.com/explore/the-immaculate-conception/"
+          },
+          {
+            "url": "http://biblestudyforcatholics.com/hail-full-grace-immaculate-conception-explained/"
+          },
+          {
+            "url": "http://communio.stblogs.org/index.php/tag/immaculate-conception/"
+          },
+          {
+            "url": "http://stacytrasancos.com/immaculate-conception-art-annual-post/"
+          },
+          {
+            "url": "https://in.pinterest.com/explore/the-immaculate-conception/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://www.mystudios.com/artgallery/paintings/106501-107000/106643/size1.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Giovanni_Battista_Tiepolo_-_Allegory_of_the_Immaculate_Conception_-_NGI.353.jpg"
+          },
+          {
+            "url": "http://www.discerninghearts.com/blog/wp-content/uploads/2012/11/Immaculate-Conception-Day-1.jpg"
+          },
+          {
+            "url": "http://www.assumption-immaculate.org/images/info/annunciation.jpg"
+          },
+          {
+            "url": "http://www.abc.net.au/cm/lb/5454914/data/giambattista-tiepolo-data.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,812 @@
+{
+  "responses": [
+    {
+      "faceAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 123,
+                "y": 73
+              },
+              {
+                "x": 189,
+                "y": 73
+              },
+              {
+                "x": 189,
+                "y": 151
+              },
+              {
+                "x": 123,
+                "y": 151
+              }
+            ]
+          },
+          "fdBoundingPoly": {
+            "vertices": [
+              {
+                "x": 131,
+                "y": 94
+              },
+              {
+                "x": 181,
+                "y": 94
+              },
+              {
+                "x": 181,
+                "y": 145
+              },
+              {
+                "x": 131,
+                "y": 145
+              }
+            ]
+          },
+          "landmarks": [
+            {
+              "type": "LEFT_EYE",
+              "position": {
+                "x": 152.11742,
+                "y": 107.827995,
+                "z": -0.00027114814
+              }
+            },
+            {
+              "type": "RIGHT_EYE",
+              "position": {
+                "x": 169.15002,
+                "y": 112.845695,
+                "z": 1.6539645
+              }
+            },
+            {
+              "type": "LEFT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 145.55917,
+                "y": 100.65472,
+                "z": 0.979997
+              }
+            },
+            {
+              "type": "RIGHT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 157.44568,
+                "y": 104.46733,
+                "z": -3.7439454
+              }
+            },
+            {
+              "type": "LEFT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 166.7748,
+                "y": 107.33578,
+                "z": -2.8527324
+              }
+            },
+            {
+              "type": "RIGHT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 177.75282,
+                "y": 110.53757,
+                "z": 4.0176525
+              }
+            },
+            {
+              "type": "MIDPOINT_BETWEEN_EYES",
+              "position": {
+                "x": 160.47244,
+                "y": 109.83235,
+                "z": -3.4086502
+              }
+            },
+            {
+              "type": "NOSE_TIP",
+              "position": {
+                "x": 157.56787,
+                "y": 121.41635,
+                "z": -8.864115
+              }
+            },
+            {
+              "type": "UPPER_LIP",
+              "position": {
+                "x": 155.3787,
+                "y": 128.15123,
+                "z": -3.8444536
+              }
+            },
+            {
+              "type": "LOWER_LIP",
+              "position": {
+                "x": 153.1336,
+                "y": 134.7897,
+                "z": -2.0665352
+              }
+            },
+            {
+              "type": "MOUTH_LEFT",
+              "position": {
+                "x": 146.38351,
+                "y": 128.37726,
+                "z": 1.0062376
+              }
+            },
+            {
+              "type": "MOUTH_RIGHT",
+              "position": {
+                "x": 161.60294,
+                "y": 132.98317,
+                "z": 2.4144301
+              }
+            },
+            {
+              "type": "MOUTH_CENTER",
+              "position": {
+                "x": 154.24321,
+                "y": 131.2135,
+                "z": -2.185035
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_RIGHT",
+              "position": {
+                "x": 162.09444,
+                "y": 124.025085,
+                "z": -0.561518
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_LEFT",
+              "position": {
+                "x": 151.6015,
+                "y": 120.726685,
+                "z": -1.5556324
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_CENTER",
+              "position": {
+                "x": 156.50687,
+                "y": 124.20509,
+                "z": -4.0877657
+              }
+            },
+            {
+              "type": "LEFT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 151.26851,
+                "y": 106.09527,
+                "z": -1.4749336
+              }
+            },
+            {
+              "type": "LEFT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 154.14514,
+                "y": 108.817825,
+                "z": 0.38015226
+              }
+            },
+            {
+              "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 151.21698,
+                "y": 108.83096,
+                "z": -0.20184101
+              }
+            },
+            {
+              "type": "LEFT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 146.82849,
+                "y": 106.119316,
+                "z": 1.4031801
+              }
+            },
+            {
+              "type": "LEFT_EYE_PUPIL",
+              "position": {
+                "x": 150.47778,
+                "y": 107.276596,
+                "z": -0.58595324
+              }
+            },
+            {
+              "type": "RIGHT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 170.52351,
+                "y": 111.99856,
+                "z": 0.34623906
+              }
+            },
+            {
+              "type": "RIGHT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 173.67262,
+                "y": 114.3587,
+                "z": 3.9491193
+              }
+            },
+            {
+              "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 169.5661,
+                "y": 114.522736,
+                "z": 1.6283108
+              }
+            },
+            {
+              "type": "RIGHT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 166.08188,
+                "y": 112.19116,
+                "z": 1.4561092
+              }
+            },
+            {
+              "type": "RIGHT_EYE_PUPIL",
+              "position": {
+                "x": 170.25714,
+                "y": 113.346924,
+                "z": 1.2575227
+              }
+            },
+            {
+              "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 152.23639,
+                "y": 100.26602,
+                "z": -2.8127575
+              }
+            },
+            {
+              "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 173.15894,
+                "y": 106.684616,
+                "z": -0.8316093
+              }
+            },
+            {
+              "type": "LEFT_EAR_TRAGION",
+              "position": {
+                "x": 133.67409,
+                "y": 111.413895,
+                "z": 24.051361
+              }
+            },
+            {
+              "type": "RIGHT_EAR_TRAGION",
+              "position": {
+                "x": 177.47179,
+                "y": 124.85601,
+                "z": 28.167486
+              }
+            },
+            {
+              "type": "FOREHEAD_GLABELLA",
+              "position": {
+                "x": 162.20746,
+                "y": 105.70513,
+                "z": -4.055943
+              }
+            },
+            {
+              "type": "CHIN_GNATHION",
+              "position": {
+                "x": 150.21576,
+                "y": 143.29439,
+                "z": 1.1600468
+              }
+            },
+            {
+              "type": "CHIN_LEFT_GONION",
+              "position": {
+                "x": 132.52072,
+                "y": 125.01709,
+                "z": 16.556644
+              }
+            },
+            {
+              "type": "CHIN_RIGHT_GONION",
+              "position": {
+                "x": 172.1256,
+                "y": 137.17664,
+                "z": 20.295267
+              }
+            }
+          ],
+          "rollAngle": 17.24031,
+          "panAngle": 5.1615753,
+          "tiltAngle": -2.283408,
+          "detectionConfidence": 0.50475186,
+          "landmarkingConfidence": 0.2778113,
+          "joyLikelihood": "VERY_UNLIKELY",
+          "sorrowLikelihood": "VERY_UNLIKELY",
+          "angerLikelihood": "VERY_UNLIKELY",
+          "surpriseLikelihood": "VERY_UNLIKELY",
+          "underExposedLikelihood": "VERY_UNLIKELY",
+          "blurredLikelihood": "VERY_UNLIKELY",
+          "headwearLikelihood": "POSSIBLE"
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.89753634
+        },
+        {
+          "mid": "/m/015r61",
+          "description": "modern art",
+          "score": 0.538327
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "eo",
+          "description": "tsp\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 194,
+                "y": 152
+              },
+              {
+                "x": 210,
+                "y": 152
+              },
+              {
+                "x": 210,
+                "y": 183
+              },
+              {
+                "x": 194,
+                "y": 183
+              }
+            ]
+          }
+        },
+        {
+          "description": "tsp",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 211,
+                "y": 153
+              },
+              {
+                "x": 210,
+                "y": 183
+              },
+              {
+                "x": 195,
+                "y": 182
+              },
+              {
+                "x": 196,
+                "y": 152
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 28,
+                "green": 24,
+                "blue": 25
+              },
+              "score": 0.23230559,
+              "pixelFraction": 0.22325976
+            },
+            {
+              "color": {
+                "red": 71,
+                "green": 38,
+                "blue": 26
+              },
+              "score": 0.16720518,
+              "pixelFraction": 0.12572156
+            },
+            {
+              "color": {
+                "red": 139,
+                "green": 115,
+                "blue": 126
+              },
+              "score": 0.05477755,
+              "pixelFraction": 0.029032258
+            },
+            {
+              "color": {
+                "red": 216,
+                "green": 117,
+                "blue": 118
+              },
+              "score": 0.0037505657,
+              "pixelFraction": 0.017657045
+            },
+            {
+              "color": {
+                "red": 249,
+                "green": 227,
+                "blue": 190
+              },
+              "score": 0.0025039578,
+              "pixelFraction": 0.0022071307
+            },
+            {
+              "color": {
+                "red": 55,
+                "green": 41,
+                "blue": 39
+              },
+              "score": 0.12765081,
+              "pixelFraction": 0.101358235
+            },
+            {
+              "color": {
+                "red": 65,
+                "green": 41,
+                "blue": 42
+              },
+              "score": 0.082318194,
+              "pixelFraction": 0.048981324
+            },
+            {
+              "color": {
+                "red": 54,
+                "green": 22,
+                "blue": 14
+              },
+              "score": 0.07680958,
+              "pixelFraction": 0.034125637
+            },
+            {
+              "color": {
+                "red": 45,
+                "green": 21,
+                "blue": 23
+              },
+              "score": 0.07244096,
+              "pixelFraction": 0.036502548
+            },
+            {
+              "color": {
+                "red": 101,
+                "green": 77,
+                "blue": 80
+              },
+              "score": 0.041309003,
+              "pixelFraction": 0.027843803
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 305
+                },
+                {
+                  "x": 305,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 1,
+            "importanceFraction": 0.64
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "eo"
+                }
+              ]
+            },
+            "width": 306,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "eo"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 211,
+                      "y": 153
+                    },
+                    {
+                      "x": 210,
+                      "y": 183
+                    },
+                    {
+                      "x": 195,
+                      "y": 182
+                    },
+                    {
+                      "x": 196,
+                      "y": 152
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "eo"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 194,
+                          "y": 152
+                        },
+                        {
+                          "x": 210,
+                          "y": 152
+                        },
+                        {
+                          "x": 210,
+                          "y": 183
+                        },
+                        {
+                          "x": 194,
+                          "y": 183
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "eo"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 211,
+                              "y": 153
+                            },
+                            {
+                              "x": 210,
+                              "y": 183
+                            },
+                            {
+                              "x": 195,
+                              "y": 182
+                            },
+                            {
+                              "x": 196,
+                              "y": 152
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "eo"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 211,
+                                  "y": 153
+                                },
+                                {
+                                  "x": 211,
+                                  "y": 160
+                                },
+                                {
+                                  "x": 196,
+                                  "y": 159
+                                },
+                                {
+                                  "x": 196,
+                                  "y": 152
+                                }
+                              ]
+                            },
+                            "text": "t"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "eo"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 211,
+                                  "y": 162
+                                },
+                                {
+                                  "x": 211,
+                                  "y": 170
+                                },
+                                {
+                                  "x": 196,
+                                  "y": 169
+                                },
+                                {
+                                  "x": 196,
+                                  "y": 161
+                                }
+                              ]
+                            },
+                            "text": "s"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "eo"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 210,
+                                  "y": 173
+                                },
+                                {
+                                  "x": 210,
+                                  "y": 183
+                                },
+                                {
+                                  "x": 196,
+                                  "y": 182
+                                },
+                                {
+                                  "x": 196,
+                                  "y": 172
+                                }
+                              ]
+                            },
+                            "text": "p"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "tsp\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/07tbqj",
+            "score": 6.94112,
+            "description": "Nationalmuseum"
+          },
+          {
+            "entityId": "/m/03nqyy8",
+            "score": 1.54488,
+            "description": "The Tribute Money"
+          },
+          {
+            "entityId": "/m/057m5k",
+            "score": 0.76506,
+            "description": "Lectionary"
+          },
+          {
+            "entityId": "/m/01tx9m",
+            "score": 0.74216,
+            "description": "Baylor University"
+          },
+          {
+            "entityId": "/m/011l9q1d",
+            "score": 0.73402,
+            "description": "Luke 16"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://blogs.baylor.edu/truettpulpit/files/2016/08/tributex-127m5ev.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://blogs.baylor.edu/truettpulpit/files/2016/08/tributex-127m5ev.jpg"
+          },
+          {
+            "url": "http://www.lending-for-europe.eu/typo3temp/pics/JBacker_Stockholm_01_4805337e04.jpg"
+          },
+          {
+            "url": "https://holstshop.com/media/large/jacob-adriaensz-backer/274026.jpg"
+          },
+          {
+            "url": "http://www.lhpk.fi/wp-content/uploads/2017/02/lamppu_1_2017_kansi.jpg"
+          },
+          {
+            "url": "http://img0.liveinternet.ru/images/attach/c/5/87/213/87213372_4000579_2.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://blogs.baylor.edu/truettpulpit/2016/08/30/luke-161-13/"
+          },
+          {
+            "url": "https://blogs.baylor.edu/truettpulpit/category/contributors-2/brett-younger/"
+          },
+          {
+            "url": "https://sedosmission.org/about-us/"
+          },
+          {
+            "url": "https://sedosmission.org/article/news-2/"
+          },
+          {
+            "url": "http://www.lending-for-europe.eu/about-us/good-practices/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://blogs.baylor.edu/truettpulpit/files/2016/08/tributex-127m5ev.jpg"
+          },
+          {
+            "url": "http://newchristianbiblestudy.org/bundles/ncbsw/media/Reymerswaele_Two_tax_collectors.jpg"
+          },
+          {
+            "url": "http://www.workingpreacher.org/controls_media/header/tool_wp_feature_picture_readings/feature_images/Flemish_Rich_and_Poor_710.jpg"
+          },
+          {
+            "url": "https://8406c24de5442685c57b-57fa5852527c9e8686bcd34c9fdc4763.ssl.cf5.rackcdn.com/emmaus_road_3-1-250x193.jpg"
+          },
+          {
+            "url": "http://truthbook.com/images/site_images/Rembrandt_The_Rich_Man_from_the_Parable_525.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

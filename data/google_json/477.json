@@ -1,0 +1,414 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.712052
+        },
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.6879315
+        },
+        {
+          "mid": "/m/04zhd",
+          "description": "mythology",
+          "score": 0.57747763
+        },
+        {
+          "mid": "/m/01kr8f",
+          "description": "illustration",
+          "score": 0.5523409
+        },
+        {
+          "mid": "/m/015r61",
+          "description": "modern art",
+          "score": 0.5234899
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "ja",
+          "description": "で\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 133,
+                "y": 208
+              },
+              {
+                "x": 149,
+                "y": 208
+              },
+              {
+                "x": 149,
+                "y": 227
+              },
+              {
+                "x": 133,
+                "y": 227
+              }
+            ]
+          }
+        },
+        {
+          "description": "で",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 134,
+                "y": 209
+              },
+              {
+                "x": 149,
+                "y": 208
+              },
+              {
+                "x": 150,
+                "y": 226
+              },
+              {
+                "x": 135,
+                "y": 227
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 190,
+                "green": 200,
+                "blue": 235
+              },
+              "score": 0.22900088,
+              "pixelFraction": 0.112827145
+            },
+            {
+              "color": {
+                "red": 115,
+                "green": 67,
+                "blue": 18
+              },
+              "score": 0.04538516,
+              "pixelFraction": 0.045952525
+            },
+            {
+              "color": {
+                "red": 141,
+                "green": 116,
+                "blue": 59
+              },
+              "score": 0.040819645,
+              "pixelFraction": 0.02221546
+            },
+            {
+              "color": {
+                "red": 184,
+                "green": 150,
+                "blue": 60
+              },
+              "score": 0.031486098,
+              "pixelFraction": 0.009205721
+            },
+            {
+              "color": {
+                "red": 74,
+                "green": 74,
+                "blue": 134
+              },
+              "score": 0.012529357,
+              "pixelFraction": 0.003347535
+            },
+            {
+              "color": {
+                "red": 62,
+                "green": 49,
+                "blue": 83
+              },
+              "score": 0.009771758,
+              "pixelFraction": 0.0038800973
+            },
+            {
+              "color": {
+                "red": 212,
+                "green": 222,
+                "blue": 245
+              },
+              "score": 0.097314395,
+              "pixelFraction": 0.06542909
+            },
+            {
+              "color": {
+                "red": 230,
+                "green": 230,
+                "blue": 236
+              },
+              "score": 0.08154138,
+              "pixelFraction": 0.097915396
+            },
+            {
+              "color": {
+                "red": 207,
+                "green": 195,
+                "blue": 199
+              },
+              "score": 0.054489926,
+              "pixelFraction": 0.06010347
+            },
+            {
+              "color": {
+                "red": 91,
+                "green": 49,
+                "blue": 9
+              },
+              "score": 0.045176793,
+              "pixelFraction": 0.029747413
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 341
+                },
+                {
+                  "x": 341,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "ja"
+                }
+              ]
+            },
+            "width": 342,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "ja"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 149,
+                      "y": 208
+                    },
+                    {
+                      "x": 150,
+                      "y": 226
+                    },
+                    {
+                      "x": 135,
+                      "y": 227
+                    },
+                    {
+                      "x": 134,
+                      "y": 209
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "ja"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 133,
+                          "y": 208
+                        },
+                        {
+                          "x": 149,
+                          "y": 208
+                        },
+                        {
+                          "x": 149,
+                          "y": 227
+                        },
+                        {
+                          "x": 133,
+                          "y": 227
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "ja"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 134,
+                              "y": 209
+                            },
+                            {
+                              "x": 149,
+                              "y": 208
+                            },
+                            {
+                              "x": 150,
+                              "y": 226
+                            },
+                            {
+                              "x": 135,
+                              "y": 227
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "ja"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 134,
+                                  "y": 209
+                                },
+                                {
+                                  "x": 149,
+                                  "y": 208
+                                },
+                                {
+                                  "x": 150,
+                                  "y": 226
+                                },
+                                {
+                                  "x": 135,
+                                  "y": 227
+                                }
+                              ]
+                            },
+                            "text": "で"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "で\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/02vwsl4",
+            "score": 11.38816,
+            "description": "Villa Widmann – Foscari"
+          },
+          {
+            "entityId": "/m/09frp_",
+            "score": 5.93288,
+            "description": "Riviera del Brenta"
+          },
+          {
+            "entityId": "/m/03dr6n",
+            "score": 2.80312,
+            "description": "Brenta"
+          },
+          {
+            "entityId": "/m/03wx_2",
+            "score": 2.5584,
+            "description": "Province of Vicenza"
+          },
+          {
+            "entityId": "/m/02wm6l",
+            "score": 0.82748,
+            "description": "Republic of Venice"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://4.bp.blogspot.com/-Rp8GG6mAZFM/VfRQdzoS5uI/AAAAAAAAUKo/ZjZ_LAwo1do/s640/7.jpg"
+          },
+          {
+            "url": "http://www.viguidaclaudia.com/wp-content/uploads/villa-Widmann-soffitto-salone.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.viguidaclaudia.com/riviera-del-brenta/"
+          },
+          {
+            "url": "http://christianemoreau.blogspot.com/2015/09/riviera-de-la-brenta.html"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://scontent.cdninstagram.com/t51.2885-15/s480x480/e35/16585079_506741702829523_6875398984765014016_n.jpg?ig_cache_key=MTQ1MzYyNDgyMDQzOTczNTA2MA%3D%3D.2"
+          },
+          {
+            "url": "http://www.tessaritours.com/img/venetian-villas-in-italy/villa-widmann-affresco-interno.jpg"
+          },
+          {
+            "url": "http://media.gettyimages.com/photos/italy-veneto-mira-porte-widmann-foscari-villa-whole-artwork-view-the-picture-id482194249?s=612x612"
+          },
+          {
+            "url": "http://www.battellidelbrenta.it/pics/gallery/9_Villa_Foscari_Malcontenta_affresco_interno.jpg"
+          },
+          {
+            "url": "http://c8.alamy.com/comp/APMKX9/villa-widmann-rezzonico-foscari-interior-mira-veneto-italy-APMKX9.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

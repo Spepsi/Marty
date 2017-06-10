@@ -1,0 +1,629 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0pgl9",
+          "description": "tourist attraction",
+          "score": 0.6760747
+        },
+        {
+          "mid": "/m/09cmq",
+          "description": "museum",
+          "score": 0.67460495
+        },
+        {
+          "mid": "/m/0hyb2",
+          "description": "altar",
+          "score": 0.6436562
+        },
+        {
+          "mid": "/m/05zp8",
+          "description": "palace",
+          "score": 0.6392365
+        },
+        {
+          "mid": "/m/0hhbr",
+          "description": "art gallery",
+          "score": 0.6053941
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "no",
+          "description": "R\nEt\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 49,
+                "y": 220
+              },
+              {
+                "x": 91,
+                "y": 220
+              },
+              {
+                "x": 91,
+                "y": 287
+              },
+              {
+                "x": 49,
+                "y": 287
+              }
+            ]
+          }
+        },
+        {
+          "description": "R",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 49,
+                "y": 220
+              },
+              {
+                "x": 55,
+                "y": 220
+              },
+              {
+                "x": 55,
+                "y": 228
+              },
+              {
+                "x": 49,
+                "y": 228
+              }
+            ]
+          }
+        },
+        {
+          "description": "Et",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 71,
+                "y": 258
+              },
+              {
+                "x": 91,
+                "y": 260
+              },
+              {
+                "x": 89,
+                "y": 287
+              },
+              {
+                "x": 69,
+                "y": 285
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 177,
+                "green": 154,
+                "blue": 127
+              },
+              "score": 0.385164,
+              "pixelFraction": 0.24436352
+            },
+            {
+              "color": {
+                "red": 77,
+                "green": 45,
+                "blue": 26
+              },
+              "score": 0.028376397,
+              "pixelFraction": 0.05038155
+            },
+            {
+              "color": {
+                "red": 205,
+                "green": 186,
+                "blue": 158
+              },
+              "score": 0.14259121,
+              "pixelFraction": 0.050988555
+            },
+            {
+              "color": {
+                "red": 209,
+                "green": 183,
+                "blue": 128
+              },
+              "score": 0.09273051,
+              "pixelFraction": 0.016909469
+            },
+            {
+              "color": {
+                "red": 188,
+                "green": 158,
+                "blue": 104
+              },
+              "score": 0.080812916,
+              "pixelFraction": 0.03936871
+            },
+            {
+              "color": {
+                "red": 145,
+                "green": 119,
+                "blue": 93
+              },
+              "score": 0.07382004,
+              "pixelFraction": 0.16614638
+            },
+            {
+              "color": {
+                "red": 193,
+                "green": 186,
+                "blue": 176
+              },
+              "score": 0.040111434,
+              "pixelFraction": 0.024366979
+            },
+            {
+              "color": {
+                "red": 170,
+                "green": 160,
+                "blue": 151
+              },
+              "score": 0.028182037,
+              "pixelFraction": 0.04925425
+            },
+            {
+              "color": {
+                "red": 108,
+                "green": 75,
+                "blue": 54
+              },
+              "score": 0.026178597,
+              "pixelFraction": 0.04162331
+            },
+            {
+              "color": {
+                "red": 103,
+                "green": 80,
+                "blue": 56
+              },
+              "score": 0.020323588,
+              "pixelFraction": 0.053156435
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 298
+                },
+                {
+                  "y": 298
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "no"
+                }
+              ]
+            },
+            "width": 400,
+            "height": 299,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "no"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 49,
+                      "y": 220
+                    },
+                    {
+                      "x": 55,
+                      "y": 220
+                    },
+                    {
+                      "x": 55,
+                      "y": 228
+                    },
+                    {
+                      "x": 49,
+                      "y": 228
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "no"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 49,
+                          "y": 220
+                        },
+                        {
+                          "x": 55,
+                          "y": 220
+                        },
+                        {
+                          "x": 55,
+                          "y": 228
+                        },
+                        {
+                          "x": 49,
+                          "y": 228
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "no"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 49,
+                              "y": 220
+                            },
+                            {
+                              "x": 55,
+                              "y": 220
+                            },
+                            {
+                              "x": 55,
+                              "y": 228
+                            },
+                            {
+                              "x": 49,
+                              "y": 228
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "no"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 49,
+                                  "y": 220
+                                },
+                                {
+                                  "x": 55,
+                                  "y": 220
+                                },
+                                {
+                                  "x": 55,
+                                  "y": 228
+                                },
+                                {
+                                  "x": 49,
+                                  "y": 228
+                                }
+                              ]
+                            },
+                            "text": "R"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              },
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "en"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 71,
+                      "y": 258
+                    },
+                    {
+                      "x": 91,
+                      "y": 260
+                    },
+                    {
+                      "x": 89,
+                      "y": 287
+                    },
+                    {
+                      "x": 69,
+                      "y": 285
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "en"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 69,
+                          "y": 258
+                        },
+                        {
+                          "x": 91,
+                          "y": 258
+                        },
+                        {
+                          "x": 91,
+                          "y": 287
+                        },
+                        {
+                          "x": 69,
+                          "y": 287
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 71,
+                              "y": 258
+                            },
+                            {
+                              "x": 91,
+                              "y": 260
+                            },
+                            {
+                              "x": 89,
+                              "y": 287
+                            },
+                            {
+                              "x": 69,
+                              "y": 285
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "no"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 71,
+                                  "y": 258
+                                },
+                                {
+                                  "x": 91,
+                                  "y": 260
+                                },
+                                {
+                                  "x": 89,
+                                  "y": 280
+                                },
+                                {
+                                  "x": 69,
+                                  "y": 278
+                                }
+                              ]
+                            },
+                            "text": "E"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "no"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 71,
+                                  "y": 279
+                                },
+                                {
+                                  "x": 86,
+                                  "y": 280
+                                },
+                                {
+                                  "x": 85,
+                                  "y": 286
+                                },
+                                {
+                                  "x": 70,
+                                  "y": 285
+                                }
+                              ]
+                            },
+                            "text": "t"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "R\nEt\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/044bh6",
+            "score": 127.29216,
+            "description": "Palazzo Pitti"
+          },
+          {
+            "entityId": "/m/025pcj",
+            "score": 47.83104,
+            "description": "Boboli Gardens"
+          },
+          {
+            "entityId": "/m/0nbdpr4",
+            "score": 26.1824,
+            "description": "Palatine Gallery"
+          },
+          {
+            "entityId": "/g/12283y5y",
+            "score": 23.92512,
+            "description": "Galleria del Costume"
+          },
+          {
+            "entityId": "/g/1212grrb",
+            "score": 22.81088,
+            "description": "Galleria D'Arte Moderna"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://1.bp.blogspot.com/-cUCXUtWflCA/UMjcfpXO3zI/AAAAAAAAIks/jU6OD86gGbU/s1600/ark1.jpg"
+          },
+          {
+            "url": "http://www.galleriabaroni.it/wp-content/uploads/sites/23/2015/11/ark1.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/10/01/97/1001970f30a1d25d2be57679022b5b29.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/63/22/f8/6322f80182f0b5e0eb13ea78b5f1763a.jpg"
+          },
+          {
+            "url": "http://turuturu.ru/files/ckeditor/c5/b2/70/3621.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://images.musement.com/cover/0001/17/palatine-gallery-and-gallery-of-modern-art-tickets-for-palazzo-pitti-museums_header-16357.jpeg"
+          },
+          {
+            "url": "https://1.bp.blogspot.com/-cUCXUtWflCA/UMjcfpXO3zI/AAAAAAAAIks/jU6OD86gGbU/s1600/ark1.jpg"
+          },
+          {
+            "url": "http://www.galleriabaroni.it/wp-content/uploads/sites/23/2015/11/ark1.jpg"
+          },
+          {
+            "url": "http://cdn4.discovertuscany.com/img/florence/museums/palatine-gallery/sala-arca-palatina.jpg?w=750&q=65"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/10/01/97/1001970f30a1d25d2be57679022b5b29.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://www.musement.com/us/florence/palazzo-pitti-and-boboli-gardens-v/"
+          },
+          {
+            "url": "https://www.visitflorence.com/florence-museums/pitti-palace-palatine-gallery.html"
+          },
+          {
+            "url": "https://www.musement.com/pt/florenca/palazzo-pitti-and-boboli-gardens-v/"
+          },
+          {
+            "url": "https://www.musement.com/nl/florence/palazzo-pitti-and-boboli-gardens-v/"
+          },
+          {
+            "url": "https://www.musement.com/us/florence/palatine-gallery-and-gallery-of-modern-art-tickets-for-palazzo-pitti-museums-542/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://images.musement.com/cover/0001/17/palatine-gallery-and-gallery-of-modern-art-tickets-for-palazzo-pitti-museums_header-16357.jpeg?w=600&h=315&crop=edges"
+          },
+          {
+            "url": "http://images.visititaly.com/App_Images/data/d088b943-8b3c-4e62-9bfe-349df14ef53a.jpg"
+          },
+          {
+            "url": "http://www.aboutromania.com/Pitti4.jpg"
+          },
+          {
+            "url": "http://mikestravelguide.com/wp-content/uploads/2013/06/THE-PALATINE-GALLERY-2-800x533.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/a0/8e/0b/a08e0bb8659710d75a06eaa452506051.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

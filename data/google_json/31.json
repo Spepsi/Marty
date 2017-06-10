@@ -1,0 +1,425 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.7180778
+        },
+        {
+          "mid": "/m/02wtjj",
+          "description": "stone carving",
+          "score": 0.6881886
+        },
+        {
+          "mid": "/m/02nnps",
+          "description": "relief",
+          "score": 0.6859367
+        },
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.65985703
+        },
+        {
+          "mid": "/m/0djmp",
+          "description": "ancient history",
+          "score": 0.64582527
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "ko",
+          "description": "커\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 201,
+                "y": 273
+              },
+              {
+                "x": 206,
+                "y": 273
+              },
+              {
+                "x": 206,
+                "y": 280
+              },
+              {
+                "x": 201,
+                "y": 280
+              }
+            ]
+          }
+        },
+        {
+          "description": "커",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 201,
+                "y": 273
+              },
+              {
+                "x": 206,
+                "y": 273
+              },
+              {
+                "x": 206,
+                "y": 280
+              },
+              {
+                "x": 201,
+                "y": 280
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 210,
+                "green": 189,
+                "blue": 169
+              },
+              "score": 0.13293323,
+              "pixelFraction": 0.028918214
+            },
+            {
+              "color": {
+                "red": 62,
+                "green": 52,
+                "blue": 50
+              },
+              "score": 0.09652656,
+              "pixelFraction": 0.092701204
+            },
+            {
+              "color": {
+                "red": 178,
+                "green": 155,
+                "blue": 137
+              },
+              "score": 0.12186194,
+              "pixelFraction": 0.083333336
+            },
+            {
+              "color": {
+                "red": 87,
+                "green": 77,
+                "blue": 73
+              },
+              "score": 0.073330514,
+              "pixelFraction": 0.20552297
+            },
+            {
+              "color": {
+                "red": 98,
+                "green": 83,
+                "blue": 65
+              },
+              "score": 0.072750196,
+              "pixelFraction": 0.07909743
+            },
+            {
+              "color": {
+                "red": 199,
+                "green": 191,
+                "blue": 188
+              },
+              "score": 0.06972239,
+              "pixelFraction": 0.031280547
+            },
+            {
+              "color": {
+                "red": 169,
+                "green": 158,
+                "blue": 154
+              },
+              "score": 0.06724904,
+              "pixelFraction": 0.086917564
+            },
+            {
+              "color": {
+                "red": 66,
+                "green": 50,
+                "blue": 34
+              },
+              "score": 0.05289263,
+              "pixelFraction": 0.014907136
+            },
+            {
+              "color": {
+                "red": 247,
+                "green": 226,
+                "blue": 210
+              },
+              "score": 0.047846887,
+              "pixelFraction": 0.0025252525
+            },
+            {
+              "color": {
+                "red": 75,
+                "green": 47,
+                "blue": 33
+              },
+              "score": 0.045904916,
+              "pixelFraction": 0.0070869992
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 318
+                },
+                {
+                  "x": 318,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "ko"
+                }
+              ]
+            },
+            "width": 319,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "ko"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 201,
+                      "y": 273
+                    },
+                    {
+                      "x": 206,
+                      "y": 273
+                    },
+                    {
+                      "x": 206,
+                      "y": 280
+                    },
+                    {
+                      "x": 201,
+                      "y": 280
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "ko"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 201,
+                          "y": 273
+                        },
+                        {
+                          "x": 206,
+                          "y": 273
+                        },
+                        {
+                          "x": 206,
+                          "y": 280
+                        },
+                        {
+                          "x": 201,
+                          "y": 280
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "ko"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 201,
+                              "y": 273
+                            },
+                            {
+                              "x": 206,
+                              "y": 273
+                            },
+                            {
+                              "x": 206,
+                              "y": 280
+                            },
+                            {
+                              "x": 201,
+                              "y": 280
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "ko"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 201,
+                                  "y": 273
+                                },
+                                {
+                                  "x": 206,
+                                  "y": 273
+                                },
+                                {
+                                  "x": 206,
+                                  "y": 280
+                                },
+                                {
+                                  "x": 201,
+                                  "y": 280
+                                }
+                              ]
+                            },
+                            "text": "커"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "커\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0gtvc3l",
+            "score": 11.69216,
+            "description": "Ducal Palace, Lucca"
+          },
+          {
+            "entityId": "/m/031y2",
+            "score": 1.59268,
+            "description": "Florence"
+          },
+          {
+            "entityId": "/m/06c62",
+            "score": 1.25332,
+            "description": "Rome"
+          },
+          {
+            "entityId": "/m/0cht6",
+            "score": 1.120016,
+            "description": "Lucca"
+          },
+          {
+            "entityId": "/m/03bxwmx",
+            "score": 0.75352,
+            "description": "Brera Academy"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/e3/7f/11/e37f11bd897af4fc4cfd8277d6c9b550.jpg"
+          },
+          {
+            "url": "https://2.bp.blogspot.com/-Bw4Fiejwew4/Vrxwpq99khI/AAAAAAAACbE/y72fWZ8e1rc/s320/lucca3.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/e3/7f/11/e37f11bd897af4fc4cfd8277d6c9b550.jpg"
+          },
+          {
+            "url": "https://2.bp.blogspot.com/-Bw4Fiejwew4/Vrxwpq99khI/AAAAAAAACbE/y72fWZ8e1rc/s320/lucca3.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://www.pinterest.com/TrissyFopp/art/"
+          },
+          {
+            "url": "http://nonsoloildavid.blogspot.com/2016/02/l11-febbraio-1849-moriva-firenze-il.html"
+          },
+          {
+            "url": "http://nonsoloildavid.blogspot.com/2016_02_01_archive.html"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/31/bc/5e/31bc5e72ca2486ccf5e86f5b10b032dc.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/db/3c/2c/db3c2c33b64a114b2508e9c334b22f92.jpg"
+          },
+          {
+            "url": "http://c8.alamy.com/comp/DE798D/the-molo-with-the-ducal-palace-c-1710-artist-carlevaris-luca-1663-DE798D.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/d9/76/30/d9763050e5443a760fac457e5078e016.jpg"
+          },
+          {
+            "url": "https://uploads8.wikiart.org/images/john-ruskin/capital-36-of-the-ducal-palace-1852.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0c_jw",
+          "description": "furniture",
+          "score": 0.55689836
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 81,
+                "green": 47,
+                "blue": 33
+              },
+              "score": 0.42016703,
+              "pixelFraction": 0.2101518
+            },
+            {
+              "color": {
+                "red": 186,
+                "green": 157,
+                "blue": 137
+              },
+              "score": 0.01598514,
+              "pixelFraction": 0.027751423
+            },
+            {
+              "color": {
+                "red": 107,
+                "green": 67,
+                "blue": 53
+              },
+              "score": 0.11032077,
+              "pixelFraction": 0.115512334
+            },
+            {
+              "color": {
+                "red": 76,
+                "green": 55,
+                "blue": 35
+              },
+              "score": 0.07265238,
+              "pixelFraction": 0.032495257
+            },
+            {
+              "color": {
+                "red": 68,
+                "green": 40,
+                "blue": 40
+              },
+              "score": 0.07120236,
+              "pixelFraction": 0.061195444
+            },
+            {
+              "color": {
+                "red": 140,
+                "green": 66,
+                "blue": 64
+              },
+              "score": 0.06514109,
+              "pixelFraction": 0.022533206
+            },
+            {
+              "color": {
+                "red": 44,
+                "green": 20,
+                "blue": 21
+              },
+              "score": 0.04623105,
+              "pixelFraction": 0.056925997
+            },
+            {
+              "color": {
+                "red": 53,
+                "green": 23,
+                "blue": 13
+              },
+              "score": 0.044625323,
+              "pixelFraction": 0.039848197
+            },
+            {
+              "color": {
+                "red": 146,
+                "green": 107,
+                "blue": 88
+              },
+              "score": 0.028011288,
+              "pixelFraction": 0.10246679
+            },
+            {
+              "color": {
+                "red": 94,
+                "green": 72,
+                "blue": 52
+              },
+              "score": 0.02443268,
+              "pixelFraction": 0.016840607
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 109
+                },
+                {
+                  "y": 109
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0c_jw",
+            "score": 0.8901352,
+            "description": "Furniture"
+          },
+          {
+            "entityId": "/m/01g9zx",
+            "score": 0.73346,
+            "description": "Predella"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Angelico%2C_cortona_poliptych%2C_predella_03.jpg/320px-Angelico%2C_cortona_poliptych%2C_predella_03.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Angelico%2C_cortona_poliptych%2C_predella_04.jpg/640px-Angelico%2C_cortona_poliptych%2C_predella_04.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Predella_pala_barbadori%2C_uffizi%2C_01.jpg/320px-Predella_pala_barbadori%2C_uffizi%2C_01.jpg"
+          },
+          {
+            "url": "http://l7.alamy.com/zooms/e6d1339b8d7845b1abf08543c5c9af0f/angelico-cortona-poliptych-predella-04-hke1ka.jpg"
+          },
+          {
+            "url": "http://hoocher.com/Fra_Angelico/Virgin_with_Child_and_Four_Saints_(Detail_of_the_Predella)_ca_1437_Three.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

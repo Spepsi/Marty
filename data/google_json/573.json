@@ -1,0 +1,255 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01g317",
+          "description": "person",
+          "score": 0.95318943
+        },
+        {
+          "mid": "/m/027cqyf",
+          "description": "priesthood",
+          "score": 0.9184619
+        },
+        {
+          "mid": "/m/0db79",
+          "description": "clergy",
+          "score": 0.73427063
+        },
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.6765226
+        },
+        {
+          "mid": "/m/0mf2",
+          "description": "abbot",
+          "score": 0.6280766
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 202,
+                "green": 178,
+                "blue": 157
+              },
+              "score": 0.24031231,
+              "pixelFraction": 0.05645161
+            },
+            {
+              "color": {
+                "red": 76,
+                "green": 44,
+                "blue": 23
+              },
+              "score": 0.09808015,
+              "pixelFraction": 0.06912442
+            },
+            {
+              "color": {
+                "red": 25,
+                "green": 12,
+                "blue": 11
+              },
+              "score": 0.094166376,
+              "pixelFraction": 0.12960829
+            },
+            {
+              "color": {
+                "red": 154,
+                "green": 102,
+                "blue": 57
+              },
+              "score": 0.049718678,
+              "pixelFraction": 0.14938556
+            },
+            {
+              "color": {
+                "red": 186,
+                "green": 161,
+                "blue": 137
+              },
+              "score": 0.20927411,
+              "pixelFraction": 0.07891705
+            },
+            {
+              "color": {
+                "red": 110,
+                "green": 74,
+                "blue": 49
+              },
+              "score": 0.054345652,
+              "pixelFraction": 0.065476194
+            },
+            {
+              "color": {
+                "red": 115,
+                "green": 73,
+                "blue": 37
+              },
+              "score": 0.042738788,
+              "pixelFraction": 0.04704301
+            },
+            {
+              "color": {
+                "red": 191,
+                "green": 156,
+                "blue": 135
+              },
+              "score": 0.032665476,
+              "pixelFraction": 0.020545315
+            },
+            {
+              "color": {
+                "red": 44,
+                "green": 19,
+                "blue": 4
+              },
+              "score": 0.024643758,
+              "pixelFraction": 0.017473118
+            },
+            {
+              "color": {
+                "red": 145,
+                "green": 116,
+                "blue": 83
+              },
+              "score": 0.023223322,
+              "pixelFraction": 0.05453149
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 136
+                },
+                {
+                  "x": 136,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/g/1yxkhdnvd",
+            "score": 1.2042,
+            "description": "Palazzo Cini"
+          },
+          {
+            "entityId": "/m/06cvx",
+            "score": 0.56826,
+            "description": "Renaissance"
+          },
+          {
+            "entityId": "/m/07mtr",
+            "score": 0.47789,
+            "description": "Tempera"
+          },
+          {
+            "entityId": "/m/0687y",
+            "score": 0.4658,
+            "description": "Prayer"
+          },
+          {
+            "entityId": "/m/0c8wxp",
+            "score": 0.39249,
+            "description": "Catholicism"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://laydomsouth.org/wp-content/uploads/2014/02/st-thomas-aquinas-1440.jpg"
+          },
+          {
+            "url": "https://growrag.files.wordpress.com/2016/10/standingthomasaquinas.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Angelico,_san_tommaso_d'aquino_alla_fondazione_cini.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/e8/d3/23/e8d323d27d2ff64ab1a1715dd8b4cf97.jpg"
+          },
+          {
+            "url": "http://4.bp.blogspot.com/-mTN6ZrmRojg/T7fHDYScWGI/AAAAAAAAIi0/I2qqpW3FOtQ/s1600/panel6s+tomas+aquiinas+fra+angelico.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://4.bp.blogspot.com/-alfpc0HQcIc/V6UVOrwP5AI/AAAAAAAAd7k/waFIryO320Y1NO68c4eO8Bx51e5pFlTNQCLcB/s1600/2%2Bst%2Bthomas%2Baquinas%2BAngelico%252C_san_tommaso_d%2527aquino_alla_fondazione_cini.jpg"
+          },
+          {
+            "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=964551453580023"
+          },
+          {
+            "url": "http://www.carnetsduneflaneuse.fr/wp-content/uploads/2011/12/Fra-Angelico_2.jpg"
+          },
+          {
+            "url": "https://c1.staticflickr.com/9/8287/7803713686_54d8da3a45_b.jpg"
+          },
+          {
+            "url": "http://steps.ust.edu.ph/wspicture/myustehs-82799bdc-e341-4fc8-b1e7-128b40265fa1.png"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://www.wikiart.org/en/fra-angelico/st-thomas-aquinas-1440"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/498281146249435982/"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/369576713141538219/"
+          },
+          {
+            "url": "http://imaginemdei.blogspot.com/2016/01/st-thomas-aquinas-eloquent-ox-angelic.html"
+          },
+          {
+            "url": "http://hoocher.com/Fra_Angelico/Fra_Angelico.htm"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://www.libertaepersona.org/wordpress/wp-content/uploads/2015/12/Angelico_san_tommaso_daquino_alla_fondazione_cini-353x1024.jpg"
+          },
+          {
+            "url": "https://blogofthecourtierdotcom.files.wordpress.com/2014/06/st-thomas-aquinas-fra-angelico.jpg?w=240"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/The_Perugia_Altarpiece%2C_Side_Panel_Depicting_St._Dominic.jpg"
+          },
+          {
+            "url": "https://c1.staticflickr.com/9/8287/7803713686_54d8da3a45_b.jpg"
+          },
+          {
+            "url": "http://farm1.static.flickr.com/122/274320777_b8b91abd42.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,532 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.8518495
+        },
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.71841836
+        },
+        {
+          "mid": "/m/01tt2n",
+          "description": "caravel",
+          "score": 0.6823103
+        },
+        {
+          "mid": "/m/0djmp",
+          "description": "ancient history",
+          "score": 0.67711866
+        },
+        {
+          "mid": "/m/015r61",
+          "description": "modern art",
+          "score": 0.6433415
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "zh",
+          "description": "髂蹭\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 27,
+                "y": 243
+              },
+              {
+                "x": 41,
+                "y": 243
+              },
+              {
+                "x": 41,
+                "y": 251
+              },
+              {
+                "x": 27,
+                "y": 251
+              }
+            ]
+          }
+        },
+        {
+          "description": "髂",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 27,
+                "y": 244
+              },
+              {
+                "x": 32,
+                "y": 244
+              },
+              {
+                "x": 33,
+                "y": 251
+              },
+              {
+                "x": 28,
+                "y": 251
+              }
+            ]
+          }
+        },
+        {
+          "description": "蹭",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 34,
+                "y": 244
+              },
+              {
+                "x": 40,
+                "y": 243
+              },
+              {
+                "x": 41,
+                "y": 250
+              },
+              {
+                "x": 35,
+                "y": 251
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 166,
+                "green": 158,
+                "blue": 122
+              },
+              "score": 0.33801025,
+              "pixelFraction": 0.089987226
+            },
+            {
+              "color": {
+                "red": 83,
+                "green": 51,
+                "blue": 40
+              },
+              "score": 0.06362678,
+              "pixelFraction": 0.037128713
+            },
+            {
+              "color": {
+                "red": 207,
+                "green": 188,
+                "blue": 153
+              },
+              "score": 0.14080864,
+              "pixelFraction": 0.09613542
+            },
+            {
+              "color": {
+                "red": 243,
+                "green": 225,
+                "blue": 203
+              },
+              "score": 0.07758042,
+              "pixelFraction": 0.07737145
+            },
+            {
+              "color": {
+                "red": 137,
+                "green": 127,
+                "blue": 92
+              },
+              "score": 0.073725685,
+              "pixelFraction": 0.019722134
+            },
+            {
+              "color": {
+                "red": 209,
+                "green": 187,
+                "blue": 139
+              },
+              "score": 0.069508635,
+              "pixelFraction": 0.14540084
+            },
+            {
+              "color": {
+                "red": 101,
+                "green": 67,
+                "blue": 54
+              },
+              "score": 0.049731262,
+              "pixelFraction": 0.10827212
+            },
+            {
+              "color": {
+                "red": 240,
+                "green": 226,
+                "blue": 216
+              },
+              "score": 0.03015825,
+              "pixelFraction": 0.01596934
+            },
+            {
+              "color": {
+                "red": 97,
+                "green": 79,
+                "blue": 61
+              },
+              "score": 0.023995604,
+              "pixelFraction": 0.009342063
+            },
+            {
+              "color": {
+                "red": 180,
+                "green": 161,
+                "blue": 113
+              },
+              "score": 0.022240784,
+              "pixelFraction": 0.012855317
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 324
+                },
+                {
+                  "x": 324,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "zh-Hans"
+                }
+              ]
+            },
+            "width": 325,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "zh-Hans"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 27,
+                      "y": 244
+                    },
+                    {
+                      "x": 40,
+                      "y": 243
+                    },
+                    {
+                      "x": 41,
+                      "y": 251
+                    },
+                    {
+                      "x": 28,
+                      "y": 252
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "zh-Hans"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 27,
+                          "y": 243
+                        },
+                        {
+                          "x": 41,
+                          "y": 243
+                        },
+                        {
+                          "x": 41,
+                          "y": 251
+                        },
+                        {
+                          "x": 27,
+                          "y": 251
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "zh-Hans"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 27,
+                              "y": 244
+                            },
+                            {
+                              "x": 32,
+                              "y": 244
+                            },
+                            {
+                              "x": 33,
+                              "y": 251
+                            },
+                            {
+                              "x": 28,
+                              "y": 251
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "zh-Hans"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 27,
+                                  "y": 244
+                                },
+                                {
+                                  "x": 32,
+                                  "y": 244
+                                },
+                                {
+                                  "x": 33,
+                                  "y": 251
+                                },
+                                {
+                                  "x": 28,
+                                  "y": 251
+                                }
+                              ]
+                            },
+                            "text": "髂"
+                          }
+                        ]
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "ja"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 34,
+                              "y": 244
+                            },
+                            {
+                              "x": 40,
+                              "y": 243
+                            },
+                            {
+                              "x": 41,
+                              "y": 250
+                            },
+                            {
+                              "x": 35,
+                              "y": 251
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "zh-Hans"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 34,
+                                  "y": 244
+                                },
+                                {
+                                  "x": 40,
+                                  "y": 243
+                                },
+                                {
+                                  "x": 41,
+                                  "y": 250
+                                },
+                                {
+                                  "x": 35,
+                                  "y": 251
+                                }
+                              ]
+                            },
+                            "text": "蹭"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "髂蹭\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/03wc02c",
+            "score": 12.07072,
+            "description": "Camposanto Monumentale"
+          },
+          {
+            "entityId": "/g/1tgdwjqq",
+            "score": 2.98904,
+            "description": "San Ranieri Hotel"
+          },
+          {
+            "entityId": "/g/1vp173z3",
+            "score": 2.22288
+          },
+          {
+            "entityId": "/m/031y2",
+            "score": 1.09932,
+            "description": "Florence"
+          },
+          {
+            "entityId": "/m/02_3k",
+            "score": 0.37416,
+            "description": "Fresco"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://www.youhuaaa.com/UploadFiles/images/Painting_Pic_Big/17/8393.jpg"
+          },
+          {
+            "url": "http://www.travelingintuscany.com/images/art/andreabuonaiuti/lifeofrainerus700.jpg"
+          },
+          {
+            "url": "http://bbscache3.artron.net/forum/201303/31/161715l1z9o2vhd942o4u9.jpg"
+          },
+          {
+            "url": "https://www.arab-painting.com/pic/Oil%20Painting%20Masterpieces%20on%20Canvas/Andrea%20Da%20Firenze_Italy_1343-1377/8-Scenes-From-The-Life-Of-St-Rainerus-Detail-Quattrocento-painter-Andrea-da-Firenze.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Andrea_di_Bonaiuto_-_Scenes_from_the_Life_of_St_Rainerus_%28detail%29_-_WGA00312.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://www.comune.pisa.it/immagini/ext/2013_10_16_12_02_40.gif"
+          },
+          {
+            "url": "http://www.verdeazzurronotizie.it/wp-content/uploads/2015/06/17-giugno-Andrea-di-Bonaiuto-Viaggio-di-ritorno-di-san-Ranieri.jpg"
+          },
+          {
+            "url": "http://www.youhuaaa.com/UploadFiles/images/Painting_Pic_Big/17/8393.jpg"
+          },
+          {
+            "url": "http://www.travelingintuscany.com/images/art/andreabuonaiuti/lifeofrainerus700.jpg"
+          },
+          {
+            "url": "http://bbscache3.artron.net/forum/201303/31/161715l1z9o2vhd942o4u9.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Rainerius"
+          },
+          {
+            "url": "https://fr.wikipedia.org/wiki/Rainier_de_Pise"
+          },
+          {
+            "url": "https://it.wikipedia.org/wiki/Ranieri_Scacceri"
+          },
+          {
+            "url": "https://de.wikipedia.org/wiki/Rainer_von_Pisa"
+          },
+          {
+            "url": "http://www.comune.pisa.it/it/ufficio-scheda/12187/La-vita-di-S-Ranieri.html"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://www.travelingintuscany.com/images/art/andreabuonaiuti/lifeofrainerus700.jpg"
+          },
+          {
+            "url": "https://c1.staticflickr.com/6/5521/9141370455_fa7756fd29_z.jpg"
+          },
+          {
+            "url": "http://farm8.static.flickr.com/7001/6468455703_08cc6fc732.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/0c/82/92/0c82927c8ba1003db29a5ed21767d19a.jpg"
+          },
+          {
+            "url": "http://www.pisanamente.it/wp-content/uploads/2016/02/sanranieri-300x270.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,530 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0cgh4",
+          "description": "building",
+          "score": 0.85104394
+        },
+        {
+          "mid": "/m/0f85g",
+          "description": "basilica",
+          "score": 0.7599795
+        },
+        {
+          "mid": "/m/02nvjx",
+          "description": "place of worship",
+          "score": 0.6893211
+        },
+        {
+          "mid": "/m/0cfs8",
+          "description": "cathedral",
+          "score": 0.5920926
+        },
+        {
+          "mid": "/m/01wb7",
+          "description": "church",
+          "score": 0.56259024
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "ja",
+          "description": "の一\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 309,
+                "y": 114
+              },
+              {
+                "x": 319,
+                "y": 114
+              },
+              {
+                "x": 319,
+                "y": 153
+              },
+              {
+                "x": 309,
+                "y": 153
+              }
+            ]
+          }
+        },
+        {
+          "description": "の",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 309,
+                "y": 154
+              },
+              {
+                "x": 310,
+                "y": 137
+              },
+              {
+                "x": 319,
+                "y": 137
+              },
+              {
+                "x": 318,
+                "y": 154
+              }
+            ]
+          }
+        },
+        {
+          "description": "一",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 309,
+                "y": 130
+              },
+              {
+                "x": 310,
+                "y": 115
+              },
+              {
+                "x": 319,
+                "y": 115
+              },
+              {
+                "x": 318,
+                "y": 130
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 135,
+                "green": 117,
+                "blue": 114
+              },
+              "score": 0.1794691,
+              "pixelFraction": 0.21754524
+            },
+            {
+              "color": {
+                "red": 144,
+                "green": 109,
+                "blue": 98
+              },
+              "score": 0.08286338,
+              "pixelFraction": 0.01799764
+            },
+            {
+              "color": {
+                "red": 99,
+                "green": 29,
+                "blue": 34
+              },
+              "score": 0.07873074,
+              "pixelFraction": 0.0055074743
+            },
+            {
+              "color": {
+                "red": 167,
+                "green": 149,
+                "blue": 144
+              },
+              "score": 0.13478477,
+              "pixelFraction": 0.13916208
+            },
+            {
+              "color": {
+                "red": 141,
+                "green": 118,
+                "blue": 104
+              },
+              "score": 0.08160743,
+              "pixelFraction": 0.027143981
+            },
+            {
+              "color": {
+                "red": 172,
+                "green": 149,
+                "blue": 133
+              },
+              "score": 0.07675368,
+              "pixelFraction": 0.023505114
+            },
+            {
+              "color": {
+                "red": 100,
+                "green": 83,
+                "blue": 82
+              },
+              "score": 0.05959467,
+              "pixelFraction": 0.19246656
+            },
+            {
+              "color": {
+                "red": 141,
+                "green": 114,
+                "blue": 111
+              },
+              "score": 0.059512135,
+              "pixelFraction": 0.030487806
+            },
+            {
+              "color": {
+                "red": 206,
+                "green": 187,
+                "blue": 182
+              },
+              "score": 0.0445576,
+              "pixelFraction": 0.0461251
+            },
+            {
+              "color": {
+                "red": 175,
+                "green": 147,
+                "blue": 145
+              },
+              "score": 0.035871487,
+              "pixelFraction": 0.02370181
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 265
+                },
+                {
+                  "y": 265
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "ja"
+                }
+              ]
+            },
+            "width": 400,
+            "height": 266,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "ja"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 308,
+                      "y": 154
+                    },
+                    {
+                      "x": 310,
+                      "y": 115
+                    },
+                    {
+                      "x": 320,
+                      "y": 115
+                    },
+                    {
+                      "x": 318,
+                      "y": 154
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "ja"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 309,
+                          "y": 114
+                        },
+                        {
+                          "x": 319,
+                          "y": 114
+                        },
+                        {
+                          "x": 319,
+                          "y": 153
+                        },
+                        {
+                          "x": 309,
+                          "y": 153
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "ja"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 309,
+                              "y": 154
+                            },
+                            {
+                              "x": 310,
+                              "y": 137
+                            },
+                            {
+                              "x": 319,
+                              "y": 137
+                            },
+                            {
+                              "x": 318,
+                              "y": 154
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "ja"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 309,
+                                  "y": 154
+                                },
+                                {
+                                  "x": 310,
+                                  "y": 137
+                                },
+                                {
+                                  "x": 319,
+                                  "y": 137
+                                },
+                                {
+                                  "x": 318,
+                                  "y": 154
+                                }
+                              ]
+                            },
+                            "text": "の"
+                          }
+                        ]
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "zh-Hans"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 309,
+                              "y": 130
+                            },
+                            {
+                              "x": 310,
+                              "y": 115
+                            },
+                            {
+                              "x": 319,
+                              "y": 115
+                            },
+                            {
+                              "x": 318,
+                              "y": 130
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "ja"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 309,
+                                  "y": 130
+                                },
+                                {
+                                  "x": 310,
+                                  "y": 115
+                                },
+                                {
+                                  "x": 319,
+                                  "y": 115
+                                },
+                                {
+                                  "x": 318,
+                                  "y": 130
+                                }
+                              ]
+                            },
+                            "text": "一"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "の一\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0274ymm",
+            "score": 19.39008,
+            "description": "Basilica of Saint Anthony of Padua"
+          },
+          {
+            "entityId": "/m/05zs2ws",
+            "score": 11.73072,
+            "description": "St. George's Oratory, Padua"
+          },
+          {
+            "entityId": "/g/119v4pnk3",
+            "score": 2.2984
+          },
+          {
+            "entityId": "/g/1vnnh7bz",
+            "score": 2.09584
+          },
+          {
+            "entityId": "/g/119tvck26",
+            "score": 2.08488
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Oratorio_di_San_Giorgio_(Padova)_-_1view2.jpg"
+          },
+          {
+            "url": "https://i0.wp.com/www.italieuitgelicht.nl/wp-content/uploads/2015/01/Altichiero-da-Zevio-fresco-Oratorio-di-San-Giorgio-Padua.jpg?resize=1000%2C666"
+          },
+          {
+            "url": "https://herbertguru.files.wordpress.com/2014/07/oratorio_di_san_giorgio_padova_-_1view2.jpg?w=700"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Oratorio_di_San_Giorgio_%28Padova%29_-_1view2.jpg/640px-Oratorio_di_San_Giorgio_%28Padova%29_-_1view2.jpg"
+          },
+          {
+            "url": "https://c1.staticflickr.com/4/3820/11979922574_4eedbf3646.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Oratorio_di_San_Giorgio_(Padova)_-_1view2.jpg"
+          },
+          {
+            "url": "https://i0.wp.com/www.italieuitgelicht.nl/wp-content/uploads/2015/01/Altichiero-da-Zevio-fresco-Oratorio-di-San-Giorgio-Padua.jpg?resize=1000%2C666"
+          },
+          {
+            "url": "https://herbertguru.files.wordpress.com/2014/07/oratorio_di_san_giorgio_padova_-_1view2.jpg?w=700"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Oratorio_di_San_Giorgio_%28Padova%29_-_1view2.jpg/640px-Oratorio_di_San_Giorgio_%28Padova%29_-_1view2.jpg"
+          },
+          {
+            "url": "https://c1.staticflickr.com/4/3820/11979922574_4eedbf3646.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Oratorio_di_San_Giorgio_(Padova)_-_1view2.jpg"
+          },
+          {
+            "url": "https://www.flickr.com/photos/28898099@N05"
+          },
+          {
+            "url": "https://el.wikipedia.org/wiki/%CE%91%CF%81%CF%87%CE%B5%CE%AF%CE%BF:Oratorio_di_San_Giorgio_(Padova)_-_1view2.jpg"
+          },
+          {
+            "url": "http://www.italieuitgelicht.nl/altichiero-da-zevios-frescos-in-het-oratorio-di-san-giorgio-padua-1378-84/"
+          },
+          {
+            "url": "http://selfguide.ru/italy/veneto/padova-travel-guide/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://l7.alamy.com/zooms/1ef5e242dc49456ea9a31498bef9cfac/oratorio-di-san-giorgio-padova-1view2-hr2cnx.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Oratorio_di_San_Giorgio_%28Padova%29_-_1view1.jpg"
+          },
+          {
+            "url": "http://multimedia.coopculture.it/reteculture/opere/18/1-CSG_rid.jpg"
+          },
+          {
+            "url": "http://farm7.static.flickr.com/6011/5905202319_b975161db9.jpg"
+          },
+          {
+            "url": "http://padovacultura.padovanet.it/sites/default/files/gallery_musei/oratorio_di_san_giorgio.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

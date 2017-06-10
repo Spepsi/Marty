@@ -1,0 +1,480 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.92384684
+        },
+        {
+          "mid": "/m/015r61",
+          "description": "modern art",
+          "score": 0.7796742
+        },
+        {
+          "mid": "/m/02ym4x",
+          "description": "impressionist",
+          "score": 0.734645
+        },
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.7310502
+        },
+        {
+          "mid": "/m/0lym8",
+          "description": "tapestry",
+          "score": 0.63028044
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "ms",
+          "description": "OIC\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 6
+              },
+              {
+                "x": 21
+              },
+              {
+                "x": 21,
+                "y": 25
+              },
+              {
+                "x": 6,
+                "y": 25
+              }
+            ]
+          }
+        },
+        {
+          "description": "OIC",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 21
+              },
+              {
+                "x": 21,
+                "y": 25
+              },
+              {
+                "x": 6,
+                "y": 25
+              },
+              {
+                "x": 6
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 173,
+                "green": 150,
+                "blue": 128
+              },
+              "score": 0.15752271,
+              "pixelFraction": 0.04469086
+            },
+            {
+              "color": {
+                "red": 160,
+                "green": 111,
+                "blue": 63
+              },
+              "score": 0.15480006,
+              "pixelFraction": 0.024865592
+            },
+            {
+              "color": {
+                "red": 138,
+                "green": 117,
+                "blue": 94
+              },
+              "score": 0.14693205,
+              "pixelFraction": 0.08324933
+            },
+            {
+              "color": {
+                "red": 191,
+                "green": 140,
+                "blue": 86
+              },
+              "score": 0.084656805,
+              "pixelFraction": 0.008736559
+            },
+            {
+              "color": {
+                "red": 122,
+                "green": 75,
+                "blue": 34
+              },
+              "score": 0.07022623,
+              "pixelFraction": 0.015036962
+            },
+            {
+              "color": {
+                "red": 101,
+                "green": 84,
+                "blue": 62
+              },
+              "score": 0.06601926,
+              "pixelFraction": 0.12928428
+            },
+            {
+              "color": {
+                "red": 125,
+                "green": 115,
+                "blue": 108
+              },
+              "score": 0.063870795,
+              "pixelFraction": 0.04813508
+            },
+            {
+              "color": {
+                "red": 151,
+                "green": 109,
+                "blue": 86
+              },
+              "score": 0.04220109,
+              "pixelFraction": 0.017221102
+            },
+            {
+              "color": {
+                "red": 89,
+                "green": 87,
+                "blue": 82
+              },
+              "score": 0.041094117,
+              "pixelFraction": 0.09828629
+            },
+            {
+              "color": {
+                "red": 117,
+                "green": 77,
+                "blue": 54
+              },
+              "score": 0.030856935,
+              "pixelFraction": 0.042422716
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 308
+                },
+                {
+                  "x": 308,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "ms"
+                }
+              ]
+            },
+            "width": 309,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "ms"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 6
+                    },
+                    {
+                      "x": 21
+                    },
+                    {
+                      "x": 21,
+                      "y": 25
+                    },
+                    {
+                      "x": 6,
+                      "y": 25
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "ms"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 6
+                        },
+                        {
+                          "x": 21
+                        },
+                        {
+                          "x": 21,
+                          "y": 25
+                        },
+                        {
+                          "x": 6,
+                          "y": 25
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "ms"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 21
+                            },
+                            {
+                              "x": 21,
+                              "y": 25
+                            },
+                            {
+                              "x": 6,
+                              "y": 25
+                            },
+                            {
+                              "x": 6
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "ms"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 20
+                                },
+                                {
+                                  "x": 20,
+                                  "y": 6
+                                },
+                                {
+                                  "x": 6,
+                                  "y": 6
+                                },
+                                {
+                                  "x": 6
+                                }
+                              ]
+                            },
+                            "text": "O"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "ms"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 20,
+                                  "y": 7
+                                },
+                                {
+                                  "x": 20,
+                                  "y": 16
+                                },
+                                {
+                                  "x": 6,
+                                  "y": 17
+                                },
+                                {
+                                  "x": 6,
+                                  "y": 8
+                                }
+                              ]
+                            },
+                            "text": "I"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "ms"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 21,
+                                  "y": 17
+                                },
+                                {
+                                  "x": 21,
+                                  "y": 25
+                                },
+                                {
+                                  "x": 7,
+                                  "y": 26
+                                },
+                                {
+                                  "x": 7,
+                                  "y": 18
+                                }
+                              ]
+                            },
+                            "text": "C"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "OIC\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0dp2x8",
+            "score": 12.06784,
+            "description": "Bassano Romano"
+          },
+          {
+            "entityId": "/g/120j3mp3",
+            "score": 3.0492,
+            "description": "Odescalchi Palace"
+          },
+          {
+            "entityId": "/g/11b8z_n65k",
+            "score": 1.64896,
+            "description": "Dl Bologna"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 1.0732778,
+            "description": "Painting"
+          },
+          {
+            "entityId": "/m/096g3",
+            "score": 0.76265603,
+            "description": "Bologna"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://www.wga.hu/art/a/albani/2/phaeton6.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/af/f2/61/aff2615d8697562e2d2924be1b04d666.jpg"
+          },
+          {
+            "url": "http://media.gettyimages.com/photos/detail-from-the-frescoes-in-the-hall-of-the-zodiac-of-palazzo-at-picture-id154711158?s=612x612"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/af/f2/61/aff2615d8697562e2d2924be1b04d666.jpg"
+          },
+          {
+            "url": "http://www.hellenicaworld.com/Art/Paintings/FrancescoAlbani/Th/ThFAlbani0029.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.gettyimages.com/photos/palazzo-odescalchi"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/315463148876884387/"
+          },
+          {
+            "url": "https://www.pinterest.com/tam_gde_to/%D0%BC%D1%83%D0%B7%D0%B5%D0%B9%D0%BD%D0%B0%D1%8F-%D0%B6%D0%B8%D0%B2%D0%BE%D0%BF%D0%B8%D1%81%D1%8C/"
+          },
+          {
+            "url": "http://www.gettyimages.co.uk/photos/bassano-romano"
+          },
+          {
+            "url": "http://www.gettyimages.ae/photos/zodiac-of-palazzo-odescalchi"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/9f/a7/1e/9fa71e59599b7af1c27b3499165d1e7a.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Story_of_Ulysses_by_Pellegrino_Tibaldi_in_Palazzo_Poggi_%28Bologna%29_06.JPG/640px-Story_of_Ulysses_by_Pellegrino_Tibaldi_in_Palazzo_Poggi_%28Bologna%29_06.JPG"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Vitale_da_Bologna_%2814e_eeuw%29_-_Sint-Joris_bevrijdt_de_prinses_-_Bologna_Pinacoteca_Nazionale_-_26-04-2012_9-24-03.jpg/261px-Vitale_da_Bologna_%2814e_eeuw%29_-_Sint-Joris_bevrijdt_de_prinses_-_Bologna_Pinacoteca_Nazionale_-_26-04-2012_9-24-03.jpg"
+          },
+          {
+            "url": "https://image.invaluable.com/housePhotos/christies/20/276320/H0027-L13002135.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Story_of_Ulysses_by_Pellegrino_Tibaldi_in_Palazzo_Poggi_%28Bologna%29_09.JPG/1280px-Story_of_Ulysses_by_Pellegrino_Tibaldi_in_Palazzo_Poggi_%28Bologna%29_09.JPG"
+          }
+        ]
+      }
+    }
+  ]
+}

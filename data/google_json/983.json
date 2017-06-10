@@ -1,0 +1,624 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.758699
+        },
+        {
+          "mid": "/m/0djmp",
+          "description": "ancient history",
+          "score": 0.69806725
+        },
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.68511367
+        },
+        {
+          "mid": "/m/07bxq",
+          "description": "tourism",
+          "score": 0.6743333
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "en",
+          "description": "e\nas\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 130,
+                "y": 62
+              },
+              {
+                "x": 141,
+                "y": 62
+              },
+              {
+                "x": 141,
+                "y": 93
+              },
+              {
+                "x": 130,
+                "y": 93
+              }
+            ]
+          }
+        },
+        {
+          "description": "e",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 130,
+                "y": 78
+              },
+              {
+                "x": 131,
+                "y": 62
+              },
+              {
+                "x": 138,
+                "y": 62
+              },
+              {
+                "x": 137,
+                "y": 78
+              }
+            ]
+          }
+        },
+        {
+          "description": "as",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 141,
+                "y": 84
+              },
+              {
+                "x": 141,
+                "y": 93
+              },
+              {
+                "x": 134,
+                "y": 93
+              },
+              {
+                "x": 134,
+                "y": 84
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 221,
+                "green": 190,
+                "blue": 161
+              },
+              "score": 0.22979623,
+              "pixelFraction": 0.15389785
+            },
+            {
+              "color": {
+                "red": 145,
+                "green": 60,
+                "blue": 40
+              },
+              "score": 0.023108851,
+              "pixelFraction": 0.02701613
+            },
+            {
+              "color": {
+                "red": 227,
+                "green": 186,
+                "blue": 158
+              },
+              "score": 0.1562802,
+              "pixelFraction": 0.0875
+            },
+            {
+              "color": {
+                "red": 249,
+                "green": 221,
+                "blue": 187
+              },
+              "score": 0.112495005,
+              "pixelFraction": 0.08212366
+            },
+            {
+              "color": {
+                "red": 190,
+                "green": 148,
+                "blue": 122
+              },
+              "score": 0.0777024,
+              "pixelFraction": 0.075672045
+            },
+            {
+              "color": {
+                "red": 156,
+                "green": 114,
+                "blue": 91
+              },
+              "score": 0.060808726,
+              "pixelFraction": 0.062231183
+            },
+            {
+              "color": {
+                "red": 114,
+                "green": 73,
+                "blue": 52
+              },
+              "score": 0.055844028,
+              "pixelFraction": 0.069758065
+            },
+            {
+              "color": {
+                "red": 185,
+                "green": 156,
+                "blue": 130
+              },
+              "score": 0.051768124,
+              "pixelFraction": 0.07553764
+            },
+            {
+              "color": {
+                "red": 76,
+                "green": 41,
+                "blue": 24
+              },
+              "score": 0.03772775,
+              "pixelFraction": 0.06626344
+            },
+            {
+              "color": {
+                "red": 193,
+                "green": 144,
+                "blue": 105
+              },
+              "score": 0.02074541,
+              "pixelFraction": 0.011693548
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 193
+                },
+                {
+                  "y": 193
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "en"
+                }
+              ]
+            },
+            "width": 400,
+            "height": 194,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "en"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 131,
+                      "y": 62
+                    },
+                    {
+                      "x": 138,
+                      "y": 62
+                    },
+                    {
+                      "x": 137,
+                      "y": 78
+                    },
+                    {
+                      "x": 130,
+                      "y": 78
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "en"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 130,
+                          "y": 62
+                        },
+                        {
+                          "x": 138,
+                          "y": 62
+                        },
+                        {
+                          "x": 138,
+                          "y": 78
+                        },
+                        {
+                          "x": 130,
+                          "y": 78
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 130,
+                              "y": 78
+                            },
+                            {
+                              "x": 131,
+                              "y": 62
+                            },
+                            {
+                              "x": 138,
+                              "y": 62
+                            },
+                            {
+                              "x": 137,
+                              "y": 78
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 130,
+                                  "y": 78
+                                },
+                                {
+                                  "x": 131,
+                                  "y": 62
+                                },
+                                {
+                                  "x": 138,
+                                  "y": 62
+                                },
+                                {
+                                  "x": 137,
+                                  "y": 78
+                                }
+                              ]
+                            },
+                            "text": "e"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              },
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "en"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 134,
+                      "y": 84
+                    },
+                    {
+                      "x": 141,
+                      "y": 84
+                    },
+                    {
+                      "x": 141,
+                      "y": 93
+                    },
+                    {
+                      "x": 134,
+                      "y": 93
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "en"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 134,
+                          "y": 84
+                        },
+                        {
+                          "x": 141,
+                          "y": 84
+                        },
+                        {
+                          "x": 141,
+                          "y": 93
+                        },
+                        {
+                          "x": 134,
+                          "y": 93
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 141,
+                              "y": 84
+                            },
+                            {
+                              "x": 141,
+                              "y": 93
+                            },
+                            {
+                              "x": 134,
+                              "y": 93
+                            },
+                            {
+                              "x": 134,
+                              "y": 84
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 137,
+                                  "y": 84
+                                },
+                                {
+                                  "x": 137,
+                                  "y": 92
+                                },
+                                {
+                                  "x": 134,
+                                  "y": 92
+                                },
+                                {
+                                  "x": 134,
+                                  "y": 84
+                                }
+                              ]
+                            },
+                            "text": "a"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 141,
+                                  "y": 86
+                                },
+                                {
+                                  "x": 141,
+                                  "y": 93
+                                },
+                                {
+                                  "x": 138,
+                                  "y": 93
+                                },
+                                {
+                                  "x": 138,
+                                  "y": 86
+                                }
+                              ]
+                            },
+                            "text": "s"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "e\nas\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/052sn3r",
+            "score": 1.23676,
+            "description": "Winter Landscape with Skaters"
+          },
+          {
+            "entityId": "/m/08b2m",
+            "score": 0.74324,
+            "description": "17th century"
+          },
+          {
+            "entityId": "/m/095wh",
+            "score": 0.69058,
+            "description": "Little Ice Age"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.65508,
+            "description": "Painting"
+          },
+          {
+            "entityId": "/m/059j2",
+            "score": 0.54506,
+            "description": "Netherlands"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://petro-barocco.ru/wp-content/uploads/2013/10/66613.jpg"
+          },
+          {
+            "url": "http://www.oceansbridge.com/paintings/artists/a/avercamp_hendrick/thumb-oil/ice_landscape_XX_staatliches_museum_schwerin.jpg"
+          },
+          {
+            "url": "https://i1.wp.com/lh4.googleusercontent.com/-Pb69oIS8ztU/UtvozysxhcI/AAAAAAADJYM/N_R-LSXW94k/s1254/Hendrick%2520Avercamp%2520-%2520Ice%2520Landscape.jpeg?ssl=1"
+          },
+          {
+            "url": "http://pds10.egloos.com/pds/200901/16/12/a0100212_4970867449b71.jpg"
+          },
+          {
+            "url": "https://viciodapoesia.files.wordpress.com/2013/01/avercamp_hendrick-ice_landscape.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://www.welt.de/img/kultur/history/mobile101653012/8082500677-ci102l-w1024/bs-05-12-DW-Kultur-Berlin-jpg.jpg"
+          },
+          {
+            "url": "http://www.settemuse.it/pittori_opere_A/avercamp_hendrick/avercamp_hendrick_509_ice_landscape.jpg"
+          },
+          {
+            "url": "http://slideplayer.cz/2719693/10/images/46/Sc%C3%A9na+na+led%C4%9B+-+Schwerin.jpg"
+          },
+          {
+            "url": "https://www.kunst-fuer-alle.de/php/flexscript.php?script=watermarkimage&inameshort=41_00253892"
+          },
+          {
+            "url": "https://www.museum-schwerin.de/export/sites/museum/.galleries/bilder/Sammlungen/G_60_Avercamp.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://www.ibiblio.org/wm/paint/auth/avercamp/"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/Hendrick_Avercamp"
+          },
+          {
+            "url": "http://www.the-athenaeum.org/art/list.php?m=a&s=tu&aid=1939"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=1Sp2RGFfpDQ"
+          },
+          {
+            "url": "https://www.posterlounge.co.uk/artists/hendrick-avercamp/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://www.oceansbridge.com.au/paintings/artists/a/avercamp_hendrick/thumb-oil/ice_landscape_XX_staatliches_museum_schwerin.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Hendrick_Avercamp_Winter_Scene_on_a_Canal.jpg/320px-Hendrick_Avercamp_Winter_Scene_on_a_Canal.jpg"
+          },
+          {
+            "url": "http://www.oilpaintingfactory.com/pic/Oil%20Painting%20Masterpieces%20on%20Canvas/Avercamp%20Hendrick_Holland_1585-1634/0-Ice-Scene-2-winter-landscape-Hendrick-Avercamp.jpg"
+          },
+          {
+            "url": "http://www.peinture-tableau-art.com/pic/Les%20peintures%20classees%20selon%20les%20chefs-doeuvre/Avercamp%20Hendrick_Holland_1585-1634/thumbnails/0-A-Scene-On-la-Glace-Near-A-Town-1615-Hiver-Paysage-Hendrick-Avercamp.jpg"
+          },
+          {
+            "url": "http://www.thecityreview.com/w04som1b.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

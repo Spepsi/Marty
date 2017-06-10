@@ -1,0 +1,448 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.82719386
+        },
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.7125867
+        },
+        {
+          "mid": "/m/0djmp",
+          "description": "ancient history",
+          "score": 0.6729798
+        },
+        {
+          "mid": "/m/0lym8",
+          "description": "tapestry",
+          "score": 0.6479665
+        },
+        {
+          "mid": "/m/04rjz",
+          "description": "middle ages",
+          "score": 0.6202555
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "en",
+          "description": "e\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 30,
+                "y": 255
+              },
+              {
+                "x": 38,
+                "y": 255
+              },
+              {
+                "x": 38,
+                "y": 263
+              },
+              {
+                "x": 30,
+                "y": 263
+              }
+            ]
+          }
+        },
+        {
+          "description": "e",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 39,
+                "y": 255
+              },
+              {
+                "x": 39,
+                "y": 263
+              },
+              {
+                "x": 31,
+                "y": 263
+              },
+              {
+                "x": 31,
+                "y": 255
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 96,
+                "green": 82,
+                "blue": 60
+              },
+              "score": 0.13197842,
+              "pixelFraction": 0.1513777
+            },
+            {
+              "color": {
+                "red": 134,
+                "green": 116,
+                "blue": 90
+              },
+              "score": 0.12734577,
+              "pixelFraction": 0.14801747
+            },
+            {
+              "color": {
+                "red": 173,
+                "green": 152,
+                "blue": 121
+              },
+              "score": 0.11618053,
+              "pixelFraction": 0.10609879
+            },
+            {
+              "color": {
+                "red": 62,
+                "green": 50,
+                "blue": 31
+              },
+              "score": 0.11057158,
+              "pixelFraction": 0.07627688
+            },
+            {
+              "color": {
+                "red": 212,
+                "green": 192,
+                "blue": 158
+              },
+              "score": 0.09408806,
+              "pixelFraction": 0.06619623
+            },
+            {
+              "color": {
+                "red": 54,
+                "green": 52,
+                "blue": 44
+              },
+              "score": 0.059942733,
+              "pixelFraction": 0.07526882
+            },
+            {
+              "color": {
+                "red": 86,
+                "green": 83,
+                "blue": 74
+              },
+              "score": 0.039651807,
+              "pixelFraction": 0.08224127
+            },
+            {
+              "color": {
+                "red": 182,
+                "green": 155,
+                "blue": 110
+              },
+              "score": 0.037728127,
+              "pixelFraction": 0.019405242
+            },
+            {
+              "color": {
+                "red": 28,
+                "green": 26,
+                "blue": 20
+              },
+              "score": 0.033881642,
+              "pixelFraction": 0.036710348
+            },
+            {
+              "color": {
+                "red": 212,
+                "green": 188,
+                "blue": 142
+              },
+              "score": 0.025438951,
+              "pixelFraction": 0.007392473
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 309
+                },
+                {
+                  "x": 309,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "en"
+                }
+              ]
+            },
+            "width": 310,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "en"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 39,
+                      "y": 255
+                    },
+                    {
+                      "x": 39,
+                      "y": 263
+                    },
+                    {
+                      "x": 31,
+                      "y": 263
+                    },
+                    {
+                      "x": 31,
+                      "y": 255
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "en"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 30,
+                          "y": 255
+                        },
+                        {
+                          "x": 38,
+                          "y": 255
+                        },
+                        {
+                          "x": 38,
+                          "y": 263
+                        },
+                        {
+                          "x": 30,
+                          "y": 263
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 39,
+                              "y": 255
+                            },
+                            {
+                              "x": 39,
+                              "y": 263
+                            },
+                            {
+                              "x": 31,
+                              "y": 263
+                            },
+                            {
+                              "x": 31,
+                              "y": 255
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 39,
+                                  "y": 255
+                                },
+                                {
+                                  "x": 39,
+                                  "y": 263
+                                },
+                                {
+                                  "x": 31,
+                                  "y": 263
+                                },
+                                {
+                                  "x": 31,
+                                  "y": 255
+                                }
+                              ]
+                            },
+                            "text": "e"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "e\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/05zs2ws",
+            "score": 22.85344,
+            "description": "St. George's Oratory, Padua"
+          },
+          {
+            "entityId": "/m/0gb3hc",
+            "score": 8.60224,
+            "description": "Zevio"
+          },
+          {
+            "entityId": "/g/119v4pnk3",
+            "score": 5.10656
+          },
+          {
+            "entityId": "/m/08lmx",
+            "score": 0.55292,
+            "description": "14th century"
+          },
+          {
+            "entityId": "/m/0d99m",
+            "score": 0.41771522,
+            "description": "Padua"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://i0.wp.com/www.italieuitgelicht.nl/wp-content/uploads/2015/01/Altichiero-da-Zevio-fresco-Oratorio-di-San-Giorgio-Padua-onthoofding-van-sint-joris.jpg?resize=1008%2C1300"
+          },
+          {
+            "url": "http://www.wga.hu/art/a/altichie/1/3george4.jpg"
+          },
+          {
+            "url": "https://img-fotki.yandex.ru/get/15585/109816945.9c/0_c3f0d_6bdedc01_XXL.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/f8/9a/c7/f89ac7a2248f87584f3c1986d9c32be3.jpg"
+          },
+          {
+            "url": "https://c1.staticflickr.com/6/5486/11979812703_e16b43c748.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://i0.wp.com/www.italieuitgelicht.nl/wp-content/uploads/2015/01/Altichiero-da-Zevio-fresco-Oratorio-di-San-Giorgio-Padua-onthoofding-van-sint-joris.jpg?resize=1008%2C1300"
+          },
+          {
+            "url": "http://www.wga.hu/art/a/altichie/1/3george4.jpg"
+          },
+          {
+            "url": "http://f17.ifotki.info/org/fb13a456519daf9759dc2b28c0c87991d913d0201084525.jpg"
+          },
+          {
+            "url": "https://img-fotki.yandex.ru/get/4810/161887320.47/0_1843a4_b91e81f2_orig.jpg"
+          },
+          {
+            "url": "http://citadelblog.ru/wp-content/uploads/2016/07/70528_big_1399381831.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.wga.hu/html_m/a/altichie/1/3george4.html"
+          },
+          {
+            "url": "https://www.pinterest.com/giamtrov/altichiero-da-zevio/"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/521995413036536823/"
+          },
+          {
+            "url": "http://www.mystudios.com/artgallery/A/Altichiero-da-Zevio/Adoration-of-the-Magi-1380.html"
+          },
+          {
+            "url": "http://www.alinariarchives.it/en/search?isPostBack=1&panelAdvSearch=opened&artista=Altichiero%20da%20Zevio%20(1330-before%201393)"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/f8/9a/c7/f89ac7a2248f87584f3c1986d9c32be3.jpg"
+          },
+          {
+            "url": "http://i1368.photobucket.com/albums/ag182/Trianarts7/-%20-%20780%20-%20Blog%20-%202%20-%20Altichiero%20de%20Zevio/780%20Altichiero%20da%20Zevio%20-%2018%20Decapitation%20of%20Saint%20George_zps3tiad4nz.jpg~original"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/14/2b/82/142b82385596994d78561f9a8c4bdb0a.jpg"
+          },
+          {
+            "url": "http://www.encyclopedie.bseditions.fr/image/article/vignette/ITPEIPRIALTICHI002.jpg"
+          },
+          {
+            "url": "http://www.stpauls.it/madre/0712md/images/0712md16.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

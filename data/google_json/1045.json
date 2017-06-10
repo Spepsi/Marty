@@ -1,0 +1,580 @@
+{
+  "responses": [
+    {
+      "faceAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 155,
+                "y": 52
+              },
+              {
+                "x": 291,
+                "y": 52
+              },
+              {
+                "x": 291,
+                "y": 210
+              },
+              {
+                "x": 155,
+                "y": 210
+              }
+            ]
+          },
+          "fdBoundingPoly": {
+            "vertices": [
+              {
+                "x": 160,
+                "y": 83
+              },
+              {
+                "x": 263,
+                "y": 83
+              },
+              {
+                "x": 263,
+                "y": 186
+              },
+              {
+                "x": 160,
+                "y": 186
+              }
+            ]
+          },
+          "landmarks": [
+            {
+              "type": "LEFT_EYE",
+              "position": {
+                "x": 201.07019,
+                "y": 105.07143,
+                "z": -2.5747751e-05
+              }
+            },
+            {
+              "type": "RIGHT_EYE",
+              "position": {
+                "x": 227.45839,
+                "y": 124.78755,
+                "z": -28.025677
+              }
+            },
+            {
+              "type": "LEFT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 200.86852,
+                "y": 92.01858,
+                "z": 11.275193
+              }
+            },
+            {
+              "type": "RIGHT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 208.71378,
+                "y": 99.20498,
+                "z": -13.587398
+              }
+            },
+            {
+              "type": "LEFT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 220.64159,
+                "y": 108.40136,
+                "z": -26.708937
+              }
+            },
+            {
+              "type": "RIGHT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 241.92567,
+                "y": 124.97235,
+                "z": -33.761864
+              }
+            },
+            {
+              "type": "MIDPOINT_BETWEEN_EYES",
+              "position": {
+                "x": 209.23672,
+                "y": 110.77646,
+                "z": -20.061089
+              }
+            },
+            {
+              "type": "NOSE_TIP",
+              "position": {
+                "x": 188.81076,
+                "y": 125.837204,
+                "z": -27.7801
+              }
+            },
+            {
+              "type": "UPPER_LIP",
+              "position": {
+                "x": 185.51547,
+                "y": 141.3977,
+                "z": -19.676422
+              }
+            },
+            {
+              "type": "LOWER_LIP",
+              "position": {
+                "x": 179.23029,
+                "y": 153.7478,
+                "z": -16.597357
+              }
+            },
+            {
+              "type": "MOUTH_LEFT",
+              "position": {
+                "x": 178.84563,
+                "y": 142.41412,
+                "z": -0.4318104
+              }
+            },
+            {
+              "type": "MOUTH_RIGHT",
+              "position": {
+                "x": 196.12561,
+                "y": 157.05846,
+                "z": -21.477076
+              }
+            },
+            {
+              "type": "MOUTH_CENTER",
+              "position": {
+                "x": 183.45798,
+                "y": 147.61818,
+                "z": -16.97298
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_RIGHT",
+              "position": {
+                "x": 201.65074,
+                "y": 138.92511,
+                "z": -22.938522
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_LEFT",
+              "position": {
+                "x": 189.2749,
+                "y": 128.45444,
+                "z": -8.331963
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_CENTER",
+              "position": {
+                "x": 190.29424,
+                "y": 134.2575,
+                "z": -20.285233
+              }
+            },
+            {
+              "type": "LEFT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 201.32129,
+                "y": 101.79038,
+                "z": -2.2894232
+              }
+            },
+            {
+              "type": "LEFT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 206.05167,
+                "y": 109.22927,
+                "z": -5.3051596
+              }
+            },
+            {
+              "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 198.80844,
+                "y": 107.15683,
+                "z": -0.05133072
+              }
+            },
+            {
+              "type": "LEFT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 198.44838,
+                "y": 102.638016,
+                "z": 8.184857
+              }
+            },
+            {
+              "type": "LEFT_EYE_PUPIL",
+              "position": {
+                "x": 200.26924,
+                "y": 104.396255,
+                "z": -0.34824863
+              }
+            },
+            {
+              "type": "RIGHT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 225.70149,
+                "y": 121.05495,
+                "z": -29.253407
+              }
+            },
+            {
+              "type": "RIGHT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 232.76886,
+                "y": 129.79433,
+                "z": -29.553568
+              }
+            },
+            {
+              "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 224.62271,
+                "y": 126.93171,
+                "z": -27.218597
+              }
+            },
+            {
+              "type": "RIGHT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 219.65054,
+                "y": 119.7258,
+                "z": -21.17647
+              }
+            },
+            {
+              "type": "RIGHT_EYE_PUPIL",
+              "position": {
+                "x": 225.2168,
+                "y": 124.12511,
+                "z": -28.065693
+              }
+            },
+            {
+              "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 206.0495,
+                "y": 90.51859,
+                "z": -3.3934765
+              }
+            },
+            {
+              "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 232.43906,
+                "y": 111.41205,
+                "z": -32.65213
+              }
+            },
+            {
+              "type": "LEFT_EAR_TRAGION",
+              "position": {
+                "x": 202.48349,
+                "y": 126.72615,
+                "z": 56.428318
+              }
+            },
+            {
+              "type": "RIGHT_EAR_TRAGION",
+              "position": {
+                "x": 257.7741,
+                "y": 170.40741,
+                "z": -4.784514
+              }
+            },
+            {
+              "type": "FOREHEAD_GLABELLA",
+              "position": {
+                "x": 214.0157,
+                "y": 102.921616,
+                "z": -21.325266
+              }
+            },
+            {
+              "type": "CHIN_GNATHION",
+              "position": {
+                "x": 172.55026,
+                "y": 170.74779,
+                "z": -10.908313
+              }
+            },
+            {
+              "type": "CHIN_LEFT_GONION",
+              "position": {
+                "x": 180.49487,
+                "y": 144.50983,
+                "z": 42.44505
+              }
+            },
+            {
+              "type": "CHIN_RIGHT_GONION",
+              "position": {
+                "x": 230.4667,
+                "y": 183.96896,
+                "z": -12.906195
+              }
+            }
+          ],
+          "rollAngle": 35.45782,
+          "panAngle": -41.080196,
+          "tiltAngle": -3.315599,
+          "detectionConfidence": 0.7089131,
+          "landmarkingConfidence": 0.35006914,
+          "joyLikelihood": "VERY_UNLIKELY",
+          "sorrowLikelihood": "VERY_UNLIKELY",
+          "angerLikelihood": "VERY_UNLIKELY",
+          "surpriseLikelihood": "VERY_UNLIKELY",
+          "underExposedLikelihood": "VERY_UNLIKELY",
+          "blurredLikelihood": "VERY_UNLIKELY",
+          "headwearLikelihood": "UNLIKELY"
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.8540133
+        },
+        {
+          "mid": "/m/01dv4h",
+          "description": "portrait",
+          "score": 0.8321623
+        },
+        {
+          "mid": "/m/067408",
+          "description": "album cover",
+          "score": 0.5766815
+        },
+        {
+          "mid": "/m/02csf",
+          "description": "drawing",
+          "score": 0.5620318
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "UNLIKELY",
+        "spoof": "UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 43,
+                "green": 21,
+                "blue": 23
+              },
+              "score": 0.48129234,
+              "pixelFraction": 0.36398885
+            },
+            {
+              "color": {
+                "red": 233,
+                "green": 167,
+                "blue": 85
+              },
+              "score": 0.006680035,
+              "pixelFraction": 0.01155397
+            },
+            {
+              "color": {
+                "red": 34,
+                "green": 21,
+                "blue": 21
+              },
+              "score": 0.21203408,
+              "pixelFraction": 0.22278225
+            },
+            {
+              "color": {
+                "red": 55,
+                "green": 21,
+                "blue": 16
+              },
+              "score": 0.099752575,
+              "pixelFraction": 0.06358561
+            },
+            {
+              "color": {
+                "red": 73,
+                "green": 33,
+                "blue": 26
+              },
+              "score": 0.099746384,
+              "pixelFraction": 0.12158809
+            },
+            {
+              "color": {
+                "red": 60,
+                "green": 35,
+                "blue": 37
+              },
+              "score": 0.05717065,
+              "pixelFraction": 0.047921836
+            },
+            {
+              "color": {
+                "red": 54,
+                "green": 37,
+                "blue": 33
+              },
+              "score": 0.01746233,
+              "pixelFraction": 0.017292183
+            },
+            {
+              "color": {
+                "red": 224,
+                "green": 156,
+                "blue": 78
+              },
+              "score": 0.0058762,
+              "pixelFraction": 0.032102976
+            },
+            {
+              "color": {
+                "red": 110,
+                "green": 66,
+                "blue": 54
+              },
+              "score": 0.0044115805,
+              "pixelFraction": 0.01674938
+            },
+            {
+              "color": {
+                "red": 43,
+                "green": 26,
+                "blue": 16
+              },
+              "score": 0.0039550224,
+              "pixelFraction": 0.0030241935
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 334
+                },
+                {
+                  "x": 334,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 1,
+            "importanceFraction": 3.48
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0261pvk",
+            "score": 1.54144,
+            "description": "Jacob Adriaensz Backer"
+          },
+          {
+            "entityId": "/m/07x01q",
+            "score": 1.324,
+            "description": "Museum of Fine Arts"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.50615,
+            "description": "Painting"
+          },
+          {
+            "entityId": "/m/01dv4h",
+            "score": 0.5003891,
+            "description": "Portrait"
+          },
+          {
+            "entityId": "/m/0b682t",
+            "score": 0.38608,
+            "description": "Dutch Golden Age painting"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://www.oceansbridge.ca/paintings/german/thumb/Jacob_Adriaensz._Backer_001_OBNP2009-Y00567.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Jacob_Adriaensz._Backer_001.jpg/1200px-Jacob_Adriaensz._Backer_001.jpg"
+          },
+          {
+            "url": "https://2ch.hk/psy/src/754158/14961230847980.jpg"
+          },
+          {
+            "url": "http://cfile236.uf.daum.net/image/23588547526F66E52B50CB"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/38/34/5f/38345fa71127be9deecfb28430f0aa47.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://www.oceansbridge.ca/paintings/german/thumb/Jacob_Adriaensz._Backer_001_OBNP2009-Y00567.jpg"
+          },
+          {
+            "url": "https://oudemeesterschilderijen.files.wordpress.com/2013/06/backer-the-hearing-c1635.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Jacob_Adriaensz._Backer_001.jpg/1200px-Jacob_Adriaensz._Backer_001.jpg"
+          },
+          {
+            "url": "https://2ch.hk/psy/src/754158/14961230847980.jpg"
+          },
+          {
+            "url": "http://www.elite-paintings.com/w/10/AbyC/Holland/BACKER_Jacob_Adriaensz_The_Hearing_artist_painting_reproduction_handmade_oil_canvas_or_print_art_deco.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Jacob_Adriaensz_Backer"
+          },
+          {
+            "url": "http://www.the-athenaeum.org/art/list.php?m=a&s=tu&aid=5225"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/Category:Jacob_Adriaensz._Backer"
+          },
+          {
+            "url": "http://www.wga.hu/html/b/backer/index.html"
+          },
+          {
+            "url": "http://www.wikiwand.com/en/Jacob_Adriaensz_Backer"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/38/4a/a2/384aa21c58ea269ab275f4d876ec36ed.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/52/cd/ee/52cdeee0d0c5e507e9abd5d2de5a0388.jpg"
+          },
+          {
+            "url": "http://i170.photobucket.com/albums/u270/Helanren/backer.jpg"
+          },
+          {
+            "url": "http://www.thecityreview.com/w05som25.jpg"
+          },
+          {
+            "url": "http://www.artvalue.com/photos/auction/0/57/57058/attribued-backer-jacob-adriaen-musikant-mit-einer-viola-3886046-500-500-3886046.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,474 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/09g5pq",
+          "description": "people",
+          "score": 0.90116805
+        },
+        {
+          "mid": "/m/0jg24",
+          "description": "image",
+          "score": 0.90061027
+        },
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.7413962
+        },
+        {
+          "mid": "/m/04zhd",
+          "description": "mythology",
+          "score": 0.6175686
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "en",
+          "description": "Ad\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 353,
+                "y": 140
+              },
+              {
+                "x": 361,
+                "y": 140
+              },
+              {
+                "x": 361,
+                "y": 152
+              },
+              {
+                "x": 353,
+                "y": 152
+              }
+            ]
+          }
+        },
+        {
+          "description": "Ad",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 362,
+                "y": 141
+              },
+              {
+                "x": 361,
+                "y": 152
+              },
+              {
+                "x": 354,
+                "y": 151
+              },
+              {
+                "x": 355,
+                "y": 140
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 183,
+                "green": 97,
+                "blue": 87
+              },
+              "score": 0.17155269,
+              "pixelFraction": 0.011166253
+            },
+            {
+              "color": {
+                "red": 247,
+                "green": 224,
+                "blue": 193
+              },
+              "score": 0.049357265,
+              "pixelFraction": 0.034119107
+            },
+            {
+              "color": {
+                "red": 155,
+                "green": 46,
+                "blue": 40
+              },
+              "score": 0.03392522,
+              "pixelFraction": 0.0015065579
+            },
+            {
+              "color": {
+                "red": 141,
+                "green": 60,
+                "blue": 52
+              },
+              "score": 0.112228796,
+              "pixelFraction": 0.0077100317
+            },
+            {
+              "color": {
+                "red": 220,
+                "green": 126,
+                "blue": 114
+              },
+              "score": 0.10184975,
+              "pixelFraction": 0.0060262317
+            },
+            {
+              "color": {
+                "red": 201,
+                "green": 145,
+                "blue": 120
+              },
+              "score": 0.07612186,
+              "pixelFraction": 0.022155264
+            },
+            {
+              "color": {
+                "red": 235,
+                "green": 184,
+                "blue": 158
+              },
+              "score": 0.06529526,
+              "pixelFraction": 0.01595179
+            },
+            {
+              "color": {
+                "red": 184,
+                "green": 86,
+                "blue": 71
+              },
+              "score": 0.04320626,
+              "pixelFraction": 0.0016838
+            },
+            {
+              "color": {
+                "red": 160,
+                "green": 107,
+                "blue": 87
+              },
+              "score": 0.04037506,
+              "pixelFraction": 0.026320454
+            },
+            {
+              "color": {
+                "red": 124,
+                "green": 76,
+                "blue": 59
+              },
+              "score": 0.03003274,
+              "pixelFraction": 0.060085077
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 294
+                },
+                {
+                  "y": 294
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "en"
+                }
+              ]
+            },
+            "width": 400,
+            "height": 295,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "en"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 362,
+                      "y": 141
+                    },
+                    {
+                      "x": 361,
+                      "y": 152
+                    },
+                    {
+                      "x": 354,
+                      "y": 151
+                    },
+                    {
+                      "x": 355,
+                      "y": 140
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "en"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 353,
+                          "y": 140
+                        },
+                        {
+                          "x": 361,
+                          "y": 140
+                        },
+                        {
+                          "x": 361,
+                          "y": 152
+                        },
+                        {
+                          "x": 353,
+                          "y": 152
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 362,
+                              "y": 141
+                            },
+                            {
+                              "x": 361,
+                              "y": 152
+                            },
+                            {
+                              "x": 354,
+                              "y": 151
+                            },
+                            {
+                              "x": 355,
+                              "y": 140
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 362,
+                                  "y": 141
+                                },
+                                {
+                                  "x": 362,
+                                  "y": 145
+                                },
+                                {
+                                  "x": 355,
+                                  "y": 144
+                                },
+                                {
+                                  "x": 355,
+                                  "y": 140
+                                }
+                              ]
+                            },
+                            "text": "A"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 361,
+                                  "y": 147
+                                },
+                                {
+                                  "x": 361,
+                                  "y": 152
+                                },
+                                {
+                                  "x": 354,
+                                  "y": 151
+                                },
+                                {
+                                  "x": 354,
+                                  "y": 146
+                                }
+                              ]
+                            },
+                            "text": "d"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "Ad\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/03f87",
+            "score": 1.76882,
+            "description": "Garden of Eden"
+          },
+          {
+            "entityId": "/m/0jg24",
+            "score": 0.440075,
+            "description": "Image"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.37624982,
+            "description": "Painting"
+          },
+          {
+            "entityId": "/m/0y3p",
+            "score": 0.37561,
+            "description": "Adam and Eve"
+          },
+          {
+            "entityId": "/m/022hh",
+            "score": 0.36596,
+            "description": "Creation myth"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://community.fansshare.com/pic52/w/garden-of-eden/1200/8278_jacob_de_backer_garden_of_eden_wga.jpg"
+          },
+          {
+            "url": "http://1.bp.blogspot.com/-tKrhtFt3Ikw/UwG_vYN6trI/AAAAAAAAAMw/6gnEQGRNArk/s1600/Jacob_de_Backer_-_Garden_of_Eden_-_WGA1125.jpg"
+          },
+          {
+            "url": "https://i1.wp.com/wendyjanegrossman.com/wp-content/uploads/2013/12/Jacob_de_Backer_-_Garden_of_Eden_-_WGA1125.jpg"
+          },
+          {
+            "url": "http://3.bp.blogspot.com/-aKvr9hgiRl4/UZO_CkZz4SI/AAAAAAAABCs/utc9Ae4osws/s1600/gar_eden.jpg"
+          },
+          {
+            "url": "https://www.oudeadel.nl/wp-content/uploads/oudeadel.nl-Jacob-de-Backer-Hof-van-Eden.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://yh.shutuedu.com:89/images/upload/bowuguan/glngbwg/20170826-130.jpg"
+          },
+          {
+            "url": "http://1.bp.blogspot.com/-tKrhtFt3Ikw/UwG_vYN6trI/AAAAAAAAAMw/6gnEQGRNArk/s1600/Jacob_de_Backer_-_Garden_of_Eden_-_WGA1125.jpg"
+          },
+          {
+            "url": "https://i1.wp.com/wendyjanegrossman.com/wp-content/uploads/2013/12/Jacob_de_Backer_-_Garden_of_Eden_-_WGA1125.jpg"
+          },
+          {
+            "url": "http://3.bp.blogspot.com/-aKvr9hgiRl4/UZO_CkZz4SI/AAAAAAAABCs/utc9Ae4osws/s1600/gar_eden.jpg"
+          },
+          {
+            "url": "https://www.oudeadel.nl/wp-content/uploads/oudeadel.nl-Jacob-de-Backer-Hof-van-Eden.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Jacob_de_Backer_-_Garden_of_Eden_-_WGA1125.jpg"
+          },
+          {
+            "url": "https://imagesbible.com/ANGLAIS/ANG_FICHES/Ang_creation_Adam_Eve.htm"
+          },
+          {
+            "url": "http://www.artchive.com/web_gallery/J/Jacob-De-Backer/Garden-Of-Eden.html"
+          },
+          {
+            "url": "http://www.artsunlight.com/artist-NB/N-B0024-Jacob-de-Backer/N-B0024-009-garden-of-eden.html"
+          },
+          {
+            "url": "http://www.mystudios.com/artgallery/J/Jacob-De-Backer/Garden-Of-Eden.html"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://community.fansshare.com/pic52/w/garden-of-eden/1200/8278_jacob_de_backer_garden_of_eden_wga.jpg"
+          },
+          {
+            "url": "https://media.mutualart.com/Images/2010_09/02/0004/946133/129277136538156348_69f938bb-ef33-4b3a-a074-7dd0d92235fe_168456_570.Jpeg"
+          },
+          {
+            "url": "http://www.carpescriptura.com/wp-content/uploads/2013/05/Garden-of-Eden-by-Jacob-de-Backer.jpg"
+          },
+          {
+            "url": "http://madamepickwickartblog.com/wp-content/uploads/2012/12/eden1.jpg"
+          },
+          {
+            "url": "http://www.artnet.de/WebServices/images/ll00090lldRPFJFgOKECfDrCWQFHPKcKZuE/jacob-de-backer-the-garden-of-eden.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

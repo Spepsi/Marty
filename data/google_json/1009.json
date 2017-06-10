@@ -1,0 +1,519 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.77194333
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "tr",
+          "description": "etle\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 208,
+                "y": 149
+              },
+              {
+                "x": 233,
+                "y": 149
+              },
+              {
+                "x": 233,
+                "y": 200
+              },
+              {
+                "x": 208,
+                "y": 200
+              }
+            ]
+          }
+        },
+        {
+          "description": "etle",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 234,
+                "y": 150
+              },
+              {
+                "x": 232,
+                "y": 200
+              },
+              {
+                "x": 209,
+                "y": 199
+              },
+              {
+                "x": 211,
+                "y": 149
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 120,
+                "green": 80,
+                "blue": 31
+              },
+              "score": 0.23998077,
+              "pixelFraction": 0.047284257
+            },
+            {
+              "color": {
+                "red": 80,
+                "green": 47,
+                "blue": 25
+              },
+              "score": 0.12656464,
+              "pixelFraction": 0.10146126
+            },
+            {
+              "color": {
+                "red": 137,
+                "green": 116,
+                "blue": 85
+              },
+              "score": 0.05110204,
+              "pixelFraction": 0.030672733
+            },
+            {
+              "color": {
+                "red": 145,
+                "green": 103,
+                "blue": 53
+              },
+              "score": 0.10944089,
+              "pixelFraction": 0.015853323
+            },
+            {
+              "color": {
+                "red": 109,
+                "green": 73,
+                "blue": 49
+              },
+              "score": 0.058562737,
+              "pixelFraction": 0.022952853
+            },
+            {
+              "color": {
+                "red": 142,
+                "green": 112,
+                "blue": 63
+              },
+              "score": 0.05028102,
+              "pixelFraction": 0.010959471
+            },
+            {
+              "color": {
+                "red": 177,
+                "green": 151,
+                "blue": 101
+              },
+              "score": 0.05012264,
+              "pixelFraction": 0.014405845
+            },
+            {
+              "color": {
+                "red": 100,
+                "green": 80,
+                "blue": 54
+              },
+              "score": 0.04544773,
+              "pixelFraction": 0.042321477
+            },
+            {
+              "color": {
+                "red": 171,
+                "green": 149,
+                "blue": 115
+              },
+              "score": 0.0442211,
+              "pixelFraction": 0.0208161
+            },
+            {
+              "color": {
+                "red": 70,
+                "green": 52,
+                "blue": 32
+              },
+              "score": 0.037613187,
+              "pixelFraction": 0.11938241
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 378
+                },
+                {
+                  "y": 378
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "tr"
+                }
+              ]
+            },
+            "width": 400,
+            "height": 379,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "tr"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 234,
+                      "y": 150
+                    },
+                    {
+                      "x": 232,
+                      "y": 200
+                    },
+                    {
+                      "x": 209,
+                      "y": 199
+                    },
+                    {
+                      "x": 211,
+                      "y": 149
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "tr"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 208,
+                          "y": 149
+                        },
+                        {
+                          "x": 233,
+                          "y": 149
+                        },
+                        {
+                          "x": 233,
+                          "y": 200
+                        },
+                        {
+                          "x": 208,
+                          "y": 200
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "tr"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 234,
+                              "y": 150
+                            },
+                            {
+                              "x": 232,
+                              "y": 200
+                            },
+                            {
+                              "x": 209,
+                              "y": 199
+                            },
+                            {
+                              "x": 211,
+                              "y": 149
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "tr"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 229,
+                                  "y": 150
+                                },
+                                {
+                                  "x": 229,
+                                  "y": 156
+                                },
+                                {
+                                  "x": 215,
+                                  "y": 155
+                                },
+                                {
+                                  "x": 215,
+                                  "y": 149
+                                }
+                              ]
+                            },
+                            "text": "e"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "tr"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 234,
+                                  "y": 157
+                                },
+                                {
+                                  "x": 233,
+                                  "y": 172
+                                },
+                                {
+                                  "x": 210,
+                                  "y": 171
+                                },
+                                {
+                                  "x": 211,
+                                  "y": 156
+                                }
+                              ]
+                            },
+                            "text": "t"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "tr"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 233,
+                                  "y": 173
+                                },
+                                {
+                                  "x": 232,
+                                  "y": 185
+                                },
+                                {
+                                  "x": 212,
+                                  "y": 184
+                                },
+                                {
+                                  "x": 213,
+                                  "y": 172
+                                }
+                              ]
+                            },
+                            "text": "l"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "tr"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 232,
+                                  "y": 187
+                                },
+                                {
+                                  "x": 231,
+                                  "y": 200
+                                },
+                                {
+                                  "x": 211,
+                                  "y": 199
+                                },
+                                {
+                                  "x": 212,
+                                  "y": 186
+                                }
+                              ]
+                            },
+                            "text": "e"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "etle\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0gy1ncm",
+            "score": 3.34132,
+            "description": "The Procuress"
+          },
+          {
+            "entityId": "/m/04wlqpy",
+            "score": 1.70816,
+            "description": "The Procuress"
+          },
+          {
+            "entityId": "/m/052t4b1",
+            "score": 1.49984,
+            "description": "The Matchmaker"
+          },
+          {
+            "entityId": "/m/04ftck",
+            "score": 1.4814,
+            "description": "Museum of Fine Arts, Boston"
+          },
+          {
+            "entityId": "/m/04wlqph",
+            "score": 1.37804,
+            "description": "The Concert"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://3.bp.blogspot.com/_mbJC2OzmENs/SxD24JHMf7I/AAAAAAAALF4/J-joK1_aXVw/s1600/The+Procuress+1622+Dirk+van+Baburen.jpg"
+          },
+          {
+            "url": "https://gandalfsgallery.files.wordpress.com/2009/11/theprocuress1622dirkvanbaburen.jpg"
+          },
+          {
+            "url": "https://gandalfsgallery.files.wordpress.com/2009/11/theprocuress1622dirkvanbaburen.jpg?w=1400"
+          },
+          {
+            "url": "https://www.novini.bg/uploads/tinymce/The%20Procuress%201622%20Dirk%20van%20Baburen.jpg"
+          },
+          {
+            "url": "http://michel.hiblogger.net/img/userfiles/2011/02/21/97752/18-08k9r.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://yh.shutuedu.com:89/images/upload/bowuguan/bsdmsg/20170825-20.jpg"
+          },
+          {
+            "url": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Dirck_van_Baburen_-_The_Procuress_-_Google_Art_Project.jpg"
+          },
+          {
+            "url": "https://classconnection.s3.amazonaws.com/923/flashcards/3205923/jpg/dirck_van_baburen_-_the_procuress_-_google_art_project1367530094536.jpg"
+          },
+          {
+            "url": "http://free-artworks-o01.gatag.net/images/gp01a201304250000.jpg"
+          },
+          {
+            "url": "http://1.bp.blogspot.com/-i_eAc8-s-pc/VIaZzS7ujOI/AAAAAAAARPI/C8hXiJ2D-mI/s1600/1_1622_%D0%A1%D0%B2%D0%BE%D0%B4%D0%BD%D1%8F%2B(The%2BProcuress)_101.6%2Bx%2B107.6_%D1%85.%2C%D0%BC._%D0%91%D0%BE%D1%81%D1%82%D0%BE%D0%BD%2C%2B%D0%9C%D1%83%D0%B7%D0%B5%D0%B9%2B%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%2B%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://en.wikipedia.org/wiki/The_Procuress_(Dirck_van_Baburen)"
+          },
+          {
+            "url": "http://www.mfa.org/collections/object/the-procuress-33414"
+          },
+          {
+            "url": "http://www.wga.hu/html_m/b/baburen/procures.html"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/Category:The_Procuress_by_Dirck_van_Baburen"
+          },
+          {
+            "url": "https://www.codart.nl/museums/quot-forgery-of-a-painting-by-dirck-van-baburen-in-the-courtauld-institute-might-be-an-original-piece-quot/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://classconnection.s3.amazonaws.com/212/flashcards/1542212/jpg/bar26-1459F1996E2036A8073.jpg"
+          },
+          {
+            "url": "http://blogs.publico.es/strambotic/files/2016/04/Dirck-Van-Baburen-The-Procuress-2-1.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/The_Procuress_forgery_by_Han_van_Meegeren_from_the_Courtauld_Gallery.jpg/290px-The_Procuress_forgery_by_Han_van_Meegeren_from_the_Courtauld_Gallery.jpg"
+          },
+          {
+            "url": "https://www.codart.nl/wp-content/uploads/2016/11/148046281522200163.jpg"
+          },
+          {
+            "url": "https://c1.staticflickr.com/5/4127/5058967873_27ba119491_b.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

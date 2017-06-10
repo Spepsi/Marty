@@ -1,0 +1,536 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.89680916
+        },
+        {
+          "mid": "/m/04rd7",
+          "description": "mural",
+          "score": 0.8164802
+        },
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.7023091
+        },
+        {
+          "mid": "/m/0djmp",
+          "description": "ancient history",
+          "score": 0.6423063
+        },
+        {
+          "mid": "/m/015r61",
+          "description": "modern art",
+          "score": 0.63452804
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "en",
+          "description": "i I\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 58,
+                "y": 37
+              },
+              {
+                "x": 84,
+                "y": 37
+              },
+              {
+                "x": 84,
+                "y": 59
+              },
+              {
+                "x": 58,
+                "y": 59
+              }
+            ]
+          }
+        },
+        {
+          "description": "i",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 60,
+                "y": 37
+              },
+              {
+                "x": 67,
+                "y": 38
+              },
+              {
+                "x": 65,
+                "y": 58
+              },
+              {
+                "x": 58,
+                "y": 57
+              }
+            ]
+          }
+        },
+        {
+          "description": "I",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 75,
+                "y": 38
+              },
+              {
+                "x": 84,
+                "y": 39
+              },
+              {
+                "x": 82,
+                "y": 59
+              },
+              {
+                "x": 73,
+                "y": 58
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 243,
+                "green": 235,
+                "blue": 228
+              },
+              "score": 0.24301821,
+              "pixelFraction": 0.18837492
+            },
+            {
+              "color": {
+                "red": 225,
+                "green": 127,
+                "blue": 56
+              },
+              "score": 0.077065006,
+              "pixelFraction": 0.0027388923
+            },
+            {
+              "color": {
+                "red": 234,
+                "green": 178,
+                "blue": 126
+              },
+              "score": 0.023877459,
+              "pixelFraction": 0.0012172854
+            },
+            {
+              "color": {
+                "red": 153,
+                "green": 109,
+                "blue": 94
+              },
+              "score": 0.01940028,
+              "pixelFraction": 0.043137554
+            },
+            {
+              "color": {
+                "red": 47,
+                "green": 48,
+                "blue": 70
+              },
+              "score": 0.006436449,
+              "pixelFraction": 0.015063908
+            },
+            {
+              "color": {
+                "red": 194,
+                "green": 95,
+                "blue": 35
+              },
+              "score": 0.07636977,
+              "pixelFraction": 0.0030432136
+            },
+            {
+              "color": {
+                "red": 209,
+                "green": 196,
+                "blue": 189
+              },
+              "score": 0.064315,
+              "pixelFraction": 0.12560864
+            },
+            {
+              "color": {
+                "red": 248,
+                "green": 229,
+                "blue": 206
+              },
+              "score": 0.05388975,
+              "pixelFraction": 0.027693244
+            },
+            {
+              "color": {
+                "red": 182,
+                "green": 92,
+                "blue": 55
+              },
+              "score": 0.03049124,
+              "pixelFraction": 0.0036518564
+            },
+            {
+              "color": {
+                "red": 217,
+                "green": 141,
+                "blue": 61
+              },
+              "score": 0.030421436,
+              "pixelFraction": 0.0009890444
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 340
+                },
+                {
+                  "x": 340,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "en"
+                }
+              ]
+            },
+            "width": 341,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "en"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 60,
+                      "y": 37
+                    },
+                    {
+                      "x": 84,
+                      "y": 39
+                    },
+                    {
+                      "x": 82,
+                      "y": 59
+                    },
+                    {
+                      "x": 58,
+                      "y": 57
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "en"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 60,
+                          "y": 37
+                        },
+                        {
+                          "x": 84,
+                          "y": 39
+                        },
+                        {
+                          "x": 82,
+                          "y": 59
+                        },
+                        {
+                          "x": 58,
+                          "y": 57
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 60,
+                              "y": 37
+                            },
+                            {
+                              "x": 67,
+                              "y": 38
+                            },
+                            {
+                              "x": 65,
+                              "y": 58
+                            },
+                            {
+                              "x": 58,
+                              "y": 57
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 60,
+                                  "y": 37
+                                },
+                                {
+                                  "x": 67,
+                                  "y": 38
+                                },
+                                {
+                                  "x": 65,
+                                  "y": 58
+                                },
+                                {
+                                  "x": 58,
+                                  "y": 57
+                                }
+                              ]
+                            },
+                            "text": "i"
+                          }
+                        ]
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 75,
+                              "y": 38
+                            },
+                            {
+                              "x": 84,
+                              "y": 39
+                            },
+                            {
+                              "x": 82,
+                              "y": 59
+                            },
+                            {
+                              "x": 73,
+                              "y": 58
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 75,
+                                  "y": 38
+                                },
+                                {
+                                  "x": 84,
+                                  "y": 39
+                                },
+                                {
+                                  "x": 82,
+                                  "y": 59
+                                },
+                                {
+                                  "x": 73,
+                                  "y": 58
+                                }
+                              ]
+                            },
+                            "text": "I"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "i I\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/01hfkb",
+            "score": 7.06784,
+            "description": "Vatican Museums"
+          },
+          {
+            "entityId": "/m/01tk_r",
+            "score": 5.36064,
+            "description": "Apostolic Palace"
+          },
+          {
+            "entityId": "/m/0h3wnqv",
+            "score": 4.29328,
+            "description": "Martyrdom of Saint Lawrence"
+          },
+          {
+            "entityId": "/m/02rbymb",
+            "score": 1.63956,
+            "description": "Niccoline Chapel"
+          },
+          {
+            "entityId": "/m/0h3mzr1",
+            "score": 1.34016,
+            "description": "The Martyrdom of Saint Lawrence"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://i84.photobucket.com/albums/k27/jakyl32/365%20Rosaries-%20AUGUST/810lawrence21.jpg"
+          },
+          {
+            "url": "http://1.bp.blogspot.com/-MzIAFQ_dgLw/TkIRLp6rcHI/AAAAAAAADIA/WwW8tzn06Ko/s1600/Martrydom+of+St.+Lawrence.jpg"
+          },
+          {
+            "url": "http://2.bp.blogspot.com/_cMl-_NV45sY/TGGzzQexmLI/AAAAAAAAAmQ/KEoK-6-RoTs/s1600/1447+4+esecuzione.jpg"
+          },
+          {
+            "url": "https://i0.wp.com/familyfeastandferia.com/wp-content/uploads/2006/08/Lawrence_Martyrdom.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/art/a/angelico/10/3east/60east.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://i84.photobucket.com/albums/k27/jakyl32/365%20Rosaries-%20AUGUST/810lawrence21.jpg"
+          },
+          {
+            "url": "http://1.bp.blogspot.com/-MzIAFQ_dgLw/TkIRLp6rcHI/AAAAAAAADIA/WwW8tzn06Ko/s1600/Martrydom+of+St.+Lawrence.jpg"
+          },
+          {
+            "url": "http://2.bp.blogspot.com/_cMl-_NV45sY/TGGzzQexmLI/AAAAAAAAAmQ/KEoK-6-RoTs/s1600/1447+4+esecuzione.jpg"
+          },
+          {
+            "url": "https://i0.wp.com/familyfeastandferia.com/wp-content/uploads/2006/08/Lawrence_Martyrdom.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/art/a/angelico/10/3east/60east.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://www.wikiart.org/en/fra-angelico/martyrdom-of-st-lawrence-1449"
+          },
+          {
+            "url": "http://www.alamy.com/stock-photo/the-martyrdom-of-st-lawrence.html"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Fra_Angelico_-_Martyrdom_of_St_Lawrence_-_WGA00598.jpg"
+          },
+          {
+            "url": "http://imaginemdei.blogspot.com/2011/08/st-lawrence-deacon-and-martyr.html"
+          },
+          {
+            "url": "https://www.pinterest.com/pin/437764026249797626/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://1.bp.blogspot.com/-MzIAFQ_dgLw/TkIRLp6rcHI/AAAAAAAADIA/WwW8tzn06Ko/s1600/Martrydom+of+St.+Lawrence.jpg"
+          },
+          {
+            "url": "https://2.bp.blogspot.com/-RitaEKi6skc/V6oRgkRCxwI/AAAAAAAAGMw/3rfDSgfN9jE9Q-kYF0b7sqGn6zKKDuAhQCLcB/s1600/St.%2BLawrence%2527s%2BMartyrdom.jpg"
+          },
+          {
+            "url": "http://www.travelingintuscany.com/images/art/fraangelico/cappellaniccolina/martyrdomoflawrence700.jpg"
+          },
+          {
+            "url": "http://exurbe.com/wp-content/uploads/2011/09/200808100957_martirio_san_lorenzo.jpg"
+          },
+          {
+            "url": "https://orlandoutland.files.wordpress.com/2010/11/image5.png"
+          }
+        ]
+      }
+    }
+  ]
+}

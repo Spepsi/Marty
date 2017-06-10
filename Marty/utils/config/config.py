@@ -7,10 +7,10 @@ class Config:
 
         # we use the config.ini file in the same repository as default
         if file is None:
-            file = "config.ini"
+            dir_path = os.path.dirname(os.path.realpath(__file__))
+            file = os.path.join(dir_path, "config.ini")
         else:
             if not os.path.exists(file):
                 raise IOError("File {} does not exist".format(file))
-
         config.read(file)
         return config

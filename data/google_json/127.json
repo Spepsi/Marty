@@ -1,0 +1,439 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/015r61",
+          "description": "modern art",
+          "score": 0.72879577
+        },
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.7147661
+        },
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.6688492
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "zh",
+          "description": "肇\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 17,
+                "y": 32
+              },
+              {
+                "x": 42,
+                "y": 32
+              },
+              {
+                "x": 42,
+                "y": 60
+              },
+              {
+                "x": 17,
+                "y": 60
+              }
+            ]
+          }
+        },
+        {
+          "description": "肇",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 23,
+                "y": 32
+              },
+              {
+                "x": 42,
+                "y": 37
+              },
+              {
+                "x": 36,
+                "y": 60
+              },
+              {
+                "x": 17,
+                "y": 55
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 175,
+                "green": 150,
+                "blue": 132
+              },
+              "score": 0.22239466,
+              "pixelFraction": 0.052127164
+            },
+            {
+              "color": {
+                "red": 212,
+                "green": 186,
+                "blue": 167
+              },
+              "score": 0.1482978,
+              "pixelFraction": 0.045348294
+            },
+            {
+              "color": {
+                "red": 185,
+                "green": 147,
+                "blue": 119
+              },
+              "score": 0.11624338,
+              "pixelFraction": 0.012155212
+            },
+            {
+              "color": {
+                "red": 141,
+                "green": 118,
+                "blue": 100
+              },
+              "score": 0.08796137,
+              "pixelFraction": 0.047218326
+            },
+            {
+              "color": {
+                "red": 165,
+                "green": 152,
+                "blue": 146
+              },
+              "score": 0.08661542,
+              "pixelFraction": 0.06358111
+            },
+            {
+              "color": {
+                "red": 130,
+                "green": 118,
+                "blue": 113
+              },
+              "score": 0.08314397,
+              "pixelFraction": 0.12400655
+            },
+            {
+              "color": {
+                "red": 220,
+                "green": 179,
+                "blue": 147
+              },
+              "score": 0.048569813,
+              "pixelFraction": 0.0040906966
+            },
+            {
+              "color": {
+                "red": 103,
+                "green": 83,
+                "blue": 67
+              },
+              "score": 0.04118384,
+              "pixelFraction": 0.054698456
+            },
+            {
+              "color": {
+                "red": 156,
+                "green": 121,
+                "blue": 94
+              },
+              "score": 0.039616793,
+              "pixelFraction": 0.009350164
+            },
+            {
+              "color": {
+                "red": 98,
+                "green": 85,
+                "blue": 78
+              },
+              "score": 0.032397684,
+              "pixelFraction": 0.16000468
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 221
+                },
+                {
+                  "x": 221,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "zh-Hans"
+                }
+              ]
+            },
+            "width": 222,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "zh-Hans"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 23,
+                      "y": 32
+                    },
+                    {
+                      "x": 42,
+                      "y": 37
+                    },
+                    {
+                      "x": 36,
+                      "y": 60
+                    },
+                    {
+                      "x": 17,
+                      "y": 55
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "zh-Hans"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 17,
+                          "y": 32
+                        },
+                        {
+                          "x": 42,
+                          "y": 32
+                        },
+                        {
+                          "x": 42,
+                          "y": 60
+                        },
+                        {
+                          "x": 17,
+                          "y": 60
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "zh-Hans"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 23,
+                              "y": 32
+                            },
+                            {
+                              "x": 42,
+                              "y": 37
+                            },
+                            {
+                              "x": 36,
+                              "y": 60
+                            },
+                            {
+                              "x": 17,
+                              "y": 55
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "zh-Hans"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 23,
+                                  "y": 32
+                                },
+                                {
+                                  "x": 42,
+                                  "y": 37
+                                },
+                                {
+                                  "x": 36,
+                                  "y": 60
+                                },
+                                {
+                                  "x": 17,
+                                  "y": 55
+                                }
+                              ]
+                            },
+                            "text": "肇"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "肇\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0kbls",
+            "score": 49.12768,
+            "description": "Sistine Chapel"
+          },
+          {
+            "entityId": "/m/01tk_r",
+            "score": 31.97952,
+            "description": "Apostolic Palace"
+          },
+          {
+            "entityId": "/m/0jnym",
+            "score": 19.7024,
+            "description": "St. Peter's Basilica"
+          },
+          {
+            "entityId": "/m/05ph2m",
+            "score": 0.61174,
+            "description": "Clementine Hall"
+          },
+          {
+            "entityId": "/m/03gfsp",
+            "score": 0.44848,
+            "description": "Ceiling"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/c7/45/32/c74532ec59d9c738ae95b0bd482b27fc.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/f9/bd/3b/f9bd3b7eed4181b29e7bff0ee4042967.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/a0/e2/a3/a0e2a3fe8556a0dd488564285f249434.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/6c/03/25/6c032557eba89dd44c0988f6adce6bff.jpg"
+          },
+          {
+            "url": "http://68.media.tumblr.com/b9229d08a90294cd9eebcb3e829f278c/tumblr_okjtasEaE01rb6373o2_r1_500.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/c7/45/32/c74532ec59d9c738ae95b0bd482b27fc.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/f9/bd/3b/f9bd3b7eed4181b29e7bff0ee4042967.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/a0/e2/a3/a0e2a3fe8556a0dd488564285f249434.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/6c/03/25/6c032557eba89dd44c0988f6adce6bff.jpg"
+          },
+          {
+            "url": "https://68.media.tumblr.com/b9229d08a90294cd9eebcb3e829f278c/tumblr_okjtasEaE01rb6373o2_r1_500.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://www.pinterest.com/explore/apostolic-palace/"
+          },
+          {
+            "url": "https://www.pinterest.com/Anastpaul/%2B%2B%2Bthe-vatican-rome-sweet-home/"
+          },
+          {
+            "url": "http://www.wga.hu/html_m/a/alberti1/giovanni/ceiling.html"
+          },
+          {
+            "url": "https://www.pinterest.com/mario1954/c-san-pietro-e-vaticano/"
+          },
+          {
+            "url": "https://gr.pinterest.com/explore/apostolic-palace/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/6c/03/25/6c032557eba89dd44c0988f6adce6bff.jpg"
+          },
+          {
+            "url": "http://media.gettyimages.com/photos/cross-stands-in-the-roman-catacombs-in-the-gardens-of-the-pontifical-picture-id162201662"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/564x/7d/19/7a/7d197a47072d3ac6c140ad4ebeb82f02.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/67/dc/ce/67dcceb020b2784ecae96f6a21cd79f7.jpg"
+          },
+          {
+            "url": "http://media.gettyimages.com/photos/statue-is-pictured-on-february-20-2013-in-the-gardens-of-the-palace-picture-id162207218"
+          }
+        ]
+      }
+    }
+  ]
+}

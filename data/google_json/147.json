@@ -1,0 +1,469 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05fc9mj",
+          "description": "christmas decoration",
+          "score": 0.80304885
+        },
+        {
+          "mid": "/m/0170gz",
+          "description": "nativity scene",
+          "score": 0.6493087
+        },
+        {
+          "mid": "/m/0h8nzzj",
+          "description": "decor",
+          "score": 0.5180615
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "cy",
+          "description": "AC\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 192,
+                "y": 225
+              },
+              {
+                "x": 198,
+                "y": 225
+              },
+              {
+                "x": 198,
+                "y": 235
+              },
+              {
+                "x": 192,
+                "y": 235
+              }
+            ]
+          }
+        },
+        {
+          "description": "AC",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 192,
+                "y": 225
+              },
+              {
+                "x": 198,
+                "y": 225
+              },
+              {
+                "x": 198,
+                "y": 235
+              },
+              {
+                "x": 192,
+                "y": 235
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 81,
+                "green": 41,
+                "blue": 30
+              },
+              "score": 0.20344034,
+              "pixelFraction": 0.18657367
+            },
+            {
+              "color": {
+                "red": 39,
+                "green": 13,
+                "blue": 12
+              },
+              "score": 0.101674646,
+              "pixelFraction": 0.076721884
+            },
+            {
+              "color": {
+                "red": 154,
+                "green": 35,
+                "blue": 37
+              },
+              "score": 0.027655507,
+              "pixelFraction": 0.006102877
+            },
+            {
+              "color": {
+                "red": 198,
+                "green": 200,
+                "blue": 191
+              },
+              "score": 0.00973208,
+              "pixelFraction": 0.036907874
+            },
+            {
+              "color": {
+                "red": 113,
+                "green": 69,
+                "blue": 55
+              },
+              "score": 0.14375514,
+              "pixelFraction": 0.14269108
+            },
+            {
+              "color": {
+                "red": 53,
+                "green": 17,
+                "blue": 9
+              },
+              "score": 0.08294103,
+              "pixelFraction": 0.06357164
+            },
+            {
+              "color": {
+                "red": 101,
+                "green": 31,
+                "blue": 27
+              },
+              "score": 0.07969171,
+              "pixelFraction": 0.024048243
+            },
+            {
+              "color": {
+                "red": 133,
+                "green": 56,
+                "blue": 51
+              },
+              "score": 0.07912883,
+              "pixelFraction": 0.029424585
+            },
+            {
+              "color": {
+                "red": 24,
+                "green": 10,
+                "blue": 9
+              },
+              "score": 0.055276666,
+              "pixelFraction": 0.07032839
+            },
+            {
+              "color": {
+                "red": 73,
+                "green": 42,
+                "blue": 42
+              },
+              "score": 0.03292706,
+              "pixelFraction": 0.033856437
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 358
+                },
+                {
+                  "x": 358,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "cy"
+                }
+              ]
+            },
+            "width": 359,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "cy"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 192,
+                      "y": 225
+                    },
+                    {
+                      "x": 198,
+                      "y": 225
+                    },
+                    {
+                      "x": 198,
+                      "y": 235
+                    },
+                    {
+                      "x": 192,
+                      "y": 235
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "cy"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 192,
+                          "y": 225
+                        },
+                        {
+                          "x": 198,
+                          "y": 225
+                        },
+                        {
+                          "x": 198,
+                          "y": 235
+                        },
+                        {
+                          "x": 192,
+                          "y": 235
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "cy"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 192,
+                              "y": 225
+                            },
+                            {
+                              "x": 198,
+                              "y": 225
+                            },
+                            {
+                              "x": 198,
+                              "y": 235
+                            },
+                            {
+                              "x": 192,
+                              "y": 235
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "cy"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 192,
+                                  "y": 225
+                                },
+                                {
+                                  "x": 198,
+                                  "y": 225
+                                },
+                                {
+                                  "x": 198,
+                                  "y": 229
+                                },
+                                {
+                                  "x": 192,
+                                  "y": 229
+                                }
+                              ]
+                            },
+                            "text": "A"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "cy"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 192,
+                                  "y": 230
+                                },
+                                {
+                                  "x": 198,
+                                  "y": 230
+                                },
+                                {
+                                  "x": 198,
+                                  "y": 235
+                                },
+                                {
+                                  "x": 192,
+                                  "y": 235
+                                }
+                              ]
+                            },
+                            "text": "C"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "AC\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/08b1m",
+            "score": 1.42298,
+            "description": "15th century"
+          },
+          {
+            "entityId": "/m/01hlq3",
+            "score": 1.2618,
+            "description": "Museo Nacional Del Prado"
+          },
+          {
+            "entityId": "/m/01tm3n",
+            "score": 0.70214,
+            "description": "Triptych"
+          },
+          {
+            "entityId": "/m/08dn6",
+            "score": 0.6872,
+            "description": "10th century"
+          },
+          {
+            "entityId": "/m/0117tfn6",
+            "score": 0.60094,
+            "description": "1440s"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://warforart.files.wordpress.com/2015/03/alincbrot-louis-flamanski.jpg"
+          },
+          {
+            "url": "http://68.media.tumblr.com/9ac489b40ac1f4936bec86804e225ca9/tumblr_mp2ppuLuz71r29g9xo1_1280.jpg"
+          },
+          {
+            "url": "http://roble.pntic.mec.es/jfeg0041/arte/test/ima/entre_doc_03.jpg"
+          },
+          {
+            "url": "http://veritas.catholic.or.kr/ko/ca-0664.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Louis_Alincbrot_-_Scenes_from_the_Life_of_Christ_-_WGA00173.jpg/539px-Louis_Alincbrot_-_Scenes_from_the_Life_of_Christ_-_WGA00173.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://www.adlibchristianarts.org/img/P00821.jpg"
+          },
+          {
+            "url": "https://warforart.files.wordpress.com/2015/03/alincbrot-louis-flamanski.jpg"
+          },
+          {
+            "url": "http://1.bp.blogspot.com/-81tLCV0gMdE/Ux90nFHtJgI/AAAAAAAAD20/1jzVXQX9V90/s1600/cruc19.jpg"
+          },
+          {
+            "url": "http://68.media.tumblr.com/9ac489b40ac1f4936bec86804e225ca9/tumblr_mp2ppuLuz71r29g9xo1_1280.jpg"
+          },
+          {
+            "url": "http://roble.pntic.mec.es/jfeg0041/arte/test/ima/entre_doc_03.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Louis_Alincbrot_-_Scenes_from_the_Life_of_Christ_-_WGA00173.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/html_m/a/alincbro/scenes.html"
+          },
+          {
+            "url": "http://www.wikigallery.org/wiki/artist54292/Louis-Alincbrot/page-1"
+          },
+          {
+            "url": "https://www.pubhist.com/person/14096/louis-alincbrot"
+          },
+          {
+            "url": "https://www.pubhist.com/person/14096/louis-alincbrot/works/paintings"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Louis_Alincbrot_-_Scenes_from_the_Life_of_Christ_-_WGA00173.jpg/215px-Louis_Alincbrot_-_Scenes_from_the_Life_of_Christ_-_WGA00173.jpg"
+          },
+          {
+            "url": "https://content3.cdnprado.net/imagenes/Documentos/imgsem/db/db04/db04e20e-635b-4ed4-b30a-6851fe7bc969/c875df1a-144f-461a-8aa5-82963dbefbf6.jpg"
+          },
+          {
+            "url": "https://www.pubhist.com/works/20/large/20054.jpg"
+          },
+          {
+            "url": "http://www.adevaherranz.es/ARTE/ESPANA/MODERNA/SIGLO%20XV%20y%20XVI%20Todo/Art%20Pin%20XV%20Alincbrot%20Louis%20Pasajes%20de%20la%20vida%20de%20Cristo%20tabla_small.gif"
+          },
+          {
+            "url": "http://cvc.cervantes.es/img/citas_claroscuro/holandeses_flamencos_xv10.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

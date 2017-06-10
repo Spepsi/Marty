@@ -1,0 +1,162 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/015r61",
+          "description": "modern art",
+          "score": 0.8212577
+        },
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.6756995
+        },
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.61231565
+        },
+        {
+          "mid": "/m/039jq",
+          "description": "glass",
+          "score": 0.5714005
+        },
+        {
+          "mid": "/m/0d4v4",
+          "description": "window",
+          "score": 0.5496114
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 137,
+                "green": 113,
+                "blue": 61
+              },
+              "score": 0.1679068,
+              "pixelFraction": 0.037315473
+            },
+            {
+              "color": {
+                "red": 117,
+                "green": 76,
+                "blue": 26
+              },
+              "score": 0.1652295,
+              "pixelFraction": 0.06615637
+            },
+            {
+              "color": {
+                "red": 110,
+                "green": 83,
+                "blue": 33
+              },
+              "score": 0.14802442,
+              "pixelFraction": 0.06410607
+            },
+            {
+              "color": {
+                "red": 134,
+                "green": 115,
+                "blue": 84
+              },
+              "score": 0.09599854,
+              "pixelFraction": 0.0586386
+            },
+            {
+              "color": {
+                "red": 106,
+                "green": 86,
+                "blue": 57
+              },
+              "score": 0.0669909,
+              "pixelFraction": 0.07039366
+            },
+            {
+              "color": {
+                "red": 174,
+                "green": 149,
+                "blue": 96
+              },
+              "score": 0.064288236,
+              "pixelFraction": 0.032394752
+            },
+            {
+              "color": {
+                "red": 172,
+                "green": 150,
+                "blue": 117
+              },
+              "score": 0.061460834,
+              "pixelFraction": 0.033624932
+            },
+            {
+              "color": {
+                "red": 145,
+                "green": 102,
+                "blue": 51
+              },
+              "score": 0.04082186,
+              "pixelFraction": 0.009704757
+            },
+            {
+              "color": {
+                "red": 64,
+                "green": 48,
+                "blue": 22
+              },
+              "score": 0.027284116,
+              "pixelFraction": 0.072170585
+            },
+            {
+              "color": {
+                "red": 76,
+                "green": 54,
+                "blue": 11
+              },
+              "score": 0.025580537,
+              "pixelFraction": 0.023510115
+            }
+          ]
+        }
+      },
+      "error": {
+        "code": 13,
+        "message": "image-annotator::Web detection error.: Image processing error!"
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 188
+                },
+                {
+                  "y": 188
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      }
+    }
+  ]
+}

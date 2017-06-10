@@ -1,0 +1,449 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.87301534
+        },
+        {
+          "mid": "/m/01spzs",
+          "description": "still life",
+          "score": 0.79181254
+        },
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.7489503
+        },
+        {
+          "mid": "/m/0c9ph5",
+          "description": "flower",
+          "score": 0.74431926
+        },
+        {
+          "mid": "/m/02hcw1",
+          "description": "floristry",
+          "score": 0.7061407
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "zh",
+          "description": "襁\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 41,
+                "y": 170
+              },
+              {
+                "x": 75,
+                "y": 170
+              },
+              {
+                "x": 75,
+                "y": 212
+              },
+              {
+                "x": 41,
+                "y": 212
+              }
+            ]
+          }
+        },
+        {
+          "description": "襁",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 41,
+                "y": 170
+              },
+              {
+                "x": 75,
+                "y": 170
+              },
+              {
+                "x": 75,
+                "y": 212
+              },
+              {
+                "x": 41,
+                "y": 212
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 60,
+                "green": 48,
+                "blue": 19
+              },
+              "score": 0.18732148,
+              "pixelFraction": 0.13904643
+            },
+            {
+              "color": {
+                "red": 100,
+                "green": 83,
+                "blue": 34
+              },
+              "score": 0.08582602,
+              "pixelFraction": 0.054945055
+            },
+            {
+              "color": {
+                "red": 138,
+                "green": 117,
+                "blue": 64
+              },
+              "score": 0.08197403,
+              "pixelFraction": 0.05955335
+            },
+            {
+              "color": {
+                "red": 157,
+                "green": 112,
+                "blue": 62
+              },
+              "score": 0.0778837,
+              "pixelFraction": 0.01843318
+            },
+            {
+              "color": {
+                "red": 176,
+                "green": 152,
+                "blue": 96
+              },
+              "score": 0.06997404,
+              "pixelFraction": 0.12043601
+            },
+            {
+              "color": {
+                "red": 118,
+                "green": 76,
+                "blue": 30
+              },
+              "score": 0.0650701,
+              "pixelFraction": 0.013293158
+            },
+            {
+              "color": {
+                "red": 94,
+                "green": 81,
+                "blue": 48
+              },
+              "score": 0.058941714,
+              "pixelFraction": 0.034119107
+            },
+            {
+              "color": {
+                "red": 71,
+                "green": 55,
+                "blue": 10
+              },
+              "score": 0.054569107,
+              "pixelFraction": 0.038284298
+            },
+            {
+              "color": {
+                "red": 39,
+                "green": 29,
+                "blue": 5
+              },
+              "score": 0.045890193,
+              "pixelFraction": 0.1005849
+            },
+            {
+              "color": {
+                "red": 191,
+                "green": 142,
+                "blue": 90
+              },
+              "score": 0.044246674,
+              "pixelFraction": 0.014179369
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 291
+                },
+                {
+                  "x": 291,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "zh-Hans"
+                }
+              ]
+            },
+            "width": 292,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "zh-Hans"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 41,
+                      "y": 170
+                    },
+                    {
+                      "x": 75,
+                      "y": 170
+                    },
+                    {
+                      "x": 75,
+                      "y": 212
+                    },
+                    {
+                      "x": 41,
+                      "y": 212
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "zh-Hans"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 41,
+                          "y": 170
+                        },
+                        {
+                          "x": 75,
+                          "y": 170
+                        },
+                        {
+                          "x": 75,
+                          "y": 212
+                        },
+                        {
+                          "x": 41,
+                          "y": 212
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "zh-Hans"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 41,
+                              "y": 170
+                            },
+                            {
+                              "x": 75,
+                              "y": 170
+                            },
+                            {
+                              "x": 75,
+                              "y": 212
+                            },
+                            {
+                              "x": 41,
+                              "y": 212
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "zh-Hans"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 41,
+                                  "y": 170
+                                },
+                                {
+                                  "x": 75,
+                                  "y": 170
+                                },
+                                {
+                                  "x": 75,
+                                  "y": 212
+                                },
+                                {
+                                  "x": 41,
+                                  "y": 212
+                                }
+                              ]
+                            },
+                            "text": "襁"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "襁\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/05cgq5z",
+            "score": 6.2592,
+            "description": "Dordrechts Museum"
+          },
+          {
+            "entityId": "/m/01spzs",
+            "score": 0.7423523,
+            "description": "Still life"
+          },
+          {
+            "entityId": "/m/06gjp9",
+            "score": 0.6599492,
+            "description": "Floral design"
+          },
+          {
+            "entityId": "/m/0jcx1",
+            "score": 0.50905603,
+            "description": "Dordrecht"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.37223,
+            "description": "Painting"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://image.invaluable.com/housePhotos/sothebys/41/107841/H0046-L00799858.jpg"
+          },
+          {
+            "url": "http://gd-volga.ru/d/199349/d/2014.jpg"
+          },
+          {
+            "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Bartholomeus_Assteyn_-_Still-Life_-_WGA01035.jpg/440px-Bartholomeus_Assteyn_-_Still-Life_-_WGA01035.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/3f/ed/44/3fed440c8b09865d96c975ffeea75913.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/236x/3f/ed/44/3fed440c8b09865d96c975ffeea75913.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Bartholomeus_Assteyn_-_Still-Life_-_WGA01035.jpg"
+          },
+          {
+            "url": "http://cf.ppt-online.org/files/slide/h/hnvmPbefKJQa0Fy452Y76ZULpHsTMXWgRjr9qC/slide-19.jpg"
+          },
+          {
+            "url": "http://a3.mzstatic.com/us/r30/Purple3/v4/85/45/85/8545853b-38b7-4825-74e8-7a954b2c6c4d/screen1136x1136.jpeg"
+          },
+          {
+            "url": "http://image.invaluable.com/housePhotos/sothebys/41/107841/H0046-L00799858.jpg"
+          },
+          {
+            "url": "http://gd-volga.ru/d/199349/d/2014.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Bartholomeus_Assteyn"
+          },
+          {
+            "url": "http://www.invaluable.com/artist/assteyn-bartholomeus-abrahamsz.-ji7jgnmfhg"
+          },
+          {
+            "url": "http://www.wikiwand.com/de/Bartholomeus_Assteyn"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Bartholomeus_Assteyn_-_Still-Life_-_WGA01035.jpg"
+          },
+          {
+            "url": "https://forum.artinvestment.ru/blog.php?b=268104&langid=5"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://www.mystudios.com/artgallery/paintings/85001-85500/85438/size3.jpg"
+          },
+          {
+            "url": "https://render.fineartamerica.com/images/rendered/search/metal-print/images/artworkimages/medium/1/a-still-life-of-grapes-peaches-and-other-fruit-in-a-porcelain-dish-on-a-partially-draped-table-bartholomeus-assteyn.jpg"
+          },
+          {
+            "url": "http://image.artfact.com/housePhotos/sothebys/54/108354/H0046-L00898216.jpg"
+          },
+          {
+            "url": "http://www.artnet.com/WebServices/images/ll00755lldb6GGFg2KECfDrCWQFHPKcemz/bartholomeus-assteyn-blomsterkorg.jpg"
+          },
+          {
+            "url": "https://www.pubhist.com/works/04/thumb/Assteyn%20Still%20Life.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

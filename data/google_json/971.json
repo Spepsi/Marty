@@ -1,0 +1,599 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.9021781
+        },
+        {
+          "mid": "/m/027_ny3",
+          "description": "still life photography",
+          "score": 0.88310325
+        },
+        {
+          "mid": "/m/01spzs",
+          "description": "still life",
+          "score": 0.8790316
+        },
+        {
+          "mid": "/m/015r61",
+          "description": "modern art",
+          "score": 0.76929295
+        },
+        {
+          "mid": "/m/0c9ph5",
+          "description": "flower",
+          "score": 0.7666723
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "ko",
+          "description": "铬\n켜\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 108,
+                "y": 56
+              },
+              {
+                "x": 208,
+                "y": 56
+              },
+              {
+                "x": 208,
+                "y": 175
+              },
+              {
+                "x": 108,
+                "y": 175
+              }
+            ]
+          }
+        },
+        {
+          "description": "铬",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 209,
+                "y": 58
+              },
+              {
+                "x": 207,
+                "y": 97
+              },
+              {
+                "x": 171,
+                "y": 95
+              },
+              {
+                "x": 173,
+                "y": 56
+              }
+            ]
+          }
+        },
+        {
+          "description": "켜",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 108,
+                "y": 162
+              },
+              {
+                "x": 122,
+                "y": 162
+              },
+              {
+                "x": 122,
+                "y": 175
+              },
+              {
+                "x": 108,
+                "y": 175
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 117,
+                "green": 73,
+                "blue": 61
+              },
+              "score": 0.09134001,
+              "pixelFraction": 0.028042521
+            },
+            {
+              "color": {
+                "red": 20,
+                "green": 12,
+                "blue": 11
+              },
+              "score": 0.062234577,
+              "pixelFraction": 0.43172655
+            },
+            {
+              "color": {
+                "red": 229,
+                "green": 185,
+                "blue": 171
+              },
+              "score": 0.0551179,
+              "pixelFraction": 0.003940616
+            },
+            {
+              "color": {
+                "red": 247,
+                "green": 235,
+                "blue": 226
+              },
+              "score": 0.045326576,
+              "pixelFraction": 0.00861437
+            },
+            {
+              "color": {
+                "red": 157,
+                "green": 111,
+                "blue": 98
+              },
+              "score": 0.08882946,
+              "pixelFraction": 0.009897361
+            },
+            {
+              "color": {
+                "red": 81,
+                "green": 44,
+                "blue": 34
+              },
+              "score": 0.08634827,
+              "pixelFraction": 0.049028594
+            },
+            {
+              "color": {
+                "red": 196,
+                "green": 148,
+                "blue": 136
+              },
+              "score": 0.05019911,
+              "pixelFraction": 0.004307185
+            },
+            {
+              "color": {
+                "red": 212,
+                "green": 194,
+                "blue": 174
+              },
+              "score": 0.042147987,
+              "pixelFraction": 0.0056818184
+            },
+            {
+              "color": {
+                "red": 70,
+                "green": 52,
+                "blue": 37
+              },
+              "score": 0.032485504,
+              "pixelFraction": 0.13297288
+            },
+            {
+              "color": {
+                "red": 207,
+                "green": 191,
+                "blue": 185
+              },
+              "score": 0.03198303,
+              "pixelFraction": 0.0070564514
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 283
+                },
+                {
+                  "y": 283
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "ko"
+                }
+              ]
+            },
+            "width": 400,
+            "height": 284,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "zh-Hans"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 209,
+                      "y": 58
+                    },
+                    {
+                      "x": 207,
+                      "y": 97
+                    },
+                    {
+                      "x": 171,
+                      "y": 95
+                    },
+                    {
+                      "x": 173,
+                      "y": 56
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "zh-Hans"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 170,
+                          "y": 56
+                        },
+                        {
+                          "x": 208,
+                          "y": 56
+                        },
+                        {
+                          "x": 208,
+                          "y": 97
+                        },
+                        {
+                          "x": 170,
+                          "y": 97
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "zh-Hans"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 209,
+                              "y": 58
+                            },
+                            {
+                              "x": 207,
+                              "y": 97
+                            },
+                            {
+                              "x": 171,
+                              "y": 95
+                            },
+                            {
+                              "x": 173,
+                              "y": 56
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "ko"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 209,
+                                  "y": 58
+                                },
+                                {
+                                  "x": 207,
+                                  "y": 97
+                                },
+                                {
+                                  "x": 171,
+                                  "y": 95
+                                },
+                                {
+                                  "x": 173,
+                                  "y": 56
+                                }
+                              ]
+                            },
+                            "text": "铬"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              },
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "ko"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 108,
+                      "y": 162
+                    },
+                    {
+                      "x": 122,
+                      "y": 162
+                    },
+                    {
+                      "x": 122,
+                      "y": 175
+                    },
+                    {
+                      "x": 108,
+                      "y": 175
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "ko"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 108,
+                          "y": 162
+                        },
+                        {
+                          "x": 122,
+                          "y": 162
+                        },
+                        {
+                          "x": 122,
+                          "y": 175
+                        },
+                        {
+                          "x": 108,
+                          "y": 175
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "ko"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 108,
+                              "y": 162
+                            },
+                            {
+                              "x": 122,
+                              "y": 162
+                            },
+                            {
+                              "x": 122,
+                              "y": 175
+                            },
+                            {
+                              "x": 108,
+                              "y": 175
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "ko"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 108,
+                                  "y": 162
+                                },
+                                {
+                                  "x": 122,
+                                  "y": 162
+                                },
+                                {
+                                  "x": 122,
+                                  "y": 175
+                                },
+                                {
+                                  "x": 108,
+                                  "y": 175
+                                }
+                              ]
+                            },
+                            "text": "켜"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "铬\n켜\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/059_frr",
+            "score": 1.23652,
+            "description": "Vase of Flowers"
+          },
+          {
+            "entityId": "/g/11ckvfgbdp",
+            "score": 0.74698,
+            "description": "Vase of Flowers by a Window"
+          },
+          {
+            "entityId": "/m/01spzs",
+            "score": 0.7462065,
+            "description": "Still life"
+          },
+          {
+            "entityId": "/m/0c9ph5",
+            "score": 0.71988,
+            "description": "Flower"
+          },
+          {
+            "entityId": "/m/02s195",
+            "score": 0.70911,
+            "description": "Vase"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://1.bp.blogspot.com/-2eV7T_GCgyE/UyAZ5JcmPpI/AAAAAAAAQCI/OPxQVoYlcrQ/s1600/%D0%B0%D1%81%D1%823.jpg"
+          },
+          {
+            "url": "http://redlily.ru/img/gallery/7/1.jpg"
+          },
+          {
+            "url": "https://www.zin.ru/Animalia/Coleoptera/images/art/BvdA-2.jpg"
+          },
+          {
+            "url": "http://img1.artgalleryenc.com/Media/ai/Vase-of-Flowers-by-a-Window.jpg?preset=big"
+          },
+          {
+            "url": "http://klauzura.ru/wp-content/uploads/2013/12/Baltazar-van-Der-Ast.-Vaza-s-tsvetami-u-okna.-1650-57-g.g..png"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://www.wga.hu/art/a/ast/vase_win.jpg"
+          },
+          {
+            "url": "http://1.bp.blogspot.com/-2eV7T_GCgyE/UyAZ5JcmPpI/AAAAAAAAQCI/OPxQVoYlcrQ/s1600/%D0%B0%D1%81%D1%823.jpg"
+          },
+          {
+            "url": "http://redlily.ru/img/gallery/7/1.jpg"
+          },
+          {
+            "url": "https://www.zin.ru/Animalia/Coleoptera/images/art/BvdA-2.jpg"
+          },
+          {
+            "url": "http://1.bp.blogspot.com/_bywizH4_Yeo/TLP7Boy56vI/AAAAAAAAMQk/X6aRYNFURcc/s1600/5.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.art.com/gallery/id--a32807/balthasar-van-der-ast-posters.htm"
+          },
+          {
+            "url": "http://www.allposters.com/-sp/Dutch-Vase-of-Flowers-by-a-Window-Posters_i1118404_.htm"
+          },
+          {
+            "url": "http://www.allposters.ie/-sp/Dutch-Vase-of-Flowers-by-a-Window-posters_i1118404_.htm"
+          },
+          {
+            "url": "http://www.allposters.com/-st/Balthasar-van-der-Ast-Posters_c64121_.htm"
+          },
+          {
+            "url": "http://www.art.com/gallery/id--a32807-b12134/balthasar-van-der-ast-botanical-posters.htm"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/dc/d1/89/dcd18967b3de2c7c9d06014f937676d3.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/f5/71/e8/f571e8fd961fc41a97acdc3f303969a8.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/30/2d/2a/302d2a6cfccaea60f3351af2d6e04a76.jpg"
+          },
+          {
+            "url": "http://imgc.allpostersimages.com/images/P-473-488-90/20/2005/QBU6D00Z/posters/balthasar-van-der-ast-dutch-vase-of-flowers-by-a-window.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/50/5a/dc/505adcae6df59695ce30ad10295398c2.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,423 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01g317",
+          "description": "person",
+          "score": 0.90085137
+        },
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.7782305
+        },
+        {
+          "mid": "/m/04rd7",
+          "description": "mural",
+          "score": 0.71762496
+        },
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.7000192
+        },
+        {
+          "mid": "/m/030ry_",
+          "description": "disciple",
+          "score": 0.5873389
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "en",
+          "description": "l\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 234,
+                "y": 353
+              },
+              {
+                "x": 271,
+                "y": 353
+              },
+              {
+                "x": 271,
+                "y": 358
+              },
+              {
+                "x": 234,
+                "y": 358
+              }
+            ]
+          }
+        },
+        {
+          "description": "l",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 234,
+                "y": 353
+              },
+              {
+                "x": 271,
+                "y": 353
+              },
+              {
+                "x": 271,
+                "y": 358
+              },
+              {
+                "x": 234,
+                "y": 358
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "POSSIBLE"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 126,
+                "green": 75,
+                "blue": 37
+              },
+              "score": 0.11137682,
+              "pixelFraction": 0.111415595
+            },
+            {
+              "color": {
+                "red": 85,
+                "green": 120,
+                "blue": 117
+              },
+              "score": 0.11034867,
+              "pixelFraction": 0.027168807
+            },
+            {
+              "color": {
+                "red": 128,
+                "green": 164,
+                "blue": 160
+              },
+              "score": 0.06915953,
+              "pixelFraction": 0.016990291
+            },
+            {
+              "color": {
+                "red": 159,
+                "green": 100,
+                "blue": 60
+              },
+              "score": 0.0665624,
+              "pixelFraction": 0.034372065
+            },
+            {
+              "color": {
+                "red": 113,
+                "green": 75,
+                "blue": 52
+              },
+              "score": 0.06606556,
+              "pixelFraction": 0.04392421
+            },
+            {
+              "color": {
+                "red": 102,
+                "green": 82,
+                "blue": 61
+              },
+              "score": 0.050122187,
+              "pixelFraction": 0.046899468
+            },
+            {
+              "color": {
+                "red": 151,
+                "green": 106,
+                "blue": 83
+              },
+              "score": 0.045953996,
+              "pixelFraction": 0.042514876
+            },
+            {
+              "color": {
+                "red": 66,
+                "green": 99,
+                "blue": 95
+              },
+              "score": 0.04176842,
+              "pixelFraction": 0.010100219
+            },
+            {
+              "color": {
+                "red": 173,
+                "green": 95,
+                "blue": 59
+              },
+              "score": 0.041303135,
+              "pixelFraction": 0.014328218
+            },
+            {
+              "color": {
+                "red": 142,
+                "green": 67,
+                "blue": 32
+              },
+              "score": 0.040723335,
+              "pixelFraction": 0.016911995
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 330
+                },
+                {
+                  "x": 330,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "en"
+                }
+              ]
+            },
+            "width": 331,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "en"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 234,
+                      "y": 353
+                    },
+                    {
+                      "x": 271,
+                      "y": 353
+                    },
+                    {
+                      "x": 271,
+                      "y": 358
+                    },
+                    {
+                      "x": 234,
+                      "y": 358
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "en"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 234,
+                          "y": 353
+                        },
+                        {
+                          "x": 271,
+                          "y": 353
+                        },
+                        {
+                          "x": 271,
+                          "y": 358
+                        },
+                        {
+                          "x": 234,
+                          "y": 358
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 234,
+                              "y": 353
+                            },
+                            {
+                              "x": 271,
+                              "y": 353
+                            },
+                            {
+                              "x": 271,
+                              "y": 358
+                            },
+                            {
+                              "x": 234,
+                              "y": 358
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "en"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 234,
+                                  "y": 353
+                                },
+                                {
+                                  "x": 271,
+                                  "y": 353
+                                },
+                                {
+                                  "x": 271,
+                                  "y": 358
+                                },
+                                {
+                                  "x": 234,
+                                  "y": 358
+                                }
+                              ]
+                            },
+                            "text": "l"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "l\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/g/120z6p96",
+            "score": 1.42144,
+            "description": "Triumph of Caesar"
+          },
+          {
+            "entityId": "/m/015wpd",
+            "score": 0.73544,
+            "description": "Tribute"
+          },
+          {
+            "entityId": "/m/02vv_g2",
+            "score": 0.73282,
+            "description": "Polish–Teutonic War"
+          },
+          {
+            "entityId": "/m/02pqtq9",
+            "score": 0.46654,
+            "description": "Triumphs of Caesar"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.43644172,
+            "description": "Painting"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Andrea_del_sarto%2C_tributo_a_cesare%2C_1519-21_%28con_aggiunte_dell%27allori_del_1578-82%29_07.JPG"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Andrea_del_sarto%2C_tributo_a_cesare%2C_1519-21_%28con_aggiunte_dell%27allori_del_1578-82%29_07.JPG/1280px-Andrea_del_sarto%2C_tributo_a_cesare%2C_1519-21_%28con_aggiunte_dell%27allori_del_1578-82%29_07.JPG"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Andrea_del_sarto%2C_tributo_a_cesare%2C_1519-21_%28con_aggiunte_dell%27allori_del_1578-82%29_07.JPG/1024px-Andrea_del_sarto%2C_tributo_a_cesare%2C_1519-21_%28con_aggiunte_dell%27allori_del_1578-82%29_07.JPG"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Andrea_del_sarto,_tributo_a_cesare,_1519-21_(con_aggiunte_dell%27allori_del_1578-82)_07.JPG"
+          },
+          {
+            "url": "http://lowmaster.net/meaning+of+the+name+andrea/"
+          },
+          {
+            "url": "http://lowmaster.net/meaning+of+cesare/"
+          },
+          {
+            "url": "http://lowmaster.net/meaning-of-cesare/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://www.scalarchives.com/scalapic/110208/b/0016470b.jpg"
+          },
+          {
+            "url": "http://www.scalarchives.com/scalapic/110208/b/0016467b.jpg"
+          },
+          {
+            "url": "http://www.homesubjects.org/wp-content/uploads/2017/02/Urn-and-Ewer.jpg"
+          },
+          {
+            "url": "https://www.art-prints-on-demand.com/kunst/peter_paul_rubens/triumph-of-caesar.jpg"
+          },
+          {
+            "url": "http://www.fineartprintsondemand.com/artists/uccello/triumph_of_julius_caesar-400.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

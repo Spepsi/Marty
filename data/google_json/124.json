@@ -1,0 +1,479 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0djmp",
+          "description": "ancient history",
+          "score": 0.69466746
+        },
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.6674449
+        },
+        {
+          "mid": "/m/04rjz",
+          "description": "middle ages",
+          "score": 0.65573776
+        },
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.5406106
+        },
+        {
+          "mid": "/m/03g3w",
+          "description": "history",
+          "score": 0.5231606
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "fi",
+          "description": "ei\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 196,
+                "y": 276
+              },
+              {
+                "x": 211,
+                "y": 276
+              },
+              {
+                "x": 211,
+                "y": 288
+              },
+              {
+                "x": 196,
+                "y": 288
+              }
+            ]
+          }
+        },
+        {
+          "description": "ei",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 196,
+                "y": 276
+              },
+              {
+                "x": 211,
+                "y": 276
+              },
+              {
+                "x": 211,
+                "y": 288
+              },
+              {
+                "x": 196,
+                "y": 288
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 252,
+                "green": 245,
+                "blue": 217
+              },
+              "score": 0.32887536,
+              "pixelFraction": 0.14169268
+            },
+            {
+              "color": {
+                "red": 28,
+                "green": 18,
+                "blue": 20
+              },
+              "score": 0.07957417,
+              "pixelFraction": 0.027748873
+            },
+            {
+              "color": {
+                "red": 73,
+                "green": 40,
+                "blue": 27
+              },
+              "score": 0.06529192,
+              "pixelFraction": 0.02835588
+            },
+            {
+              "color": {
+                "red": 181,
+                "green": 150,
+                "blue": 91
+              },
+              "score": 0.013688401,
+              "pixelFraction": 0.034946237
+            },
+            {
+              "color": {
+                "red": 41,
+                "green": 16,
+                "blue": 18
+              },
+              "score": 0.07441019,
+              "pixelFraction": 0.016129032
+            },
+            {
+              "color": {
+                "red": 71,
+                "green": 43,
+                "blue": 49
+              },
+              "score": 0.056742597,
+              "pixelFraction": 0.013354145
+            },
+            {
+              "color": {
+                "red": 253,
+                "green": 250,
+                "blue": 236
+              },
+              "score": 0.05217573,
+              "pixelFraction": 0.024280263
+            },
+            {
+              "color": {
+                "red": 51,
+                "green": 19,
+                "blue": 9
+              },
+              "score": 0.04322603,
+              "pixelFraction": 0.009798821
+            },
+            {
+              "color": {
+                "red": 57,
+                "green": 45,
+                "blue": 50
+              },
+              "score": 0.036965087,
+              "pixelFraction": 0.011099549
+            },
+            {
+              "color": {
+                "red": 108,
+                "green": 74,
+                "blue": 58
+              },
+              "score": 0.031789817,
+              "pixelFraction": 0.0381547
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 399
+                },
+                {
+                  "x": 399,
+                  "y": 298
+                },
+                {
+                  "y": 298
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "fi"
+                }
+              ]
+            },
+            "width": 400,
+            "height": 299,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "fi"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 196,
+                      "y": 276
+                    },
+                    {
+                      "x": 211,
+                      "y": 276
+                    },
+                    {
+                      "x": 211,
+                      "y": 288
+                    },
+                    {
+                      "x": 196,
+                      "y": 288
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "fi"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 196,
+                          "y": 276
+                        },
+                        {
+                          "x": 211,
+                          "y": 276
+                        },
+                        {
+                          "x": 211,
+                          "y": 288
+                        },
+                        {
+                          "x": 196,
+                          "y": 288
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "fi"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 196,
+                              "y": 276
+                            },
+                            {
+                              "x": 211,
+                              "y": 276
+                            },
+                            {
+                              "x": 211,
+                              "y": 288
+                            },
+                            {
+                              "x": 196,
+                              "y": 288
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "fi"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 198,
+                                  "y": 276
+                                },
+                                {
+                                  "x": 210,
+                                  "y": 276
+                                },
+                                {
+                                  "x": 210,
+                                  "y": 283
+                                },
+                                {
+                                  "x": 198,
+                                  "y": 283
+                                }
+                              ]
+                            },
+                            "text": "e"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "fi"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 196,
+                                  "y": 284
+                                },
+                                {
+                                  "x": 211,
+                                  "y": 284
+                                },
+                                {
+                                  "x": 211,
+                                  "y": 288
+                                },
+                                {
+                                  "x": 196,
+                                  "y": 288
+                                }
+                              ]
+                            },
+                            "text": "i"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "ei\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/04p3xg",
+            "score": 8.1192,
+            "description": "Gallerie dell'Accademia"
+          },
+          {
+            "entityId": "/m/0w196y8",
+            "score": 1.25744,
+            "description": "Galleria dell'Accademia"
+          },
+          {
+            "entityId": "/m/01tm3n",
+            "score": 0.86005,
+            "description": "Triptych"
+          },
+          {
+            "entityId": "/m/04rjz",
+            "score": 0.61712956,
+            "description": "Middle Ages"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.5089592,
+            "description": "Painting"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://pbs.twimg.com/media/CePtUiCUAAAuQKU.jpg:large"
+          },
+          {
+            "url": "https://i0.wp.com/www.wga.hu/art/a/alberegn/triptych.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/62/3a/8b/623a8bbfd6093d01ca43dbc80e3982b8.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/art/a/alberegn/triptych.jpg?w=240"
+          },
+          {
+            "url": "http://1.bp.blogspot.com/-MuiPJ_0Dx7U/T9ztVaHJL9I/AAAAAAAABsM/7q8J6ef35Co/s1600/Jacobello+Alberegno.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://www.settemuse.it/pittori_opere_A/alberegno_jacobello/alberegno_jacobello_503_triptych.jpg"
+          },
+          {
+            "url": "https://pbs.twimg.com/media/CePtUiCUAAAuQKU.jpg:large"
+          },
+          {
+            "url": "https://i0.wp.com/www.wga.hu/art/a/alberegn/triptych.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/62/3a/8b/623a8bbfd6093d01ca43dbc80e3982b8.jpg"
+          },
+          {
+            "url": "http://www.wga.hu/art/a/alberegn/triptych.jpg?w=240"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://www.pinterest.com/pin/261701428318751054/"
+          },
+          {
+            "url": "https://it.pinterest.com/pin/554857616567945730/"
+          },
+          {
+            "url": "https://www.pinterest.se/kbriley739/triptych/"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Alberegno_Jacobello._Triptych._1375-97._Gallerie_dell%27Accademia,_Venice..jpg"
+          },
+          {
+            "url": "http://www.wga.hu/html_m/a/alberegn/triptych.html"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/62/3a/8b/623a8bbfd6093d01ca43dbc80e3982b8.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/65/f5/47/65f5476739c960d1f7d3f4e958a44744.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/6b/47/ce/6b47ce9254d626c0680a4e7e48b3c852.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/34/6c/09/346c09c415d3529634788a134ab8f282.jpg"
+          },
+          {
+            "url": "http://www.thecityreview.com/w04som12.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "responses": [
+    {
+      "logoAnnotations": [
+        {
+          "description": "The Story of St. Nicholas: The Death of the Saint",
+          "score": 0.94315106,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 8,
+                "y": 7
+              },
+              {
+                "x": 313,
+                "y": 7
+              },
+              {
+                "x": 313,
+                "y": 393
+              },
+              {
+                "x": 8,
+                "y": 393
+              }
+            ]
+          }
+        },
+        {
+          "description": "The Story of St. Nicholas",
+          "score": 0.88656574,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 11,
+                "y": 7
+              },
+              {
+                "x": 309,
+                "y": 7
+              },
+              {
+                "x": 309,
+                "y": 381
+              },
+              {
+                "x": 11,
+                "y": 381
+              }
+            ]
+          }
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.85959953
+        },
+        {
+          "mid": "/m/04rd7",
+          "description": "mural",
+          "score": 0.83371556
+        },
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.72452384
+        },
+        {
+          "mid": "/m/015r61",
+          "description": "modern art",
+          "score": 0.68471843
+        },
+        {
+          "mid": "/m/0pgl9",
+          "description": "tourist attraction",
+          "score": 0.5684318
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 172,
+                "green": 167,
+                "blue": 156
+              },
+              "score": 0.30628225,
+              "pixelFraction": 0.1414956
+            },
+            {
+              "color": {
+                "red": 203,
+                "green": 144,
+                "blue": 97
+              },
+              "score": 0.041085634,
+              "pixelFraction": 0.02386771
+            },
+            {
+              "color": {
+                "red": 180,
+                "green": 92,
+                "blue": 61
+              },
+              "score": 0.02499698,
+              "pixelFraction": 0.03453894
+            },
+            {
+              "color": {
+                "red": 44,
+                "green": 54,
+                "blue": 53
+              },
+              "score": 0.010531501,
+              "pixelFraction": 0.07616487
+            },
+            {
+              "color": {
+                "red": 173,
+                "green": 162,
+                "blue": 141
+              },
+              "score": 0.2893563,
+              "pixelFraction": 0.12846205
+            },
+            {
+              "color": {
+                "red": 206,
+                "green": 186,
+                "blue": 157
+              },
+              "score": 0.04087322,
+              "pixelFraction": 0.035190616
+            },
+            {
+              "color": {
+                "red": 234,
+                "green": 176,
+                "blue": 126
+              },
+              "score": 0.02580693,
+              "pixelFraction": 0.011404366
+            },
+            {
+              "color": {
+                "red": 186,
+                "green": 181,
+                "blue": 172
+              },
+              "score": 0.025055539,
+              "pixelFraction": 0.036249593
+            },
+            {
+              "color": {
+                "red": 161,
+                "green": 109,
+                "blue": 64
+              },
+              "score": 0.024008386,
+              "pixelFraction": 0.0204464
+            },
+            {
+              "color": {
+                "red": 191,
+                "green": 149,
+                "blue": 125
+              },
+              "score": 0.020428494,
+              "pixelFraction": 0.012056044
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 317
+                },
+                {
+                  "x": 317,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/02vxg9d",
+            "score": 12.90112,
+            "description": "Galleria Nazionale dell'Umbria"
+          },
+          {
+            "entityId": "/m/0dw4gv",
+            "score": 1.27404,
+            "description": "Basilica di San Nicola"
+          },
+          {
+            "entityId": "/g/11c3tg0y63",
+            "score": 0.80176,
+            "description": "The Story of St. Nicholas: The Death of the Saint"
+          },
+          {
+            "entityId": "/m/05qdh",
+            "score": 0.58165526,
+            "description": "Painting"
+          },
+          {
+            "entityId": "/m/01tm3n",
+            "score": 0.49552,
+            "description": "Triptych"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://4.bp.blogspot.com/-iMs_HCIDrpw/TtvdiIpu1TI/AAAAAAAAAzk/X9K44g5bLJE/s1600/predel32.jpg"
+          },
+          {
+            "url": "http://auntheather.com/wp-content/uploads/2014/05/Angelico-Story-of-St.-Nicholas-The-Death-of-the-Saint-Aunt-Heather-Piper.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/34/7e/fe/347efe8a7780222f0ce9dd5ea20b26e6.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/02/12/96/021296e1dae7d7e970e85091557dfb79.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/47/68/43/4768433d09a3123d8ddfc5f7182e54a7.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://www.oceansbridge.com/paintings/german/thumb/Fra_Angelico_089_OBNP2009-Y00389.jpg"
+          },
+          {
+            "url": "http://www.malerei-meisterwerke.de/images_large/fra-angelico-predellatafel-des-triptychons-von-san-domenico-in-perugia-zum-leben-des-hl.-nikolaus-von-bari-szene-tod-des-hl.-nikolaus-von-bari-und-himmelfahrt-des-_-00204.jpg"
+          },
+          {
+            "url": "http://art.c-rover.com/ang/pict/angelico0870.jpg"
+          },
+          {
+            "url": "http://c-rover.narod.ru/ang/pict/angelico0870.jpg"
+          },
+          {
+            "url": "http://1.bp.blogspot.com/-I0tJCrRftMY/TuKFvbdC77I/AAAAAAAAFGg/ag4MkMo7OBY/s1600/perugia+triptych++st.nicolas+frees+the+innocent+1437.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "https://www.wikiart.org/en/fra-angelico/the-story-of-st-nicholas-the-death-of-the-saint-1448"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Fra_Angelico_-_The_Story_of_St_Nicholas_-_The_Death_of_the_Saint_-_WGA00508.jpg"
+          },
+          {
+            "url": "http://www.wikigallery.org/wiki/painting_121125/Angelico-Fra/The-Story-of-St-Nicholas,-The-Death-of-the-Saint-(detail)--1437"
+          },
+          {
+            "url": "https://it.pinterest.com/pin/283375001528224802/"
+          },
+          {
+            "url": "http://www.wga.hu/frames-e.html?/html/a/angelico/06/index.html"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://en.allpaintingsstore.com/Art.nsf/O/8XY2UL/$File/Fra-Angelico-The-Story-of-St-Nicholas-The-Death-of-the-Saint.JPG"
+          },
+          {
+            "url": "http://en.most-famous-paintings.com/Art.nsf/O/8XZ96M/$File/Fra-Angelico-The-Story-of-St-Nicholas-The-Liberation-of-Three-Innocents-S.JPG"
+          },
+          {
+            "url": "http://en.most-famous-paintings.com/Art.nsf/O/8XZ96L/$File/Fra-Angelico-The-Story-of-St-Nicholas-St-Nicholas-saves-the-ship-detail--S.JPG"
+          },
+          {
+            "url": "http://artsdot.com/Art.nsf/O/8YE38N/$File/Fra-Angelico-The-Story-of-St-Nicholas-Perugia-Altarpiece-.JPG"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Fra_Angelico_-_The_Story_of_St_Nicholas_-_WGA00501.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

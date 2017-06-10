@@ -1,0 +1,620 @@
+{
+  "responses": [
+    {
+      "faceAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 89,
+                "y": 30
+              },
+              {
+                "x": 186,
+                "y": 30
+              },
+              {
+                "x": 186,
+                "y": 142
+              },
+              {
+                "x": 89,
+                "y": 142
+              }
+            ]
+          },
+          "fdBoundingPoly": {
+            "vertices": [
+              {
+                "x": 107,
+                "y": 58
+              },
+              {
+                "x": 182,
+                "y": 58
+              },
+              {
+                "x": 182,
+                "y": 134
+              },
+              {
+                "x": 107,
+                "y": 134
+              }
+            ]
+          },
+          "landmarks": [
+            {
+              "type": "LEFT_EYE",
+              "position": {
+                "x": 139.0964,
+                "y": 82.337364,
+                "z": -0.0007039506
+              }
+            },
+            {
+              "type": "RIGHT_EYE",
+              "position": {
+                "x": 164.07455,
+                "y": 83.17665,
+                "z": 15.045787
+              }
+            },
+            {
+              "type": "LEFT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 130.22069,
+                "y": 76.014595,
+                "z": -2.924649
+              }
+            },
+            {
+              "type": "RIGHT_OF_LEFT_EYEBROW",
+              "position": {
+                "x": 149.14993,
+                "y": 76.54532,
+                "z": -1.1872725
+              }
+            },
+            {
+              "type": "LEFT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 161.61307,
+                "y": 76.60895,
+                "z": 6.179919
+              }
+            },
+            {
+              "type": "RIGHT_OF_RIGHT_EYEBROW",
+              "position": {
+                "x": 172.24033,
+                "y": 76.22561,
+                "z": 22.388361
+              }
+            },
+            {
+              "type": "MIDPOINT_BETWEEN_EYES",
+              "position": {
+                "x": 155.64888,
+                "y": 82.31437,
+                "z": 2.4569187
+              }
+            },
+            {
+              "type": "NOSE_TIP",
+              "position": {
+                "x": 158.39034,
+                "y": 101.62863,
+                "z": -3.8855639
+              }
+            },
+            {
+              "type": "UPPER_LIP",
+              "position": {
+                "x": 154.52623,
+                "y": 110.78201,
+                "z": 2.6706126
+              }
+            },
+            {
+              "type": "LOWER_LIP",
+              "position": {
+                "x": 154.08037,
+                "y": 119.669395,
+                "z": 4.904038
+              }
+            },
+            {
+              "type": "MOUTH_LEFT",
+              "position": {
+                "x": 141.76074,
+                "y": 113.54315,
+                "z": 3.6227844
+              }
+            },
+            {
+              "type": "MOUTH_RIGHT",
+              "position": {
+                "x": 160.89647,
+                "y": 114.2007,
+                "z": 15.56877
+              }
+            },
+            {
+              "type": "MOUTH_CENTER",
+              "position": {
+                "x": 153.88191,
+                "y": 114.69025,
+                "z": 4.7310724
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_RIGHT",
+              "position": {
+                "x": 160.47206,
+                "y": 102.27658,
+                "z": 10.162482
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_LEFT",
+              "position": {
+                "x": 147.03912,
+                "y": 102.15051,
+                "z": 1.8214123
+              }
+            },
+            {
+              "type": "NOSE_BOTTOM_CENTER",
+              "position": {
+                "x": 155.30196,
+                "y": 105.28406,
+                "z": 2.1924691
+              }
+            },
+            {
+              "type": "LEFT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 140.67953,
+                "y": 81.22606,
+                "z": -1.5629014
+              }
+            },
+            {
+              "type": "LEFT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 144.7198,
+                "y": 83.99529,
+                "z": 3.4495902
+              }
+            },
+            {
+              "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 139.32413,
+                "y": 84.92494,
+                "z": 0.12976655
+              }
+            },
+            {
+              "type": "LEFT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 134.09091,
+                "y": 82.49713,
+                "z": -0.44358623
+              }
+            },
+            {
+              "type": "LEFT_EYE_PUPIL",
+              "position": {
+                "x": 139.59708,
+                "y": 83.177055,
+                "z": -0.5957669
+              }
+            },
+            {
+              "type": "RIGHT_EYE_TOP_BOUNDARY",
+              "position": {
+                "x": 165.94414,
+                "y": 81.41841,
+                "z": 13.599449
+              }
+            },
+            {
+              "type": "RIGHT_EYE_RIGHT_CORNER",
+              "position": {
+                "x": 168.48419,
+                "y": 83.244286,
+                "z": 20.718903
+              }
+            },
+            {
+              "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+              "position": {
+                "x": 164.7031,
+                "y": 85.33283,
+                "z": 15.281869
+              }
+            },
+            {
+              "type": "RIGHT_EYE_LEFT_CORNER",
+              "position": {
+                "x": 159.7338,
+                "y": 83.53221,
+                "z": 12.482715
+              }
+            },
+            {
+              "type": "RIGHT_EYE_PUPIL",
+              "position": {
+                "x": 165.5324,
+                "y": 83.4022,
+                "z": 14.951147
+              }
+            },
+            {
+              "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 140.7766,
+                "y": 72.796555,
+                "z": -3.9728463
+              }
+            },
+            {
+              "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+              "position": {
+                "x": 168.16998,
+                "y": 73.00046,
+                "z": 12.490102
+              }
+            },
+            {
+              "type": "LEFT_EAR_TRAGION",
+              "position": {
+                "x": 104.3005,
+                "y": 94.89372,
+                "z": 22.555237
+              }
+            },
+            {
+              "type": "RIGHT_EAR_TRAGION",
+              "position": {
+                "x": 161.68915,
+                "y": 95.31915,
+                "z": 56.96355
+              }
+            },
+            {
+              "type": "FOREHEAD_GLABELLA",
+              "position": {
+                "x": 156.08635,
+                "y": 76.305305,
+                "z": 1.5423446
+              }
+            },
+            {
+              "type": "CHIN_GNATHION",
+              "position": {
+                "x": 151.3625,
+                "y": 133.1107,
+                "z": 9.251352
+              }
+            },
+            {
+              "type": "CHIN_LEFT_GONION",
+              "position": {
+                "x": 112.369385,
+                "y": 114.51507,
+                "z": 14.99472
+              }
+            },
+            {
+              "type": "CHIN_RIGHT_GONION",
+              "position": {
+                "x": 164.32199,
+                "y": 115.05397,
+                "z": 46.180103
+              }
+            }
+          ],
+          "rollAngle": 2.3748682,
+          "panAngle": 31.039782,
+          "tiltAngle": -3.2594018,
+          "detectionConfidence": 0.9999037,
+          "landmarkingConfidence": 0.70190716,
+          "joyLikelihood": "VERY_UNLIKELY",
+          "sorrowLikelihood": "VERY_UNLIKELY",
+          "angerLikelihood": "VERY_UNLIKELY",
+          "surpriseLikelihood": "VERY_UNLIKELY",
+          "underExposedLikelihood": "VERY_UNLIKELY",
+          "blurredLikelihood": "VERY_UNLIKELY",
+          "headwearLikelihood": "VERY_UNLIKELY"
+        }
+      ],
+      "logoAnnotations": [
+        {
+          "description": "Lady with a Basket of Spindles",
+          "score": 0.8625212,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 24,
+                "y": 8
+              },
+              {
+                "x": 253,
+                "y": 8
+              },
+              {
+                "x": 253,
+                "y": 388
+              },
+              {
+                "x": 24,
+                "y": 388
+              }
+            ]
+          }
+        },
+        {
+          "description": "Portrait of a Lady with Spindle Cup",
+          "score": 0.7783905,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 32,
+                "y": 43
+              },
+              {
+                "x": 274,
+                "y": 43
+              },
+              {
+                "x": 274,
+                "y": 388
+              },
+              {
+                "x": 32,
+                "y": 388
+              }
+            ]
+          }
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "mid": "/m/01dv4h",
+          "description": "portrait",
+          "score": 0.7402125
+        },
+        {
+          "mid": "/m/0mf2",
+          "description": "abbot",
+          "score": 0.6280766
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 24,
+                "green": 18,
+                "blue": 17
+              },
+              "score": 0.3216611,
+              "pixelFraction": 0.3849221
+            },
+            {
+              "color": {
+                "red": 75,
+                "green": 39,
+                "blue": 27
+              },
+              "score": 0.15080789,
+              "pixelFraction": 0.085085176
+            },
+            {
+              "color": {
+                "red": 208,
+                "green": 195,
+                "blue": 161
+              },
+              "score": 0.04035281,
+              "pixelFraction": 0.018756796
+            },
+            {
+              "color": {
+                "red": 45,
+                "green": 22,
+                "blue": 22
+              },
+              "score": 0.1084407,
+              "pixelFraction": 0.053280175
+            },
+            {
+              "color": {
+                "red": 53,
+                "green": 22,
+                "blue": 13
+              },
+              "score": 0.07654244,
+              "pixelFraction": 0.032258064
+            },
+            {
+              "color": {
+                "red": 64,
+                "green": 36,
+                "blue": 36
+              },
+              "score": 0.056993432,
+              "pixelFraction": 0.027908662
+            },
+            {
+              "color": {
+                "red": 109,
+                "green": 70,
+                "blue": 53
+              },
+              "score": 0.03588364,
+              "pixelFraction": 0.044853207
+            },
+            {
+              "color": {
+                "red": 63,
+                "green": 46,
+                "blue": 29
+              },
+              "score": 0.026610734,
+              "pixelFraction": 0.013138819
+            },
+            {
+              "color": {
+                "red": 174,
+                "green": 155,
+                "blue": 122
+              },
+              "score": 0.024049545,
+              "pixelFraction": 0.012413918
+            },
+            {
+              "color": {
+                "red": 117,
+                "green": 73,
+                "blue": 31
+              },
+              "score": 0.019983836,
+              "pixelFraction": 0.019844146
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 286
+                },
+                {
+                  "x": 286,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 1,
+            "importanceFraction": 2.3
+          }
+        ]
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/0cfjp",
+            "score": 24.44288,
+            "description": "Uffizi Gallery"
+          },
+          {
+            "entityId": "/m/01dv4h",
+            "score": 0.8821701,
+            "description": "Portrait"
+          },
+          {
+            "entityId": "/g/11c3tg2cct",
+            "score": 0.8156,
+            "description": "Lady with a Basket of Spindles"
+          },
+          {
+            "entityId": "/m/06cvx",
+            "score": 0.79452,
+            "description": "Renaissance"
+          },
+          {
+            "entityId": "/g/122r2r90",
+            "score": 0.78404,
+            "description": "Portrait of a Woman with a Basket of Spindles"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://upyourpic.org/images/201405/aw4n63gxhk.jpg"
+          },
+          {
+            "url": "http://www.freakingnews.com/pictures/43000/Helen-Hunt-Painting-43414.jpg"
+          },
+          {
+            "url": "http://image.hnol.net/c/2014-04/13/10/20140413100309111-513051.jpg"
+          },
+          {
+            "url": "http://www.freakingnews.com/pictures/43000/Helen-Hunt-Painting--43414.jpg"
+          },
+          {
+            "url": "http://www.eurocles.com/data/peinture/p/pontormo/pontormo%20-%20Lady%20with%20a%20Basket%20of%20Spindles.%20c.%201517.%20Oil%20on%20wood.%2076%20x%2054%20cm.%20Uffizi%20Gallery,%20Florence,%20Italy.jpg"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://www.oceansbridge.com/paintings/german/thumb/Jacopo_Pontormo_060_OBNP2009-Y07805.jpg"
+          },
+          {
+            "url": "http://uploads4.wikiart.org/images/andrea-del-sarto/portrait-of-a-lady-with-spindle-cup.jpg"
+          },
+          {
+            "url": "http://upyourpic.org/images/201405/aw4n63gxhk.jpg"
+          },
+          {
+            "url": "http://image.hnol.net/c/2014-04/13/10/20140413100309111-513051.jpg"
+          },
+          {
+            "url": "http://read.html5.qq.com/image?src=forum&q=5&r=0&imgflag=7&imageUrl=mmbiz.qpic.cn/mmbiz_jpg/7JaLqNMib18G1aI0prpfLzdyhLmibos37WYWFLdXW5FFZeEzYnHrDlPDgCy0q3bxgTj0PGg5d7gZYq6Js64qUwlw/0?"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.wga.hu/html_m/a/andrea/sarto/1/port_wom.html"
+          },
+          {
+            "url": "https://commons.wikimedia.org/wiki/File:Andrea_del_Sarto_-_Portrait_of_a_Woman_with_a_Basket_of_Spindles_-_WGA0377.jpg"
+          },
+          {
+            "url": "https://www.wikiart.org/en/andrea-del-sarto/portrait-of-a-lady-with-spindle-cup"
+          },
+          {
+            "url": "https://www.virtualuffizi.com/portrait-of-a-woman-with-splindes.html"
+          },
+          {
+            "url": "http://www.alamy.com/stock-photo-andrea-del-sarto-portrait-of-a-woman-in-yellow-86916717.html"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/ac/60/cd/ac60cd161762a01d32213d4de460ea2c.jpg"
+          },
+          {
+            "url": "http://www.artsunlight.com/artist-photo-tn/Andrea-del-Sarto/portrait-of-a-woman-with-a-basket-of-spindles-002.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Andrea_del_Sarto_-_Portrait_of_the_Artist%27s_Wife_-_WGA00372.jpg"
+          },
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/736x/78/91/05/789105c2d861119f39dd257ca84c085c.jpg"
+          },
+          {
+            "url": "http://harrietdevine.typepad.com/.a/6a00d8341c69f653ef0133ed6645cc970b-320wi"
+          }
+        ]
+      }
+    }
+  ]
+}

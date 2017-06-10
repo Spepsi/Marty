@@ -1,0 +1,508 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0jjw",
+          "description": "art",
+          "score": 0.6693586
+        },
+        {
+          "mid": "/m/06z37_",
+          "description": "picture frame",
+          "score": 0.6555739
+        },
+        {
+          "mid": "/m/05qdh",
+          "description": "painting",
+          "score": 0.57406193
+        },
+        {
+          "mid": "/m/0lym8",
+          "description": "tapestry",
+          "score": 0.56091243
+        }
+      ],
+      "textAnnotations": [
+        {
+          "locale": "ms",
+          "description": "aris\n",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 290,
+                "y": 115
+              },
+              {
+                "x": 306,
+                "y": 115
+              },
+              {
+                "x": 306,
+                "y": 121
+              },
+              {
+                "x": 290,
+                "y": 121
+              }
+            ]
+          }
+        },
+        {
+          "description": "aris",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 307,
+                "y": 121
+              },
+              {
+                "x": 291,
+                "y": 120
+              },
+              {
+                "x": 291,
+                "y": 115
+              },
+              {
+                "x": 307,
+                "y": 116
+              }
+            ]
+          }
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY"
+      },
+      "imagePropertiesAnnotation": {
+        "dominantColors": {
+          "colors": [
+            {
+              "color": {
+                "red": 191,
+                "green": 201,
+                "blue": 232
+              },
+              "score": 0.13535856,
+              "pixelFraction": 0.0313093
+            },
+            {
+              "color": {
+                "red": 234,
+                "green": 229,
+                "blue": 232
+              },
+              "score": 0.09046114,
+              "pixelFraction": 0.023877293
+            },
+            {
+              "color": {
+                "red": 212,
+                "green": 193,
+                "blue": 160
+              },
+              "score": 0.057483535,
+              "pixelFraction": 0.15836495
+            },
+            {
+              "color": {
+                "red": 177,
+                "green": 152,
+                "blue": 97
+              },
+              "score": 0.04285593,
+              "pixelFraction": 0.075189754
+            },
+            {
+              "color": {
+                "red": 123,
+                "green": 70,
+                "blue": 26
+              },
+              "score": 0.03293353,
+              "pixelFraction": 0.0136780515
+            },
+            {
+              "color": {
+                "red": 212,
+                "green": 222,
+                "blue": 247
+              },
+              "score": 0.07640214,
+              "pixelFraction": 0.012650222
+            },
+            {
+              "color": {
+                "red": 208,
+                "green": 197,
+                "blue": 200
+              },
+              "score": 0.057210553,
+              "pixelFraction": 0.03723909
+            },
+            {
+              "color": {
+                "red": 231,
+                "green": 183,
+                "blue": 164
+              },
+              "score": 0.039767783,
+              "pixelFraction": 0.012254902
+            },
+            {
+              "color": {
+                "red": 193,
+                "green": 145,
+                "blue": 126
+              },
+              "score": 0.039259914,
+              "pixelFraction": 0.02261227
+            },
+            {
+              "color": {
+                "red": 216,
+                "green": 190,
+                "blue": 134
+              },
+              "score": 0.038165383,
+              "pixelFraction": 0.055186592
+            }
+          ]
+        }
+      },
+      "cropHintsAnnotation": {
+        "cropHints": [
+          {
+            "boundingPoly": {
+              "vertices": [
+                {},
+                {
+                  "x": 327
+                },
+                {
+                  "x": 327,
+                  "y": 399
+                },
+                {
+                  "y": 399
+                }
+              ]
+            },
+            "confidence": 0.79999995,
+            "importanceFraction": 1
+          }
+        ]
+      },
+      "fullTextAnnotation": {
+        "pages": [
+          {
+            "property": {
+              "detectedLanguages": [
+                {
+                  "languageCode": "ms"
+                }
+              ]
+            },
+            "width": 328,
+            "height": 400,
+            "blocks": [
+              {
+                "property": {
+                  "detectedLanguages": [
+                    {
+                      "languageCode": "ms"
+                    }
+                  ]
+                },
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 307,
+                      "y": 116
+                    },
+                    {
+                      "x": 307,
+                      "y": 121
+                    },
+                    {
+                      "x": 291,
+                      "y": 120
+                    },
+                    {
+                      "x": 291,
+                      "y": 115
+                    }
+                  ]
+                },
+                "paragraphs": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "ms"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 290,
+                          "y": 115
+                        },
+                        {
+                          "x": 306,
+                          "y": 115
+                        },
+                        {
+                          "x": 306,
+                          "y": 121
+                        },
+                        {
+                          "x": 290,
+                          "y": 121
+                        }
+                      ]
+                    },
+                    "words": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "ms"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 307,
+                              "y": 121
+                            },
+                            {
+                              "x": 291,
+                              "y": 120
+                            },
+                            {
+                              "x": 291,
+                              "y": 115
+                            },
+                            {
+                              "x": 307,
+                              "y": 116
+                            }
+                          ]
+                        },
+                        "symbols": [
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "ms"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 307,
+                                  "y": 121
+                                },
+                                {
+                                  "x": 304,
+                                  "y": 121
+                                },
+                                {
+                                  "x": 304,
+                                  "y": 117
+                                },
+                                {
+                                  "x": 307,
+                                  "y": 117
+                                }
+                              ]
+                            },
+                            "text": "a"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "ms"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 303,
+                                  "y": 119
+                                },
+                                {
+                                  "x": 300,
+                                  "y": 119
+                                },
+                                {
+                                  "x": 300,
+                                  "y": 115
+                                },
+                                {
+                                  "x": 303,
+                                  "y": 115
+                                }
+                              ]
+                            },
+                            "text": "r"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "ms"
+                                }
+                              ]
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 299,
+                                  "y": 119
+                                },
+                                {
+                                  "x": 295,
+                                  "y": 119
+                                },
+                                {
+                                  "x": 295,
+                                  "y": 115
+                                },
+                                {
+                                  "x": 299,
+                                  "y": 115
+                                }
+                              ]
+                            },
+                            "text": "i"
+                          },
+                          {
+                            "property": {
+                              "detectedLanguages": [
+                                {
+                                  "languageCode": "ms"
+                                }
+                              ],
+                              "detectedBreak": {
+                                "type": "EOL_SURE_SPACE"
+                              }
+                            },
+                            "boundingBox": {
+                              "vertices": [
+                                {
+                                  "x": 294,
+                                  "y": 119
+                                },
+                                {
+                                  "x": 291,
+                                  "y": 119
+                                },
+                                {
+                                  "x": 291,
+                                  "y": 115
+                                },
+                                {
+                                  "x": 294,
+                                  "y": 115
+                                }
+                              ]
+                            },
+                            "text": "s"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "blockType": "TEXT"
+              }
+            ]
+          }
+        ],
+        "text": "aris\n"
+      },
+      "webDetection": {
+        "webEntities": [
+          {
+            "entityId": "/m/02vwsl4",
+            "score": 13.63632,
+            "description": "Villa Widmann – Foscari"
+          },
+          {
+            "entityId": "/m/0d94dw",
+            "score": 3.14408,
+            "description": "Villa Foscari"
+          },
+          {
+            "entityId": "/m/09frp_",
+            "score": 2.68432,
+            "description": "Riviera del Brenta"
+          },
+          {
+            "entityId": "/m/0n5x0tw",
+            "score": 1.43328,
+            "description": "City of Vicenza and the Palladian Villas of the Veneto"
+          },
+          {
+            "entityId": "/m/0d94qw",
+            "score": 1.13868,
+            "description": "Villa Pisani, Stra"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "http://www.ilburchiello.it/pics/gallery/10_-_Villa_Widmann__Mira_.jpg"
+          },
+          {
+            "url": "http://www.ilguscioviaggiscuola.it/Italia/Veneto/Ville%20Venete/Villa%20Widmann_affreschi%20(Angeli%20e%20Colonna-Salone%20delle%20feste-La%20Gloria%20dei%20Widmann.jpg"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "url": "http://www.ilburchiello.it/it/foto-gallery?gci=3"
+          },
+          {
+            "url": "http://www.ilburchiello.it/it/foto-gallery?gci=5&gallery_pg_from=12"
+          },
+          {
+            "url": "http://www.ilburchiello.it/it/foto-gallery?gallery_pg_from=24"
+          },
+          {
+            "url": "http://www.rositour.it/Italia/Veneto/Ville%20Venete/Ville%20Venete.htm"
+          },
+          {
+            "url": "http://www.ilguscioviaggiscuola.it/Italia/Veneto/Ville%20Venete/Ville%20Venete.htm"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://www.rositour.it/Italia/Veneto/Ville%20Venete/Villa%20Widmann_affreschi%20(Angeli%20e%20Colonna-Salone%20delle%20feste-La%20Gloria%20dei%20Widmann.jpg"
+          },
+          {
+            "url": "http://www.larivieradelbrenta.it/wp-content/uploads/Villa-Widmann-soffitto-salone-da-ballo.jpg"
+          },
+          {
+            "url": "http://l7.alamy.com/zooms/2a54811251d44bb89a11f11e51f34950/villa-widmann-rezzonico-foscari-interior-mira-veneto-italy-apmkx8.jpg"
+          },
+          {
+            "url": "http://www.tessaritours.com/img/venetian-villas-in-italy/villa-widmann-interni.jpg"
+          },
+          {
+            "url": "http://eee.aipcnet.eu/eee2008/main_data/villa2.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}
