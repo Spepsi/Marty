@@ -10,7 +10,7 @@ from Marty.utils.config.config import Config
 import json
 
 # Import similarity image
-config = Config('../../config.ini')
+config = Config(file='../../config.ini')
 catalog = config['DATA']['CATALOG']
 
 #id de la photo la plus proche ==> id dans le catalog
@@ -27,9 +27,9 @@ CORS(app, resources=r'/api/*')
 
 @app.route('/api/image/', methods=['OPTION'])
 def get_corresponding_image(image):
-    print(1)  # écriture sur le back
+    print(1)  # ecriture sur le back
 
-    return "23"  # valeur retourné au client
+    return "23"  # valeur retourne au client
 
 
 @app.route('/api/hello', methods=['OPTION', 'POST'])
@@ -40,7 +40,7 @@ def hello():
     this_time = time.time()
     img.save('../../data/test_data2/quelquechose'+str(this_time)+'.jpg')
 
-    # Récupère une serie pandas
+    # Recupere une serie pandas
     # Description : TITRE, AUTEUR, ANNEE, TECHINIQUE, URL Description, recommandation ==> Array de Description
     return 'ok'
 
