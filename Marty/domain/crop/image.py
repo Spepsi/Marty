@@ -11,16 +11,16 @@ class Image(object):
     BLURRING_KERNEL_SIZE = (15, 15)
     ELLIPSE_SIZE = (10, 10)
         
-    def __init__(self, path, resize=0.5):
+    def __init__(self, path, resize=1):
         self.path = path
         self.raw = cv2.imread(path)
         self.raw = self._resize(resize) 
         
     
     def crop(self):
-        contours = self._estimate_contours()
-        bounding_box = self._find_best_bounding_box(contours)
-        return bounding_box
+        bounding_box = self._find_best_bounding_box()
+        cropped_image = self._crop_given(bounding_box)
+        return cropped_image
     
 
     def _estimate_contours(self):
@@ -31,13 +31,14 @@ class Image(object):
 
         return contours
 
-    def _find_best_bounding_box(self, contours):
-        """Returns the coordinate of the best bounding box (xmin, ymax, xmax, ymin).
+    def _find_best_bounding_box(self):
+        """Returns the coordinate of the best bounding box (xmin, ymin, xmax, ymax).
         
         Note
         ----
         It's very confusing, in the documentation http://docs.opencv.org/3.1.0/dd/d49/tutorial_py_contour_features.html, they say the two first values are top left corners. This is true if you use cv2.imshow. However, in their imaging renderer, the y-axis is inverted (0 is at the top). So, in order to be matplotlib compatible, I renamed it instead bottom_left corner
         """
+        contours = self._estimate_contours()
         contours = self._exclude_large(contours)
         best_box = [-1,-1,-1,-1] #initialize
         
@@ -58,6 +59,17 @@ class Image(object):
 
         return best_box
 
+
+    def _crop_given(self, bounding_box):
+        xmin = bounding_box[0]
+        ymin = bounding_box[1]
+        xmax = bounding_box[2]
+        ymax = bounding_box[3]
+        ipdb.set_trace()
+        cropped = self.raw[ymin:ymax, xmin:xmax]
+        return cropped
+
+    
     def _dilate(self):
         cls = self.__class__
         gray = cv2.cvtColor(self.raw, cv2.COLOR_BGR2GRAY)
