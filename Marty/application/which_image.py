@@ -18,10 +18,10 @@ def which_image(path):
     return closest_image
 
 
-PHOTO_DIR = "/Users/ldocao/Google Drive/Documents/Professionnel/2015 10 26 Quantmetry/Externe/01 Missions/2017 06 10 Hackathon Marty/Marty/data/test_data2"
-photos_list = glob.glob(PHOTO_DIR+"/*.jpg")
+# PHOTO_DIR = "/Users/ldocao/Google Drive/Documents/Professionnel/2015 10 26 Quantmetry/Externe/01 Missions/2017 06 10 Hackathon Marty/Marty/data/test_data2"
+# photos_list = glob.glob(PHOTO_DIR+"/*.jpg")
 
 
-for photo in photos_list:
-    closest_id = which_image(photo)
-    print(photo, closest_id[0])
+# for photo in photos_list:
+#     closest_id = which_image(photo)
+#     print(photo, closest_id[0])

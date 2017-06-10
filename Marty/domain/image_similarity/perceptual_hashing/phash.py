@@ -23,7 +23,7 @@ def get_image_hash(path):
 
     
 class PHash(object):
-    DATABASE = "/Users/ldocao/Google Drive/Documents/Professionnel/2015 10 26 Quantmetry/Externe/01 Missions/2017 06 10 Hackathon Marty/Marty/data/pict"
+    DATABASE = "/Users/ldocao/Google Drive/Documents/Professionnel/2015 10 26 Quantmetry/Externe/01 Missions/2017 06 10 Hackathon Marty/Marty/data/pict2"
     
     def __init__(self, image):
         """
