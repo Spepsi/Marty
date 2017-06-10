@@ -32,17 +32,21 @@ class GoogleApiMatcher():
                 crop_url = crop_url(url)
             except IndexError:
                 continue
+            url = url.replace("preview", "art")
+            url = url.replace("detail", "art")
             catalog_filtered = self.catalog[self.catalog["crop_URL_image_art"] == crop_url]
-            #if len(catalog_filtered) == 0:
-                #print("No matching found for {}".format(url))
+
             if len(catalog_filtered) == 1:
                 index = catalog_filtered.index
                 print("yeah!")
                 break
-            #else:
-                #print("More than one match found")
 
-        return index[0]
+        if index is None:
+            print("No match found")
+            matching_url = None
+        else:
+            matching_url = self.catalog.loc[index[0], "URL"]
+        return matching_url
 
 
 config = Config()
@@ -56,3 +60,42 @@ catalog_file = "/Users/nicolas/Projects/Marty/data/catalog/catalog.csv"
 catalog = pd.read_csv(catalog_file, sep=";", encoding="cp1250")
 
 print(catalog.loc[index_matching, "URL"])
+
+image_842 = "/Users/nicolas/Projects/Marty/data/test_data2/842_close.jpg"
+api = GoogleVisionApi(config, image_842)
+urls = api.get_partial_matching_urls()
+matcher = GoogleApiMatcher(config)
+match_842 = matcher.find_perfect_match(image_842)
+# KO
+
+image = "/Users/nicolas/Projects/Marty/data/test_data2/894_close.jpg"
+api = GoogleVisionApi(config, image)
+urls = api.get_full_matching_urls()
+partial_urls = api.get_partial_matching_urls()
+matcher = GoogleApiMatcher(config)
+match = matcher.find_perfect_match(image)
+# KO
+
+image = "/Users/nicolas/Projects/Marty/data/test_data2/898_close.jpg"
+api = GoogleVisionApi(config, image)
+urls = api.get_full_matching_urls()
+partial_urls = api.get_partial_matching_urls()
+matcher = GoogleApiMatcher(config)
+match = matcher.find_perfect_match(image)
+# KO
+
+image = "/Users/nicolas/Projects/Marty/data/test_data2/1059_close.jpg"
+api = GoogleVisionApi(config, image)
+urls = api.get_full_matching_urls()
+partial_urls = api.get_partial_matching_urls()
+matcher = GoogleApiMatcher(config)
+match = matcher.find_perfect_match(image)
+# KO
+
+image = "/Users/nicolas/Projects/Marty/data/test_data2/1047_close.jpg"
+api = GoogleVisionApi(config, image)
+urls = api.get_full_matching_urls()
+partial_urls = api.get_partial_matching_urls()
+matcher = GoogleApiMatcher(config)
+match = matcher.find_perfect_match(image)
+#

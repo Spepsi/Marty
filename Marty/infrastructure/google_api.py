@@ -54,7 +54,7 @@ class GoogleVisionApi():
         return full_matching_urls
 
     def get_partial_matching_urls(self):
-        web = self.image.detect_web()
+        web = self.image.detect_web(limit = 500)
         partial_matching_images = web.partial_matching_images
         partial_matching_urls = [(partial_matching_image.url,partial_matching_image.score)
                                     for partial_matching_image in partial_matching_images]
