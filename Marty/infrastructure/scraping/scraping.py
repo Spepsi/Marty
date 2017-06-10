@@ -7,6 +7,25 @@ from urllib.request import urlretrieve
 
 import os
 
+import pandas as pd 
+
+def convert_url_to_image(url):
+    image_url = url.replace(".html", ".jpg")
+    image_url = image_url.replace("html", "detail")
+    return image_url
+
+def convert_url_to_image_art(url):
+    image_url = url.replace(".html", ".jpg")
+    image_url = image_url.replace("html", "art")
+    return image_url
+
+def enrich_catalog(catalog_file):
+    catalog = pd.read_csv(catalog_file, sep=";", encoding="cp1250")
+    catalog["URL_image"] = catalog["URL"].apply(convert_url_to_image)
+    catalog["URL_image_art"] = catalog["URL"].apply(convert_url_to_image_art)
+
+    return catalog
+
 
 ###############################################################################
 def gettingURLs():
