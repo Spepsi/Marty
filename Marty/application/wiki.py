@@ -17,10 +17,9 @@ config = Config(file='../../config.ini')
 catalog = config['DATA']['CATALOG']
 dump = config['DATA']['WIKI']
 df = pd.read_csv(catalog, sep=";", encoding="CP1250")
-df = df[df['FORM']=="painting"]
+df = df[df['FORM'] == "painting"]
 df = df[['TITLE', 'AUTHOR']]
 # Pour chaque tableau on récupère la page wiki associée
-dict_ = {}
 dict_ = recur_dictify(df[['AUTHOR', 'TITLE']])
 
 # Parcours chaque tableau et requete :
