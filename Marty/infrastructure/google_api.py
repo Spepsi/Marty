@@ -6,9 +6,10 @@ class GoogleVisionApi():
 
     def __init__(self, config, image_source):
         self.API_KEY = config["API"]["GOOGLE"]
+        self.json_client = config["API"]["JSON"]
         #self.client = vision.Client.(project=self.__class__.PROJECT)
         self.client = vision.Client.from_service_account_json(
-            "/Users/nicolas/Projects/Marty/Marty/utils/config/Marty-4e9f4ec4ab22.json")
+            self.json_client)
         # TODO : Mettre dans fichier de config
         self.load_image(image_source)
 
