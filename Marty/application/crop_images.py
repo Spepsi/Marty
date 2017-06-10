@@ -6,6 +6,7 @@ import matplotlib.patches as patches
 
 
 from Marty.domain.crop.image import Image
+#from Marty.domain.image_similarity.perceptual_hashing.phash import PHash
 from Marty.utils.config.config import Config
 
 if __name__  == "__main__":
@@ -19,7 +20,6 @@ if __name__  == "__main__":
         original_image = Image(image, resize=1).raw
         best_contour = Image(image, resize=1)._find_best_bounding_box()
         cropped_image = Image(image).crop()
-
 
         xmin, ymin, xmax, ymax = best_contour
         width = xmax - xmin
