@@ -36,7 +36,7 @@ class PHash(object):
         self.hash = get_image_hash(image)
 
         
-    def closest_from_database(self, n=1):
+    def closest_from_database(self):
         """
         Parameters
         ----------
@@ -45,7 +45,7 @@ class PHash(object):
         """
         distances = self.get_distances()
         distances.sort_values("distance", ascending=True, inplace=True)
-        return distances.index[0:n+1]
+        return distances.index[0]
     
         
     def get_distances(self):
