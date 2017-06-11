@@ -1,48 +1,46 @@
+import ipdb
 from flask import Flask, request, jsonify
-# from flask_restful import Resource, Api, reqparse
 from flask import render_template
 from flask_cors import CORS
 import time
 from PIL import Image
 import pandas as pd
-
 from Marty.utils.config.config import Config
+from Marty.application.which_image import which_image
 import json
 
 # Import similarity image
-config = Config(file='../../config.ini')
+config = Config(file='config.ini')
 catalog = config['DATA']['CATALOG']
 
 #id de la photo la plus proche ==> id dans le catalog
 # 2259 ==> ARCIMBOLDO Giuseppe, Spring  faut faire un -2
 
 def id_to_index(idx):
+    idx = int(idx.split(".")[0])
     return idx-2
 
-df = pd.read_csv(catalog,encoding="cp1250", sep=";")
-from pdb import set_trace; set_trace()
+df = pd.read_csv(catalog, encoding="cp1250", sep=";")
+
 
 app = Flask(__name__)
 CORS(app, resources=r'/api/*')
-
-@app.route('/api/image/', methods=['OPTION'])
-def get_corresponding_image(image):
-    print(1)  # ecriture sur le back
-
-    return "23"  # valeur retourne au client
 
 
 @app.route('/api/hello', methods=['OPTION', 'POST'])
 def hello():
     print('ok')
-
     img = Image.open(request.files['file0'])
     this_time = time.time()
-    img.save('../../data/test_data2/quelquechose'+str(this_time)+'.jpg')
+    saved_image = '../../data/test_data2/quelquechose'+str(this_time)+'.jpg'
+    img.save(saved_image)
+    image_id = which_image(saved_image)
+    index = id_to_index(image_id)
 
-    # Recupere une serie pandas
-    # Description : TITRE, AUTEUR, ANNEE, TECHINIQUE, URL Description, recommandation ==> Array de Description
-    return 'ok'
+    image_metadata = df.iloc[index]
+    print(image_metadata)
+    as_json = image_metadata.to_json()
+    return jsonify(as_json)
 
 
 @app.route('/api/recommandation', methods=['OPTION'])
