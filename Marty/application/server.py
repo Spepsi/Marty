@@ -21,7 +21,7 @@ def id_to_index(idx):
     return idx-2
 
 df = pd.read_csv(catalog, encoding="cp1250", sep=";")
-
+df.columns = [c.lower() for c in df.columns]
 
 app = Flask(__name__)
 CORS(app, resources=r'/api/*')
@@ -29,7 +29,7 @@ CORS(app, resources=r'/api/*')
 
 @app.route('/api/hello', methods=['OPTION', 'POST'])
 def hello():
-    print('ok')
+    print("Image has been received... Running Big data deep brain learning algorithm")
     img = Image.open(request.files['file0'])
     this_time = time.time()
     saved_image = '../../data/test_data2/quelquechose'+str(this_time)+'.jpg'
@@ -40,6 +40,7 @@ def hello():
     image_metadata = df.iloc[index]
     print(image_metadata)
     as_json = image_metadata.to_json()
+    print(as_json)
     return jsonify(as_json)
 
 
