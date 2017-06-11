@@ -1,4 +1,4 @@
-import ipdb
+
 from flask import Flask, request, jsonify
 from flask import render_template
 from flask_cors import CORS
@@ -9,18 +9,27 @@ from Marty.utils.config.config import Config
 from Marty.application.which_image import which_image
 import json
 
-# Import similarity image
-config = Config(file='config.ini')
-catalog = config['DATA']['CATALOG']
 
 #id de la photo la plus proche ==> id dans le catalog
 # 2259 ==> ARCIMBOLDO Giuseppe, Spring  faut faire un -2
+def convert_url_to_image(url):
+    image_url = url.replace(".html", ".jpg")
+    image_url = image_url.replace("html", "detail")
+    return image_url
 
 def id_to_index(idx):
     idx = int(idx.split(".")[0])
     return idx-2
 
+# Import similarity image
+config = Config(file='config.ini')
+catalog = config['DATA']['CATALOG']
+
+recommandations = config['DATA']['RECO']
 df = pd.read_csv(catalog, encoding="cp1250", sep=";")
+reco = pd.read_csv(recommandations, sep=",")
+df['URL_IMAGE'] = df['URL'].apply(convert_url_to_image)
+recommandations = config['DATA']['RECO']
 
 
 app = Flask(__name__)
@@ -29,7 +38,7 @@ CORS(app, resources=r'/api/*')
 
 @app.route('/api/hello', methods=['OPTION', 'POST'])
 def hello():
-    print('ok')
+    print('Received request')
     img = Image.open(request.files['file0'])
     this_time = time.time()
     saved_image = '../../data/test_data2/quelquechose'+str(this_time)+'.jpg'
@@ -39,12 +48,14 @@ def hello():
 
     image_metadata = df.iloc[index]
     print(image_metadata)
-    as_json = image_metadata.to_json()
-    return jsonify(as_json)
+    # Add a recommandation, index 14 dans csv = 12 dans le catalogue
+    reco_index = reco[reco['index_x']==image_id]
+    reco_index = reco_index.sort_values(by='score', ascending=False)
+    reco_index = (reco_index['index_y']-2).tolist()
+    recos = [df.iloc[int(i)].to_json() for i in reco_index]
+    as_json_tableau = image_metadata.to_json()
+    return jsonify({'tableau': as_json_tableau, 'reco': recos })
 
 
-@app.route('/api/recommandation', methods=['OPTION'])
-def get_recomandation(user):
-    pass
 #192.168.43.205
 app.run(host='0.0.0.0')
