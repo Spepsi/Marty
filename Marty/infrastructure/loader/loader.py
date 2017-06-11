@@ -30,6 +30,30 @@ class JSONLabels:
         text = [(i['description'], i['score']) for i in text]
         return text
 
+class JSONColors:
+    def __init__(self, config):
+        self.location = config['DATA']['JSON']
+    def load(self, idx):
+        with open(os.path.join(self.location, str(idx)+'.json'), 'r') as f_:
+            text = json.load(f_)
+        colors = text['responses'][0]['imagePropertiesAnnotation']["dominantColors"]["colors"]
+        colors = [tuple(color["color"].values()) for color in colors][:3]
+        colors = tuple(colors)
+        return colors
+
+class JSONWebEntities:
+    def __init__(self, config):
+        self.location = config['DATA']['JSON']
+    def load(self, idx):
+        with open(os.path.join(self.location, str(idx)+'.json'), 'r') as f_:
+            text = json.load(f_)
+        web_entities = text['responses'][0]['webDetection']["webEntities"]
+        web_entities = [web_entity["description"] for web_entity in web_entities]
+        web_entities = web_entities[:5]
+        web_entities = web_entities + [np.nan for _ in range(5 - len(web_entities))]
+        web_entities = tuple(web_entities)
+        return web_entities
+
 
 class JSONUrls:
     def __init__(self, config):
