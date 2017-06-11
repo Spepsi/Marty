@@ -38,7 +38,8 @@ CORS(app, resources=r'/api/*')
 
 @app.route('/api/hello', methods=['OPTION', 'POST'])
 def hello():
-    print('Received request')
+    print("============================")
+    print('=========== Received request')
     img = Image.open(request.files['file0'])
     this_time = time.time()
     saved_image = '../../data/test_data2/quelquechose'+str(this_time)+'.jpg'
