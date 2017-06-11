@@ -30,7 +30,8 @@ reco = pd.read_csv(recommandations, sep=",")
 df = pd.read_csv(catalog, encoding="cp1250", sep=";")
 df['SRC'] = df['URL'].apply(convert_url_to_image)
 df.columns = [c.lower() for c in df.columns]
-from pdb import set_trace; set_trace()
+df.columns = [c.replace("-","") for c in df.columns]
+
 
 app = Flask(__name__)
 CORS(app, resources=r'/api/*')
@@ -42,7 +43,7 @@ def hello():
     print('=========== Received request')
     img = Image.open(request.files['file0'])
     this_time = time.time()
-    saved_image = '../../data/test_data2/quelquechose'+str(this_time)+'.jpg'
+    saved_image = '../../data/test_data2/detected_'+str(this_time)+'.jpg'
     img.save(saved_image)
     image_id = which_image(saved_image)
     index = id_to_index(image_id)
@@ -56,7 +57,10 @@ def hello():
     recos = [df.iloc[int(i)] for i in reco_index]
     as_json_recos = [i.to_json() for i in recos]
     print(image_metadata)
-    print(recos)
+    # try:
+    #     print(recos[0:5])
+    # except:
+    #     print(recos)
     return jsonify({'tableau': as_json_tableau,
                     'reco': as_json_recos})
 
