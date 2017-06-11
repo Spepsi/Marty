@@ -7,7 +7,7 @@ import cv2
 
 
 class Image(object):
-    BLURRING_KERNEL_SIZE = (100, 100)
+    BLURRING_KERNEL_SIZE = (300, 300)
     ELLIPSE_SIZE = (10, 10)
         
     def __init__(self, path, resize=1):
@@ -71,10 +71,10 @@ class Image(object):
     def _dilate(self):
         cls = self.__class__
         gray = cv2.cvtColor(self.raw, cv2.COLOR_BGR2GRAY)
-        smoothed = cv2.blur(gray, cls.BLURRING_KERNEL_SIZE)
-        mean_luminosity = np.average(smoothed)
+        blurred = cv2.blur(gray, cls.BLURRING_KERNEL_SIZE)
+        mean_luminosity = np.average(blurred)
         mean_luminosity = math.floor(mean_luminosity)
-        _, binary = cv2.threshold(smoothed,
+        _, binary = cv2.threshold(blurred,
                                   mean_luminosity,
                                   255,
                                   cv2.THRESH_BINARY_INV)
