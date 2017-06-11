@@ -30,7 +30,7 @@ reco = pd.read_csv(recommandations, sep=",")
 df = pd.read_csv(catalog, encoding="cp1250", sep=";")
 df['SRC'] = df['URL'].apply(convert_url_to_image)
 df.columns = [c.lower() for c in df.columns]
-
+from pdb import set_trace; set_trace()
 
 app = Flask(__name__)
 CORS(app, resources=r'/api/*')
@@ -54,14 +54,29 @@ def hello():
     reco_index = (reco_index['index_y']-2).tolist()
     recos = [df.iloc[int(i)] for i in reco_index]
     as_json_recos = [i.to_json() for i in recos]
-
     print(image_metadata)
     print(recos)
-
     return jsonify({'tableau': as_json_tableau,
                     'reco': as_json_recos})
 
 
+@app.route('/api/hellourl/<url>', methods=['OPTION', 'POST'])
+def hello_url(url):
+    print('Received request with url')
+    image_id = df[df['url']==url].index.tolist()[0]
+    index = id_to_index(image_id)
+    image_metadata = df.iloc[index]
+    as_json_tableau = image_metadata.to_json()
+    # Add a recommandation, index 14 dans csv = 12 dans le catalogue
+    reco_index = reco[reco['index_x'] == int(image_id.split(".")[0])]
+    reco_index = reco_index.sort_values(by='score', ascending=False)
+    reco_index = (reco_index['index_y'] - 2).tolist()
+    recos = [df.iloc[int(i)] for i in reco_index]
+    as_json_recos = [i.to_json() for i in recos]
+    print(image_metadata)
+    print(recos)
+    return jsonify({'tableau': as_json_tableau,
+                    'reco': as_json_recos})
 
 #192.168.43.205
 app.run(host='0.0.0.0')
