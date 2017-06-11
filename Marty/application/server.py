@@ -29,6 +29,7 @@ recommandations = config['DATA']['RECO']
 reco = pd.read_csv(recommandations, sep=",")
 df = pd.read_csv(catalog, encoding="cp1250", sep=";")
 df['SRC'] = df['URL'].apply(convert_url_to_image)
+df['index'] = df.reset_index()['index']
 df.columns = [c.lower() for c in df.columns]
 df.columns = [c.replace("-","") for c in df.columns]
 
@@ -65,15 +66,15 @@ def hello():
                     'reco': as_json_recos})
 
 
-@app.route('/api/hellourl/<url>', methods=['OPTION', 'POST'])
-def hello_url(url):
-    print('Received request with url')
-    image_id = df[df['url']==url].index.tolist()[0]
-    index = id_to_index(image_id)
+@app.route('/api/hellourl/<idx>', methods=['GET'])
+def hello_url(idx):
+    print('Received request with index')
+    image_id = df[df['index']==int(idx)].index.tolist()[0]
+    index = int(idx)
     image_metadata = df.iloc[index]
     as_json_tableau = image_metadata.to_json()
     # Add a recommandation, index 14 dans csv = 12 dans le catalogue
-    reco_index = reco[reco['index_x'] == int(image_id.split(".")[0])]
+    reco_index = reco[reco['index_x'] == index+2]
     reco_index = reco_index.sort_values(by='score', ascending=False)
     reco_index = (reco_index['index_y'] - 2).tolist()
     recos = [df.iloc[int(i)] for i in reco_index]

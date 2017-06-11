@@ -7,7 +7,7 @@ import cv2
 
 
 class Image(object):
-    BLURRING_KERNEL_SIZE = (300, 300)
+    BLURRING_KERNEL_SIZE = (200, 200)
     ELLIPSE_SIZE = (10, 10)
         
     def __init__(self, path, resize=1):
