@@ -10,28 +10,19 @@ from itertools import combinations
 config = Config()
 catalog_file = "/Users/nicolas/Projects/Marty/data/catalog/catalog.csv"
 catalog = pd.read_csv(catalog_file, sep=";", encoding="cp1250")
-
+catalog.index = catalog.index + 2
+catalog = catalog[catalog["FORM"] == "painting"]
 database = os.listdir(config['DATA']['JSON'])
 database = [int(i.split('.')[0]) for i in database if "json" in i]
+database = sorted(database)
 
-s = pd.Series(index=catalog.index)
-error = 0
-if True:
-    for idx in database: # Refactor after ..
-        try:
-            json_labels = JSONLabels(config)
-            labels = json_labels.load(idx)
-            s.loc[idx] =  labels
-        except:
-            print("error")
-            error += 1
+catalog["index"] = catalog.index
 
-catalog.reset_index(inplace=True)
+#catalog.reset_index(inplace=True)
 df_final = pd.DataFrame(columns = list(catalog.columns) + ["label", "prob"])
 for idx in database: # Refactor after ..
     try:
         line = catalog.loc[idx].values
-        df = pd.DataFrame([line for _ in range(3)], columns = catalog.columns)
         json_labels = JSONLabels(config)
         labels = json_labels.load(idx)
         df = pd.DataFrame([line for _ in range(len(labels))], columns = catalog.columns)
@@ -39,8 +30,7 @@ for idx in database: # Refactor after ..
         df["prob"] = [label[1] for label in labels]
         df_final = pd.concat([df_final, df])
     except:
-        print("error")
-        error += 1
+        pass
 
 def score(s):
     n_words_in_commun = len(s)
@@ -50,6 +40,7 @@ def score(s):
     return result
 
 to_drop = ["painting", "art", "modern art", "person"]
+
 
 df_final = df_final[~df_final["label"].isin(to_drop)]
 

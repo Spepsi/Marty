@@ -66,7 +66,7 @@ class GoogleApiMatcher():
         for idx in database: # Refactor after ..
 
             try:
-                json_labels = JSONLabels(config)
+                json_labels = JSONLabels(self.config)
                 labels_to_compare = json_labels.load(idx)
                 res =  labels_comparator(labels_to_compare)
                 if res==True:
@@ -84,12 +84,6 @@ config = Config()
 catalog_file = "/Users/nicolas/Projects/Marty/data/catalog/catalog.csv"
 catalog = pd.read_csv(catalog_file, sep=";", encoding="cp1250")
 
-
-
-
-
-
-
 image = "/Users/nicolas/Projects/Marty/data/test_data2/2468_close.jpg"
 api = GoogleVisionApi(config, image)
 urls = api.get_full_matching_urls()
@@ -99,10 +93,4 @@ match = matcher.find_perfect_match()
 labels_match = matcher.find_labels_match()
 # OK
 
-image = "/Users/nicolas/Projects/Marty/data/test_data2/1047_close.jpg"
-api = GoogleVisionApi(config, image)
-urls = api.get_full_matching_urls()
-partial_urls = api.get_partial_matching_urls()
-matcher = GoogleApiMatcher(config)
-match = matcher.find_perfect_match(image)
 #
